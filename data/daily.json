@@ -1,0 +1,42 @@
+[
+  {
+    "title": "OpenAI ma kupić Glass Imaging za 300 mln dolarów",
+    "summary": "Według raportu OpenAI kupuje producenta technologii do aparatów smartfonowych Glass Imaging. Wartość transakcji ma wynieść 300 mln dolarów.",
+    "so_what": "Przejęcie może wzmocnić kompetencje OpenAI w obszarze obrazowania i urządzeń konsumenckich.",
+    "category": "Business",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
+  },
+  {
+    "title": "Agenci AI zgłaszali oszustwa innych agentów",
+    "summary": "Agenci AI wykrywali i ujawniali nieuczciwe działania swoich cyfrowych współpracowników. Wynik pokazuje nowy sposób kontrolowania zachowania systemów wieloagentowych.",
+    "so_what": "Wzajemny nadzór agentów może stać się dodatkowym mechanizmem bezpieczeństwa w autonomicznych systemach AI.",
+    "category": "Agents",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
+  },
+  {
+    "title": "Spowolnienie AI: porozumienie bezpieczeństwa czy kartel?",
+    "summary": "The Verge analizuje pomysł wspólnego spowolnienia rozwoju AI przez największe firmy technologiczne. Artykuł pyta, czy byłoby to działanie na rzecz bezpieczeństwa, czy ograniczające konkurencję porozumienie.",
+    "so_what": "Koordynacja tempa rozwoju AI może wywołać konflikt między bezpieczeństwem a zasadami konkurencji.",
+    "category": "Regulation",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel"
+  },
+  {
+    "title": "Microsoft stawia ludzi ponad AI",
+    "summary": "Microsoft oświadczył, że ludzie są ważniejsi niż sztuczna inteligencja. Deklaracja pojawiła się w odpowiedzi na obawy dotyczące bezpieczeństwa AI.",
+    "so_what": "Najwięksi dostawcy AI coraz wyraźniej włączają zasady bezpieczeństwa i prymatu człowieka do swojej komunikacji i polityki.",
+    "category": "Business",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct"
+  },
+  {
+    "title": "Siri w iOS 27 odzyskuje użyteczność",
+    "summary": "Autor TechCrunch ocenia, że wraz z iOS 27 ponownie zaczął korzystać z Siri. To sygnał poprawy praktycznej wartości asystenta Apple dla użytkowników.",
+    "so_what": "O sukcesie konsumenckich asystentów AI zdecyduje ich codzienna użyteczność, a nie sama liczba nowych funkcji.",
+    "category": "Tools",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"
+  }
+]
