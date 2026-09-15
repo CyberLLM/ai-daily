@@ -1,6 +1,18 @@
+import html
 import json
 import os
 from datetime import datetime
+
+
+def esc(value):
+    """
+    Escapuje tekst pochodzacy od modelu.
+
+    Tytul z & albo < rozjechalby strone, a tresc nie jest
+    pisana recznie - przychodzi z LLM-a, wiec nie ufamy jej.
+    """
+    return html.escape(str(value), quote=True)
+
 
 with open("data/daily.json", "r", encoding="utf-8") as f:
     news = json.load(f)
@@ -15,17 +27,17 @@ for i, item in enumerate(news, start=1):
     <article>
         <div class="number">{i:02}</div>
 
-        <h2>{item["title"]}</h2>
+        <h2>{esc(item["title"])}</h2>
 
-        <p>{item["summary"]}</p>
+        <p>{esc(item["summary"])}</p>
 
         <div class="so-what">
             <strong>SO WHAT?</strong>
-            <div>{item["so_what"]}</div>
+            <div>{esc(item["so_what"])}</div>
         </div>
 
-        <a class="source" href="{item["url"]}" target="_blank">
-            {item["source"]} →
+        <a class="source" href="{esc(item["url"])}" target="_blank">
+            {esc(item["source"])} →
         </a>
     </article>
     """

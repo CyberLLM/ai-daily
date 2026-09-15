@@ -1,17 +1,21 @@
 import json
 import re
+import socket
 from datetime import datetime, timezone, timedelta
 from collections import defaultdict
 
 import feedparser
+
+from config import HOURS_BACK, MAX_PER_SOURCE, MIN_POOL
+from history import published_urls
 
 
 # =========================================================
 # KONFIGURACJA
 # =========================================================
 
-HOURS_BACK = 72
-MAX_PER_SOURCE = 5
+# Zawieszony feed nie może zablokować całego porannego wydania
+socket.setdefaulttimeout(20)
 
 feeds = {
     "TechCrunch": "https://techcrunch.com/category/artificial-intelligence/feed/",
@@ -69,7 +73,12 @@ seen = set()
 
 for source, feed_url in feeds.items():
 
-    feed = feedparser.parse(feed_url)
+    try:
+        feed = feedparser.parse(feed_url)
+    except Exception as error:
+        # Padnięcie jednego źródła nie może wywrócić wydania
+        print(f"{source}: BŁĄD pobierania ({error})")
+        continue
 
     total = len(feed.entries)
     fresh = 0
@@ -119,6 +128,35 @@ all_news.sort(
     key=lambda x: x["date"],
     reverse=True
 )
+
+
+# =========================================================
+# ODSIEWANIE NEWSÓW JUŻ OPUBLIKOWANYCH
+#
+# Okno pobierania liczy kilka dni, więc bez tego ten sam
+# artykuł potrafiłby trafić na stronę drugi dzień z rzędu.
+# =========================================================
+
+already_published = published_urls()
+
+fresh_news = [
+    item
+    for item in all_news
+    if item["url"] not in already_published
+]
+
+repeats = len(all_news) - len(fresh_news)
+
+if len(fresh_news) >= MIN_POOL:
+    all_news = fresh_news
+    print(f"\nOdsiano {repeats} newsów opublikowanych wcześniej.")
+else:
+    # Pula zrobiła się za chuda — lepiej powtórzyć news
+    # niż zostawić model bez materiału do wyboru.
+    print(
+        f"\nUwaga: po odsianiu powtórek zostałoby {len(fresh_news)} newsów "
+        f"(próg to {MIN_POOL}). Dopuszczam powtórki."
+    )
 
 
 # =========================================================

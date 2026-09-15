@@ -2,6 +2,9 @@ import json
 import os
 from openai import OpenAI
 
+from config import HOURS_BACK, DAILY_COUNT
+from history import remember
+
 client = OpenAI(
     api_key=os.environ["OPENAI_API_KEY"]
 )
@@ -9,13 +12,19 @@ client = OpenAI(
 with open("data/news.json", "r", encoding="utf-8") as f:
     news = json.load(f)
 
+if len(news) < DAILY_COUNT:
+    raise ValueError(
+        f"Za mało newsów do selekcji: {len(news)}, "
+        f"a potrzeba co najmniej {DAILY_COUNT}."
+    )
+
 prompt = f"""
 Jesteś redaktorem serwisu:
-"5 rzeczy, które warto dziś wiedzieć o AI".
+"{DAILY_COUNT} rzeczy, które warto dziś wiedzieć o AI".
 
-Masz listę newsów z ostatnich 48 godzin.
+Masz listę newsów z ostatnich {HOURS_BACK} godzin.
 
-Wybierz dokładnie 5 najważniejszych newsów.
+Wybierz dokładnie {DAILY_COUNT} najważniejszych newsów.
 
 Kryteria:
 - znaczenie dla rozwoju AI
@@ -91,9 +100,9 @@ except json.JSONDecodeError:
 if not isinstance(daily, list):
     raise ValueError("Odpowiedź modelu nie jest listą.")
 
-if len(daily) != 5:
+if len(daily) != DAILY_COUNT:
     raise ValueError(
-        f"Model zwrócił {len(daily)} newsów zamiast dokładnie 5."
+        f"Model zwrócił {len(daily)} newsów zamiast dokładnie {DAILY_COUNT}."
     )
 
 with open("data/daily.json", "w", encoding="utf-8") as f:
@@ -104,10 +113,22 @@ with open("data/daily.json", "w", encoding="utf-8") as f:
         indent=2
     )
 
-print("Wybrano TOP 5.")
+print(f"Wybrano TOP {DAILY_COUNT}.")
 
 for i, item in enumerate(daily, start=1):
     print(
         f'{i}. [{item.get("source", "?")}] '
         f'{item.get("title", "")}'
     )
+
+
+# =========================================================
+# HISTORIA
+#
+# Zapisujemy dopiero tutaj, po udanej selekcji, żeby nieudany
+# przebieg nie "spalił" newsów, które nigdy nie trafiły na stronę.
+# =========================================================
+
+added, total = remember(daily)
+
+print(f"\nHistoria: dopisano {added}, łącznie {total} zapamiętanych newsów.")
