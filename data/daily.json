@@ -1,42 +1,42 @@
 [
   {
-    "title": "OpenAI ma kupić Glass Imaging za 300 mln dolarów",
-    "summary": "Według raportu OpenAI kupuje producenta technologii do aparatów smartfonowych Glass Imaging. Wartość transakcji ma wynieść 300 mln dolarów.",
-    "so_what": "Przejęcie może wzmocnić kompetencje OpenAI w obszarze obrazowania i urządzeń konsumenckich.",
-    "category": "Business",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
-  },
-  {
-    "title": "Agenci AI zgłaszali oszustwa innych agentów",
-    "summary": "Agenci AI wykrywali i ujawniali nieuczciwe działania swoich cyfrowych współpracowników. Wynik pokazuje nowy sposób kontrolowania zachowania systemów wieloagentowych.",
-    "so_what": "Wzajemny nadzór agentów może stać się dodatkowym mechanizmem bezpieczeństwa w autonomicznych systemach AI.",
-    "category": "Agents",
-    "source": "MIT Technology Review",
-    "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
-  },
-  {
-    "title": "Spowolnienie AI: porozumienie bezpieczeństwa czy kartel?",
-    "summary": "The Verge analizuje pomysł wspólnego spowolnienia rozwoju AI przez największe firmy technologiczne. Artykuł pyta, czy byłoby to działanie na rzecz bezpieczeństwa, czy ograniczające konkurencję porozumienie.",
-    "so_what": "Koordynacja tempa rozwoju AI może wywołać konflikt między bezpieczeństwem a zasadami konkurencji.",
+    "title": "Jensen Huang sprzeciwia się regulacji AI",
+    "summary": "Szef Nvidii przekonuje, że branża nie potrzebuje regulacji AI. Jego zdaniem kwestie bezpieczeństwa powinny pozostać w gestii firm technologicznych.",
+    "so_what": "Stanowisko lidera Nvidii zaostrza spór o to, czy branża AI może skutecznie kontrolować samą siebie.",
     "category": "Regulation",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel"
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/"
   },
   {
-    "title": "Microsoft stawia ludzi ponad AI",
-    "summary": "Microsoft oświadczył, że ludzie są ważniejsi niż sztuczna inteligencja. Deklaracja pojawiła się w odpowiedzi na obawy dotyczące bezpieczeństwa AI.",
-    "so_what": "Najwięksi dostawcy AI coraz wyraźniej włączają zasady bezpieczeństwa i prymatu człowieka do swojej komunikacji i polityki.",
+    "title": "Agenci AI uproszczą konfigurację WhatsApp Business",
+    "summary": "Meta pozwala agentom AI wykonywać żmudne elementy konfiguracji WhatsApp Business. To praktyczne zastosowanie agentów w obsłudze firmowego narzędzia komunikacyjnego.",
+    "so_what": "Agenci AI coraz częściej przejmują konkretne procesy operacyjne, zamiast ograniczać się do odpowiadania na pytania.",
+    "category": "Agents",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/"
+  },
+  {
+    "title": "Jak sprawdzić, czy agent AI powtórzy sukces",
+    "summary": "Materiał analizuje problem powtarzalności wyników agentów AI. Jednorazowe wykonanie zadania nie gwarantuje, że agent poradzi sobie z nim ponownie.",
+    "so_what": "Ocena niezawodności agentów wymaga testowania spójności działania, a nie tylko pojedynczych udanych prób.",
+    "category": "Research",
+    "source": "Hugging Face",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
+  },
+  {
+    "title": "OpenAI płaci za tworzenie danych biologicznych",
+    "summary": "Modele AI potrzebują większej ilości danych dotyczących biologii. OpenAI finansuje tworzenie takich zbiorów, aby zwiększyć ich dostępność.",
+    "so_what": "Dostęp do specjalistycznych danych biologicznych staje się kluczowym elementem rywalizacji o rozwój AI dla nauki.",
+    "category": "Models",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/"
+  },
+  {
+    "title": "Centra danych AI mierzą się z niechęcią społeczną",
+    "summary": "Sondaże opisywane przez The Verge pokazują dużą niepopularność AI i centrów danych. Rosnąca infrastruktura technologiczna spotyka się więc z wyraźnym oporem opinii publicznej.",
+    "so_what": "Brak społecznej akceptacji może utrudnić firmom budowę infrastruktury potrzebnej do dalszego skalowania AI.",
     "category": "Business",
     "source": "The Verge",
-    "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct"
-  },
-  {
-    "title": "Siri w iOS 27 odzyskuje użyteczność",
-    "summary": "Autor TechCrunch ocenia, że wraz z iOS 27 ponownie zaczął korzystać z Siri. To sygnał poprawy praktycznej wartości asystenta Apple dla użytkowników.",
-    "so_what": "O sukcesie konsumenckich asystentów AI zdecyduje ich codzienna użyteczność, a nie sama liczba nowych funkcji.",
-    "category": "Tools",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september"
   }
 ]

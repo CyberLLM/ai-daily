@@ -1,21 +1,81 @@
 [
   {
     "source": "TechCrunch",
-    "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-    "date": "2026-09-15T14:00:00+00:00"
+    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "date": "2026-09-16T00:20:39+00:00"
+  },
+  {
+    "source": "The Verge",
+    "title": "AI and data centers are incredibly unpopular in every poll",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+    "date": "2026-09-15T23:34:25+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The AI data center boom is colliding with cities scarred by big industry",
+    "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+    "date": "2026-09-15T21:47:38+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "date": "2026-09-15T20:12:53+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "date": "2026-09-15T19:00:00+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+    "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+    "date": "2026-09-15T18:29:20+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "title": "Roundtables: Could AI really kill us all?",
+    "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+    "date": "2026-09-15T17:47:51+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "date": "2026-09-15T16:00:44+00:00"
+  },
+  {
+    "source": "Google AI",
+    "title": "AI for Societal Impact",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+    "date": "2026-09-15T16:00:00+00:00"
+  },
+  {
+    "source": "Google AI",
+    "title": "Building AI to accelerate science and improve lives",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+    "date": "2026-09-15T16:00:00+00:00"
+  },
+  {
+    "source": "Google AI",
+    "title": "AI for everyone in every language",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+    "date": "2026-09-15T16:00:00+00:00"
+  },
+  {
+    "source": "The Verge",
+    "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+    "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+    "date": "2026-09-15T15:00:00+00:00"
   },
   {
     "source": "The Verge",
     "title": "This doorbell camera lets a human security guard watch your front door",
     "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
     "date": "2026-09-15T13:36:45+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-    "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-    "date": "2026-09-15T13:00:00+00:00"
   },
   {
     "source": "Google AI",
@@ -30,12 +90,6 @@
     "date": "2026-09-15T12:10:00+00:00"
   },
   {
-    "source": "TechCrunch",
-    "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-    "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-    "date": "2026-09-15T12:00:00+00:00"
-  },
-  {
     "source": "MIT Technology Review",
     "title": "AI models need more data about biology, and OpenAI is paying to create it",
     "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
@@ -46,18 +100,6 @@
     "title": "What’s at stake in AI’s trillion-dollar gamble",
     "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
     "date": "2026-09-15T10:00:00+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-    "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-    "date": "2026-09-15T01:50:48+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-    "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-    "date": "2026-09-14T21:51:02+00:00"
   },
   {
     "source": "The Verge",
@@ -84,33 +126,9 @@
     "date": "2026-09-14T17:54:22+00:00"
   },
   {
-    "source": "MIT Technology Review",
-    "title": "Donated livers can be made biologically younger",
-    "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
-    "date": "2026-09-14T16:11:42+00:00"
-  },
-  {
-    "source": "Google AI",
-    "title": "DevFest is back",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-    "date": "2026-09-14T16:00:00+00:00"
-  },
-  {
     "source": "OpenAI",
     "title": "How Fyxer built an AI executive assistant people trust",
     "url": "https://openai.com/index/fyxer",
     "date": "2026-09-14T12:00:00+00:00"
-  },
-  {
-    "source": "The Verge",
-    "title": "Trump and Mike Johnson think the AI industry is overreacting",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-    "date": "2026-09-13T19:41:48+00:00"
-  },
-  {
-    "source": "The Verge",
-    "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-    "date": "2026-09-12T21:16:28+00:00"
   }
 ]
