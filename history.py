@@ -3,17 +3,24 @@ import os
 from datetime import datetime, timezone, timedelta
 
 from config import HISTORY_DAYS, HISTORY_FILE
+from dedup import canonical_url
 
 
 # =========================================================
 # HISTORIA OPUBLIKOWANYCH NEWSÓW
 #
-# Okno pobierania to kilka dni, więc ten sam artykuł potrafi
+# Okno pobierania to dwie doby, więc ten sam artykuł potrafi
 # wrócić nazajutrz. Trzymamy więc listę URL-i, które już
 # poszły na stronę, i odsiewamy je przy kolejnym wydaniu.
 #
 # Kluczem jest URL, nie tytuł: model tłumaczy tytuły na polski,
 # więc porównywanie ich między dniami i tak by nic nie dało.
+#
+# Porównujemy adres sprowadzony do postaci kanonicznej. Ten sam
+# artykuł potrafi przyjść raz z parametrem UTM, raz bez - i bez
+# tego wracał na stronę drugi dzień z rzędu mimo historii.
+# Kanonizacja przy odczycie oznacza, że stare wpisy zapisane
+# w surowej postaci też się dopasują.
 # =========================================================
 
 
@@ -46,10 +53,10 @@ def load_history():
 
 
 def published_urls():
-    """Zbiór URL-i opublikowanych w ciągu ostatnich HISTORY_DAYS dni."""
+    """Zbiór kanonicznych URL-i opublikowanych w ostatnich HISTORY_DAYS dniach."""
 
     return {
-        entry["url"]
+        canonical_url(entry["url"])
         for entry in load_history()
         if entry.get("url")
     }
@@ -59,7 +66,7 @@ def remember(items):
     """Dopisuje właśnie opublikowane newsy i przycina stare wpisy."""
 
     entries = load_history()
-    known = {entry.get("url") for entry in entries}
+    known = {canonical_url(entry.get("url", "")) for entry in entries}
 
     today = datetime.now(timezone.utc).date().isoformat()
 
@@ -68,17 +75,20 @@ def remember(items):
     for item in items:
 
         url = item.get("url", "").strip()
+        key = canonical_url(url)
 
-        if not url or url in known:
+        if not url or key in known:
             continue
 
+        # Zapisujemy adres w oryginalnej postaci - jest też
+        # materiałem do wglądu, nie tylko kluczem porównania.
         entries.append({
             "url": url,
             "title": item.get("title", ""),
             "published_on": today,
         })
 
-        known.add(url)
+        known.add(key)
         added += 1
 
     directory = os.path.dirname(HISTORY_FILE)
