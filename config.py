@@ -40,6 +40,41 @@ MAX_ORG_IN_POOL = 3
 
 
 # =========================================================
+# SŁOWNIK KATEGORII TEMATYCZNYCH
+#
+# Zamknięta lista, nie podpowiedź. Przy otwartej model dorabiał
+# własne nazwy (sam zwrócił "Infrastructure", którego nie było
+# na liście przykładów), a wtedy po tygodniu ma się "Infra",
+# "Infrastructure" i "Compute" jako trzy nazwy na to samo.
+#
+# Lista jest wyprowadzona z newsów, które faktycznie przeszły
+# przez ten serwis, a nie wymyślona z góry. Stąd dwie pozycje,
+# których w pierwszej wersji zabrakło:
+#
+# - Infrastructure: centra danych, prąd i chipy to dziś osobny
+#   temat, a nie podzbiór biznesu,
+# - Safety: "agent próbował włamać się do innej firmy" nie jest
+#   ani regulacją, ani badaniem.
+#
+# Kategoria jest jedyną miarą tego, czy pięć newsów to pięć
+# różnych spraw. Reszta metryk mówi, SKĄD jest news, nie O CZYM.
+# =========================================================
+
+CATEGORIES = (
+    "Models",
+    "Agents",
+    "Research",
+    "Business",
+    "Regulation",
+    "Infrastructure",
+    "Robotics",
+    "Safety",
+    "Society",
+    "Tools",
+)
+
+
+# =========================================================
 # LIMITY NA RODZAJ ŹRÓDŁA
 #
 # Limit per źródło nie wystarcza: pięć blogów firmowych z

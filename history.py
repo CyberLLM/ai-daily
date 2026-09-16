@@ -85,6 +85,7 @@ def remember(items):
         entries.append({
             "url": url,
             "title": item.get("title", ""),
+            "category": item.get("category", ""),
             "published_on": today,
         })
 

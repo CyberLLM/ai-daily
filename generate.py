@@ -23,9 +23,24 @@ today_file = datetime.now().strftime("%Y-%m-%d")
 cards = ""
 
 for i, item in enumerate(news, start=1):
+
+    # Kategoria bywa pusta, bo select.py czysci nazwy spoza
+    # slownika. Wtedy karta po prostu nie ma etykiety - lepiej
+    # bez niej niz z nazwa, ktorej nikt wiecej nie uzyje.
+    category = item.get("category", "").strip()
+
+    badge = (
+        f'<span class="category">{esc(category)}</span>'
+        if category
+        else ""
+    )
+
     cards += f"""
     <article>
-        <div class="number">{i:02}</div>
+        <div class="meta">
+            <span class="number">{i:02}</span>
+            {badge}
+        </div>
 
         <h2>{esc(item["title"])}</h2>
 
@@ -120,11 +135,29 @@ article {{
     padding: 34px 0 38px 0;
 }}
 
+.meta {{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}}
+
 .number {{
     font-family: 'Poppins', sans-serif;
     color: var(--accent-gold);
     font-size: 0.82em;
     letter-spacing: 1.5px;
+}}
+
+.category {{
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.68em;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    border: 1px solid var(--border-color);
+    border-radius: 999px;
+    padding: 3px 10px;
 }}
 
 h2 {{

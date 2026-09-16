@@ -21,9 +21,17 @@ from config import (
     MAX_PER_SOURCE_IN_EDITION,
     MAX_VENDOR_IN_EDITION,
     MAX_ORG_IN_EDITION,
+    CATEGORIES,
+    HISTORY_DAYS,
 )
 from sources import KIND_LABELS, VENDOR
-from history import remember
+from history import remember, load_history
+
+
+# Dopasowanie nazwy kategorii bez względu na wielkość liter.
+# Model bywa niekonsekwentny w zapisie, a to nie jest powód,
+# żeby odrzucać poprawnie dobraną kategorię.
+CATEGORY_LOOKUP = {name.lower(): name for name in CATEGORIES}
 
 client = OpenAI(
     api_key=os.environ["OPENAI_API_KEY"]
@@ -95,8 +103,8 @@ Zasady:
   podany jest nadawca, liczy się on, a nie nazwa źródła - kilka feedów może
   należeć do tej samej firmy
 - unikaj kilku newsów dotyczących dokładnie tego samego wydarzenia
-- preferuj różne obszary: modele, agenci, biznes, badania, regulacje,
-  robotyka, narzędzia
+- preferuj newsy z różnych kategorii tematycznych; lista kategorii jest
+  niżej, przy opisie pola category
 - odrzuć clickbait, autopromocję i drobne aktualizacje produktowe
 - nie wymyślaj informacji, których nie ma w tytule; jeśli tytuł jest
   zbyt ogólny, żeby napisać konkretne podsumowanie, wybierz inny news
@@ -107,8 +115,9 @@ Dla każdego wybranego newsa zwróć:
 - title: krótki tytuł po polsku
 - summary: 2 krótkie zdania po polsku
 - so_what: jedno konkretne zdanie odpowiadające na pytanie "co z tego wynika?"
-- category: jedna kategoria, np. Models, Agents, Business, Research,
-  Regulation, Robotics, Tools
+- category: dokładnie jedna nazwa z tej listy, przepisana bez zmian
+  i bez tłumaczenia na polski:
+  {", ".join(CATEGORIES)}
 
 Nie zwracaj adresu ani nazwy źródła - dokleimy je sami po numerze.
 
@@ -199,11 +208,21 @@ for entry in chosen:
 
     original = news[index]
 
+    # Kategoria spoza słownika nie może wywrócić wydania - etykieta
+    # nie jest warta stracenia dnia publikacji. Ale na stronę też
+    # nie trafi: pusta kategoria oznacza kartę bez etykiety.
+    raw_category = entry.get("category", "").strip()
+    category = CATEGORY_LOOKUP.get(raw_category.lower(), "")
+
+    if raw_category and not category:
+        print(f"Uwaga: kategoria {raw_category!r} spoza słownika - "
+              f"news zostaje bez etykiety.")
+
     daily.append({
         "title": entry.get("title", "").strip(),
         "summary": entry.get("summary", "").strip(),
         "so_what": entry.get("so_what", "").strip(),
-        "category": entry.get("category", "").strip(),
+        "category": category,
         "source": original["source"],
         "url": original["url"],
     })
@@ -272,3 +291,41 @@ for i, item in enumerate(daily, start=1):
 added, total = remember(daily)
 
 print(f"\nHistoria: dopisano {added}, łącznie {total} zapamiętanych newsów.")
+
+
+# =========================================================
+# ROZKŁAD TEMATÓW Z OSTATNICH DNI
+#
+# Limity źródeł pilnują, żeby serwis nie był skrótem jednej
+# redakcji. Ten rozkład pokazuje rzecz ważniejszą: czy pięć
+# newsów dziennie to faktycznie pięć różnych spraw.
+#
+# Jeśli któraś kategoria tygodniami wychodzi zerem, to sygnał
+# do sources.py, a nie do promptu - znaczy, że lista źródeł
+# w ogóle nie dostarcza materiału z tego obszaru i żadna
+# instrukcja dla modelu tego nie nadrobi.
+# =========================================================
+
+recent = load_history()
+
+recent_categories = Counter(
+    entry.get("category")
+    for entry in recent
+    if entry.get("category")
+)
+
+if recent_categories:
+
+    # Liczymy osobno wpisy z kategorią: historia sprzed wprowadzenia
+    # słownika ich nie ma, więc suma rozkładu bywa mniejsza niż
+    # cała historia i bez tego wyglądałoby to na błąd.
+    with_category = sum(1 for entry in recent if entry.get("category"))
+
+    print()
+    print(f"Tematy z ostatnich {HISTORY_DAYS} dni "
+          f"({with_category} z {len(recent)} newsów ma kategorię):")
+
+    for name in CATEGORIES:
+        count = recent_categories.get(name, 0)
+        mark = "   <-- brak" if count == 0 else ""
+        print(f"  {name:<16} {count:2}{mark}")

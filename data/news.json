@@ -1,134 +1,234 @@
 [
   {
-    "source": "TechCrunch",
-    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-    "date": "2026-09-16T00:20:39+00:00"
+    "source": "Rest of World",
+    "kind": "press",
+    "org": "Rest of World",
+    "title": "Playing both sides of the U.S.-China AI “Cold War”",
+    "url": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "date": "2026-09-16T10:00:00+00:00"
   },
   {
-    "source": "The Verge",
-    "title": "AI and data centers are incredibly unpopular in every poll",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-    "date": "2026-09-15T23:34:25+00:00"
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
+    "url": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
+    "date": "2026-09-16T09:30:00+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "Bring on the AI swarms. They’re the only thing that can defend us now that AI is free",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/16/bring-on-the-ai-swarms-theyre-the-only-thing-that-can-defend-us-now-that-ai-is-free/5296727",
+    "date": "2026-09-16T06:31:00+00:00"
+  },
+  {
+    "source": "NVIDIA",
+    "kind": "vendor",
+    "org": "NVIDIA",
+    "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+    "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
+    "date": "2026-09-16T05:00:42+00:00"
+  },
+  {
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "Measure by measure, studying society accurately",
+    "url": "https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916",
+    "date": "2026-09-16T04:00:00+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "TypeSafe AI debuts model for machines that plays Doom",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711",
+    "date": "2026-09-16T01:35:16+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "Gemini Live audio",
+    "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+    "date": "2026-09-15T22:47:07+00:00"
   },
   {
     "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
     "title": "The AI data center boom is colliding with cities scarred by big industry",
     "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
     "date": "2026-09-15T21:47:38+00:00"
   },
   {
-    "source": "TechCrunch",
-    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-    "date": "2026-09-15T20:12:53+00:00"
+    "source": "Google Research",
+    "kind": "research",
+    "org": "Google",
+    "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+    "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+    "date": "2026-09-15T20:00:35+00:00"
   },
   {
     "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "date": "2026-09-15T19:00:00+00:00"
   },
   {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+    "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
+    "date": "2026-09-15T18:33:02+00:00"
+  },
+  {
     "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
     "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
     "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
     "date": "2026-09-15T18:29:20+00:00"
   },
   {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
+    "url": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+    "date": "2026-09-15T18:00:09+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "Hugging Face is billing OpenAI $100M for hacking it",
+    "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
+    "date": "2026-09-15T17:56:10+00:00"
+  },
+  {
     "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
     "title": "Roundtables: Could AI really kill us all?",
     "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
     "date": "2026-09-15T17:47:51+00:00"
   },
   {
-    "source": "Hugging Face",
-    "title": "Your Agent Aced the Task. Will It Do It Again?",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-    "date": "2026-09-15T16:00:44+00:00"
+    "source": "Google DeepMind",
+    "kind": "vendor",
+    "org": "Google",
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "date": "2026-09-15T17:05:57+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+    "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
+    "date": "2026-09-15T16:38:45+00:00"
   },
   {
     "source": "Google AI",
+    "kind": "vendor",
+    "org": "Google",
     "title": "AI for Societal Impact",
     "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
     "date": "2026-09-15T16:00:00+00:00"
   },
   {
-    "source": "Google AI",
-    "title": "Building AI to accelerate science and improve lives",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-    "date": "2026-09-15T16:00:00+00:00"
-  },
-  {
-    "source": "Google AI",
-    "title": "AI for everyone in every language",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-    "date": "2026-09-15T16:00:00+00:00"
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "Cartesian – AI 3D Modeling for Design",
+    "url": "https://www.formas.ai/cartesian",
+    "date": "2026-09-15T15:26:45+00:00"
   },
   {
     "source": "The Verge",
-    "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Meta’s new One subscriptions put a price on social media and AI",
     "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
     "date": "2026-09-15T15:00:00+00:00"
   },
   {
     "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
     "title": "This doorbell camera lets a human security guard watch your front door",
     "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
     "date": "2026-09-15T13:36:45+00:00"
   },
   {
-    "source": "Google AI",
-    "title": "New insights from Google’s AI & Economy ATLAS",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-    "date": "2026-09-15T13:00:00+00:00"
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+    "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+    "date": "2026-09-15T12:00:41+00:00"
   },
   {
     "source": "MIT Technology Review",
-    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-    "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
-    "date": "2026-09-15T12:10:00+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "title": "AI models need more data about biology, and OpenAI is paying to create it",
-    "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-    "date": "2026-09-15T12:00:00+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
     "title": "What’s at stake in AI’s trillion-dollar gamble",
     "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
     "date": "2026-09-15T10:00:00+00:00"
   },
   {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "How much of F-Droid is LLM generated?",
+    "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+    "date": "2026-09-15T09:47:48+00:00"
+  },
+  {
     "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
     "title": "What execs and politicians are saying about slowing down AI development",
     "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
     "date": "2026-09-14T21:21:42+00:00"
   },
   {
-    "source": "The Verge",
-    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-    "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-    "date": "2026-09-14T20:03:37+00:00"
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "The contagion of fear",
+    "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
+    "date": "2026-09-14T21:18:13+00:00"
   },
   {
-    "source": "Google AI",
-    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-    "date": "2026-09-14T19:00:00+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "title": "The AI industry has taken a doomer turn. What now?",
-    "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-    "date": "2026-09-14T17:54:22+00:00"
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+    "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+    "date": "2026-09-14T21:04:32+00:00"
   },
   {
     "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
     "title": "How Fyxer built an AI executive assistant people trust",
     "url": "https://openai.com/index/fyxer",
     "date": "2026-09-14T12:00:00+00:00"
+  },
+  {
+    "source": "AI Snake Oil",
+    "kind": "analysis",
+    "org": "AI Snake Oil",
+    "title": "The AI-as-Normal-Technology view of loss-of-control incidents",
+    "url": "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "date": "2026-09-14T10:30:14+00:00"
   }
 ]
