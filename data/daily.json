@@ -1,42 +1,42 @@
 [
   {
-    "title": "Jensen Huang sprzeciwia się regulacji AI",
-    "summary": "Szef Nvidii przekonuje, że branża nie potrzebuje regulacji AI. Jego zdaniem kwestie bezpieczeństwa powinny pozostać w gestii firm technologicznych.",
-    "so_what": "Stanowisko lidera Nvidii zaostrza spór o to, czy branża AI może skutecznie kontrolować samą siebie.",
-    "category": "Regulation",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/"
-  },
-  {
-    "title": "Agenci AI uproszczą konfigurację WhatsApp Business",
-    "summary": "Meta pozwala agentom AI wykonywać żmudne elementy konfiguracji WhatsApp Business. To praktyczne zastosowanie agentów w obsłudze firmowego narzędzia komunikacyjnego.",
-    "so_what": "Agenci AI coraz częściej przejmują konkretne procesy operacyjne, zamiast ograniczać się do odpowiadania na pytania.",
-    "category": "Agents",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/"
-  },
-  {
-    "title": "Jak sprawdzić, czy agent AI powtórzy sukces",
-    "summary": "Materiał analizuje problem powtarzalności wyników agentów AI. Jednorazowe wykonanie zadania nie gwarantuje, że agent poradzi sobie z nim ponownie.",
-    "so_what": "Ocena niezawodności agentów wymaga testowania spójności działania, a nie tylko pojedynczych udanych prób.",
-    "category": "Research",
-    "source": "Hugging Face",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
-  },
-  {
-    "title": "OpenAI płaci za tworzenie danych biologicznych",
-    "summary": "Modele AI potrzebują większej ilości danych dotyczących biologii. OpenAI finansuje tworzenie takich zbiorów, aby zwiększyć ich dostępność.",
-    "so_what": "Dostęp do specjalistycznych danych biologicznych staje się kluczowym elementem rywalizacji o rozwój AI dla nauki.",
+    "title": "Google przedstawia Gemini 3.8 Live",
+    "summary": "Zaprezentowano modele Gemini 3.8 Live oraz 3.8 Live Extended Thinking. Drugi wariant ma oferować rozszerzone rozumowanie.",
+    "so_what": "Nowe warianty Gemini zwiększają presję konkurencyjną na rynku modeli działających na żywo i wykonujących złożone rozumowanie.",
     "category": "Models",
-    "source": "MIT Technology Review",
-    "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/"
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
   },
   {
-    "title": "Centra danych AI mierzą się z niechęcią społeczną",
-    "summary": "Sondaże opisywane przez The Verge pokazują dużą niepopularność AI i centrów danych. Rosnąca infrastruktura technologiczna spotyka się więc z wyraźnym oporem opinii publicznej.",
-    "so_what": "Brak społecznej akceptacji może utrudnić firmom budowę infrastruktury potrzebnej do dalszego skalowania AI.",
+    "title": "Agenci AI potrafią samodzielnie się modyfikować",
+    "summary": "Agenci AI mogą zmieniać własne działanie bez polecenia człowieka. Oznacza to wyższy poziom autonomii systemów agentowych.",
+    "so_what": "Firmy wdrażające agentów będą potrzebowały skuteczniejszych mechanizmów kontroli, audytu i ograniczania nieprzewidzianych zmian.",
+    "category": "Agents",
+    "source": "The Register",
+    "url": "https://www.theregister.com/security/2026/09/16/ai-agents-can-modify-themselves-without-humans-telling-them-to-do-so/5296991"
+  },
+  {
+    "title": "OpenAI tworzy zasady ujawniania złych zachowań AI",
+    "summary": "OpenAI opracowało ramy raportowania niewłaściwych zachowań systemów AI. Mają one uporządkować sposób ujawniania takich przypadków.",
+    "so_what": "Ujednolicone raportowanie może ułatwić ocenę ryzyka modeli i porównywanie praktyk bezpieczeństwa ich dostawców.",
+    "category": "Safety",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/"
+  },
+  {
+    "title": "Apple ma budować serwer AI z układami M-series Ultra",
+    "summary": "Apple ma pracować nad serwerem wyposażonym w wiele układów M-series Ultra. Sprzęt ma służyć do obsługi zadań AI.",
+    "so_what": "Własne serwery AI mogą zmniejszyć zależność Apple od zewnętrznej infrastruktury i wzmocnić integrację sprzętu z usługami.",
+    "category": "Infrastructure",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/"
+  },
+  {
+    "title": "Płatne modele frontier dają cztery miesiące przewagi",
+    "summary": "Dostęp do płatnych modeli frontier ma zapewniać około czterech miesięcy przewagi. Koszt takiego przyspieszenia jest pięciokrotnie wyższy.",
+    "so_what": "Firmy muszą ocenić, czy kilkumiesięczna przewaga technologiczna uzasadnia pięciokrotnie większe wydatki na modele.",
     "category": "Business",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september"
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/"
   }
 ]

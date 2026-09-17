@@ -78,5 +78,35 @@
     "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
     "title": "Centra danych AI mierzą się z niechęcią społeczną",
     "published_on": "2026-09-16"
+  },
+  {
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "title": "Google przedstawia Gemini 3.8 Live",
+    "category": "Models",
+    "published_on": "2026-09-17"
+  },
+  {
+    "url": "https://www.theregister.com/security/2026/09/16/ai-agents-can-modify-themselves-without-humans-telling-them-to-do-so/5296991",
+    "title": "Agenci AI potrafią samodzielnie się modyfikować",
+    "category": "Agents",
+    "published_on": "2026-09-17"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+    "title": "OpenAI tworzy zasady ujawniania złych zachowań AI",
+    "category": "Safety",
+    "published_on": "2026-09-17"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+    "title": "Apple ma budować serwer AI z układami M-series Ultra",
+    "category": "Infrastructure",
+    "published_on": "2026-09-17"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+    "title": "Płatne modele frontier dają cztery miesiące przewagi",
+    "category": "Business",
+    "published_on": "2026-09-17"
   }
 ]

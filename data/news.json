@@ -1,5 +1,149 @@
 [
   {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+    "date": "2026-09-17T03:30:00+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Snap tries to make the case again for its $2,200 smart glasses",
+    "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+    "date": "2026-09-17T00:58:49+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "datasette 1.0a40",
+    "url": "https://simonwillison.net/2026/Sep/16/datasette/",
+    "date": "2026-09-16T23:51:43+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "datasette 0.65.5",
+    "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
+    "date": "2026-09-16T23:51:08+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Al Gore says the real AI risk isn’t data centers",
+    "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+    "date": "2026-09-16T23:43:09+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+    "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+    "date": "2026-09-16T23:40:00+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "AI agents can modify themselves without humans telling them to do so",
+    "url": "https://www.theregister.com/security/2026/09/16/ai-agents-can-modify-themselves-without-humans-telling-them-to-do-so/5296991",
+    "date": "2026-09-16T22:10:24+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+    "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+    "date": "2026-09-16T22:07:24+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+    "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+    "date": "2026-09-16T22:02:46+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "Nvidia goes green to keep grid capacity from zapping its revenues",
+    "url": "https://www.theregister.com/systems/2026/09/16/nvidia-goes-green-to-keep-grid-capacity-from-zapping-its-revenues/5296984",
+    "date": "2026-09-16T21:37:05+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Washington Won’t Be Regulating AI Anytime Soon",
+    "url": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+    "date": "2026-09-16T21:00:00+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+    "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+    "date": "2026-09-16T20:59:13+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "The AI data center e-waste problem is huge — and getting bigger",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+    "date": "2026-09-16T20:40:46+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Our framework for reporting model misalignment",
+    "url": "https://openai.com/index/model-misalignment-reporting-framework",
+    "date": "2026-09-16T17:00:00+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Helping older adults use AI in everyday life",
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "date": "2026-09-16T16:00:00+00:00"
+  },
+  {
+    "source": "NVIDIA",
+    "kind": "vendor",
+    "org": "NVIDIA",
+    "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+    "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
+    "date": "2026-09-16T15:00:48+00:00"
+  },
+  {
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "New AI technique could make minimally invasive surgeries safer and more precise",
+    "url": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
+    "date": "2026-09-16T15:00:00+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "Building the materials foundation for AI",
+    "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "date": "2026-09-16T12:47:34+00:00"
+  },
+  {
     "source": "Rest of World",
     "kind": "press",
     "org": "Rest of World",
@@ -8,28 +152,12 @@
     "date": "2026-09-16T10:00:00+00:00"
   },
   {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
-    "url": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
-    "date": "2026-09-16T09:30:00+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "Bring on the AI swarms. They’re the only thing that can defend us now that AI is free",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/16/bring-on-the-ai-swarms-theyre-the-only-thing-that-can-defend-us-now-that-ai-is-free/5296727",
-    "date": "2026-09-16T06:31:00+00:00"
-  },
-  {
-    "source": "NVIDIA",
-    "kind": "vendor",
-    "org": "NVIDIA",
-    "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
-    "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
-    "date": "2026-09-16T05:00:42+00:00"
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+    "url": "https://mistral.ai/news/mistral-x-mozilla/",
+    "date": "2026-09-16T08:08:57+00:00"
   },
   {
     "source": "MIT News",
@@ -40,30 +168,6 @@
     "date": "2026-09-16T04:00:00+00:00"
   },
   {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "TypeSafe AI debuts model for machines that plays Doom",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711",
-    "date": "2026-09-16T01:35:16+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "Gemini Live audio",
-    "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
-    "date": "2026-09-15T22:47:07+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "The AI data center boom is colliding with cities scarred by big industry",
-    "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-    "date": "2026-09-15T21:47:38+00:00"
-  },
-  {
     "source": "Google Research",
     "kind": "research",
     "org": "Google",
@@ -72,36 +176,12 @@
     "date": "2026-09-15T20:00:35+00:00"
   },
   {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "date": "2026-09-15T19:00:00+00:00"
-  },
-  {
     "source": "Ars Technica",
     "kind": "press",
     "org": "Ars Technica",
     "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
     "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
     "date": "2026-09-15T18:33:02+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-    "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-    "date": "2026-09-15T18:29:20+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
-    "url": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
-    "date": "2026-09-15T18:00:09+00:00"
   },
   {
     "source": "Hacker News",
@@ -152,83 +232,11 @@
     "date": "2026-09-15T15:26:45+00:00"
   },
   {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Meta’s new One subscriptions put a price on social media and AI",
-    "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-    "date": "2026-09-15T15:00:00+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "This doorbell camera lets a human security guard watch your front door",
-    "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-    "date": "2026-09-15T13:36:45+00:00"
-  },
-  {
     "source": "Ars Technica",
     "kind": "press",
     "org": "Ars Technica",
     "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
     "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
     "date": "2026-09-15T12:00:41+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "kind": "press",
-    "org": "MIT Technology Review",
-    "title": "What’s at stake in AI’s trillion-dollar gamble",
-    "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-    "date": "2026-09-15T10:00:00+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "How much of F-Droid is LLM generated?",
-    "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-    "date": "2026-09-15T09:47:48+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "What execs and politicians are saying about slowing down AI development",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-    "date": "2026-09-14T21:21:42+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "The contagion of fear",
-    "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
-    "date": "2026-09-14T21:18:13+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-    "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-    "date": "2026-09-14T21:04:32+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "How Fyxer built an AI executive assistant people trust",
-    "url": "https://openai.com/index/fyxer",
-    "date": "2026-09-14T12:00:00+00:00"
-  },
-  {
-    "source": "AI Snake Oil",
-    "kind": "analysis",
-    "org": "AI Snake Oil",
-    "title": "The AI-as-Normal-Technology view of loss-of-control incidents",
-    "url": "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
-    "date": "2026-09-14T10:30:14+00:00"
   }
 ]
