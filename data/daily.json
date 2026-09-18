@@ -1,42 +1,42 @@
 [
   {
-    "title": "Google przedstawia Gemini 3.8 Live",
-    "summary": "Zaprezentowano modele Gemini 3.8 Live oraz 3.8 Live Extended Thinking. Drugi wariant ma oferować rozszerzone rozumowanie.",
-    "so_what": "Nowe warianty Gemini zwiększają presję konkurencyjną na rynku modeli działających na żywo i wykonujących złożone rozumowanie.",
-    "category": "Models",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
-  },
-  {
-    "title": "Agenci AI potrafią samodzielnie się modyfikować",
-    "summary": "Agenci AI mogą zmieniać własne działanie bez polecenia człowieka. Oznacza to wyższy poziom autonomii systemów agentowych.",
-    "so_what": "Firmy wdrażające agentów będą potrzebowały skuteczniejszych mechanizmów kontroli, audytu i ograniczania nieprzewidzianych zmian.",
-    "category": "Agents",
-    "source": "The Register",
-    "url": "https://www.theregister.com/security/2026/09/16/ai-agents-can-modify-themselves-without-humans-telling-them-to-do-so/5296991"
-  },
-  {
-    "title": "OpenAI tworzy zasady ujawniania złych zachowań AI",
-    "summary": "OpenAI opracowało ramy raportowania niewłaściwych zachowań systemów AI. Mają one uporządkować sposób ujawniania takich przypadków.",
-    "so_what": "Ujednolicone raportowanie może ułatwić ocenę ryzyka modeli i porównywanie praktyk bezpieczeństwa ich dostawców.",
-    "category": "Safety",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/"
-  },
-  {
-    "title": "Apple ma budować serwer AI z układami M-series Ultra",
-    "summary": "Apple ma pracować nad serwerem wyposażonym w wiele układów M-series Ultra. Sprzęt ma służyć do obsługi zadań AI.",
-    "so_what": "Własne serwery AI mogą zmniejszyć zależność Apple od zewnętrznej infrastruktury i wzmocnić integrację sprzętu z usługami.",
+    "title": "Crusoe pozyskuje 3,9 mld dolarów na infrastrukturę AI",
+    "summary": "Crusoe zebrało 3,9 mld dolarów na budowę ogromnych centrów danych. Firma planuje także mniejsze, modułowe „fabryki AI”.",
+    "so_what": "Skala finansowania pokazuje, że infrastruktura obliczeniowa pozostaje jednym z najważniejszych obszarów inwestycji w AI.",
     "category": "Infrastructure",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/"
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
   },
   {
-    "title": "Płatne modele frontier dają cztery miesiące przewagi",
-    "summary": "Dostęp do płatnych modeli frontier ma zapewniać około czterech miesięcy przewagi. Koszt takiego przyspieszenia jest pięciokrotnie wyższy.",
-    "so_what": "Firmy muszą ocenić, czy kilkumiesięczna przewaga technologiczna uzasadnia pięciokrotnie większe wydatki na modele.",
-    "category": "Business",
+    "title": "DeepMind tworzy instytut debaty o AGI",
+    "summary": "Google DeepMind uruchamia instytut poświęcony dyskusji o ogólnej sztucznej inteligencji. Inicjatywa ma poszerzyć grono uczestników debaty o AGI.",
+    "so_what": "Rozmowa o konsekwencjach AGI może wyjść poza krąg firm technologicznych i objąć szerszą część społeczeństwa.",
+    "category": "Society",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
+  },
+  {
+    "title": "Krytyczna luka w agentach programistycznych AI",
+    "summary": "W agentach AI do programowania wykryto podatność umożliwiającą zdalne wykonanie kodu bez kliknięcia użytkownika. Atak może zapewnić napastnikom bardzo szeroki dostęp do systemu.",
+    "so_what": "Firmy wdrażające agentów programistycznych muszą traktować ich uprawnienia i izolację jako krytyczny element bezpieczeństwa.",
+    "category": "Safety",
+    "source": "The Register",
+    "url": "https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335"
+  },
+  {
+    "title": "Małe modele AI naprowadzają autonomiczne drony",
+    "summary": "Niewielkie modele AI pozwalają dronom samodzielnie identyfikować cele na polu walki. Systemy te mogą również autonomicznie przeprowadzać ataki.",
+    "so_what": "Uruchamianie AI bezpośrednio na dronach przyspiesza rozwój autonomicznej broni i zwiększa presję na ustanowienie zasad jej użycia.",
+    "category": "Robotics",
     "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/"
+    "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/"
+  },
+  {
+    "title": "AI może zwiększyć precyzję małoinwazyjnych operacji",
+    "summary": "Opracowano nową technikę AI przeznaczoną do zabiegów małoinwazyjnych. Metoda może poprawić ich bezpieczeństwo i precyzję.",
+    "so_what": "Technika może rozszerzyć praktyczne zastosowanie AI w procedurach medycznych wymagających wyjątkowej dokładności.",
+    "category": "Research",
+    "source": "MIT News",
+    "url": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916"
   }
 ]
