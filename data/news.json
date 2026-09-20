@@ -1,35 +1,91 @@
 [
   {
-    "source": "TechCrunch",
+    "source": "The Verge",
     "kind": "press",
-    "org": "TechCrunch",
-    "title": "India forces caller-ID apps to feed spam reports to telcos",
-    "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-    "date": "2026-09-19T01:00:00+00:00"
+    "org": "The Verge",
+    "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+    "date": "2026-09-19T20:44:40+00:00"
   },
   {
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-    "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-    "date": "2026-09-19T00:12:07+00:00"
+    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+    "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+    "date": "2026-09-19T20:39:13+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+    "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "date": "2026-09-19T19:57:47+00:00"
   },
   {
     "source": "Simon Willison",
     "kind": "analysis",
     "org": "Simon Willison",
-    "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-    "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-    "date": "2026-09-18T23:57:57+00:00"
+    "title": "datasette-auth-github 1.0",
+    "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+    "date": "2026-09-19T19:52:02+00:00"
   },
   {
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-    "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-    "date": "2026-09-18T23:25:01+00:00"
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "date": "2026-09-19T17:30:00+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "California Sea Lion, Brandt's Cormorant",
+    "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
+    "date": "2026-09-19T17:10:08+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Gemini went rogue, hacked three companies, and Google hid it",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+    "date": "2026-09-19T15:25:03+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+    "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+    "date": "2026-09-19T14:00:00+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "AI boom could leave an e-waste trail that wraps 6 times around Earth",
+    "url": "https://www.theregister.com/off-prem/2026/09/19/ai-boom-could-leave-an-e-waste-trail-that-wraps-6-times-around-earth/5297451",
+    "date": "2026-09-19T13:30:00+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+    "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+    "date": "2026-09-19T11:00:00+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Mathematicians Hate AI. They Can’t Quit It",
+    "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+    "date": "2026-09-19T10:00:00+00:00"
   },
   {
     "source": "The Register",
@@ -38,62 +94,6 @@
     "title": "Anthropic decides to support OpenAI's markdown instructions spec",
     "url": "https://www.theregister.com/ai-and-ml/2026/09/18/anthropic-decides-to-support-openais-markdown-instructions-spec/5297588",
     "date": "2026-09-18T21:33:16+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-    "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-    "date": "2026-09-18T21:11:05+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-    "date": "2026-09-18T21:07:24+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
-    "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
-    "date": "2026-09-18T20:26:33+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "Note on 18th September 2026",
-    "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
-    "date": "2026-09-18T19:21:32+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
-    "url": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
-    "date": "2026-09-18T19:21:09+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-    "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
-    "date": "2026-09-18T19:20:50+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-    "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-    "date": "2026-09-18T18:29:17+00:00"
   },
   {
     "source": "Google Research",
@@ -112,28 +112,12 @@
     "date": "2026-09-18T17:28:50+00:00"
   },
   {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Gavin Newsom is pushing for an AI kill switch",
-    "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-    "date": "2026-09-18T17:04:51+00:00"
-  },
-  {
     "source": "MIT News",
     "kind": "research",
     "org": "MIT News",
     "title": "A new chapter for MIT Reads",
     "url": "https://news.mit.edu/2026/new-chapter-mit-reads-0918",
     "date": "2026-09-18T16:30:00+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
-    "url": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
-    "date": "2026-09-18T15:00:08+00:00"
   },
   {
     "source": "Google AI",
@@ -152,6 +136,14 @@
     "date": "2026-09-18T13:00:00+00:00"
   },
   {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "url": "https://openai.com/index/australian-youth-safety-blueprint",
+    "date": "2026-09-18T12:00:00+00:00"
+  },
+  {
     "source": "MIT Technology Review",
     "kind": "press",
     "org": "MIT Technology Review",
@@ -166,13 +158,5 @@
     "title": "The case for a robot tax to redistribute wealth",
     "url": "https://restofworld.org/2026/robot-tax-ai-wealth-redistribution/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
     "date": "2026-09-18T10:00:00+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "How Cooley is accelerating IPO work with ChatGPT",
-    "url": "https://openai.com/index/cooley-gopublic",
-    "date": "2026-09-17T12:00:00+00:00"
   }
 ]

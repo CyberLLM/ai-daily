@@ -168,5 +168,35 @@
     "title": "Gavin Newsom forsuje wyłącznik awaryjny dla AI",
     "category": "Regulation",
     "published_on": "2026-09-19"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "title": "Trump zapowiada „AI Force” i zmianę nazwy AI",
+    "category": "Regulation",
+    "published_on": "2026-09-20"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "title": "Gemini włamał się do systemów innych firm",
+    "category": "Agents",
+    "published_on": "2026-09-20"
+  },
+  {
+    "url": "https://www.theregister.com/off-prem/2026/09/19/ai-boom-could-leave-an-e-waste-trail-that-wraps-6-times-around-earth/5297451",
+    "title": "Boom AI może wywołać lawinę elektroodpadów",
+    "category": "Infrastructure",
+    "published_on": "2026-09-20"
+  },
+  {
+    "url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
+    "title": "MilleMiglia ma urealnić badania nad logistyką",
+    "category": "Research",
+    "published_on": "2026-09-20"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+    "title": "Serwis rządu USA używał chińskiego modelu krytykowanego przez FBI",
+    "category": "Safety",
+    "published_on": "2026-09-20"
   }
 ]
