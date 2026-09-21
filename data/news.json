@@ -1,162 +1,114 @@
 [
   {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-    "date": "2026-09-19T20:44:40+00:00"
-  },
-  {
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-    "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-    "date": "2026-09-19T20:39:13+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-    "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-    "date": "2026-09-19T19:57:47+00:00"
+    "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+    "date": "2026-09-20T21:41:08+00:00"
   },
   {
     "source": "Simon Willison",
     "kind": "analysis",
     "org": "Simon Willison",
-    "title": "datasette-auth-github 1.0",
-    "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
-    "date": "2026-09-19T19:52:02+00:00"
+    "title": "Quoting voxium",
+    "url": "https://simonwillison.net/2026/Sep/20/voxium/",
+    "date": "2026-09-20T21:06:43+00:00"
   },
   {
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "Google’s Gemini is the latest AI model to hack other companies",
-    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-    "date": "2026-09-19T17:30:00+00:00"
+    "title": "World model companies are keeping a lot of secrets",
+    "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "date": "2026-09-20T20:29:07+00:00"
   },
   {
     "source": "Simon Willison",
     "kind": "analysis",
     "org": "Simon Willison",
-    "title": "California Sea Lion, Brandt's Cormorant",
-    "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
-    "date": "2026-09-19T17:10:08+00:00"
+    "title": "llm-keys-ui 0.1",
+    "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+    "date": "2026-09-20T19:22:19+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Is the AI industry really ready to slow down?",
+    "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "date": "2026-09-20T18:56:04+00:00"
   },
   {
     "source": "The Verge",
     "kind": "press",
     "org": "The Verge",
-    "title": "Gemini went rogue, hacked three companies, and Google hid it",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-    "date": "2026-09-19T15:25:03+00:00"
+    "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+    "date": "2026-09-20T18:50:18+00:00"
   },
   {
     "source": "The Verge",
     "kind": "press",
     "org": "The Verge",
-    "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
-    "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-    "date": "2026-09-19T14:00:00+00:00"
+    "title": "Trump now says he wants to form an ‘AI Force’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+    "date": "2026-09-20T15:39:22+00:00"
   },
   {
-    "source": "The Register",
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "Pirate Face Rescues LLM Models from Deletion",
+    "url": "https://pirateface.co/",
+    "date": "2026-09-20T15:16:07+00:00"
+  },
+  {
+    "source": "The Verge",
     "kind": "press",
-    "org": "The Register",
-    "title": "AI boom could leave an e-waste trail that wraps 6 times around Earth",
-    "url": "https://www.theregister.com/off-prem/2026/09/19/ai-boom-could-leave-an-e-waste-trail-that-wraps-6-times-around-earth/5297451",
-    "date": "2026-09-19T13:30:00+00:00"
+    "org": "The Verge",
+    "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+    "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+    "date": "2026-09-20T12:00:00+00:00"
   },
   {
     "source": "Wired",
     "kind": "press",
     "org": "Wired",
-    "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
-    "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
-    "date": "2026-09-19T11:00:00+00:00"
+    "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
+    "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+    "date": "2026-09-20T10:30:00+00:00"
   },
   {
     "source": "Wired",
     "kind": "press",
     "org": "Wired",
-    "title": "Mathematicians Hate AI. They Can’t Quit It",
-    "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
-    "date": "2026-09-19T10:00:00+00:00"
+    "title": "It’s Donald Trump Versus MAGA on Data Centers",
+    "url": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+    "date": "2026-09-20T10:30:00+00:00"
   },
   {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "Anthropic decides to support OpenAI's markdown instructions spec",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/18/anthropic-decides-to-support-openais-markdown-instructions-spec/5297588",
-    "date": "2026-09-18T21:33:16+00:00"
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "AI and the Destruction of the Creative Commons",
+    "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+    "date": "2026-09-20T10:07:51+00:00"
   },
   {
-    "source": "Google Research",
-    "kind": "research",
-    "org": "Google",
-    "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
-    "url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
-    "date": "2026-09-18T17:46:09+00:00"
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "Can you tell which images are AI-generated?",
+    "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+    "date": "2026-09-19T23:02:34+00:00"
   },
   {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "US government website used Chinese model the FBI called \"malicious\"",
-    "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
-    "date": "2026-09-18T17:28:50+00:00"
-  },
-  {
-    "source": "MIT News",
-    "kind": "research",
-    "org": "MIT News",
-    "title": "A new chapter for MIT Reads",
-    "url": "https://news.mit.edu/2026/new-chapter-mit-reads-0918",
-    "date": "2026-09-18T16:30:00+00:00"
-  },
-  {
-    "source": "Google AI",
-    "kind": "vendor",
-    "org": "Google",
-    "title": "New experts join Google’s AI & Economy team",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-    "date": "2026-09-18T14:00:00+00:00"
-  },
-  {
-    "source": "Google AI",
-    "kind": "vendor",
-    "org": "Google",
-    "title": "Co-creating the future of fashion with Google",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-    "date": "2026-09-18T13:00:00+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "Introducing the Australian Youth Safety Blueprint",
-    "url": "https://openai.com/index/australian-youth-safety-blueprint",
-    "date": "2026-09-18T12:00:00+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "kind": "press",
-    "org": "MIT Technology Review",
-    "title": "Could AI really kill us all? Your questions, answered.",
-    "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-    "date": "2026-09-18T11:29:22+00:00"
-  },
-  {
-    "source": "Rest of World",
-    "kind": "press",
-    "org": "Rest of World",
-    "title": "The case for a robot tax to redistribute wealth",
-    "url": "https://restofworld.org/2026/robot-tax-ai-wealth-redistribution/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-    "date": "2026-09-18T10:00:00+00:00"
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+    "date": "2026-09-19T18:21:30+00:00"
   }
 ]

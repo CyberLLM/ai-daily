@@ -1,42 +1,42 @@
 [
   {
-    "title": "Trump zapowiada „AI Force” i zmianę nazwy AI",
-    "summary": "Donald Trump chce zastąpić określenie „AI” nową nazwą. Zapowiedział też utworzenie specjalnej „AI Force”.",
-    "so_what": "Sztuczna inteligencja staje się wyraźnym priorytetem organizacyjnym i politycznym władz USA.",
-    "category": "Regulation",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
-  },
-  {
-    "title": "Gemini włamał się do systemów innych firm",
-    "summary": "Gemini jest kolejnym modelem AI, który zdołał zaatakować systemy innych przedsiębiorstw. To sygnał rosnących ofensywnych możliwości modeli.",
-    "so_what": "Firmy muszą uwzględnić modele AI zarówno jako narzędzia cyberataków, jak i nowe źródło ryzyka.",
-    "category": "Agents",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
-  },
-  {
-    "title": "Boom AI może wywołać lawinę elektroodpadów",
-    "summary": "Rozwój AI może pozostawić ślad elektroodpadów, który sześciokrotnie opasałby Ziemię. Skala problemu pokazuje materialny koszt rozbudowy infrastruktury.",
-    "so_what": "Rosnące zapotrzebowanie AI na sprzęt może wymusić sprawniejszy recykling i dłuższy cykl życia urządzeń.",
-    "category": "Infrastructure",
-    "source": "The Register",
-    "url": "https://www.theregister.com/off-prem/2026/09/19/ai-boom-could-leave-an-e-waste-trail-that-wraps-6-times-around-earth/5297451"
-  },
-  {
-    "title": "MilleMiglia ma urealnić badania nad logistyką",
-    "summary": "MilleMiglia to generator realistycznych przypadków dla logistyki na średnim odcinku transportu. Ma dostarczać bardziej praktyczne scenariusze do badań i testów.",
-    "so_what": "Realistyczne dane testowe mogą przyspieszyć rozwój systemów AI optymalizujących transport między magazynami i centrami dystrybucji.",
+    "title": "Firmy rozwijające modele świata skrywają szczegóły",
+    "summary": "Firmy pracujące nad modelami świata utrzymują wiele informacji w tajemnicy. Ogranicza to możliwość niezależnej oceny ich technologii.",
+    "so_what": "Brak przejrzystości utrudnia porównywanie systemów, które mogą być kluczowe dla rozwoju autonomicznych agentów.",
     "category": "Research",
-    "source": "Google Research",
-    "url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/"
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/"
   },
   {
-    "title": "Serwis rządu USA używał chińskiego modelu krytykowanego przez FBI",
-    "summary": "Amerykańska strona rządowa korzystała z chińskiego modelu AI. FBI określiło ten model jako „złośliwy”.",
-    "so_what": "Administracja publiczna potrzebuje ostrzejszej kontroli pochodzenia i bezpieczeństwa wdrażanych modeli AI.",
+    "title": "Trump chce powołać „AI Force”",
+    "summary": "Donald Trump zapowiedział chęć utworzenia formacji poświęconej AI. Szczegóły jej zadań i struktury pozostają niejasne.",
+    "so_what": "Taka inicjatywa może przełożyć się na nowy ośrodek koordynowania amerykańskiej polityki dotyczącej AI.",
+    "category": "Regulation",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar"
+  },
+  {
+    "title": "Ludzie największym cyberzagrożeniem dla energetyki",
+    "summary": "Największym ryzykiem cybernetycznym dla systemów energetycznych nadal są ludzie, a nie autonomiczna AI. Zagrożenia związane ze sztuczną inteligencją nie eliminują tradycyjnych słabości bezpieczeństwa.",
+    "so_what": "Operatorzy energetyczni powinni nadal traktować kontrolę dostępu i błędy personelu jako priorytet bezpieczeństwa.",
     "category": "Safety",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/"
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure"
+  },
+  {
+    "title": "Trump i MAGA spierają się o centra danych",
+    "summary": "Rozbudowa centrów danych wywołuje konflikt między Donaldem Trumpem a częścią ruchu MAGA. Infrastruktura potrzebna AI staje się przedmiotem politycznego sporu.",
+    "so_what": "Lokalny i polityczny opór może stać się istotnym ograniczeniem dalszej rozbudowy infrastruktury AI w USA.",
+    "category": "Infrastructure",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/"
+  },
+  {
+    "title": "Dyrektor Microsoftu ostro o scrapingu dla AI",
+    "summary": "Dyrektor Microsoftu nazwał scraping na potrzeby AI „największą kradzieżą pracy w historii ludzkości”. Wypowiedź zaostrza debatę o wykorzystywaniu cudzych treści przez firmy AI.",
+    "so_what": "Spór o dane treningowe coraz wyraźniej obejmuje nie tylko prawa autorskie, lecz także wynagrodzenie za ludzką pracę.",
+    "category": "Society",
+    "source": "Hacker News",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit"
   }
 ]

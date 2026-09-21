@@ -1,30 +1,5 @@
 [
   {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-    "title": "",
-    "published_on": "2026-09-13"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "title": "",
-    "published_on": "2026-09-13"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-    "title": "",
-    "published_on": "2026-09-13"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-    "title": "",
-    "published_on": "2026-09-13"
-  },
-  {
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "title": "",
-    "published_on": "2026-09-13"
-  },
-  {
     "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
     "title": "",
     "published_on": "2026-09-14"
@@ -198,5 +173,35 @@
     "title": "Serwis rządu USA używał chińskiego modelu krytykowanego przez FBI",
     "category": "Safety",
     "published_on": "2026-09-20"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "title": "Firmy rozwijające modele świata skrywają szczegóły",
+    "category": "Research",
+    "published_on": "2026-09-21"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+    "title": "Trump chce powołać „AI Force”",
+    "category": "Regulation",
+    "published_on": "2026-09-21"
+  },
+  {
+    "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+    "title": "Ludzie największym cyberzagrożeniem dla energetyki",
+    "category": "Safety",
+    "published_on": "2026-09-21"
+  },
+  {
+    "url": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+    "title": "Trump i MAGA spierają się o centra danych",
+    "category": "Infrastructure",
+    "published_on": "2026-09-21"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+    "title": "Dyrektor Microsoftu ostro o scrapingu dla AI",
+    "category": "Society",
+    "published_on": "2026-09-21"
   }
 ]
