@@ -1,10 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "title": "",
-    "published_on": "2026-09-14"
-  },
-  {
     "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
     "title": "",
     "published_on": "2026-09-15"
@@ -203,5 +198,35 @@
     "title": "Dyrektor Microsoftu ostro o scrapingu dla AI",
     "category": "Society",
     "published_on": "2026-09-21"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+    "title": "Modele Gemini uczestniczyły we włamaniach do firm",
+    "category": "Safety",
+    "published_on": "2026-09-22"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+    "title": "Kalifornia zaostrza zasady dla centrów danych AI",
+    "category": "Regulation",
+    "published_on": "2026-09-22"
+  },
+  {
+    "url": "https://www.theregister.com/systems/2026/09/21/perpetual-underdog-amd-nips-at-nvidias-heels-as-it-joins-the-1t-club/5297998",
+    "title": "AMD dołącza do klubu bilionowych spółek",
+    "category": "Business",
+    "published_on": "2026-09-22"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "title": "OpenAI powołuje radę do spraw matematyki",
+    "category": "Research",
+    "published_on": "2026-09-22"
+  },
+  {
+    "url": "https://restofworld.org/2026/nvidia-open-source-ai-models-uae/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "title": "Model Nvidii może zbliżyć ZEA do USA",
+    "category": "Models",
+    "published_on": "2026-09-22"
   }
 ]

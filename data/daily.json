@@ -1,42 +1,42 @@
 [
   {
-    "title": "Firmy rozwijające modele świata skrywają szczegóły",
-    "summary": "Firmy pracujące nad modelami świata utrzymują wiele informacji w tajemnicy. Ogranicza to możliwość niezależnej oceny ich technologii.",
-    "so_what": "Brak przejrzystości utrudnia porównywanie systemów, które mogą być kluczowe dla rozwoju autonomicznych agentów.",
-    "category": "Research",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/"
+    "title": "Modele Gemini uczestniczyły we włamaniach do firm",
+    "summary": "Google potwierdził, że w maju 2026 roku modele Gemini uczestniczyły we włamaniach do trzech firm. To konkretny przypadek wykorzystania zaawansowanego AI w rzeczywistych cyberatakach.",
+    "so_what": "Firmy muszą objąć systemy AI kontrolami dostępu i monitoringiem właściwymi dla narzędzi ofensywnych.",
+    "category": "Safety",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/"
   },
   {
-    "title": "Trump chce powołać „AI Force”",
-    "summary": "Donald Trump zapowiedział chęć utworzenia formacji poświęconej AI. Szczegóły jej zadań i struktury pozostają niejasne.",
-    "so_what": "Taka inicjatywa może przełożyć się na nowy ośrodek koordynowania amerykańskiej polityki dotyczącej AI.",
+    "title": "Kalifornia zaostrza zasady dla centrów danych AI",
+    "summary": "Kalifornia zaostrzyła przepisy dotyczące zużycia energii i wody przez centra danych AI. Nowe reguły obejmują dwa kluczowe zasoby potrzebne do rozbudowy infrastruktury obliczeniowej.",
+    "so_what": "Ograniczenia środowiskowe mogą podnieść koszty i spowolnić budowę nowych centrów danych AI w Kalifornii.",
     "category": "Regulation",
     "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar"
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills"
   },
   {
-    "title": "Ludzie największym cyberzagrożeniem dla energetyki",
-    "summary": "Największym ryzykiem cybernetycznym dla systemów energetycznych nadal są ludzie, a nie autonomiczna AI. Zagrożenia związane ze sztuczną inteligencją nie eliminują tradycyjnych słabości bezpieczeństwa.",
-    "so_what": "Operatorzy energetyczni powinni nadal traktować kontrolę dostępu i błędy personelu jako priorytet bezpieczeństwa.",
-    "category": "Safety",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure"
+    "title": "AMD dołącza do klubu bilionowych spółek",
+    "summary": "AMD dołączyło do grona spółek wycenianych na bilion dolarów. Producent chipów jednocześnie zmniejsza rynkowy dystans do Nvidii.",
+    "so_what": "Rosnąca pozycja AMD może wzmocnić konkurencję na rynku układów wykorzystywanych do AI.",
+    "category": "Business",
+    "source": "The Register",
+    "url": "https://www.theregister.com/systems/2026/09/21/perpetual-underdog-amd-nips-at-nvidias-heels-as-it-joins-the-1t-club/5297998"
   },
   {
-    "title": "Trump i MAGA spierają się o centra danych",
-    "summary": "Rozbudowa centrów danych wywołuje konflikt między Donaldem Trumpem a częścią ruchu MAGA. Infrastruktura potrzebna AI staje się przedmiotem politycznego sporu.",
-    "so_what": "Lokalny i polityczny opór może stać się istotnym ograniczeniem dalszej rozbudowy infrastruktury AI w USA.",
-    "category": "Infrastructure",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/"
+    "title": "OpenAI powołuje radę do spraw matematyki",
+    "summary": "OpenAI utworzyło grupę doradczą do spraw matematyki i sztucznej inteligencji. Systemy firmy miały rozwiązać ponad 100 otwartych problemów matematycznych.",
+    "so_what": "Formalna współpraca z matematykami może przyspieszyć ocenę i weryfikację naukowych osiągnięć modeli AI.",
+    "category": "Research",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"
   },
   {
-    "title": "Dyrektor Microsoftu ostro o scrapingu dla AI",
-    "summary": "Dyrektor Microsoftu nazwał scraping na potrzeby AI „największą kradzieżą pracy w historii ludzkości”. Wypowiedź zaostrza debatę o wykorzystywaniu cudzych treści przez firmy AI.",
-    "so_what": "Spór o dane treningowe coraz wyraźniej obejmuje nie tylko prawa autorskie, lecz także wynagrodzenie za ludzką pracę.",
-    "category": "Society",
-    "source": "Hacker News",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit"
+    "title": "Model Nvidii może zbliżyć ZEA do USA",
+    "summary": "Bezpłatny model AI Nvidii może zacieśnić technologiczne związki ZEA ze Stanami Zjednoczonymi. Udostępnienie modelu łączy strategię produktową z rywalizacją o wpływy.",
+    "so_what": "Bezpłatne modele AI stają się narzędziem budowania międzynarodowych sojuszy technologicznych.",
+    "category": "Models",
+    "source": "Rest of World",
+    "url": "https://restofworld.org/2026/nvidia-open-source-ai-models-uae/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
   }
 ]

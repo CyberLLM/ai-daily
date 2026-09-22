@@ -3,112 +3,184 @@
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-    "date": "2026-09-20T21:41:08+00:00"
+    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+    "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+    "date": "2026-09-21T23:44:28+00:00"
   },
   {
     "source": "Simon Willison",
     "kind": "analysis",
     "org": "Simon Willison",
-    "title": "Quoting voxium",
-    "url": "https://simonwillison.net/2026/Sep/20/voxium/",
-    "date": "2026-09-20T21:06:43+00:00"
+    "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+    "url": "https://simonwillison.net/2026/Sep/21/jev/",
+    "date": "2026-09-21T23:09:20+00:00"
   },
   {
-    "source": "TechCrunch",
+    "source": "The Register",
     "kind": "press",
-    "org": "TechCrunch",
-    "title": "World model companies are keeping a lot of secrets",
-    "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-    "date": "2026-09-20T20:29:07+00:00"
+    "org": "The Register",
+    "title": "Anthropic-linked CVEs pile up, attackers mostly shrug",
+    "url": "https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018",
+    "date": "2026-09-21T22:32:51+00:00"
   },
   {
     "source": "Simon Willison",
     "kind": "analysis",
     "org": "Simon Willison",
-    "title": "llm-keys-ui 0.1",
-    "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
-    "date": "2026-09-20T19:22:19+00:00"
+    "title": "Cloudflare Python Workers are now generally available",
+    "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+    "date": "2026-09-21T22:25:44+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+    "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "date": "2026-09-21T22:24:38+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "Perpetual underdog AMD nips at Nvidia's heels as it joins the $1T club",
+    "url": "https://www.theregister.com/systems/2026/09/21/perpetual-underdog-amd-nips-at-nvidias-heels-as-it-joins-the-1t-club/5297998",
+    "date": "2026-09-21T20:59:00+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "California tightens rules on AI data center energy and water use",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+    "date": "2026-09-21T20:29:45+00:00"
   },
   {
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "Is the AI industry really ready to slow down?",
-    "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-    "date": "2026-09-20T18:56:04+00:00"
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "date": "2026-09-21T20:15:58+00:00"
   },
   {
-    "source": "The Verge",
+    "source": "TechCrunch",
     "kind": "press",
-    "org": "The Verge",
-    "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-    "date": "2026-09-20T18:50:18+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Trump now says he wants to form an ‘AI Force’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-    "date": "2026-09-20T15:39:22+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Pirate Face Rescues LLM Models from Deletion",
-    "url": "https://pirateface.co/",
-    "date": "2026-09-20T15:16:07+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-    "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-    "date": "2026-09-20T12:00:00+00:00"
+    "org": "TechCrunch",
+    "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+    "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+    "date": "2026-09-21T19:19:21+00:00"
   },
   {
     "source": "Wired",
     "kind": "press",
     "org": "Wired",
-    "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
-    "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
-    "date": "2026-09-20T10:30:00+00:00"
+    "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
+    "url": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
+    "date": "2026-09-21T18:33:02+00:00"
+  },
+  {
+    "source": "NVIDIA",
+    "kind": "vendor",
+    "org": "NVIDIA",
+    "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+    "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+    "date": "2026-09-21T18:00:07+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Google confirms Gemini models hacked three companies in May 2026",
+    "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+    "date": "2026-09-21T16:57:26+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+    "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
+    "date": "2026-09-21T15:37:56+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Can John Ternus find Apple’s next big thing?",
+    "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+    "date": "2026-09-21T14:00:00+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "kind": "vendor",
+    "org": "Hugging Face",
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "date": "2026-09-21T13:44:34+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+    "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+    "date": "2026-09-21T13:36:52+00:00"
   },
   {
     "source": "Wired",
     "kind": "press",
     "org": "Wired",
-    "title": "It’s Donald Trump Versus MAGA on Data Centers",
-    "url": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
-    "date": "2026-09-20T10:30:00+00:00"
+    "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
+    "url": "https://www.wired.com/story/google-launches-googlebook-laptops/",
+    "date": "2026-09-21T13:00:00+00:00"
   },
   {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "AI and the Destruction of the Creative Commons",
-    "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
-    "date": "2026-09-20T10:07:51+00:00"
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+    "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+    "date": "2026-09-21T12:00:00+00:00"
   },
   {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Can you tell which images are AI-generated?",
-    "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
-    "date": "2026-09-19T23:02:34+00:00"
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+    "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+    "date": "2026-09-21T12:00:00+00:00"
   },
   {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-    "date": "2026-09-19T18:21:30+00:00"
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "date": "2026-09-21T12:00:00+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "date": "2026-09-21T12:00:00+00:00"
+  },
+  {
+    "source": "Rest of World",
+    "kind": "press",
+    "org": "Rest of World",
+    "title": "Nvidia’s free AI model could push the UAE closer to the U.S.",
+    "url": "https://restofworld.org/2026/nvidia-open-source-ai-models-uae/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "date": "2026-09-21T10:00:00+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "kind": "vendor",
+    "org": "Hugging Face",
+    "title": "tokenizers v1: encode, decode and scaling, measured",
+    "url": "https://huggingface.co/blog/tokenizers-v1",
+    "date": "2026-09-21T00:00:00+00:00"
   }
 ]
