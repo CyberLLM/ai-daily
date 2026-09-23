@@ -1,42 +1,42 @@
 [
   {
-    "title": "Modele Gemini uczestniczyły we włamaniach do firm",
-    "summary": "Google potwierdził, że w maju 2026 roku modele Gemini uczestniczyły we włamaniach do trzech firm. To konkretny przypadek wykorzystania zaawansowanego AI w rzeczywistych cyberatakach.",
-    "so_what": "Firmy muszą objąć systemy AI kontrolami dostępu i monitoringiem właściwymi dla narzędzi ofensywnych.",
-    "category": "Safety",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/"
-  },
-  {
-    "title": "Kalifornia zaostrza zasady dla centrów danych AI",
-    "summary": "Kalifornia zaostrzyła przepisy dotyczące zużycia energii i wody przez centra danych AI. Nowe reguły obejmują dwa kluczowe zasoby potrzebne do rozbudowy infrastruktury obliczeniowej.",
-    "so_what": "Ograniczenia środowiskowe mogą podnieść koszty i spowolnić budowę nowych centrów danych AI w Kalifornii.",
-    "category": "Regulation",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills"
-  },
-  {
-    "title": "AMD dołącza do klubu bilionowych spółek",
-    "summary": "AMD dołączyło do grona spółek wycenianych na bilion dolarów. Producent chipów jednocześnie zmniejsza rynkowy dystans do Nvidii.",
-    "so_what": "Rosnąca pozycja AMD może wzmocnić konkurencję na rynku układów wykorzystywanych do AI.",
-    "category": "Business",
-    "source": "The Register",
-    "url": "https://www.theregister.com/systems/2026/09/21/perpetual-underdog-amd-nips-at-nvidias-heels-as-it-joins-the-1t-club/5297998"
-  },
-  {
-    "title": "OpenAI powołuje radę do spraw matematyki",
-    "summary": "OpenAI utworzyło grupę doradczą do spraw matematyki i sztucznej inteligencji. Systemy firmy miały rozwiązać ponad 100 otwartych problemów matematycznych.",
-    "so_what": "Formalna współpraca z matematykami może przyspieszyć ocenę i weryfikację naukowych osiągnięć modeli AI.",
-    "category": "Research",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"
-  },
-  {
-    "title": "Model Nvidii może zbliżyć ZEA do USA",
-    "summary": "Bezpłatny model AI Nvidii może zacieśnić technologiczne związki ZEA ze Stanami Zjednoczonymi. Udostępnienie modelu łączy strategię produktową z rywalizacją o wpływy.",
-    "so_what": "Bezpłatne modele AI stają się narzędziem budowania międzynarodowych sojuszy technologicznych.",
+    "title": "Anthropic i OpenAI obniżają koszt nowych modeli",
+    "summary": "Anthropic i OpenAI zaprezentowały nowe modele AI. Obie firmy obiecują nieco większe możliwości za znacznie niższą cenę.",
+    "so_what": "Spadek cen może przyspieszyć wdrażanie zaawansowanych modeli i zaostrzyć konkurencję między ich dostawcami.",
     "category": "Models",
-    "source": "Rest of World",
-    "url": "https://restofworld.org/2026/nvidia-open-source-ai-models-uae/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/"
+  },
+  {
+    "title": "Wycena Snorkel AI wzrosła do 3,5 mld dolarów",
+    "summary": "Snorkel AI potroił wycenę do 3,5 mld dolarów. Wzrost napędza rosnący popyt na dane do trenowania AI.",
+    "so_what": "Kapitał nadal płynie do firm dostarczających dane, które pozostają kluczowym elementem rozwoju modeli.",
+    "category": "Business",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
+  },
+  {
+    "title": "Malware samodzielnie wybiera działania z pomocą AI",
+    "summary": "Atakujący system Windows malware CLOSEDQUORUM wykorzystuje modele AI. Autonomicznie dobiera działania podejmowane po przejęciu systemu.",
+    "so_what": "AI może zwiększać samodzielność cyberataków, ograniczając potrzebę ręcznego sterowania przez napastników.",
+    "category": "Safety",
+    "source": "The Register",
+    "url": "https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435"
+  },
+  {
+    "title": "Qualcomm wprowadza dwa chipy smartfonowe z AI",
+    "summary": "Qualcomm zaprezentował dwa nowe układy przeznaczone do smartfonów. Firma kładzie w nich szczególny nacisk na funkcje AI.",
+    "so_what": "Nowe chipy mogą rozszerzyć zakres zadań AI wykonywanych bezpośrednio na urządzeniach mobilnych.",
+    "category": "Infrastructure",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/"
+  },
+  {
+    "title": "UK AISI i EvalEval zwiększają powtarzalność benchmarków",
+    "summary": "UK AISI i EvalEval pracują nad możliwością odtwarzania wyników benchmarków AI. Ma to ułatwić niezależne sprawdzanie rezultatów testów.",
+    "so_what": "Powtarzalne benchmarki pozwalają wiarygodniej porównywać modele i wykrywać zawyżone deklaracje ich twórców.",
+    "category": "Research",
+    "source": "Hugging Face",
+    "url": "https://huggingface.co/blog/evaleval-aisi"
   }
 ]
