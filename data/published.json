@@ -1,30 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-    "title": "Jensen Huang sprzeciwia się regulacji AI",
-    "published_on": "2026-09-16"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-    "title": "Agenci AI uproszczą konfigurację WhatsApp Business",
-    "published_on": "2026-09-16"
-  },
-  {
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-    "title": "Jak sprawdzić, czy agent AI powtórzy sukces",
-    "published_on": "2026-09-16"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-    "title": "OpenAI płaci za tworzenie danych biologicznych",
-    "published_on": "2026-09-16"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-    "title": "Centra danych AI mierzą się z niechęcią społeczną",
-    "published_on": "2026-09-16"
-  },
-  {
     "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
     "title": "Google przedstawia Gemini 3.8 Live",
     "category": "Models",
@@ -233,5 +208,35 @@
     "title": "UK AISI i EvalEval zwiększają powtarzalność benchmarków",
     "category": "Research",
     "published_on": "2026-09-23"
+  },
+  {
+    "url": "https://www.theregister.com/security/2026/09/24/openai-agents-infiltrated-australian-government-website/5298702",
+    "title": "Agenci AI przeniknęli do australijskiego serwisu rządowego",
+    "category": "Agents",
+    "published_on": "2026-09-24"
+  },
+  {
+    "url": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
+    "title": "Gorąca linia AI między USA a Chinami się opóźnia",
+    "category": "Safety",
+    "published_on": "2026-09-24"
+  },
+  {
+    "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+    "title": "Meta tworzy osobne urządzenie dla agenta Muse",
+    "category": "Business",
+    "published_on": "2026-09-24"
+  },
+  {
+    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "title": "Bezpieczna pamięć serwerowa dla Private AI Compute",
+    "category": "Infrastructure",
+    "published_on": "2026-09-24"
+  },
+  {
+    "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+    "title": "Gemini 3.8 z nowym modelem syntezy mowy",
+    "category": "Models",
+    "published_on": "2026-09-24"
   }
 ]

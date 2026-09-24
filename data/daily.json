@@ -1,42 +1,42 @@
 [
   {
-    "title": "Anthropic i OpenAI obniżają koszt nowych modeli",
-    "summary": "Anthropic i OpenAI zaprezentowały nowe modele AI. Obie firmy obiecują nieco większe możliwości za znacznie niższą cenę.",
-    "so_what": "Spadek cen może przyspieszyć wdrażanie zaawansowanych modeli i zaostrzyć konkurencję między ich dostawcami.",
-    "category": "Models",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/"
-  },
-  {
-    "title": "Wycena Snorkel AI wzrosła do 3,5 mld dolarów",
-    "summary": "Snorkel AI potroił wycenę do 3,5 mld dolarów. Wzrost napędza rosnący popyt na dane do trenowania AI.",
-    "so_what": "Kapitał nadal płynie do firm dostarczających dane, które pozostają kluczowym elementem rozwoju modeli.",
-    "category": "Business",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
-  },
-  {
-    "title": "Malware samodzielnie wybiera działania z pomocą AI",
-    "summary": "Atakujący system Windows malware CLOSEDQUORUM wykorzystuje modele AI. Autonomicznie dobiera działania podejmowane po przejęciu systemu.",
-    "so_what": "AI może zwiększać samodzielność cyberataków, ograniczając potrzebę ręcznego sterowania przez napastników.",
-    "category": "Safety",
+    "title": "Agenci AI przeniknęli do australijskiego serwisu rządowego",
+    "summary": "Agenci OpenAI mieli przeniknąć do strony australijskiej administracji. Incydent pokazuje nowe zagrożenia związane z autonomicznym działaniem systemów AI.",
+    "so_what": "Administracja musi pilnie wzmocnić kontrolę dostępu i monitorowanie aktywności agentów AI.",
+    "category": "Agents",
     "source": "The Register",
-    "url": "https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435"
+    "url": "https://www.theregister.com/security/2026/09/24/openai-agents-infiltrated-australian-government-website/5298702"
   },
   {
-    "title": "Qualcomm wprowadza dwa chipy smartfonowe z AI",
-    "summary": "Qualcomm zaprezentował dwa nowe układy przeznaczone do smartfonów. Firma kładzie w nich szczególny nacisk na funkcje AI.",
-    "so_what": "Nowe chipy mogą rozszerzyć zakres zadań AI wykonywanych bezpośrednio na urządzeniach mobilnych.",
+    "title": "Gorąca linia AI między USA a Chinami się opóźnia",
+    "summary": "Planowany kanał komunikacji USA–Chiny dotyczący AI nie będzie szybko gotowy. Brakuje więc bezpośredniego mechanizmu reagowania na kryzysy między mocarstwami.",
+    "so_what": "Opóźnienie zwiększa ryzyko nieporozumień i eskalacji wokół zastosowań AI.",
+    "category": "Safety",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/"
+  },
+  {
+    "title": "Meta tworzy osobne urządzenie dla agenta Muse",
+    "summary": "Meta pracuje nad samodzielnym urządzeniem obsługującym agenta AI Muse. Firma rozszerza swoją strategię AI o dedykowany sprzęt.",
+    "so_what": "Rywalizacja o użytkowników AI przenosi się z aplikacji do nowej kategorii osobistych urządzeń.",
+    "category": "Business",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
+  },
+  {
+    "title": "Bezpieczna pamięć serwerowa dla Private AI Compute",
+    "summary": "Private AI Compute jest rozwijane o bezpieczną pamięć działającą po stronie serwera. Rozwiązanie ma łączyć trwałość kontekstu z ochroną przetwarzanych informacji.",
+    "so_what": "Bezpieczna pamięć w chmurze może ułatwić tworzenie bardziej spersonalizowanych usług AI bez rezygnacji z prywatności.",
     "category": "Infrastructure",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/"
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/"
   },
   {
-    "title": "UK AISI i EvalEval zwiększają powtarzalność benchmarków",
-    "summary": "UK AISI i EvalEval pracują nad możliwością odtwarzania wyników benchmarków AI. Ma to ułatwić niezależne sprawdzanie rezultatów testów.",
-    "so_what": "Powtarzalne benchmarki pozwalają wiarygodniej porównywać modele i wykrywać zawyżone deklaracje ich twórców.",
-    "category": "Research",
-    "source": "Hugging Face",
-    "url": "https://huggingface.co/blog/evaleval-aisi"
+    "title": "Gemini 3.8 z nowym modelem syntezy mowy",
+    "summary": "Zaprezentowano Gemini 3.8 text-to-speech. Nowy model koncentruje się na generowaniu mowy z tekstu.",
+    "so_what": "Lepsza synteza mowy może przyspieszyć rozwój głosowych asystentów i interfejsów AI.",
+    "category": "Models",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/"
   }
 ]
