@@ -1,43 +1,147 @@
 [
   {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "At Meta Connect, the company’s smart glasses were everywhere",
+    "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+    "date": "2026-09-26T01:08:57+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "date": "2026-09-25T23:11:10+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "date": "2026-09-25T22:20:47+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+    "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+    "date": "2026-09-25T21:36:20+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+    "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+    "date": "2026-09-25T21:10:51+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+    "url": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+    "date": "2026-09-25T20:30:40+00:00"
+  },
+  {
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma",
+    "url": "https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925",
+    "date": "2026-09-25T20:15:00+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+    "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+    "date": "2026-09-25T19:11:05+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "url": "https://openai.com/index/proaction",
+    "date": "2026-09-25T19:00:00+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "Quoting John Gruber",
+    "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+    "date": "2026-09-25T17:22:01+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+    "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+    "date": "2026-09-25T16:58:20+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Meta makes the Muse filesystem even more accessible",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+    "date": "2026-09-25T16:49:53+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Sony and UMG are suing Suno again",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+    "date": "2026-09-25T15:51:56+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "One company is at the center of a wave of rogue AI attacks",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+    "date": "2026-09-25T15:39:48+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "date": "2026-09-25T09:16:25+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "Huawei Cloud Rolls Out Enterprise AI Products Across the Board, Building an Open Agentic Cloud",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/25/partner-content-huawei-cloud-rolls-out-enterprise-ai-products-across-the-board-building-an-open-agentic-cloud/5298765",
+    "date": "2026-09-25T08:00:00+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
+    "url": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
+    "date": "2026-09-25T02:07:04+00:00"
+  },
+  {
     "source": "The Register",
     "kind": "press",
     "org": "The Register",
     "title": "Google Gemini can present cartoon or lifelike avatars to lip-sync generative chatter",
     "url": "https://www.theregister.com/ai-and-ml/2026/09/25/google-gemini-can-present-cartoon-or-lifelike-avatars-to-lip-sync-generative-chatter/5299016",
     "date": "2026-09-24T23:57:01+00:00"
-  },
-  {
-    "source": "MIT News",
-    "kind": "research",
-    "org": "MIT News",
-    "title": "Estimating suicide risk from text",
-    "url": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
-    "date": "2026-09-24T21:00:00+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "commit-rewriter 0.2",
-    "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
-    "date": "2026-09-24T20:06:53+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-    "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-    "date": "2026-09-24T19:59:26+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "Docker's new sandboxes aim to contain AI agents for real",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/24/dockers-new-sandboxes-aim-to-contain-ai-agents-for-real/5298964",
-    "date": "2026-09-24T19:51:26+00:00"
   },
   {
     "source": "Google Research",
@@ -48,163 +152,11 @@
     "date": "2026-09-24T19:40:00+00:00"
   },
   {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "I Think I Found an AI Agent Worth the Risk",
-    "url": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
-    "date": "2026-09-24T19:36:35+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "datasette 1.0a41",
-    "url": "https://simonwillison.net/2026/Sep/24/datasette/",
-    "date": "2026-09-24T19:15:23+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-    "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-    "date": "2026-09-24T19:15:00+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-    "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-    "date": "2026-09-24T19:00:42+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
-    "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
-    "date": "2026-09-24T18:20:58+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-    "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-    "date": "2026-09-24T18:11:44+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Jensen Huang talks about AI and climate change like a supervillain",
-    "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-    "date": "2026-09-24T18:04:44+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Meta is going to let you build games with AI right on your phone",
-    "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-    "date": "2026-09-24T17:52:29+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Google's first Suncatcher orbital data center test launches October 1",
-    "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
-    "date": "2026-09-24T16:16:34+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
-    "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
-    "date": "2026-09-24T16:01:16+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
-    "url": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
-    "date": "2026-09-24T16:00:00+00:00"
-  },
-  {
     "source": "Hugging Face",
     "kind": "vendor",
     "org": "Hugging Face",
     "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
     "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
     "date": "2026-09-24T14:08:57+00:00"
-  },
-  {
-    "source": "MIT News",
-    "kind": "research",
-    "org": "MIT News",
-    "title": "The promise and peril of using visual AI to study cities",
-    "url": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
-    "date": "2026-09-24T04:00:00+00:00"
-  },
-  {
-    "source": "Hugging Face",
-    "kind": "vendor",
-    "org": "Hugging Face",
-    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-    "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-    "date": "2026-09-23T18:41:40+00:00"
-  },
-  {
-    "source": "Google AI",
-    "kind": "vendor",
-    "org": "Google",
-    "title": "Google Beam expands with new regions, partners, and customers",
-    "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-    "date": "2026-09-23T18:00:00+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "Two years of OpenAI Academy",
-    "url": "https://openai.com/index/two-years-of-openai-academy",
-    "date": "2026-09-23T16:00:00+00:00"
-  },
-  {
-    "source": "NVIDIA",
-    "kind": "vendor",
-    "org": "NVIDIA",
-    "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
-    "url": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
-    "date": "2026-09-23T15:00:32+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-    "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-    "date": "2026-09-23T13:00:00+00:00"
-  },
-  {
-    "source": "Rest of World",
-    "kind": "press",
-    "org": "Rest of World",
-    "title": "Dario Amodei wants to slow AI. China isn’t taking orders",
-    "url": "https://restofworld.org/2026/china-rejects-dario-amodei-anthropic-ai-slowdown-trump-xi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-    "date": "2026-09-23T10:00:00+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "kind": "press",
-    "org": "MIT Technology Review",
-    "title": "The AI Hype Index: AI loves cheating",
-    "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-    "date": "2026-09-23T09:00:00+00:00"
   }
 ]
