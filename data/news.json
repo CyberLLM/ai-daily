@@ -3,31 +3,63 @@
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "At Meta Connect, the company’s smart glasses were everywhere",
-    "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-    "date": "2026-09-26T01:08:57+00:00"
+    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+    "date": "2026-09-27T01:30:00+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "Kākāpō Party",
+    "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+    "date": "2026-09-26T23:39:06+00:00"
   },
   {
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-    "date": "2026-09-25T23:11:10+00:00"
+    "title": "Insurers claim AI is already increasing healthcare costs",
+    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "date": "2026-09-26T21:02:06+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "OpenAI pauses training of its ‘most capable models’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+    "date": "2026-09-26T16:34:59+00:00"
   },
   {
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-    "date": "2026-09-25T22:20:47+00:00"
+    "title": "I created an interactive digital avatar of myself — and you can talk to it",
+    "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "date": "2026-09-26T14:00:00+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+    "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+    "date": "2026-09-26T14:00:00+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
+    "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
+    "date": "2026-09-26T10:30:00+00:00"
   },
   {
     "source": "Ars Technica",
     "kind": "press",
     "org": "Ars Technica",
-    "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+    "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
     "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
     "date": "2026-09-25T21:36:20+00:00"
   },
@@ -80,36 +112,12 @@
     "date": "2026-09-25T17:22:01+00:00"
   },
   {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-    "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
-    "date": "2026-09-25T16:58:20+00:00"
-  },
-  {
     "source": "The Verge",
     "kind": "press",
     "org": "The Verge",
     "title": "Meta makes the Muse filesystem even more accessible",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
     "date": "2026-09-25T16:49:53+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Sony and UMG are suing Suno again",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
-    "date": "2026-09-25T15:51:56+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "One company is at the center of a wave of rogue AI attacks",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-    "date": "2026-09-25T15:39:48+00:00"
   },
   {
     "source": "MIT Technology Review",
@@ -126,37 +134,5 @@
     "title": "Huawei Cloud Rolls Out Enterprise AI Products Across the Board, Building an Open Agentic Cloud",
     "url": "https://www.theregister.com/ai-and-ml/2026/09/25/partner-content-huawei-cloud-rolls-out-enterprise-ai-products-across-the-board-building-an-open-agentic-cloud/5298765",
     "date": "2026-09-25T08:00:00+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
-    "url": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
-    "date": "2026-09-25T02:07:04+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "Google Gemini can present cartoon or lifelike avatars to lip-sync generative chatter",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/25/google-gemini-can-present-cartoon-or-lifelike-avatars-to-lip-sync-generative-chatter/5299016",
-    "date": "2026-09-24T23:57:01+00:00"
-  },
-  {
-    "source": "Google Research",
-    "kind": "research",
-    "org": "Google",
-    "title": "Automating coherent long-form video generation",
-    "url": "https://research.google/blog/coherent-long-form-video-generation/",
-    "date": "2026-09-24T19:40:00+00:00"
-  },
-  {
-    "source": "Hugging Face",
-    "kind": "vendor",
-    "org": "Hugging Face",
-    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-    "date": "2026-09-24T14:08:57+00:00"
   }
 ]

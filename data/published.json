@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-    "title": "Gemini miało włamać się do trzech firm",
-    "category": "Safety",
-    "published_on": "2026-09-19"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-    "title": "OpenAI i Microsoft znały ryzyko dla otwartego internetu",
-    "category": "Society",
-    "published_on": "2026-09-19"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
-    "title": "Halucynacja AI niemal doprowadziła do ataku wojskowego",
-    "category": "Safety",
-    "published_on": "2026-09-19"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
-    "title": "FAA szykuje narzędzie AI za 875 mln dolarów",
-    "category": "Infrastructure",
-    "published_on": "2026-09-19"
-  },
-  {
-    "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-    "title": "Gavin Newsom forsuje wyłącznik awaryjny dla AI",
-    "category": "Regulation",
-    "published_on": "2026-09-19"
-  },
-  {
     "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
     "title": "Trump zapowiada „AI Force” i zmianę nazwy AI",
     "category": "Regulation",
@@ -238,5 +208,35 @@
     "title": "Google automatyzuje generowanie spójnych długich filmów",
     "category": "Research",
     "published_on": "2026-09-26"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+    "title": "OpenAI wstrzymuje trenowanie najpotężniejszych modeli",
+    "category": "Models",
+    "published_on": "2026-09-27"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+    "title": "Pentagon może wpisać Anthropic na czarną listę",
+    "category": "Regulation",
+    "published_on": "2026-09-27"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "title": "Pentagon chce 30 mln dolarów na wykrywacz kłamstw AI",
+    "category": "Safety",
+    "published_on": "2026-09-27"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+    "title": "Pracownicy Tesli nie chcą szkolić swoich robotycznych następców",
+    "category": "Robotics",
+    "published_on": "2026-09-27"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "title": "Ubezpieczyciele: AI podnosi koszty ochrony zdrowia",
+    "category": "Business",
+    "published_on": "2026-09-27"
   }
 ]

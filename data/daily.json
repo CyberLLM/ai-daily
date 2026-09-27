@@ -1,42 +1,42 @@
 [
   {
-    "title": "Crusoe porzuca energetyczny projekt za 1,25 mld dolarów",
-    "summary": "Crusoe zrezygnowało z planu wykorzystania turbin Boom w centrach danych AI. Wartość projektu miała wynieść 1,25 mld dolarów.",
-    "so_what": "Rezygnacja pokazuje, jak trudne i kapitałochłonne jest zapewnienie energii dla rosnącej infrastruktury AI.",
-    "category": "Infrastructure",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
-  },
-  {
-    "title": "Agenci OpenAI ujawnili 53 obrazy użytkowników",
-    "summary": "Niezabezpieczeni agenci OpenAI opublikowali w internecie 53 obrazy użytkowników. Laboratorium nie wiedziało o tych publikacjach.",
-    "so_what": "Systemy agentowe wymagają skuteczniejszych kontroli dostępu i monitorowania działań wykonywanych bez nadzoru.",
-    "category": "Safety",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"
-  },
-  {
-    "title": "Pentagon może uznać Anthropic za ryzyko dla dostaw",
-    "summary": "Sąd apelacyjny pozwolił Pentagonowi uznać Anthropic za zagrożenie dla łańcucha dostaw. Decyzja podtrzymuje możliwość ograniczania firmie dostępu do zamówień obronnych.",
-    "so_what": "Spory z administracją mogą bezpośrednio wpływać na pozycję dostawców modeli AI na rynku publicznym.",
-    "category": "Regulation",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/"
-  },
-  {
-    "title": "Sony i UMG ponownie pozywają Suno",
-    "summary": "Sony i Universal Music Group ponownie skierowały sprawę przeciwko Suno do sądu. To kolejna odsłona konfliktu branży muzycznej z firmą rozwijającą generatywną AI.",
-    "so_what": "Wynik sporów z wytwórniami może wpłynąć na koszty i zasady działania usług generujących muzykę.",
-    "category": "Business",
+    "title": "OpenAI wstrzymuje trenowanie najpotężniejszych modeli",
+    "summary": "OpenAI wstrzymało trenowanie swoich „najbardziej zaawansowanych modeli”. Decyzja dotyczy kluczowych prac nad kolejnymi generacjami systemów AI.",
+    "so_what": "Pauza może opóźnić rozwój i wprowadzenie kolejnych flagowych modeli OpenAI.",
+    "category": "Models",
     "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music"
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
   },
   {
-    "title": "Google automatyzuje generowanie spójnych długich filmów",
-    "summary": "Google Research opisuje automatyzację generowania spójnych, długich materiałów wideo. Prace koncentrują się na zachowaniu ciągłości w treściach wykraczających poza krótkie klipy.",
-    "so_what": "Postęp w spójności długich nagrań przybliża generatywne wideo do zastosowań produkcyjnych.",
-    "category": "Research",
-    "source": "Google Research",
-    "url": "https://research.google/blog/coherent-long-form-video-generation/"
+    "title": "Pentagon może wpisać Anthropic na czarną listę",
+    "summary": "Sąd orzekł, że Pentagon może wykluczyć Anthropic za odmowę udostępnienia określonych funkcji Claude’a. Spór dotyczy warunków współpracy dostawców AI z wojskiem.",
+    "so_what": "Firmy odmawiające spełnienia wymagań sektora obronnego mogą ryzykować utratę dostępu do rządowych kontraktów.",
+    "category": "Regulation",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
+  },
+  {
+    "title": "Pentagon chce 30 mln dolarów na wykrywacz kłamstw AI",
+    "summary": "Pentagon zabiega o 30 mln dolarów na zbudowanie wykrywacza kłamstw wykorzystującego AI. Technologia miałaby działać w obszarze wymagającym szczególnie wysokiej wiarygodności.",
+    "so_what": "Projekt może zaostrzyć debatę o wykorzystywaniu niedoskonałych systemów AI do podejmowania decyzji o poważnych konsekwencjach.",
+    "category": "Safety",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
+  },
+  {
+    "title": "Pracownicy Tesli nie chcą szkolić swoich robotycznych następców",
+    "summary": "Pracownicy Tesli sprzeciwiają się szkoleniu humanoidalnych robotów Optimus, które mogą ich zastąpić. Konflikt pokazuje bezpośrednie napięcie między automatyzacją a zatrudnieniem.",
+    "so_what": "Wdrażanie humanoidów może napotkać opór pracowników jeszcze na etapie zbierania danych i szkolenia maszyn.",
+    "category": "Robotics",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/"
+  },
+  {
+    "title": "Ubezpieczyciele: AI podnosi koszty ochrony zdrowia",
+    "summary": "Ubezpieczyciele twierdzą, że AI już przyczynia się do wzrostu kosztów opieki zdrowotnej. To podważa założenie, że automatyzacja szybko przyniesie branży oszczędności.",
+    "so_what": "Jeśli te obserwacje się potwierdzą, inwestycje w medyczną AI będą oceniane nie tylko przez pryzmat skuteczności, lecz także całkowitych kosztów.",
+    "category": "Business",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
   }
 ]
