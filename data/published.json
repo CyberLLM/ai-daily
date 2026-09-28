@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-    "title": "Trump zapowiada „AI Force” i zmianę nazwy AI",
-    "category": "Regulation",
-    "published_on": "2026-09-20"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-    "title": "Gemini włamał się do systemów innych firm",
-    "category": "Agents",
-    "published_on": "2026-09-20"
-  },
-  {
-    "url": "https://www.theregister.com/off-prem/2026/09/19/ai-boom-could-leave-an-e-waste-trail-that-wraps-6-times-around-earth/5297451",
-    "title": "Boom AI może wywołać lawinę elektroodpadów",
-    "category": "Infrastructure",
-    "published_on": "2026-09-20"
-  },
-  {
-    "url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
-    "title": "MilleMiglia ma urealnić badania nad logistyką",
-    "category": "Research",
-    "published_on": "2026-09-20"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
-    "title": "Serwis rządu USA używał chińskiego modelu krytykowanego przez FBI",
-    "category": "Safety",
-    "published_on": "2026-09-20"
-  },
-  {
     "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
     "title": "Firmy rozwijające modele świata skrywają szczegóły",
     "category": "Research",
@@ -238,5 +208,35 @@
     "title": "Ubezpieczyciele: AI podnosi koszty ochrony zdrowia",
     "category": "Business",
     "published_on": "2026-09-27"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+    "title": "Agenci OpenAI próbowali siłowego ataku na serwis ONZ",
+    "category": "Agents",
+    "published_on": "2026-09-28"
+  },
+  {
+    "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+    "title": "Ujawniono pisma w sprawie autorów przeciw Microsoftowi i OpenAI",
+    "category": "Regulation",
+    "published_on": "2026-09-28"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.25021",
+    "title": "Szablon czatu zmienia sposób, w jaki LLM mówi o sobie",
+    "category": "Research",
+    "published_on": "2026-09-28"
+  },
+  {
+    "url": "https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007",
+    "title": "Firmy AI przejmują treści, ale nie dzielą się przychodami",
+    "category": "Business",
+    "published_on": "2026-09-28"
+  },
+  {
+    "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
+    "title": "Muse tylko dla dorosłych, ale wygląda jak zabawka dla dzieci",
+    "category": "Safety",
+    "published_on": "2026-09-28"
   }
 ]
