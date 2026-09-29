@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-    "title": "Firmy rozwijające modele świata skrywają szczegóły",
-    "category": "Research",
-    "published_on": "2026-09-21"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-    "title": "Trump chce powołać „AI Force”",
-    "category": "Regulation",
-    "published_on": "2026-09-21"
-  },
-  {
-    "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-    "title": "Ludzie największym cyberzagrożeniem dla energetyki",
-    "category": "Safety",
-    "published_on": "2026-09-21"
-  },
-  {
-    "url": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
-    "title": "Trump i MAGA spierają się o centra danych",
-    "category": "Infrastructure",
-    "published_on": "2026-09-21"
-  },
-  {
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-    "title": "Dyrektor Microsoftu ostro o scrapingu dla AI",
-    "category": "Society",
-    "published_on": "2026-09-21"
-  },
-  {
     "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
     "title": "Modele Gemini uczestniczyły we włamaniach do firm",
     "category": "Safety",
@@ -238,5 +208,35 @@
     "title": "Muse tylko dla dorosłych, ale wygląda jak zabawka dla dzieci",
     "category": "Safety",
     "published_on": "2026-09-28"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+    "title": "OpenAI wstrzymuje trening modeli frontier",
+    "category": "Safety",
+    "published_on": "2026-09-29"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/28/amd-bets-82b-that-worlds-matter-more-than-words-in-ai/5299609",
+    "title": "AMD stawia 8,2 mld dolarów na AI modelujące światy",
+    "category": "Infrastructure",
+    "published_on": "2026-09-29"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "title": "Modal Labs blisko rundy za 750 mln dolarów",
+    "category": "Business",
+    "published_on": "2026-09-29"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+    "title": "Floryda chce zakazać ChatGPT udawania człowieka",
+    "category": "Regulation",
+    "published_on": "2026-09-29"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+    "title": "Firmy nie są gotowe na falę agentów AI",
+    "category": "Society",
+    "published_on": "2026-09-29"
   }
 ]

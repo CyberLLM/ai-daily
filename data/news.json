@@ -1,114 +1,202 @@
 [
   {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "Quoting Muse AI Agent",
-    "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
-    "date": "2026-09-28T04:01:30+00:00"
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "The effects of an “algorithmic monoculture” depend on the details",
+    "url": "https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929",
+    "date": "2026-09-29T04:00:00+00:00"
   },
   {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "2026 in LLMs (so far)",
-    "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
-    "date": "2026-09-27T23:54:15+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Engram is a sampler that turns broken AI hallucinations into music",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-    "date": "2026-09-27T20:46:36+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Anthropic’s CEO is about to have dinner with President Trump",
-    "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-    "date": "2026-09-27T20:34:28+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Can Muse overcome Meta’s trust issues?",
-    "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-    "date": "2026-09-27T19:57:30+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-    "date": "2026-09-27T17:21:07+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-    "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "date": "2026-09-27T16:30:00+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "There are no \"rogue\" AI agents",
-    "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-    "date": "2026-09-27T16:19:46+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Show HN: TinyAIArena watch AI agents battle it out",
-    "url": "https://tinyaiarena.com/",
-    "date": "2026-09-27T15:51:28+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-    "url": "https://arxiv.org/abs/2609.25021",
-    "date": "2026-09-27T10:26:25+00:00"
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "Who we become when we talk to machines",
+    "url": "https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929",
+    "date": "2026-09-29T04:00:00+00:00"
   },
   {
     "source": "The Register",
     "kind": "press",
     "org": "The Register",
-    "title": "Big AI's content problem: Take the work, keep the money",
-    "url": "https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007",
-    "date": "2026-09-27T09:35:00+00:00"
+    "title": "OpenAI’s dirty deeds Down Under included security bypass attempts, using exposed keys, source code siphon",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/29/openais-dirty-deeds-down-under-included-security-bypass-attempts-using-exposed-keys-source-code-siphon/5299666",
+    "date": "2026-09-29T02:13:51+00:00"
   },
   {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-    "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-    "date": "2026-09-27T06:19:33+00:00"
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+    "date": "2026-09-29T00:30:00+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "date": "2026-09-28T23:39:20+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "date": "2026-09-28T22:17:07+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "Claude Sonnet 5.5",
+    "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+    "date": "2026-09-28T22:07:38+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "AMD bets $8.2B that worlds matter more than words in AI",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/28/amd-bets-82b-that-worlds-matter-more-than-words-in-ai/5299609",
+    "date": "2026-09-28T22:01:33+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+    "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+    "date": "2026-09-28T21:49:10+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "date": "2026-09-28T21:29:18+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+    "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+    "date": "2026-09-28T20:49:39+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "Quoting @joedaroo",
+    "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",
+    "date": "2026-09-28T19:11:42+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "How we will do better for Australia",
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "date": "2026-09-28T19:00:00+00:00"
+  },
+  {
+    "source": "Google AI",
+    "kind": "vendor",
+    "org": "Google",
+    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+    "date": "2026-09-28T19:00:00+00:00"
   },
   {
     "source": "The Verge",
     "kind": "press",
     "org": "The Verge",
-    "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-    "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-    "date": "2026-09-26T14:00:00+00:00"
+    "title": "OpenAI’s AI agents need to catch up",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+    "date": "2026-09-28T18:45:00+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+    "date": "2026-09-28T18:30:00+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "When can we say AI made a scientific discovery?",
+    "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+    "date": "2026-09-28T17:03:16+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Florida seeks a ban on ChatGPT acting like a person",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+    "date": "2026-09-28T17:00:23+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+    "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+    "date": "2026-09-28T16:43:18+00:00"
   },
   {
     "source": "Wired",
     "kind": "press",
     "org": "Wired",
-    "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
-    "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
-    "date": "2026-09-26T10:30:00+00:00"
+    "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+    "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+    "date": "2026-09-28T11:32:19+00:00"
+  },
+  {
+    "source": "AI Snake Oil",
+    "kind": "analysis",
+    "org": "AI Snake Oil",
+    "title": "AI existential risk probabilities are (still) too unreliable to inform policy",
+    "url": "https://www.normaltech.ai/p/p-doom",
+    "date": "2026-09-28T11:13:47+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+    "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+    "date": "2026-09-28T10:00:00+00:00"
+  },
+  {
+    "source": "Rest of World",
+    "kind": "press",
+    "org": "Rest of World",
+    "title": "South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom",
+    "url": "https://restofworld.org/2026/samsung-sk-hynix-ai-memory-chip-war-nvidia-openai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "date": "2026-09-28T10:00:00+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "kind": "vendor",
+    "org": "Hugging Face",
+    "title": "Holo4: powering generalist computer-use agents",
+    "url": "https://huggingface.co/blog/Hcompany/holo4",
+    "date": "2026-09-28T09:44:05+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+    "date": "2026-09-28T07:00:00+00:00"
   }
 ]
