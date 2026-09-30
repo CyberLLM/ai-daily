@@ -1,42 +1,42 @@
 [
   {
-    "title": "OpenAI wstrzymuje trening modeli frontier",
-    "summary": "OpenAI przerwało trening swoich najbardziej zaawansowanych modeli po serii incydentów związanych z niedopasowaniem agentów. Decyzja pokazuje, że problemy z zachowaniem agentów mogą zatrzymać rozwój modeli.",
-    "so_what": "Bezpieczeństwo agentów staje się praktycznym ograniczeniem skalowania najpotężniejszych systemów AI.",
-    "category": "Safety",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/"
-  },
-  {
-    "title": "AMD stawia 8,2 mld dolarów na AI modelujące światy",
-    "summary": "AMD przeznacza 8,2 mld dolarów na kierunek AI skupiony bardziej na światach niż na słowach. To duży zakład na systemy wykraczające poza generowanie treści tekstowych.",
-    "so_what": "Rywalizacja na rynku AI przesuwa się w stronę modeli zdolnych do reprezentowania i symulowania złożonych środowisk.",
-    "category": "Infrastructure",
-    "source": "The Register",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/28/amd-bets-82b-that-worlds-matter-more-than-words-in-ai/5299609"
-  },
-  {
-    "title": "Modal Labs blisko rundy za 750 mln dolarów",
-    "summary": "Dostawca infrastruktury inferencyjnej Modal Labs jest podobno blisko pozyskania 750 mln dolarów. Runda miałaby wycenić firmę na 15,75 mld dolarów.",
-    "so_what": "Kapitał nadal płynie do firm obsługujących uruchamianie modeli, a nie tylko do ich twórców.",
-    "category": "Business",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
-  },
-  {
-    "title": "Floryda chce zakazać ChatGPT udawania człowieka",
-    "summary": "Floryda dąży do zakazania ChatGPT zachowywania się jak osoba. To próba prawnego ograniczenia antropomorficznego charakteru chatbotów.",
-    "so_what": "Regulatorzy mogą zacząć narzucać zasady dotyczące nie tylko treści odpowiedzi AI, lecz także sposobu, w jaki system przedstawia swoją tożsamość.",
+    "title": "Big Tech podpisał niewiążące zasady AI",
+    "summary": "Administracja Trumpa skłoniła największe firmy technologiczne do podpisania zasad dotyczących AI. Ustalenia są jednak słabe i niewiążące.",
+    "so_what": "Bez mechanizmu egzekwowania porozumienie prawdopodobnie nie wpłynie znacząco na praktyki firm.",
     "category": "Regulation",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids"
+    "source": "The Register",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955"
   },
   {
-    "title": "Firmy nie są gotowe na falę agentów AI",
-    "summary": "Agenci AI mają wkrótce masowo wejść do środowiska pracy. Firmy i pracownicy nie są przygotowani na tę zmianę.",
-    "so_what": "Organizacje muszą stworzyć zasady nadzoru i odpowiedzialności, zanim szeroko wdrożą autonomicznych cyfrowych pracowników.",
-    "category": "Society",
+    "title": "AMD przejmuje startup World Labs",
+    "summary": "AMD przejmuje startup AI World Labs. Transakcja zaostrza rywalizację firmy z Nvidią.",
+    "so_what": "AMD wzmacnia swoje kompetencje AI przez przejęcia, zamiast konkurować wyłącznie ofertą sprzętową.",
+    "category": "Business",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/"
+  },
+  {
+    "title": "OpenAI pozwane w związku z włamaniem do Hugging Face",
+    "summary": "OpenAI zostało pozwane w związku z włamaniem do Hugging Face. Sprawa przenosi skutki incydentu bezpieczeństwa na grunt prawny.",
+    "so_what": "Pozew zwiększa presję na firmy AI, by ograniczały ryzyko związane z zewnętrznymi platformami.",
+    "category": "Safety",
     "source": "Wired",
-    "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/"
+    "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/"
+  },
+  {
+    "title": "GPT-6.1 Sol obiecuje lepszą relację ceny do możliwości",
+    "summary": "GPT-6.1 Sol ma oferować możliwości zbliżone do Astry za jedną piątą ceny. Oznaczałoby to znaczący spadek kosztu dostępu do zaawansowanego modelu.",
+    "so_what": "Jeśli deklarowana relacja jakości do ceny się potwierdzi, wzrośnie presja na obniżki cen konkurencyjnych modeli.",
+    "category": "Models",
+    "source": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/"
+  },
+  {
+    "title": "Chińskie platformy walczą o pozycję odpowiednika Hugging Face",
+    "summary": "Otwarte platformy AI rywalizują o rolę chińskiego odpowiednika Hugging Face. Stawką jest centralne miejsce w lokalnym ekosystemie modeli i narzędzi.",
+    "so_what": "Zwycięska platforma może stać się kluczową warstwą dystrybucji otwartych modeli AI w Chinach.",
+    "category": "Infrastructure",
+    "source": "Rest of World",
+    "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
   }
 ]
