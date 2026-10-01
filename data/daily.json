@@ -1,42 +1,42 @@
 [
   {
-    "title": "Big Tech podpisał niewiążące zasady AI",
-    "summary": "Administracja Trumpa skłoniła największe firmy technologiczne do podpisania zasad dotyczących AI. Ustalenia są jednak słabe i niewiążące.",
-    "so_what": "Bez mechanizmu egzekwowania porozumienie prawdopodobnie nie wpłynie znacząco na praktyki firm.",
-    "category": "Regulation",
-    "source": "The Register",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955"
-  },
-  {
-    "title": "AMD przejmuje startup World Labs",
-    "summary": "AMD przejmuje startup AI World Labs. Transakcja zaostrza rywalizację firmy z Nvidią.",
-    "so_what": "AMD wzmacnia swoje kompetencje AI przez przejęcia, zamiast konkurować wyłącznie ofertą sprzętową.",
-    "category": "Business",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/"
-  },
-  {
-    "title": "OpenAI pozwane w związku z włamaniem do Hugging Face",
-    "summary": "OpenAI zostało pozwane w związku z włamaniem do Hugging Face. Sprawa przenosi skutki incydentu bezpieczeństwa na grunt prawny.",
-    "so_what": "Pozew zwiększa presję na firmy AI, by ograniczały ryzyko związane z zewnętrznymi platformami.",
-    "category": "Safety",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/"
-  },
-  {
-    "title": "GPT-6.1 Sol obiecuje lepszą relację ceny do możliwości",
-    "summary": "GPT-6.1 Sol ma oferować możliwości zbliżone do Astry za jedną piątą ceny. Oznaczałoby to znaczący spadek kosztu dostępu do zaawansowanego modelu.",
-    "so_what": "Jeśli deklarowana relacja jakości do ceny się potwierdzi, wzrośnie presja na obniżki cen konkurencyjnych modeli.",
+    "title": "Gemini 4 z ograniczonym dostępem",
+    "summary": "Google ogłosił model Gemini 4 i podkreśla jego wysokie możliwości. Początkowo dostęp mają otrzymać wyłącznie zaufani specjaliści od cyberobrony.",
+    "so_what": "Ograniczenie dostępu pokazuje, że możliwości cybernetyczne stają się kluczowym kryterium udostępniania modeli.",
     "category": "Models",
-    "source": "Simon Willison",
-    "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/"
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
   },
   {
-    "title": "Chińskie platformy walczą o pozycję odpowiednika Hugging Face",
-    "summary": "Otwarte platformy AI rywalizują o rolę chińskiego odpowiednika Hugging Face. Stawką jest centralne miejsce w lokalnym ekosystemie modeli i narzędzi.",
-    "so_what": "Zwycięska platforma może stać się kluczową warstwą dystrybucji otwartych modeli AI w Chinach.",
-    "category": "Infrastructure",
+    "title": "Plan Trumpa stawia na samokontrolę Big Tech",
+    "summary": "Plan Donalda Trumpa dotyczący zagrożeń AI opiera się na samokontroli największych firm technologicznych. To przenosi znaczną część odpowiedzialności za bezpieczeństwo na dostawców technologii.",
+    "so_what": "Skuteczność planu będzie zależała od tego, czy firmy rzeczywiście narzucą sobie i wyegzekwują rygorystyczne zasady.",
+    "category": "Regulation",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/"
+  },
+  {
+    "title": "Państwa potrzebują własnych testów bezpieczeństwa AI",
+    "summary": "Firmy AI chcą wbudowywać mechanizmy oceny bezpieczeństwa w swoje systemy. Poszczególne kraje potrzebują jednak także własnych narzędzi ewaluacyjnych.",
+    "so_what": "Państwa nie powinny opierać nadzoru nad AI wyłącznie na testach przygotowanych przez dostawców modeli.",
+    "category": "Safety",
     "source": "Rest of World",
-    "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+    "url": "https://restofworld.org/2026/ai-safety-independent-evaluation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+  },
+  {
+    "title": "Flow Engineering wyceniony na 750 mln dolarów",
+    "summary": "Valor, Atreides i Sequoia wsparły startup AI Flow Engineering. Firma osiągnęła wycenę 750 mln dolarów.",
+    "so_what": "Wysoka wycena sygnalizuje utrzymujący się apetyt inwestorów na młode firmy rozwijające AI.",
+    "category": "Business",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
+  },
+  {
+    "title": "Diffusion Controller upraszcza generowanie obrazów",
+    "summary": "Diffusion Controller ma ujednolicić i uprościć generowanie obrazów przez AI. Metoda proponuje wspólne podejście do sterowania modelami dyfuzyjnymi.",
+    "so_what": "Ujednolicenie mechanizmów sterowania może zmniejszyć złożoność rozwijania narzędzi do generowania obrazów.",
+    "category": "Research",
+    "source": "Google Research",
+    "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/"
   }
 ]

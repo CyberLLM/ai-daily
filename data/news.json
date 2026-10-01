@@ -1,43 +1,195 @@
 [
   {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+    "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+    "date": "2026-10-01T00:23:45+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "date": "2026-09-30T23:43:07+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "He Built This City",
+    "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
+    "date": "2026-09-30T21:54:19+00:00"
+  },
+  {
     "source": "The Register",
     "kind": "press",
     "org": "The Register",
-    "title": "Trump administration gets Big Tech to sign weak, non-binding, AI regulations",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955",
-    "date": "2026-09-30T02:11:23+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-    "date": "2026-09-30T00:19:13+00:00"
+    "title": "Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else",
+    "url": "https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285",
+    "date": "2026-09-30T21:36:00+00:00"
   },
   {
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-    "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-    "date": "2026-09-29T23:30:55+00:00"
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "date": "2026-09-30T21:07:40+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "Hot Dog! America's new chatbot is packed with wieners",
+    "url": "https://www.theregister.com/public-sector/2026/09/30/hot-dog-americas-new-chatbot-is-packed-with-wieners/5300292",
+    "date": "2026-09-30T21:07:03+00:00"
   },
   {
     "source": "The Verge",
     "kind": "press",
     "org": "The Verge",
-    "title": "Trump orders US government to call AI ‘Super Intelligence’",
-    "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-    "date": "2026-09-29T22:25:45+00:00"
+    "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+    "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+    "date": "2026-09-30T20:41:41+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+    "url": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+    "date": "2026-09-30T20:30:09+00:00"
+  },
+  {
+    "source": "Google DeepMind",
+    "kind": "vendor",
+    "org": "Google",
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "date": "2026-09-30T20:01:45+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+    "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+    "date": "2026-09-30T19:31:25+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "The Battle to Be Your Personal AI Agent Is Here",
+    "url": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+    "date": "2026-09-30T19:30:00+00:00"
   },
   {
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-    "date": "2026-09-29T22:20:59+00:00"
+    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "date": "2026-09-30T19:00:57+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+    "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+    "date": "2026-09-30T18:47:01+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+    "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+    "date": "2026-09-30T18:25:04+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "The AI Tamagotchis are coming",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+    "date": "2026-09-30T18:07:38+00:00"
+  },
+  {
+    "source": "NVIDIA",
+    "kind": "vendor",
+    "org": "NVIDIA",
+    "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
+    "url": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
+    "date": "2026-09-30T17:00:21+00:00"
+  },
+  {
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "MIT Transit Lab to develop an AI platform for public transit agencies",
+    "url": "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
+    "date": "2026-09-30T15:15:00+00:00"
+  },
+  {
+    "source": "Google DeepMind",
+    "kind": "vendor",
+    "org": "Google",
+    "title": "Introducing SynthID Bio",
+    "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "date": "2026-09-30T15:03:07+00:00"
+  },
+  {
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "This game-playing AI is the new champ at Stratego",
+    "url": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
+    "date": "2026-09-30T15:00:00+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+    "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+    "date": "2026-09-30T10:40:30+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "date": "2026-09-30T10:30:00+00:00"
+  },
+  {
+    "source": "Rest of World",
+    "kind": "press",
+    "org": "Rest of World",
+    "title": "AI companies want to embed safety evaluators, but countries need their own",
+    "url": "https://restofworld.org/2026/ai-safety-independent-evaluation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "date": "2026-09-30T10:00:00+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Helping small businesses put AI to work",
+    "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "date": "2026-09-30T10:00:00+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "kind": "vendor",
+    "org": "Hugging Face",
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "url": "https://huggingface.co/blog/open-tts-leaderboard",
+    "date": "2026-09-30T00:00:00+00:00"
   },
   {
     "source": "Simon Willison",
@@ -48,62 +200,6 @@
     "date": "2026-09-29T22:20:28+00:00"
   },
   {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Protests against OpenAI get increasingly creative",
-    "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
-    "date": "2026-09-29T21:52:58+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Elon Musk’s AI-powered Grokipedia is updating again",
-    "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-    "date": "2026-09-29T21:49:09+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "Add one more AI worry to the nightmare scenario: self-replicating prompt injections",
-    "url": "https://www.theregister.com/security/2026/09/29/add-one-more-ai-worry-to-the-nightmare-scenario-self-replicating-prompt-injections/5299922",
-    "date": "2026-09-29T21:34:39+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-    "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
-    "date": "2026-09-29T21:14:49+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "OpenAI’s latest features take direct aim at the app store model",
-    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-    "date": "2026-09-29T20:15:47+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "AI needs $6T in annual revenue to justify data centre boom",
-    "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
-    "date": "2026-09-29T19:21:25+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "OpenAI Gets Sued Over the Hugging Face Hack",
-    "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
-    "date": "2026-09-29T19:05:00+00:00"
-  },
-  {
     "source": "Google Research",
     "kind": "research",
     "org": "Google",
@@ -112,139 +208,11 @@
     "date": "2026-09-29T18:38:27+00:00"
   },
   {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-    "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
-    "date": "2026-09-29T18:27:48+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
-    "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
-    "date": "2026-09-29T18:11:09+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
-    "url": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
-    "date": "2026-09-29T18:03:01+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "DraftKings is using AI to behaviorally target chronic gamblers",
-    "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-    "date": "2026-09-29T16:30:48+00:00"
-  },
-  {
-    "source": "Hugging Face",
-    "kind": "vendor",
-    "org": "Hugging Face",
-    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-    "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-    "date": "2026-09-29T15:30:38+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
-    "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
-    "date": "2026-09-29T14:15:24+00:00"
-  },
-  {
-    "source": "Hugging Face",
-    "kind": "vendor",
-    "org": "Hugging Face",
-    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-    "date": "2026-09-29T13:07:00+00:00"
-  },
-  {
     "source": "MIT Technology Review",
     "kind": "press",
     "org": "MIT Technology Review",
     "title": "Making AI an asset, not an expense",
     "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
     "date": "2026-09-29T10:43:45+00:00"
-  },
-  {
-    "source": "Rest of World",
-    "kind": "press",
-    "org": "Rest of World",
-    "title": "The open-source AI platforms vying to become China’s Hugging Face",
-    "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-    "date": "2026-09-29T10:00:00+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "Introducing GPT-6.1 Sol",
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "date": "2026-09-29T10:00:00+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "DevDay 2026 Recap",
-    "url": "https://openai.com/index/devday-2026-recap",
-    "date": "2026-09-29T10:00:00+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-    "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-    "date": "2026-09-29T09:03:41+00:00"
-  },
-  {
-    "source": "MIT News",
-    "kind": "research",
-    "org": "MIT News",
-    "title": "The effects of an “algorithmic monoculture” depend on the details",
-    "url": "https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929",
-    "date": "2026-09-29T04:00:00+00:00"
-  },
-  {
-    "source": "MIT News",
-    "kind": "research",
-    "org": "MIT News",
-    "title": "Who we become when we talk to machines",
-    "url": "https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929",
-    "date": "2026-09-29T04:00:00+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "kind": "press",
-    "org": "MIT Technology Review",
-    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "date": "2026-09-28T22:17:07+00:00"
-  },
-  {
-    "source": "Google AI",
-    "kind": "vendor",
-    "org": "Google",
-    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-    "date": "2026-09-28T19:00:00+00:00"
-  },
-  {
-    "source": "AI Snake Oil",
-    "kind": "analysis",
-    "org": "AI Snake Oil",
-    "title": "AI existential risk probabilities are (still) too unreliable to inform policy",
-    "url": "https://www.normaltech.ai/p/p-doom",
-    "date": "2026-09-28T11:13:47+00:00"
   }
 ]
