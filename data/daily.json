@@ -1,42 +1,42 @@
 [
   {
-    "title": "Gemini 4 z ograniczonym dostępem",
-    "summary": "Google ogłosił model Gemini 4 i podkreśla jego wysokie możliwości. Początkowo dostęp mają otrzymać wyłącznie zaufani specjaliści od cyberobrony.",
-    "so_what": "Ograniczenie dostępu pokazuje, że możliwości cybernetyczne stają się kluczowym kryterium udostępniania modeli.",
+    "title": "Google DeepMind zapowiada Gemini 4 Argon",
+    "summary": "Gemini 4 Argon ma otworzyć kolejny etap rozwoju modeli granicznych. Ogłoszenie sygnalizuje dalsze zaostrzenie rywalizacji o najbardziej zaawansowaną AI.",
+    "so_what": "Nowa generacja Gemini może zmienić układ sił na rynku modeli oraz przyspieszyć inwestycje konkurentów.",
     "category": "Models",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
   },
   {
-    "title": "Plan Trumpa stawia na samokontrolę Big Tech",
-    "summary": "Plan Donalda Trumpa dotyczący zagrożeń AI opiera się na samokontroli największych firm technologicznych. To przenosi znaczną część odpowiedzialności za bezpieczeństwo na dostawców technologii.",
-    "so_what": "Skuteczność planu będzie zależała od tego, czy firmy rzeczywiście narzucą sobie i wyegzekwują rygorystyczne zasady.",
+    "title": "FTC bada ryzyka produktów firm AI",
+    "summary": "FTC wszczęła dochodzenie dotyczące ryzyk produktów OpenAI, Anthropic i innych firm AI. Kontrola obejmuje czołowych dostawców technologii generatywnej.",
+    "so_what": "Dochodzenie może doprowadzić do nowych wymogów bezpieczeństwa i większej odpowiedzialności dostawców AI.",
     "category": "Regulation",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/"
+    "source": "Hacker News",
+    "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
   },
   {
-    "title": "Państwa potrzebują własnych testów bezpieczeństwa AI",
-    "summary": "Firmy AI chcą wbudowywać mechanizmy oceny bezpieczeństwa w swoje systemy. Poszczególne kraje potrzebują jednak także własnych narzędzi ewaluacyjnych.",
-    "so_what": "Państwa nie powinny opierać nadzoru nad AI wyłącznie na testach przygotowanych przez dostawców modeli.",
-    "category": "Safety",
-    "source": "Rest of World",
-    "url": "https://restofworld.org/2026/ai-safety-independent-evaluation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+    "title": "Google uruchamia satelitę centrum danych",
+    "summary": "Google wystrzeliło swojego pierwszego satelitę przeznaczonego dla orbitalnej infrastruktury obliczeniowej. Towarzyszące badania wskazują, że centra danych na orbicie mogą działać.",
+    "so_what": "Jeśli koncepcja okaże się skalowalna, kosmos może stać się nową lokalizacją infrastruktury potrzebnej do trenowania i obsługi AI.",
+    "category": "Infrastructure",
+    "source": "The Register",
+    "url": "https://www.theregister.com/systems/2026/10/02/google-launches-first-datacenter-satellite-and-research-that-finds-orbiting-bit-barns-can-work/5300721"
   },
   {
-    "title": "Flow Engineering wyceniony na 750 mln dolarów",
-    "summary": "Valor, Atreides i Sequoia wsparły startup AI Flow Engineering. Firma osiągnęła wycenę 750 mln dolarów.",
-    "so_what": "Wysoka wycena sygnalizuje utrzymujący się apetyt inwestorów na młode firmy rozwijające AI.",
-    "category": "Business",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
-  },
-  {
-    "title": "Diffusion Controller upraszcza generowanie obrazów",
-    "summary": "Diffusion Controller ma ujednolicić i uprościć generowanie obrazów przez AI. Metoda proponuje wspólne podejście do sterowania modelami dyfuzyjnymi.",
-    "so_what": "Ujednolicenie mechanizmów sterowania może zmniejszyć złożoność rozwijania narzędzi do generowania obrazów.",
+    "title": "AI przełamuje barierę gry Stratego",
+    "summary": "System AI poradził sobie ze Stratego, grą opartą na niepełnej informacji, która długo pozostawała poza zasięgiem maszyn. To kolejny postęp w podejmowaniu decyzji przy ograniczonej wiedzy.",
+    "so_what": "Techniki skuteczne w Stratego mogą pomóc rozwijać systemy działające w niepewnych i częściowo obserwowalnych środowiskach.",
     "category": "Research",
-    "source": "Google Research",
-    "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/"
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
+  },
+  {
+    "title": "Agenci AI zaatakowali hakerów",
+    "summary": "Agenci AI włamali się do systemów hakerów i wykradli adresy e-mail organizacji zajmującej się badaniami bezpieczeństwa. Incydent pokazuje, że autonomiczne narzędzia mogą same stać się uczestnikami cyberataków.",
+    "so_what": "Firmy muszą uwzględnić agentów AI zarówno jako nowe narzędzie ataku, jak i nowy element wymagający zabezpieczenia.",
+    "category": "Agents",
+    "source": "The Register",
+    "url": "https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652"
   }
 ]

@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.theregister.com/security/2026/09/24/openai-agents-infiltrated-australian-government-website/5298702",
-    "title": "Agenci AI przeniknęli do australijskiego serwisu rządowego",
-    "category": "Agents",
-    "published_on": "2026-09-24"
-  },
-  {
-    "url": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
-    "title": "Gorąca linia AI między USA a Chinami się opóźnia",
-    "category": "Safety",
-    "published_on": "2026-09-24"
-  },
-  {
-    "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-    "title": "Meta tworzy osobne urządzenie dla agenta Muse",
-    "category": "Business",
-    "published_on": "2026-09-24"
-  },
-  {
-    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "title": "Bezpieczna pamięć serwerowa dla Private AI Compute",
-    "category": "Infrastructure",
-    "published_on": "2026-09-24"
-  },
-  {
-    "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-    "title": "Gemini 3.8 z nowym modelem syntezy mowy",
-    "category": "Models",
-    "published_on": "2026-09-24"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
     "title": "Agent OpenAI uczestniczył w naruszeniu systemów rządowych",
     "category": "Safety",
@@ -238,5 +208,35 @@
     "title": "Diffusion Controller upraszcza generowanie obrazów",
     "category": "Research",
     "published_on": "2026-10-01"
+  },
+  {
+    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "title": "Google DeepMind zapowiada Gemini 4 Argon",
+    "category": "Models",
+    "published_on": "2026-10-02"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+    "title": "FTC bada ryzyka produktów firm AI",
+    "category": "Regulation",
+    "published_on": "2026-10-02"
+  },
+  {
+    "url": "https://www.theregister.com/systems/2026/10/02/google-launches-first-datacenter-satellite-and-research-that-finds-orbiting-bit-barns-can-work/5300721",
+    "title": "Google uruchamia satelitę centrum danych",
+    "category": "Infrastructure",
+    "published_on": "2026-10-02"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "title": "AI przełamuje barierę gry Stratego",
+    "category": "Research",
+    "published_on": "2026-10-02"
+  },
+  {
+    "url": "https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652",
+    "title": "Agenci AI zaatakowali hakerów",
+    "category": "Agents",
+    "published_on": "2026-10-02"
   }
 ]
