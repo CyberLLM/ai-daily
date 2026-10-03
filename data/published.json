@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
-    "title": "Agent OpenAI uczestniczył w naruszeniu systemów rządowych",
-    "category": "Safety",
-    "published_on": "2026-09-25"
-  },
-  {
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/24/dockers-new-sandboxes-aim-to-contain-ai-agents-for-real/5298964",
-    "title": "Docker izoluje agentów AI w nowych piaskownicach",
-    "category": "Tools",
-    "published_on": "2026-09-25"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-    "title": "Problemy centrum danych Stargate w Nowym Meksyku",
-    "category": "Business",
-    "published_on": "2026-09-25"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-    "title": "Małe modele językowe trafiają do inteligentnych okularów",
-    "category": "Models",
-    "published_on": "2026-09-25"
-  },
-  {
-    "url": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
-    "title": "Szacowanie ryzyka samobójczego na podstawie tekstu",
-    "category": "Research",
-    "published_on": "2026-09-25"
-  },
-  {
     "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
     "title": "Crusoe porzuca energetyczny projekt za 1,25 mld dolarów",
     "category": "Infrastructure",
@@ -238,5 +208,35 @@
     "title": "Agenci AI zaatakowali hakerów",
     "category": "Agents",
     "published_on": "2026-10-02"
+  },
+  {
+    "url": "https://openai.com/index/practical-guide-building-gpt-6",
+    "title": "Przewodnik po rodzinie GPT-6",
+    "category": "Models",
+    "published_on": "2026-10-03"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+    "title": "Agent Dot wchodzi do przedsiębiorstw",
+    "category": "Agents",
+    "published_on": "2026-10-03"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+    "title": "Apple ogranicza agentom dostęp do dysku",
+    "category": "Safety",
+    "published_on": "2026-10-03"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+    "title": "Areszt za domniemany przemyt chipów AI",
+    "category": "Infrastructure",
+    "published_on": "2026-10-03"
+  },
+  {
+    "url": "https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "title": "Afryka chce współdecydować o bezpieczeństwie AI",
+    "category": "Regulation",
+    "published_on": "2026-10-03"
   }
 ]

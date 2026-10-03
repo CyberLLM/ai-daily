@@ -1,5 +1,189 @@
 [
   {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Meta wants your next gadget to be Muse-infused",
+    "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "date": "2026-10-03T00:45:39+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+    "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+    "date": "2026-10-02T23:03:16+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "date": "2026-10-02T21:09:14+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Meta open sources code to let you make Muse AI gadgets",
+    "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+    "date": "2026-10-02T21:08:37+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+    "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+    "date": "2026-10-02T20:30:27+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+    "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+    "date": "2026-10-02T20:08:40+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "Shut up and take our money: Amazon plows $1B into quashing datacenter dissent",
+    "url": "https://www.theregister.com/systems/2026/10/02/shut-up-and-take-our-money-amazon-plows-1b-into-quashing-datacenter-dissent/5300914",
+    "date": "2026-10-02T19:30:56+00:00"
+  },
+  {
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "Computational tools for society’s most complex challenges",
+    "url": "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002",
+    "date": "2026-10-02T19:30:00+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "date": "2026-10-02T19:15:51+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+    "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+    "date": "2026-10-02T18:39:36+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "arXiv imposes rate limit on paper submissions to stem the AI slop tide",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899",
+    "date": "2026-10-02T18:02:32+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+    "date": "2026-10-02T18:00:00+00:00"
+  },
+  {
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "Documenting the tech worker movement",
+    "url": "https://news.mit.edu/2026/documenting-tech-worker-movement-0918",
+    "date": "2026-10-02T17:00:00+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "A model guide for the GPT-6 family",
+    "url": "https://openai.com/index/practical-guide-building-gpt-6",
+    "date": "2026-10-02T16:15:00+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+    "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+    "date": "2026-10-02T16:00:00+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "Redefining enterprise intelligence with autonomous AI",
+    "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "date": "2026-10-02T15:49:04+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "kind": "vendor",
+    "org": "Hugging Face",
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "url": "https://huggingface.co/blog/allenai/astabrief",
+    "date": "2026-10-02T15:19:50+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+    "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
+    "date": "2026-10-02T15:00:00+00:00"
+  },
+  {
+    "source": "Google AI",
+    "kind": "vendor",
+    "org": "Google",
+    "title": "The latest AI news we announced in September 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "date": "2026-10-02T15:00:00+00:00"
+  },
+  {
+    "source": "Google Research",
+    "kind": "research",
+    "org": "Google",
+    "title": "Toward provably private learning from federated data",
+    "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+    "date": "2026-10-02T14:57:41+00:00"
+  },
+  {
+    "source": "NVIDIA",
+    "kind": "vendor",
+    "org": "NVIDIA",
+    "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+    "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+    "date": "2026-10-02T13:00:39+00:00"
+  },
+  {
+    "source": "Rest of World",
+    "kind": "press",
+    "org": "Rest of World",
+    "title": "Who gets to decide if AI is safe? Africa wants a say",
+    "url": "https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "date": "2026-10-02T10:00:00+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "Don’t be fooled—LLMs don’t reason",
+    "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+    "date": "2026-10-02T08:00:00+00:00"
+  },
+  {
     "source": "Hugging Face",
     "kind": "vendor",
     "org": "Hugging Face",
@@ -8,116 +192,12 @@
     "date": "2026-10-02T04:01:31+00:00"
   },
   {
-    "source": "MIT News",
-    "kind": "research",
-    "org": "MIT News",
-    "title": "3 Questions: A new resource to empower young entrepreneurs",
-    "url": "https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002",
-    "date": "2026-10-02T04:00:00+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "Google launches first datacenter satellite and research that finds orbiting bit barns can work",
-    "url": "https://www.theregister.com/systems/2026/10/02/google-launches-first-datacenter-satellite-and-research-that-finds-orbiting-bit-barns-can-work/5300721",
-    "date": "2026-10-02T02:08:45+00:00"
-  },
-  {
-    "source": "NVIDIA",
-    "kind": "vendor",
-    "org": "NVIDIA",
-    "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-    "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
-    "date": "2026-10-01T23:44:13+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "Whatever AI Safety Is, It’s Not This",
-    "url": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
-    "date": "2026-10-01T22:10:42+00:00"
-  },
-  {
-    "source": "MIT News",
-    "kind": "research",
-    "org": "MIT News",
-    "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
-    "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
-    "date": "2026-10-01T22:00:00+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "AI agents hacked the hackers, stealing email addresses from security research org",
-    "url": "https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652",
-    "date": "2026-10-01T21:26:42+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
-    "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-    "date": "2026-10-01T21:08:11+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
-    "date": "2026-10-01T19:58:31+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Google’s new Guided Vision feature can help you read the fine print",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-    "date": "2026-10-01T19:47:51+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "ChatGPT can now virtually try on clothes for you",
-    "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-    "date": "2026-10-01T19:21:53+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-    "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-    "date": "2026-10-01T19:18:03+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Vote on which of Hacker News' challenges for AI have been met",
-    "url": "https://stoppels.ch/goalposts/",
-    "date": "2026-10-01T17:32:43+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-    "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-    "date": "2026-10-01T17:12:21+00:00"
-  },
-  {
     "source": "OpenAI",
     "kind": "vendor",
     "org": "OpenAI",
-    "title": "The eternal complement",
-    "url": "https://openai.com/index/the-eternal-complement",
-    "date": "2026-10-01T17:00:00+00:00"
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "url": "https://openai.com/index/chatham-financial",
+    "date": "2026-10-02T00:00:00+00:00"
   },
   {
     "source": "AI Snake Oil",
@@ -128,107 +208,11 @@
     "date": "2026-10-01T16:34:51+00:00"
   },
   {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "With most information hidden, the game Stratego had stumped AI—until now",
-    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-    "date": "2026-10-01T16:28:04+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "How Albertsons Companies is reimagining retail from the inside out",
-    "url": "https://openai.com/index/albertsons-reimagining-retail",
-    "date": "2026-10-01T16:00:00+00:00"
-  },
-  {
-    "source": "Hugging Face",
-    "kind": "vendor",
-    "org": "Hugging Face",
-    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-    "url": "https://huggingface.co/blog/allenai/olmocore3",
-    "date": "2026-10-01T15:01:43+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-    "date": "2026-10-01T14:36:50+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-    "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-    "date": "2026-10-01T13:00:55+00:00"
-  },
-  {
     "source": "Simon Willison",
     "kind": "analysis",
     "org": "Simon Willison",
     "title": "Quoting Matthew Green",
     "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
     "date": "2026-10-01T06:29:01+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "He Built This City",
-    "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
-    "date": "2026-09-30T21:54:19+00:00"
-  },
-  {
-    "source": "Google DeepMind",
-    "kind": "vendor",
-    "org": "Google",
-    "title": "Gemini 4 Argon: our next era of frontier intelligence",
-    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "date": "2026-09-30T20:01:45+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "CS240 AI Cheating Retrospective",
-    "url": "https://turkeyland.net/thoughts/ai.php",
-    "date": "2026-09-30T19:54:29+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
-    "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
-    "date": "2026-09-30T19:31:25+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
-    "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
-    "date": "2026-09-30T18:25:04+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "The AI Race Just Got Awkward",
-    "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
-    "date": "2026-09-30T15:50:11+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "kind": "press",
-    "org": "MIT Technology Review",
-    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-    "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-    "date": "2026-09-30T10:40:30+00:00"
   }
 ]

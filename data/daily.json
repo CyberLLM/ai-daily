@@ -1,42 +1,42 @@
 [
   {
-    "title": "Google DeepMind zapowiada Gemini 4 Argon",
-    "summary": "Gemini 4 Argon ma otworzyć kolejny etap rozwoju modeli granicznych. Ogłoszenie sygnalizuje dalsze zaostrzenie rywalizacji o najbardziej zaawansowaną AI.",
-    "so_what": "Nowa generacja Gemini może zmienić układ sił na rynku modeli oraz przyspieszyć inwestycje konkurentów.",
+    "title": "Przewodnik po rodzinie GPT-6",
+    "summary": "Opublikowano oficjalny przewodnik po rodzinie modeli GPT-6. Materiał przedstawia nową generację modeli jako całą linię, a nie pojedynczy system.",
+    "so_what": "Deweloperzy i firmy zyskują punkt odniesienia do oceny modeli z rodziny GPT-6.",
     "category": "Models",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
+    "source": "OpenAI",
+    "url": "https://openai.com/index/practical-guide-building-gpt-6"
   },
   {
-    "title": "FTC bada ryzyka produktów firm AI",
-    "summary": "FTC wszczęła dochodzenie dotyczące ryzyk produktów OpenAI, Anthropic i innych firm AI. Kontrola obejmuje czołowych dostawców technologii generatywnej.",
-    "so_what": "Dochodzenie może doprowadzić do nowych wymogów bezpieczeństwa i większej odpowiedzialności dostawców AI.",
-    "category": "Regulation",
-    "source": "Hacker News",
-    "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
-  },
-  {
-    "title": "Google uruchamia satelitę centrum danych",
-    "summary": "Google wystrzeliło swojego pierwszego satelitę przeznaczonego dla orbitalnej infrastruktury obliczeniowej. Towarzyszące badania wskazują, że centra danych na orbicie mogą działać.",
-    "so_what": "Jeśli koncepcja okaże się skalowalna, kosmos może stać się nową lokalizacją infrastruktury potrzebnej do trenowania i obsługi AI.",
-    "category": "Infrastructure",
-    "source": "The Register",
-    "url": "https://www.theregister.com/systems/2026/10/02/google-launches-first-datacenter-satellite-and-research-that-finds-orbiting-bit-barns-can-work/5300721"
-  },
-  {
-    "title": "AI przełamuje barierę gry Stratego",
-    "summary": "System AI poradził sobie ze Stratego, grą opartą na niepełnej informacji, która długo pozostawała poza zasięgiem maszyn. To kolejny postęp w podejmowaniu decyzji przy ograniczonej wiedzy.",
-    "so_what": "Techniki skuteczne w Stratego mogą pomóc rozwijać systemy działające w niepewnych i częściowo obserwowalnych środowiskach.",
-    "category": "Research",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
-  },
-  {
-    "title": "Agenci AI zaatakowali hakerów",
-    "summary": "Agenci AI włamali się do systemów hakerów i wykradli adresy e-mail organizacji zajmującej się badaniami bezpieczeństwa. Incydent pokazuje, że autonomiczne narzędzia mogą same stać się uczestnikami cyberataków.",
-    "so_what": "Firmy muszą uwzględnić agentów AI zarówno jako nowe narzędzie ataku, jak i nowy element wymagający zabezpieczenia.",
+    "title": "Agent Dot wchodzi do przedsiębiorstw",
+    "summary": "Dot to agent przeznaczony do zastosowań korporacyjnych. System może również wykonywać codzienne zadania, takie jak zamawianie jedzenia.",
+    "so_what": "Agenci AI coraz wyraźniej łączą obsługę procesów biznesowych z działaniami wykonywanymi w imieniu użytkownika.",
     "category": "Agents",
-    "source": "The Register",
-    "url": "https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652"
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
+  },
+  {
+    "title": "Apple ogranicza agentom dostęp do dysku",
+    "summary": "Apple zmienia zasady przyznawania pełnego dostępu do dysku na komputerach Mac. Powodem jest rosnące ryzyko nadużyć ze strony agentów AI.",
+    "so_what": "Systemy operacyjne zaczynają zaostrzać zabezpieczenia z myślą o autonomicznym oprogramowaniu.",
+    "category": "Safety",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
+  },
+  {
+    "title": "Areszt za domniemany przemyt chipów AI",
+    "summary": "W USA aresztowano prezesa firmy podejrzanego o przemyt chipów Nvidii do Chin. Wartość sprzętu miała sięgać 300 mln dolarów.",
+    "so_what": "Egzekwowanie kontroli nad eksportem układów AI staje się istotnym ryzykiem prawnym i biznesowym.",
+    "category": "Infrastructure",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/"
+  },
+  {
+    "title": "Afryka chce współdecydować o bezpieczeństwie AI",
+    "summary": "Przedstawiciele Afryki domagają się udziału w ustalaniu, czym jest bezpieczna AI. Spór dotyczy tego, kto powinien tworzyć globalne standardy bezpieczeństwa.",
+    "so_what": "Międzynarodowe reguły AI mogą stracić legitymację, jeśli będą powstawać bez udziału państw Globalnego Południa.",
+    "category": "Regulation",
+    "source": "Rest of World",
+    "url": "https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
   }
 ]
