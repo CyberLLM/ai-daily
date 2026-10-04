@@ -1,42 +1,42 @@
 [
   {
-    "title": "Przewodnik po rodzinie GPT-6",
-    "summary": "Opublikowano oficjalny przewodnik po rodzinie modeli GPT-6. Materiał przedstawia nową generację modeli jako całą linię, a nie pojedynczy system.",
-    "so_what": "Deweloperzy i firmy zyskują punkt odniesienia do oceny modeli z rodziny GPT-6.",
-    "category": "Models",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/practical-guide-building-gpt-6"
-  },
-  {
-    "title": "Agent Dot wchodzi do przedsiębiorstw",
-    "summary": "Dot to agent przeznaczony do zastosowań korporacyjnych. System może również wykonywać codzienne zadania, takie jak zamawianie jedzenia.",
-    "so_what": "Agenci AI coraz wyraźniej łączą obsługę procesów biznesowych z działaniami wykonywanymi w imieniu użytkownika.",
-    "category": "Agents",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
-  },
-  {
-    "title": "Apple ogranicza agentom dostęp do dysku",
-    "summary": "Apple zmienia zasady przyznawania pełnego dostępu do dysku na komputerach Mac. Powodem jest rosnące ryzyko nadużyć ze strony agentów AI.",
-    "so_what": "Systemy operacyjne zaczynają zaostrzać zabezpieczenia z myślą o autonomicznym oprogramowaniu.",
-    "category": "Safety",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
-  },
-  {
-    "title": "Areszt za domniemany przemyt chipów AI",
-    "summary": "W USA aresztowano prezesa firmy podejrzanego o przemyt chipów Nvidii do Chin. Wartość sprzętu miała sięgać 300 mln dolarów.",
-    "so_what": "Egzekwowanie kontroli nad eksportem układów AI staje się istotnym ryzykiem prawnym i biznesowym.",
+    "title": "Plan Amazona za 1 mld dolarów wywołuje kolejny sprzeciw",
+    "summary": "Amazon chce przeznaczyć 1 mld dolarów na ograniczenie sprzeciwu wobec centrów danych. Sam plan spotkał się jednak z dalszą krytyką.",
+    "so_what": "Rosnący opór społeczny może zwiększać koszty i opóźniać rozbudowę infrastruktury potrzebnej do rozwoju AI.",
     "category": "Infrastructure",
     "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/"
+    "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/"
   },
   {
-    "title": "Afryka chce współdecydować o bezpieczeństwie AI",
-    "summary": "Przedstawiciele Afryki domagają się udziału w ustalaniu, czym jest bezpieczna AI. Spór dotyczy tego, kto powinien tworzyć globalne standardy bezpieczeństwa.",
-    "so_what": "Międzynarodowe reguły AI mogą stracić legitymację, jeśli będą powstawać bez udziału państw Globalnego Południa.",
-    "category": "Regulation",
-    "source": "Rest of World",
-    "url": "https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+    "title": "Pracownik ds. bezpieczeństwa odchodzi z OpenAI",
+    "summary": "Pracownik odpowiedzialny za bezpieczeństwo AI zrezygnował z pracy w OpenAI. Twierdzi, że kultura organizacyjna firmy jest zepsuta.",
+    "so_what": "Publiczne odejście specjalisty ds. bezpieczeństwa pogłębia pytania o wewnętrzny nadzór nad rozwojem najbardziej zaawansowanych modeli.",
+    "category": "Safety",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
+  },
+  {
+    "title": "Mythos Anthropic tropi podatności dzięki matematyce",
+    "summary": "Model Mythos firmy Anthropic ma skutecznie wyszukiwać błędy, wykorzystując silne zdolności matematyczne. Jego możliwości pokazuje przypadek najnowszej podatności będącej celem ataków.",
+    "so_what": "Zaawansowane modele mogą stać się ważnym narzędziem do szybszego wykrywania i analizowania luk w zabezpieczeniach.",
+    "category": "Tools",
+    "source": "The Register",
+    "url": "https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933"
+  },
+  {
+    "title": "W stronę federacyjnego uczenia z dowodami prywatności",
+    "summary": "Badacze pracują nad metodami uczenia z rozproszonych danych, które mają zapewniać formalnie dowodliwą prywatność. Podejście łączy federacyjne uczenie z mocniejszymi gwarancjami ochrony informacji.",
+    "so_what": "Takie metody mogą ułatwić trenowanie modeli na wrażliwych danych bez ich centralnego gromadzenia.",
+    "category": "Research",
+    "source": "Google Research",
+    "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/"
+  },
+  {
+    "title": "Capcom przygotowuje się na wspólne tworzenie gier z AI",
+    "summary": "Capcom zakłada przyszłość, w której gry będą powstawać przy współudziale AI. To sygnał strategicznego zainteresowania generatywnymi narzędziami w dużym studiu.",
+    "so_what": "Upowszechnienie AI może zmienić proces produkcji gier, role zespołów kreatywnych i ekonomikę całej branży.",
+    "category": "Business",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development"
   }
 ]
