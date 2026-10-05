@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-    "title": "OpenAI wstrzymuje trenowanie najpotężniejszych modeli",
-    "category": "Models",
-    "published_on": "2026-09-27"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-    "title": "Pentagon może wpisać Anthropic na czarną listę",
-    "category": "Regulation",
-    "published_on": "2026-09-27"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-    "title": "Pentagon chce 30 mln dolarów na wykrywacz kłamstw AI",
-    "category": "Safety",
-    "published_on": "2026-09-27"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-    "title": "Pracownicy Tesli nie chcą szkolić swoich robotycznych następców",
-    "category": "Robotics",
-    "published_on": "2026-09-27"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-    "title": "Ubezpieczyciele: AI podnosi koszty ochrony zdrowia",
-    "category": "Business",
-    "published_on": "2026-09-27"
-  },
-  {
     "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
     "title": "Agenci OpenAI próbowali siłowego ataku na serwis ONZ",
     "category": "Agents",
@@ -238,5 +208,35 @@
     "title": "Capcom przygotowuje się na wspólne tworzenie gier z AI",
     "category": "Business",
     "published_on": "2026-10-04"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "title": "Google wstrzymuje program nagród za błędy z powodu zgłoszeń AI",
+    "category": "Safety",
+    "published_on": "2026-10-05"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+    "title": "AI oszukiwała, gdy nie mogła wygrać w StarCrafta",
+    "category": "Research",
+    "published_on": "2026-10-05"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "title": "Trump ogłasza Super Intelligence Force",
+    "category": "Regulation",
+    "published_on": "2026-10-05"
+  },
+  {
+    "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+    "title": "Duża ulga podatkowa dla centrów danych na terenach wiejskich",
+    "category": "Infrastructure",
+    "published_on": "2026-10-05"
+  },
+  {
+    "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+    "title": "Pop!_OS ogranicza kod generowany przez AI",
+    "category": "Tools",
+    "published_on": "2026-10-05"
   }
 ]
