@@ -1,130 +1,162 @@
 [
   {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-    "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-    "date": "2026-10-04T20:31:07+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-    "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-    "date": "2026-10-04T20:08:34+00:00"
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "Quoting Felix Rieseberg",
+    "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+    "date": "2026-10-05T23:56:47+00:00"
   },
   {
     "source": "The Verge",
     "kind": "press",
     "org": "The Verge",
-    "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-    "date": "2026-10-04T16:16:04+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-    "date": "2026-10-04T15:21:59+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Trump unveils his new Super Intelligence Force",
-    "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-    "date": "2026-10-04T15:15:10+00:00"
+    "title": "Gemini Call for Me might tell your mom you’re running late",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+    "date": "2026-10-05T23:09:55+00:00"
   },
   {
     "source": "The Register",
     "kind": "press",
     "org": "The Register",
-    "title": "Fulcrum Echo promises AI text in the style of any writer, so I tested it",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/04/fulcrum-echo-promises-ai-text-in-the-style-of-any-writer-so-i-tested-it/5300944",
-    "date": "2026-10-04T15:15:00+00:00"
+    "title": "Schneider Electric drops $22.6B on PTC as datacenter boom rains money on infra companies",
+    "url": "https://www.theregister.com/systems/2026/10/05/schneider-electric-acquires-ptc-for-226-billion/5301254",
+    "date": "2026-10-05T22:48:15+00:00"
   },
   {
-    "source": "Wired",
+    "source": "Ars Technica",
     "kind": "press",
-    "org": "Wired",
-    "title": "Rural Data Centers Are in for a Big Federal Tax Break",
-    "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
-    "date": "2026-10-04T10:00:00+00:00"
+    "org": "Ars Technica",
+    "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+    "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+    "date": "2026-10-05T22:26:35+00:00"
   },
   {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Show HN: AI search for every photo and every frame of video on macOS",
-    "url": "https://github.com/allenv0/SCM",
-    "date": "2026-10-04T09:24:52+00:00"
+    "source": "Google Research",
+    "kind": "research",
+    "org": "Google",
+    "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
+    "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
+    "date": "2026-10-05T21:08:31+00:00"
   },
   {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Religious scholars met with Anthropic",
-    "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-    "date": "2026-10-04T02:34:22+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "We're going to need default hard budget caps on pretty much everything",
-    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-    "date": "2026-10-03T23:34:02+00:00"
-  },
-  {
-    "source": "Hugging Face",
-    "kind": "vendor",
-    "org": "Hugging Face",
-    "title": "The Agent Said It Was Done. The Database Disagreed.",
-    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-    "date": "2026-10-03T22:56:48+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "September sponsors-only newsletter",
-    "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
-    "date": "2026-10-03T22:00:31+00:00"
-  },
-  {
-    "source": "Wired",
+    "source": "TechCrunch",
     "kind": "press",
-    "org": "Wired",
-    "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-    "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-    "date": "2026-10-03T18:00:00+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Pop!_OS bans AI-generated code from much of its codebase",
-    "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
-    "date": "2026-10-03T17:57:03+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-    "date": "2026-10-03T17:44:29+00:00"
+    "org": "TechCrunch",
+    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "date": "2026-10-05T20:36:48+00:00"
   },
   {
     "source": "The Verge",
     "kind": "press",
     "org": "The Verge",
-    "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-    "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-    "date": "2026-10-03T15:00:00+00:00"
+    "title": "This startup is issuing AI-generated acne prescriptions",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+    "date": "2026-10-05T20:14:57+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "date": "2026-10-05T19:33:53+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "All the drama around AI’s takeover of mathematics",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+    "date": "2026-10-05T19:28:59+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this open source tool",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/05/get-rid-of-apples-ai-bloatware-and-reclaim-12-gb-of-storage-with-this-open-source-tool/5301213",
+    "date": "2026-10-05T19:24:19+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+    "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+    "date": "2026-10-05T19:14:44+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+    "date": "2026-10-05T18:54:30+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "Connecting AI agents to enterprise knowledge",
+    "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+    "date": "2026-10-05T15:47:52+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Our approach to EU text provenance rules",
+    "url": "https://openai.com/index/eu-text-provenance",
+    "date": "2026-10-05T15:00:00+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "AI glasses face their first major government crackdown",
+    "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+    "date": "2026-10-05T13:39:30+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "Bringing predictive analytics to the agentic AI era",
+    "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+    "date": "2026-10-05T13:29:32+00:00"
+  },
+  {
+    "source": "NVIDIA",
+    "kind": "vendor",
+    "org": "NVIDIA",
+    "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+    "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
+    "date": "2026-10-05T13:00:57+00:00"
+  },
+  {
+    "source": "Rest of World",
+    "kind": "press",
+    "org": "Rest of World",
+    "title": "The AI boom is making the world’s cheapest smartphones disappear",
+    "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "date": "2026-10-05T10:00:43+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Building advertising for the way people use AI",
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "date": "2026-10-05T10:00:00+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "Qwen3.8 27B addition in words",
+    "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+    "date": "2026-10-04T23:34:00+00:00"
   }
 ]

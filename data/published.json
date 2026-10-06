@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-    "title": "Agenci OpenAI próbowali siłowego ataku na serwis ONZ",
-    "category": "Agents",
-    "published_on": "2026-09-28"
-  },
-  {
-    "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-    "title": "Ujawniono pisma w sprawie autorów przeciw Microsoftowi i OpenAI",
-    "category": "Regulation",
-    "published_on": "2026-09-28"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.25021",
-    "title": "Szablon czatu zmienia sposób, w jaki LLM mówi o sobie",
-    "category": "Research",
-    "published_on": "2026-09-28"
-  },
-  {
-    "url": "https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007",
-    "title": "Firmy AI przejmują treści, ale nie dzielą się przychodami",
-    "category": "Business",
-    "published_on": "2026-09-28"
-  },
-  {
-    "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
-    "title": "Muse tylko dla dorosłych, ale wygląda jak zabawka dla dzieci",
-    "category": "Safety",
-    "published_on": "2026-09-28"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
     "title": "OpenAI wstrzymuje trening modeli frontier",
     "category": "Safety",
@@ -238,5 +208,35 @@
     "title": "Pop!_OS ogranicza kod generowany przez AI",
     "category": "Tools",
     "published_on": "2026-10-05"
+  },
+  {
+    "url": "https://www.theregister.com/systems/2026/10/05/schneider-electric-acquires-ptc-for-226-billion/5301254",
+    "title": "Schneider Electric przejmuje PTC za 22,6 mld dolarów",
+    "category": "Business",
+    "published_on": "2026-10-06"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+    "title": "MCP może być poważnym ryzykiem dla agentów AI",
+    "category": "Safety",
+    "published_on": "2026-10-06"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "title": "OpenAI będzie znakować teksty ChatGPT w UE",
+    "category": "Regulation",
+    "published_on": "2026-10-06"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "title": "Reflection prezentuje otwarty model Beam",
+    "category": "Models",
+    "published_on": "2026-10-06"
+  },
+  {
+    "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "title": "Boom na AI wypiera najtańsze smartfony",
+    "category": "Society",
+    "published_on": "2026-10-06"
   }
 ]
