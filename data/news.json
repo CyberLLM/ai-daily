@@ -3,81 +3,185 @@
     "source": "Simon Willison",
     "kind": "analysis",
     "org": "Simon Willison",
-    "title": "Quoting Felix Rieseberg",
-    "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
-    "date": "2026-10-05T23:56:47+00:00"
+    "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+    "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+    "date": "2026-10-07T00:16:45+00:00"
   },
   {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Gemini Call for Me might tell your mom you’re running late",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-    "date": "2026-10-05T23:09:55+00:00"
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "Quoting Victoria Kim",
+    "url": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
+    "date": "2026-10-06T23:58:56+00:00"
   },
   {
     "source": "The Register",
     "kind": "press",
     "org": "The Register",
-    "title": "Schneider Electric drops $22.6B on PTC as datacenter boom rains money on infra companies",
-    "url": "https://www.theregister.com/systems/2026/10/05/schneider-electric-acquires-ptc-for-226-billion/5301254",
-    "date": "2026-10-05T22:48:15+00:00"
+    "title": "Anthropic reconfigures its cool kids security program",
+    "url": "https://www.theregister.com/security/2026/10/07/anthropic-reconfigures-its-cool-kids-security-program/5301509",
+    "date": "2026-10-06T23:29:27+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "OpenAI drops another batch of mathematical breakthroughs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+    "date": "2026-10-06T23:26:38+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "date": "2026-10-06T22:34:03+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "Anthropic Claude subscription plan provides more value than OpenAI's, study says",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/06/anthropic-claude-subscription-plan-provides-more-value-than-openais-study-says/5301470",
+    "date": "2026-10-06T21:11:38+00:00"
+  },
+  {
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "Supercomputing researchers document evolution of AI hardware",
+    "url": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
+    "date": "2026-10-06T20:55:00+00:00"
   },
   {
     "source": "Ars Technica",
     "kind": "press",
     "org": "Ars Technica",
-    "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-    "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-    "date": "2026-10-05T22:26:35+00:00"
+    "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+    "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+    "date": "2026-10-06T20:50:32+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "How AI decision models could change content moderation",
+    "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+    "date": "2026-10-06T20:35:20+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "date": "2026-10-06T20:00:30+00:00"
+  },
+  {
+    "source": "Google DeepMind",
+    "kind": "vendor",
+    "org": "Google",
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "date": "2026-10-06T19:57:04+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
+    "url": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
+    "date": "2026-10-06T18:45:39+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
+    "url": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
+    "date": "2026-10-06T17:28:33+00:00"
+  },
+  {
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "Chris Bourg named vice provost and Barbara K. Ostrom (1978) Director of the MIT Libraries",
+    "url": "https://news.mit.edu/2026/chris-bourg-named-vice-provost-and-barbara-ostrom-director-mit-libraries-1006",
+    "date": "2026-10-06T17:00:00+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "We can’t just change the definition of ‘recording’",
+    "url": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+    "date": "2026-10-06T16:29:44+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "url": "https://openai.com/index/atlassian-partnership",
+    "date": "2026-10-06T16:00:00+00:00"
   },
   {
     "source": "Google Research",
     "kind": "research",
     "org": "Google",
-    "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
-    "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
-    "date": "2026-10-05T21:08:31+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-    "date": "2026-10-05T20:36:48+00:00"
+    "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
+    "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+    "date": "2026-10-06T15:05:11+00:00"
   },
   {
     "source": "The Verge",
     "kind": "press",
     "org": "The Verge",
-    "title": "This startup is issuing AI-generated acne prescriptions",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-    "date": "2026-10-05T20:14:57+00:00"
+    "title": "Google is about to remove free access to Gemini Flash and Pro",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+    "date": "2026-10-06T13:19:01+00:00"
   },
   {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-    "date": "2026-10-05T19:33:53+00:00"
+    "source": "NVIDIA",
+    "kind": "vendor",
+    "org": "NVIDIA",
+    "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+    "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
+    "date": "2026-10-06T13:00:19+00:00"
   },
   {
-    "source": "The Verge",
+    "source": "Ars Technica",
     "kind": "press",
-    "org": "The Verge",
-    "title": "All the drama around AI’s takeover of mathematics",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-    "date": "2026-10-05T19:28:59+00:00"
+    "org": "Ars Technica",
+    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+    "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+    "date": "2026-10-06T12:21:53+00:00"
   },
   {
-    "source": "The Register",
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "url": "https://openai.com/index/jump-trading",
+    "date": "2026-10-06T12:00:00+00:00"
+  },
+  {
+    "source": "Rest of World",
     "kind": "press",
-    "org": "The Register",
-    "title": "Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this open source tool",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/05/get-rid-of-apples-ai-bloatware-and-reclaim-12-gb-of-storage-with-this-open-source-tool/5301213",
-    "date": "2026-10-05T19:24:19+00:00"
+    "org": "Rest of World",
+    "title": "Not just AI. China is building technologies that challenge U.S. dominance",
+    "url": "https://restofworld.org/2026/china-america-tech-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "date": "2026-10-06T10:00:00+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "kind": "vendor",
+    "org": "Hugging Face",
+    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "date": "2026-10-06T06:44:39+00:00"
   },
   {
     "source": "Ars Technica",
@@ -88,14 +192,6 @@
     "date": "2026-10-05T19:14:44+00:00"
   },
   {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-    "date": "2026-10-05T18:54:30+00:00"
-  },
-  {
     "source": "MIT Technology Review",
     "kind": "press",
     "org": "MIT Technology Review",
@@ -104,59 +200,11 @@
     "date": "2026-10-05T15:47:52+00:00"
   },
   {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "Our approach to EU text provenance rules",
-    "url": "https://openai.com/index/eu-text-provenance",
-    "date": "2026-10-05T15:00:00+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "AI glasses face their first major government crackdown",
-    "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-    "date": "2026-10-05T13:39:30+00:00"
-  },
-  {
     "source": "MIT Technology Review",
     "kind": "press",
     "org": "MIT Technology Review",
     "title": "Bringing predictive analytics to the agentic AI era",
     "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
     "date": "2026-10-05T13:29:32+00:00"
-  },
-  {
-    "source": "NVIDIA",
-    "kind": "vendor",
-    "org": "NVIDIA",
-    "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
-    "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
-    "date": "2026-10-05T13:00:57+00:00"
-  },
-  {
-    "source": "Rest of World",
-    "kind": "press",
-    "org": "Rest of World",
-    "title": "The AI boom is making the world’s cheapest smartphones disappear",
-    "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-    "date": "2026-10-05T10:00:43+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "Building advertising for the way people use AI",
-    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-    "date": "2026-10-05T10:00:00+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "Qwen3.8 27B addition in words",
-    "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
-    "date": "2026-10-04T23:34:00+00:00"
   }
 ]
