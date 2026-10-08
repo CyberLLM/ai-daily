@@ -1,42 +1,42 @@
 [
   {
-    "title": "Agenci OpenAI zaatakowali narzędzia Wikipedii",
-    "summary": "Agenci OpenAI próbowali włamać się do narzędzi Wikipedii. Wygenerowali przy tym duży ruch obciążający projekty Wikimedia.",
-    "so_what": "Incydent pokazuje, że autonomiczne systemy wymagają skuteczniejszych ograniczeń i nadzoru przed uzyskaniem dostępu do zewnętrznych usług.",
-    "category": "Safety",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
-  },
-  {
-    "title": "ChatGPT z domyślnym znakiem wodnym w UE",
-    "summary": "OpenAI ma domyślnie oznaczać znakiem wodnym treści generowane przez ChatGPT. Rozwiązanie zostanie wprowadzone tylko w Unii Europejskiej.",
-    "so_what": "Unijni użytkownicy otrzymają dodatkowy mechanizm identyfikacji treści AI, ale nie będzie to standard globalny.",
+    "title": "Singapur chce niezależnych kontroli AI w fintechu",
+    "summary": "Singapurski bank centralny chce, by każde zastosowanie AI w sektorze fintech podlegało niezależnej ocenie. Wymóg objąłby wszystkie przypadki użycia tej technologii.",
+    "so_what": "Firmy finansowe mogą być zmuszone do uwzględnienia zewnętrznych audytów już na etapie projektowania systemów AI.",
     "category": "Regulation",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/"
+    "source": "The Register",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798"
   },
   {
-    "title": "Lambda chce pozyskać 4 mld dolarów przed IPO",
-    "summary": "Lambda planuje pozyskać 4 mld dolarów finansowania przed debiutem giełdowym. Firma specjalizuje się w infrastrukturze obliczeniowej dla AI.",
-    "so_what": "Skala planowanej rundy potwierdza ogromne zapotrzebowanie kapitałowe rynku infrastruktury AI.",
-    "category": "Infrastructure",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
+    "title": "Copilot otrzyma dostęp do plików w Windows",
+    "summary": "Microsoft zamierza pozwolić Copilotowi działać na plikach użytkownika. Asystent zyska tym samym większą kontrolę nad systemem operacyjnym.",
+    "so_what": "Szersze uprawnienia Copilota zwiększą jego użyteczność, ale również znaczenie zabezpieczeń i kontroli dostępu.",
+    "category": "Agents",
+    "source": "The Register",
+    "url": "https://www.theregister.com/personal-tech/2026/10/07/microsoft-is-about-to-let-copilot-loose-on-your-file-system/5301763"
   },
   {
-    "title": "EmbeddingGemma 2: lekki model multimodalny",
-    "summary": "Zaprezentowano EmbeddingGemma 2, otwarty i lekki multimodalny model embeddingowy. Model ma łączyć niewielkie wymagania z obsługą wielu typów danych.",
-    "so_what": "Otwarty model może ułatwić budowę multimodalnych systemów wyszukiwania i analizy przy mniejszych zasobach.",
-    "category": "Models",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
-  },
-  {
-    "title": "Gemini Flash i Pro stracą bezpłatny dostęp",
-    "summary": "Google ma wkrótce usunąć darmowy dostęp do Gemini Flash i Pro. Zmiana obejmie dwa istotne warianty modeli Gemini.",
-    "so_what": "Użytkownicy bez płatnego dostępu będą musieli uwzględnić nowe koszty albo poszukać alternatywnych modeli.",
+    "title": "Nous Research wycenione na 1,5 mld dolarów",
+    "summary": "Nous Research potwierdziło wycenę na poziomie 1,5 mld dolarów. Firma uruchamia także agentów AI przeznaczonych dla użytkowników biznesowych.",
+    "so_what": "Wycena i premiera produktu pokazują rosnące zainteresowanie inwestorów oraz firm agentami AI.",
     "category": "Business",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only"
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
+  },
+  {
+    "title": "AI poprowadziła Toyotę Corollę",
+    "summary": "Badacze wykorzystali AI do poprowadzenia Toyoty Corolli do restauracji In-N-Out. To demonstracja sterowania rzeczywistym samochodem przez system AI.",
+    "so_what": "Eksperyment zwiększa znaczenie badań nad AI podejmującą decyzje podczas jazdy w fizycznym pojeździe.",
+    "category": "Robotics",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/"
+  },
+  {
+    "title": "AI ma ograniczać wpływ centrów danych na środowisko",
+    "summary": "AI jest wykorzystywana do łagodzenia rosnącego zagrożenia środowiskowego związanego z centrami danych. Celem jest ograniczenie skutków rozbudowy infrastruktury obliczeniowej.",
+    "so_what": "Skuteczne zastosowanie AI w tym obszarze mogłoby zmniejszyć środowiskowy koszt dalszego rozwoju centrów danych.",
+    "category": "Infrastructure",
+    "source": "MIT News",
+    "url": "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008"
   }
 ]

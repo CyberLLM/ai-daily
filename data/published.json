@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955",
-    "title": "Big Tech podpisał niewiążące zasady AI",
-    "category": "Regulation",
-    "published_on": "2026-09-30"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
-    "title": "AMD przejmuje startup World Labs",
-    "category": "Business",
-    "published_on": "2026-09-30"
-  },
-  {
-    "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
-    "title": "OpenAI pozwane w związku z włamaniem do Hugging Face",
-    "category": "Safety",
-    "published_on": "2026-09-30"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
-    "title": "GPT-6.1 Sol obiecuje lepszą relację ceny do możliwości",
-    "category": "Models",
-    "published_on": "2026-09-30"
-  },
-  {
-    "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-    "title": "Chińskie platformy walczą o pozycję odpowiednika Hugging Face",
-    "category": "Infrastructure",
-    "published_on": "2026-09-30"
-  },
-  {
     "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
     "title": "Gemini 4 z ograniczonym dostępem",
     "category": "Models",
@@ -238,5 +208,35 @@
     "title": "Gemini Flash i Pro stracą bezpłatny dostęp",
     "category": "Business",
     "published_on": "2026-10-07"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798",
+    "title": "Singapur chce niezależnych kontroli AI w fintechu",
+    "category": "Regulation",
+    "published_on": "2026-10-08"
+  },
+  {
+    "url": "https://www.theregister.com/personal-tech/2026/10/07/microsoft-is-about-to-let-copilot-loose-on-your-file-system/5301763",
+    "title": "Copilot otrzyma dostęp do plików w Windows",
+    "category": "Agents",
+    "published_on": "2026-10-08"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "title": "Nous Research wycenione na 1,5 mld dolarów",
+    "category": "Business",
+    "published_on": "2026-10-08"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+    "title": "AI poprowadziła Toyotę Corollę",
+    "category": "Robotics",
+    "published_on": "2026-10-08"
+  },
+  {
+    "url": "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008",
+    "title": "AI ma ograniczać wpływ centrów danych na środowisko",
+    "category": "Infrastructure",
+    "published_on": "2026-10-08"
   }
 ]
