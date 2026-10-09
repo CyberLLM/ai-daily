@@ -1,42 +1,42 @@
 [
   {
-    "title": "Singapur chce niezależnych kontroli AI w fintechu",
-    "summary": "Singapurski bank centralny chce, by każde zastosowanie AI w sektorze fintech podlegało niezależnej ocenie. Wymóg objąłby wszystkie przypadki użycia tej technologii.",
-    "so_what": "Firmy finansowe mogą być zmuszone do uwzględnienia zewnętrznych audytów już na etapie projektowania systemów AI.",
-    "category": "Regulation",
-    "source": "The Register",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798"
+    "title": "Anthropic zaoferuje darmowe audyty bezpieczeństwa open source",
+    "summary": "Anthropic uruchamia bezpłatne skanowanie bezpieczeństwa projektów open source z wykorzystaniem AI. Inicjatywa ma pomóc wykrywać podatności w powszechnie używanym oprogramowaniu.",
+    "so_what": "Darmowe audyty mogą poprawić bezpieczeństwo całego ekosystemu, ale zwiększają też wpływ Anthropic na standardy ochrony kodu.",
+    "category": "Safety",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
   },
   {
-    "title": "Copilot otrzyma dostęp do plików w Windows",
-    "summary": "Microsoft zamierza pozwolić Copilotowi działać na plikach użytkownika. Asystent zyska tym samym większą kontrolę nad systemem operacyjnym.",
-    "so_what": "Szersze uprawnienia Copilota zwiększą jego użyteczność, ale również znaczenie zabezpieczeń i kontroli dostępu.",
-    "category": "Agents",
-    "source": "The Register",
-    "url": "https://www.theregister.com/personal-tech/2026/10/07/microsoft-is-about-to-let-copilot-loose-on-your-file-system/5301763"
-  },
-  {
-    "title": "Nous Research wycenione na 1,5 mld dolarów",
-    "summary": "Nous Research potwierdziło wycenę na poziomie 1,5 mld dolarów. Firma uruchamia także agentów AI przeznaczonych dla użytkowników biznesowych.",
-    "so_what": "Wycena i premiera produktu pokazują rosnące zainteresowanie inwestorów oraz firm agentami AI.",
-    "category": "Business",
+    "title": "Zwolnieni badacze OpenAI kwestionują zarzuty",
+    "summary": "Byli badacze bezpieczeństwa OpenAI odrzucają stawiane im zarzuty dotyczące niewłaściwego postępowania. Ostrzegają, że sprawa może zniechęcać innych pracowników do zgłaszania problemów.",
+    "so_what": "Konflikt może osłabić wewnętrzną kontrolę bezpieczeństwa w jednej z najważniejszych firm rozwijających AI.",
+    "category": "Safety",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
+    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
   },
   {
-    "title": "AI poprowadziła Toyotę Corollę",
-    "summary": "Badacze wykorzystali AI do poprowadzenia Toyoty Corolli do restauracji In-N-Out. To demonstracja sterowania rzeczywistym samochodem przez system AI.",
-    "so_what": "Eksperyment zwiększa znaczenie badań nad AI podejmującą decyzje podczas jazdy w fizycznym pojeździe.",
+    "title": "USA Today pozywa OpenAI",
+    "summary": "USA Today dołącza do wydawców pozywających OpenAI. Spór dotyczy relacji między twórcami treści a firmami rozwijającymi generatywną AI.",
+    "so_what": "Kolejny pozew zwiększa presję na wypracowanie zasad licencjonowania materiałów wykorzystywanych przez firmy AI.",
+    "category": "Regulation",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit"
+  },
+  {
+    "title": "Nvidia stawia na fizyczną AI",
+    "summary": "Nvidia inwestuje w fizyczną AI przeznaczoną między innymi dla robotaksówek i robotów humanoidalnych. Firma przedstawia bezpieczeństwo tych systemów jako jeden z głównych celów.",
+    "so_what": "Nvidia rozszerza swoją rolę z dostawcy infrastruktury obliczeniowej na kluczowego gracza rynku autonomicznych maszyn.",
     "category": "Robotics",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/"
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
   },
   {
-    "title": "AI ma ograniczać wpływ centrów danych na środowisko",
-    "summary": "AI jest wykorzystywana do łagodzenia rosnącego zagrożenia środowiskowego związanego z centrami danych. Celem jest ograniczenie skutków rozbudowy infrastruktury obliczeniowej.",
-    "so_what": "Skuteczne zastosowanie AI w tym obszarze mogłoby zmniejszyć środowiskowy koszt dalszego rozwoju centrów danych.",
+    "title": "Microsoft pokazuje sprzęt i Windows przygotowane na AI",
+    "summary": "Microsoft zaprezentował nowy sprzęt przystosowany do funkcji AI. Firma ogłosiła również zmiany w systemie Windows wspierające takie zastosowania.",
+    "so_what": "Integracja AI ze sprzętem i systemem operacyjnym może przyspieszyć jej upowszechnienie na komputerach osobistych.",
     "category": "Infrastructure",
-    "source": "MIT News",
-    "url": "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008"
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/"
   }
 ]
