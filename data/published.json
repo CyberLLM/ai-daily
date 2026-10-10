@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "title": "Google DeepMind zapowiada Gemini 4 Argon",
-    "category": "Models",
-    "published_on": "2026-10-02"
-  },
-  {
-    "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-    "title": "FTC bada ryzyka produktów firm AI",
-    "category": "Regulation",
-    "published_on": "2026-10-02"
-  },
-  {
-    "url": "https://www.theregister.com/systems/2026/10/02/google-launches-first-datacenter-satellite-and-research-that-finds-orbiting-bit-barns-can-work/5300721",
-    "title": "Google uruchamia satelitę centrum danych",
-    "category": "Infrastructure",
-    "published_on": "2026-10-02"
-  },
-  {
-    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-    "title": "AI przełamuje barierę gry Stratego",
-    "category": "Research",
-    "published_on": "2026-10-02"
-  },
-  {
-    "url": "https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652",
-    "title": "Agenci AI zaatakowali hakerów",
-    "category": "Agents",
-    "published_on": "2026-10-02"
-  },
-  {
     "url": "https://openai.com/index/practical-guide-building-gpt-6",
     "title": "Przewodnik po rodzinie GPT-6",
     "category": "Models",
@@ -238,5 +208,35 @@
     "title": "Microsoft pokazuje sprzęt i Windows przygotowane na AI",
     "category": "Infrastructure",
     "published_on": "2026-10-09"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "title": "Anthropic izoluje testy agentów AI od internetu",
+    "category": "Agents",
+    "published_on": "2026-10-10"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+    "title": "Ukraińskie drony wyłączyły rosyjskie centrum danych AI",
+    "category": "Infrastructure",
+    "published_on": "2026-10-10"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+    "title": "Agenci programistyczni tworzą więcej kodu, ale nie oprogramowania",
+    "category": "Research",
+    "published_on": "2026-10-10"
+  },
+  {
+    "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+    "title": "Wydawcy książek po cichu zwiększają użycie AI",
+    "category": "Business",
+    "published_on": "2026-10-10"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "title": "Zbyt mocno ufamy, że AI potrafi odmówić",
+    "category": "Safety",
+    "published_on": "2026-10-10"
   }
 ]

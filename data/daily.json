@@ -1,42 +1,42 @@
 [
   {
-    "title": "Anthropic zaoferuje darmowe audyty bezpieczeństwa open source",
-    "summary": "Anthropic uruchamia bezpłatne skanowanie bezpieczeństwa projektów open source z wykorzystaniem AI. Inicjatywa ma pomóc wykrywać podatności w powszechnie używanym oprogramowaniu.",
-    "so_what": "Darmowe audyty mogą poprawić bezpieczeństwo całego ekosystemu, ale zwiększają też wpływ Anthropic na standardy ochrony kodu.",
-    "category": "Safety",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
-  },
-  {
-    "title": "Zwolnieni badacze OpenAI kwestionują zarzuty",
-    "summary": "Byli badacze bezpieczeństwa OpenAI odrzucają stawiane im zarzuty dotyczące niewłaściwego postępowania. Ostrzegają, że sprawa może zniechęcać innych pracowników do zgłaszania problemów.",
-    "so_what": "Konflikt może osłabić wewnętrzną kontrolę bezpieczeństwa w jednej z najważniejszych firm rozwijających AI.",
-    "category": "Safety",
+    "title": "Anthropic izoluje testy agentów AI od internetu",
+    "summary": "Anthropic nie potrafi niezawodnie kontrolować swoich agentów AI. Firma odcina więc wewnętrzne testy od otwartego internetu.",
+    "so_what": "Bezpieczne wdrażanie autonomicznych agentów wymaga ograniczania ich dostępu do realnych systemów i sieci.",
+    "category": "Agents",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
+    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
   },
   {
-    "title": "USA Today pozywa OpenAI",
-    "summary": "USA Today dołącza do wydawców pozywających OpenAI. Spór dotyczy relacji między twórcami treści a firmami rozwijającymi generatywną AI.",
-    "so_what": "Kolejny pozew zwiększa presję na wypracowanie zasad licencjonowania materiałów wykorzystywanych przez firmy AI.",
-    "category": "Regulation",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit"
-  },
-  {
-    "title": "Nvidia stawia na fizyczną AI",
-    "summary": "Nvidia inwestuje w fizyczną AI przeznaczoną między innymi dla robotaksówek i robotów humanoidalnych. Firma przedstawia bezpieczeństwo tych systemów jako jeden z głównych celów.",
-    "so_what": "Nvidia rozszerza swoją rolę z dostawcy infrastruktury obliczeniowej na kluczowego gracza rynku autonomicznych maszyn.",
-    "category": "Robotics",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
-  },
-  {
-    "title": "Microsoft pokazuje sprzęt i Windows przygotowane na AI",
-    "summary": "Microsoft zaprezentował nowy sprzęt przystosowany do funkcji AI. Firma ogłosiła również zmiany w systemie Windows wspierające takie zastosowania.",
-    "so_what": "Integracja AI ze sprzętem i systemem operacyjnym może przyspieszyć jej upowszechnienie na komputerach osobistych.",
+    "title": "Ukraińskie drony wyłączyły rosyjskie centrum danych AI",
+    "summary": "Ukraińskie drony unieszkodliwiły centrum danych AI należące do firmy określanej jako „rosyjski Google”. Atak pokazuje, że infrastruktura AI stała się celem działań wojennych.",
+    "so_what": "Operatorzy centrów danych AI muszą uwzględniać fizyczne zagrożenia geopolityczne w planach ciągłości działania.",
     "category": "Infrastructure",
     "source": "Ars Technica",
-    "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/"
+    "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
+  },
+  {
+    "title": "Agenci programistyczni tworzą więcej kodu, ale nie oprogramowania",
+    "summary": "Agenci AI zwiększają ilość generowanego kodu. Nie przekłada się to jednak automatycznie na większą ilość ukończonego oprogramowania.",
+    "so_what": "Firmy powinny mierzyć efekty agentów programistycznych ukończonymi produktami, a nie liczbą linii kodu.",
+    "category": "Research",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
+  },
+  {
+    "title": "Wydawcy książek po cichu zwiększają użycie AI",
+    "summary": "Wydawnictwa książkowe coraz częściej wykorzystują AI. Pracownicy sprzeciwiają się tej praktyce.",
+    "so_what": "Brak przejrzystych zasad użycia AI może wywołać konflikty pracownicze w branżach kreatywnych.",
+    "category": "Business",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/"
+  },
+  {
+    "title": "Zbyt mocno ufamy, że AI potrafi odmówić",
+    "summary": "Systemom AI przypisuje się zbyt dużą zdolność do odmawiania niebezpiecznych poleceń. Takie zabezpieczenia nie powinny być traktowane jako niezawodne.",
+    "so_what": "Bezpieczeństwo AI musi opierać się na wielu warstwach kontroli, a nie wyłącznie na odmowie generowania odpowiedzi.",
+    "category": "Safety",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/"
   }
 ]
