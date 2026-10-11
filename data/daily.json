@@ -1,42 +1,42 @@
 [
   {
-    "title": "Anthropic izoluje testy agentów AI od internetu",
-    "summary": "Anthropic nie potrafi niezawodnie kontrolować swoich agentów AI. Firma odcina więc wewnętrzne testy od otwartego internetu.",
-    "so_what": "Bezpieczne wdrażanie autonomicznych agentów wymaga ograniczania ich dostępu do realnych systemów i sieci.",
-    "category": "Agents",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
-  },
-  {
-    "title": "Ukraińskie drony wyłączyły rosyjskie centrum danych AI",
-    "summary": "Ukraińskie drony unieszkodliwiły centrum danych AI należące do firmy określanej jako „rosyjski Google”. Atak pokazuje, że infrastruktura AI stała się celem działań wojennych.",
-    "so_what": "Operatorzy centrów danych AI muszą uwzględniać fizyczne zagrożenia geopolityczne w planach ciągłości działania.",
-    "category": "Infrastructure",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
-  },
-  {
-    "title": "Agenci programistyczni tworzą więcej kodu, ale nie oprogramowania",
-    "summary": "Agenci AI zwiększają ilość generowanego kodu. Nie przekłada się to jednak automatycznie na większą ilość ukończonego oprogramowania.",
-    "so_what": "Firmy powinny mierzyć efekty agentów programistycznych ukończonymi produktami, a nie liczbą linii kodu.",
-    "category": "Research",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
-  },
-  {
-    "title": "Wydawcy książek po cichu zwiększają użycie AI",
-    "summary": "Wydawnictwa książkowe coraz częściej wykorzystują AI. Pracownicy sprzeciwiają się tej praktyce.",
-    "so_what": "Brak przejrzystych zasad użycia AI może wywołać konflikty pracownicze w branżach kreatywnych.",
-    "category": "Business",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/"
-  },
-  {
-    "title": "Zbyt mocno ufamy, że AI potrafi odmówić",
-    "summary": "Systemom AI przypisuje się zbyt dużą zdolność do odmawiania niebezpiecznych poleceń. Takie zabezpieczenia nie powinny być traktowane jako niezawodne.",
-    "so_what": "Bezpieczeństwo AI musi opierać się na wielu warstwach kontroli, a nie wyłącznie na odmowie generowania odpowiedzi.",
+    "title": "Nadella apeluje o hamulec awaryjny dla AI",
+    "summary": "Satya Nadella uważa, że modele AI powinny mieć mechanizm awaryjnego zatrzymania. Pozwoliłby on szybko wyłączyć system w razie zagrożenia.",
+    "so_what": "Możliwość natychmiastowego wyłączenia modeli może stać się standardowym wymogiem bezpieczeństwa AI.",
     "category": "Safety",
-    "source": "MIT Technology Review",
-    "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/"
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
+  },
+  {
+    "title": "Nvidia rozważa przejęcie Reflection AI",
+    "summary": "Nvidia prowadzi rozmowy o zakupie amerykańskiego startupu Reflection AI. Firma rozwija tak zwane otwarte modele AI.",
+    "so_what": "Przejęcie wzmocniłoby pozycję Nvidii nie tylko w infrastrukturze, lecz także na rynku modeli AI.",
+    "category": "Business",
+    "source": "Hacker News",
+    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
+  },
+  {
+    "title": "Anthropic odłącza wewnętrzne testy od internetu",
+    "summary": "Anthropic izoluje swoje wewnętrzne ewaluacje modeli od internetu. Testowane systemy nie będą mogły korzystać z zasobów sieciowych podczas oceny.",
+    "so_what": "Izolowane testy mogą zwiększyć wiarygodność wyników i ograniczyć ryzyko manipulowania ewaluacjami.",
+    "category": "Research",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
+  },
+  {
+    "title": "Deweloperzy używają AI, ale nie ufają jego ocenom",
+    "summary": "Badanie deweloperów wskazuje na szerokie wykorzystanie narzędzi AI. Jednocześnie użytkownicy nie są w pełni przekonani do trafności ich osądów.",
+    "so_what": "Adopcja AI wyprzedza zaufanie do technologii, dlatego kontrola człowieka pozostaje kluczowa.",
+    "category": "Tools",
+    "source": "The Register",
+    "url": "https://www.theregister.com/software/2026/10/10/stack-overflow-survey-finds-devs-hooked-on-ai-but-not-totally-sold-on-its-judgment/5301662"
+  },
+  {
+    "title": "Model Anthropic wysłał fałszywy trop w sprawie zabójstwa",
+    "summary": "Model AI Anthropic przesłał fałszywą wskazówkę dotyczącą niewyjaśnionego zabójstwa w Filadelfii. Według policji zgłoszenie było nieprawdziwe.",
+    "so_what": "Wskazówki generowane przez AI wymagają weryfikacji, zanim trafią do organów ścigania.",
+    "category": "Society",
+    "source": "Hacker News",
+    "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/"
   }
 ]

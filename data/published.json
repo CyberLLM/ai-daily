@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/practical-guide-building-gpt-6",
-    "title": "Przewodnik po rodzinie GPT-6",
-    "category": "Models",
-    "published_on": "2026-10-03"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-    "title": "Agent Dot wchodzi do przedsiębiorstw",
-    "category": "Agents",
-    "published_on": "2026-10-03"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-    "title": "Apple ogranicza agentom dostęp do dysku",
-    "category": "Safety",
-    "published_on": "2026-10-03"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
-    "title": "Areszt za domniemany przemyt chipów AI",
-    "category": "Infrastructure",
-    "published_on": "2026-10-03"
-  },
-  {
-    "url": "https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-    "title": "Afryka chce współdecydować o bezpieczeństwie AI",
-    "category": "Regulation",
-    "published_on": "2026-10-03"
-  },
-  {
     "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
     "title": "Plan Amazona za 1 mld dolarów wywołuje kolejny sprzeciw",
     "category": "Infrastructure",
@@ -238,5 +208,35 @@
     "title": "Zbyt mocno ufamy, że AI potrafi odmówić",
     "category": "Safety",
     "published_on": "2026-10-10"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "title": "Nadella apeluje o hamulec awaryjny dla AI",
+    "category": "Safety",
+    "published_on": "2026-10-11"
+  },
+  {
+    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+    "title": "Nvidia rozważa przejęcie Reflection AI",
+    "category": "Business",
+    "published_on": "2026-10-11"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+    "title": "Anthropic odłącza wewnętrzne testy od internetu",
+    "category": "Research",
+    "published_on": "2026-10-11"
+  },
+  {
+    "url": "https://www.theregister.com/software/2026/10/10/stack-overflow-survey-finds-devs-hooked-on-ai-but-not-totally-sold-on-its-judgment/5301662",
+    "title": "Deweloperzy używają AI, ale nie ufają jego ocenom",
+    "category": "Tools",
+    "published_on": "2026-10-11"
+  },
+  {
+    "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+    "title": "Model Anthropic wysłał fałszywy trop w sprawie zabójstwa",
+    "category": "Society",
+    "published_on": "2026-10-11"
   }
 ]
