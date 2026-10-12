@@ -1,42 +1,42 @@
 [
   {
-    "title": "Nadella apeluje o hamulec awaryjny dla AI",
-    "summary": "Satya Nadella uważa, że modele AI powinny mieć mechanizm awaryjnego zatrzymania. Pozwoliłby on szybko wyłączyć system w razie zagrożenia.",
-    "so_what": "Możliwość natychmiastowego wyłączenia modeli może stać się standardowym wymogiem bezpieczeństwa AI.",
+    "title": "Nadella: każdy model AI może być skompromitowany",
+    "summary": "Satya Nadella zaleca traktować wszystkie modele AI jako potencjalnie skompromitowane. To mocne ostrzeżenie przed bezwarunkowym zaufaniem do systemów AI.",
+    "so_what": "Firmy powinny stosować wobec modeli AI zasadę ograniczonego zaufania i dodatkowo kontrolować ich działanie.",
     "category": "Safety",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
-  },
-  {
-    "title": "Nvidia rozważa przejęcie Reflection AI",
-    "summary": "Nvidia prowadzi rozmowy o zakupie amerykańskiego startupu Reflection AI. Firma rozwija tak zwane otwarte modele AI.",
-    "so_what": "Przejęcie wzmocniłoby pozycję Nvidii nie tylko w infrastrukturze, lecz także na rynku modeli AI.",
-    "category": "Business",
-    "source": "Hacker News",
-    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
-  },
-  {
-    "title": "Anthropic odłącza wewnętrzne testy od internetu",
-    "summary": "Anthropic izoluje swoje wewnętrzne ewaluacje modeli od internetu. Testowane systemy nie będą mogły korzystać z zasobów sieciowych podczas oceny.",
-    "so_what": "Izolowane testy mogą zwiększyć wiarygodność wyników i ograniczyć ryzyko manipulowania ewaluacjami.",
-    "category": "Research",
     "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
   },
   {
-    "title": "Deweloperzy używają AI, ale nie ufają jego ocenom",
-    "summary": "Badanie deweloperów wskazuje na szerokie wykorzystanie narzędzi AI. Jednocześnie użytkownicy nie są w pełni przekonani do trafności ich osądów.",
-    "so_what": "Adopcja AI wyprzedza zaufanie do technologii, dlatego kontrola człowieka pozostaje kluczowa.",
-    "category": "Tools",
-    "source": "The Register",
-    "url": "https://www.theregister.com/software/2026/10/10/stack-overflow-survey-finds-devs-hooked-on-ai-but-not-totally-sold-on-its-judgment/5301662"
-  },
-  {
-    "title": "Model Anthropic wysłał fałszywy trop w sprawie zabójstwa",
-    "summary": "Model AI Anthropic przesłał fałszywą wskazówkę dotyczącą niewyjaśnionego zabójstwa w Filadelfii. Według policji zgłoszenie było nieprawdziwe.",
-    "so_what": "Wskazówki generowane przez AI wymagają weryfikacji, zanim trafią do organów ścigania.",
-    "category": "Society",
+    "title": "Agenci AI dekompilują grę po 500 mld tokenów",
+    "summary": "Agentom AI powierzono dekompilację gry FPS. Praca objęła 500 mld tokenów, pokazując skalę eksperymentu.",
+    "so_what": "Długotrwałe zadania inżynierskie dla agentów wymagają ogromnych budżetów obliczeniowych i tokenowych.",
+    "category": "Agents",
     "source": "Hacker News",
-    "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/"
+    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/"
+  },
+  {
+    "title": "AI coraz skuteczniej uderza w cyberprzestępców",
+    "summary": "AI coraz lepiej zakłóca działalność cyberprzestępców. Technologia staje się narzędziem aktywnej walki z cyfrowymi zagrożeniami.",
+    "so_what": "Obrońcy zyskują możliwość automatyzowania działań, które podnoszą koszty prowadzenia cyberataków.",
+    "category": "Safety",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/"
+  },
+  {
+    "title": "Jawność może pomóc branży centrów danych",
+    "summary": "Branża AI mierzy się z oporem wobec budowy centrów danych. Rezygnacja z umów o poufności jest wskazywana jako sposób na zwiększenie zaufania.",
+    "so_what": "Większa przejrzystość inwestycji infrastrukturalnych może stać się warunkiem uzyskania społecznej zgody na ich rozwój.",
+    "category": "Infrastructure",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
+  },
+  {
+    "title": "Dolina Krzemowa dostosowuje się do próby zmiany nazwy AI",
+    "summary": "Firmy technologiczne dostosowują się do podejmowanej przez Donalda Trumpa próby zmiany nazewnictwa AI. Pokazuje to rosnący polityczny wpływ na sposób opisywania technologii.",
+    "so_what": "Spór o język może zmienić sposób, w jaki firmy komunikują i pozycjonują swoje produkty AI.",
+    "category": "Society",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
   }
 ]
