@@ -1,43 +1,155 @@
 [
   {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Will the HomeView be Apple’s first smart home success?",
-    "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-    "date": "2026-10-11T21:14:40+00:00"
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "Q&A: Building accountability behind our words — and AI’s — in civic conversations",
+    "url": "https://news.mit.edu/2026/qa-building-accountability-behind-our-words-and-ai-civic-conversations-1013",
+    "date": "2026-10-13T04:00:00+00:00"
   },
   {
     "source": "Hacker News",
     "kind": "community",
     "org": "Hacker News",
-    "title": "The gap in shared understanding of LLM capability is widening",
-    "url": "https://twitter.com/karpathy/status/2109361546505966046",
-    "date": "2026-10-11T20:20:52+00:00"
+    "title": "AI is a tool and using it well takes skill",
+    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+    "date": "2026-10-12T21:40:18+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+    "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+    "date": "2026-10-12T21:35:35+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+    "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+    "date": "2026-10-12T20:59:50+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+    "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+    "date": "2026-10-12T18:21:36+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "Just say no to OpenAI and Anthropic",
+    "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
+    "date": "2026-10-12T18:17:29+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+    "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+    "date": "2026-10-12T18:15:38+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "'AI' Is Not a Tool by Rich Hickey",
+    "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+    "date": "2026-10-12T18:00:25+00:00"
   },
   {
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-    "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-    "date": "2026-10-11T19:00:00+00:00"
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "date": "2026-10-12T17:56:56+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+    "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+    "date": "2026-10-12T17:55:12+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Russia was not ready for the data center war it started with Ukraine",
+    "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+    "date": "2026-10-12T17:52:36+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "date": "2026-10-12T17:19:14+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "Chatbot refuseniks edge out users in the US, and they’re not for turning",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/12/chatbot-refuseniks-edge-out-users-in-the-us-and-theyre-not-for-turning/5302690",
+    "date": "2026-10-12T17:13:33+00:00"
   },
   {
     "source": "The Verge",
     "kind": "press",
     "org": "The Verge",
-    "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-    "date": "2026-10-11T18:33:56+00:00"
+    "title": "Meta has some Wonder Full new AI models",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+    "date": "2026-10-12T17:00:00+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "web-edit 0.1a0",
+    "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
+    "date": "2026-10-12T15:54:36+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "AMD unveils Helion racks for AI agents at OCP summit",
+    "url": "https://www.theregister.com/systems/2026/10/12/amd-unveils-helion-racks-for-ai-agents-at-ocp-summit/5302652",
+    "date": "2026-10-12T15:51:36+00:00"
   },
   {
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-    "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-    "date": "2026-10-11T16:52:33+00:00"
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "date": "2026-10-12T15:45:00+00:00"
+  },
+  {
+    "source": "NVIDIA",
+    "kind": "vendor",
+    "org": "NVIDIA",
+    "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+    "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+    "date": "2026-10-12T15:00:25+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+    "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+    "date": "2026-10-12T13:00:00+00:00"
   },
   {
     "source": "Wired",
@@ -48,75 +160,11 @@
     "date": "2026-10-11T11:30:00+00:00"
   },
   {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready",
-    "url": "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450",
-    "date": "2026-10-11T11:30:00+00:00"
-  },
-  {
     "source": "The Verge",
     "kind": "press",
     "org": "The Verge",
     "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
     "date": "2026-10-11T11:00:00+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "HPE's networking boss says AI will handle all trouble tickets without humans in two years",
-    "url": "https://www.theregister.com/networks/2026/10/11/hpes-networking-boss-says-ai-will-handle-all-trouble-tickets-without-humans-in-two-years/5302179",
-    "date": "2026-10-11T09:37:00+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-    "date": "2026-10-11T02:02:38+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "Dwarf Fortress uses version control now",
-    "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
-    "date": "2026-10-11T00:52:37+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "Python 3.15.0 added to actions/python-versions",
-    "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
-    "date": "2026-10-10T23:58:04+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-    "date": "2026-10-10T22:10:17+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "AI Is Getting Really Good at Messing With Cybercriminals",
-    "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
-    "date": "2026-10-10T12:00:00+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-    "url": "https://github.com/rociiu/talorys",
-    "date": "2026-10-10T10:52:09+00:00"
   }
 ]
