@@ -1,125 +1,5 @@
 [
   {
-    "url": "https://www.theregister.com/systems/2026/10/05/schneider-electric-acquires-ptc-for-226-billion/5301254",
-    "title": "Schneider Electric przejmuje PTC za 22,6 mld dolarów",
-    "category": "Business",
-    "published_on": "2026-10-06"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-    "title": "MCP może być poważnym ryzykiem dla agentów AI",
-    "category": "Safety",
-    "published_on": "2026-10-06"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-    "title": "OpenAI będzie znakować teksty ChatGPT w UE",
-    "category": "Regulation",
-    "published_on": "2026-10-06"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-    "title": "Reflection prezentuje otwarty model Beam",
-    "category": "Models",
-    "published_on": "2026-10-06"
-  },
-  {
-    "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-    "title": "Boom na AI wypiera najtańsze smartfony",
-    "category": "Society",
-    "published_on": "2026-10-06"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-    "title": "Agenci OpenAI zaatakowali narzędzia Wikipedii",
-    "category": "Safety",
-    "published_on": "2026-10-07"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-    "title": "ChatGPT z domyślnym znakiem wodnym w UE",
-    "category": "Regulation",
-    "published_on": "2026-10-07"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-    "title": "Lambda chce pozyskać 4 mld dolarów przed IPO",
-    "category": "Infrastructure",
-    "published_on": "2026-10-07"
-  },
-  {
-    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "title": "EmbeddingGemma 2: lekki model multimodalny",
-    "category": "Models",
-    "published_on": "2026-10-07"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-    "title": "Gemini Flash i Pro stracą bezpłatny dostęp",
-    "category": "Business",
-    "published_on": "2026-10-07"
-  },
-  {
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798",
-    "title": "Singapur chce niezależnych kontroli AI w fintechu",
-    "category": "Regulation",
-    "published_on": "2026-10-08"
-  },
-  {
-    "url": "https://www.theregister.com/personal-tech/2026/10/07/microsoft-is-about-to-let-copilot-loose-on-your-file-system/5301763",
-    "title": "Copilot otrzyma dostęp do plików w Windows",
-    "category": "Agents",
-    "published_on": "2026-10-08"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-    "title": "Nous Research wycenione na 1,5 mld dolarów",
-    "category": "Business",
-    "published_on": "2026-10-08"
-  },
-  {
-    "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
-    "title": "AI poprowadziła Toyotę Corollę",
-    "category": "Robotics",
-    "published_on": "2026-10-08"
-  },
-  {
-    "url": "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008",
-    "title": "AI ma ograniczać wpływ centrów danych na środowisko",
-    "category": "Infrastructure",
-    "published_on": "2026-10-08"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-    "title": "Anthropic zaoferuje darmowe audyty bezpieczeństwa open source",
-    "category": "Safety",
-    "published_on": "2026-10-09"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "title": "Zwolnieni badacze OpenAI kwestionują zarzuty",
-    "category": "Safety",
-    "published_on": "2026-10-09"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-    "title": "USA Today pozywa OpenAI",
-    "category": "Regulation",
-    "published_on": "2026-10-09"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-    "title": "Nvidia stawia na fizyczną AI",
-    "category": "Robotics",
-    "published_on": "2026-10-09"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-    "title": "Microsoft pokazuje sprzęt i Windows przygotowane na AI",
-    "category": "Infrastructure",
-    "published_on": "2026-10-09"
-  },
-  {
     "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
     "title": "Anthropic izoluje testy agentów AI od internetu",
     "category": "Agents",
@@ -238,5 +118,35 @@
     "title": "W USA nieużytkownicy chatbotów przeważają nad użytkownikami",
     "category": "Society",
     "published_on": "2026-10-13"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+    "title": "Modele OpenAI przeprowadziły skuteczne cyberataki",
+    "category": "Safety",
+    "published_on": "2026-10-17"
+  },
+  {
+    "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+    "title": "Agenci AI dla autonomicznych laboratoriów",
+    "category": "Research",
+    "published_on": "2026-10-17"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+    "title": "Meta może trenować AI na newsach za darmo",
+    "category": "Business",
+    "published_on": "2026-10-17"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "title": "2,8 biliona tokenów dla języków Indii",
+    "category": "Models",
+    "published_on": "2026-10-17"
+  },
+  {
+    "url": "https://www.theregister.com/personal-tech/2026/10/16/benchmarked-nvidias-rtx-spark-notebook-delivers-serious-local-ai-compute-at-a-price/5303621",
+    "title": "RTX Spark przyspiesza lokalne AI",
+    "category": "Infrastructure",
+    "published_on": "2026-10-17"
   }
 ]
