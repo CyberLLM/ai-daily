@@ -65,6 +65,14 @@ html = f"""
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QDHLBXLXT4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){{dataLayer.push(arguments);}}
+  gtag('js', new Date());
+  gtag('config', 'G-QDHLBXLXT4');
+</script>
 <title>AI DAILY 5 · Heuristica</title>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -298,6 +306,14 @@ archive_html = f"""
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QDHLBXLXT4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){{dataLayer.push(arguments);}}
+  gtag('js', new Date());
+  gtag('config', 'G-QDHLBXLXT4');
+</script>
 <title>Archiwum · AI DAILY 5</title>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
