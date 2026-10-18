@@ -2,3 +2,4 @@ cron.log
 __pycache__/
 *.pyc
 *.bak
+newsletter_last_sent.txt

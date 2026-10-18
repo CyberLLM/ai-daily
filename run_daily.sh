@@ -41,6 +41,16 @@ if [ -n "$(git status --porcelain)" ]; then
     git commit -q -m "AI DAILY 5 - wydanie $(date +%F)"
     git push -q origin main
     echo "Opublikowano na GitHub Pages."
+
+    # =====================================================
+    # NEWSLETTER
+    #
+    # Dopiero po udanej publikacji. Błąd wysyłki nie może
+    # uruchomić trapa: strona już wyszła, a komunikat
+    # "Strona NIE została zaktualizowana" byłby nieprawdą.
+    # =====================================================
+
+    python3 send.py || echo "BŁĄD: newsletter NIE wyszedł (strona jest opublikowana)."
 else
     echo "Brak zmian - nic nie publikuje."
 fi
