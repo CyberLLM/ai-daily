@@ -227,6 +227,15 @@ body {{
     margin-bottom: 8px;
 }}
 
+.brand a {{
+    color: inherit;
+    text-decoration: none;
+}}
+
+.brand a:hover {{
+    text-decoration: underline;
+}}
+
 h1 {{
     font-family: 'Poppins', sans-serif;
     font-size: 2.4em;
@@ -494,7 +503,7 @@ footer {{
 <div class="container">
 
 <header>
-    <div class="brand">HEURISTICA</div>
+    <div class="brand"><a href="https://heuristica.pl/">HEURISTICA</a></div>
     <h1>AI DAILY 5</h1>
     <p class="subtitle">5 rzeczy, które warto dziś wiedzieć o AI.</p>
     <div class="date">{today_display}</div>
@@ -644,7 +653,7 @@ a:hover {{
 
 <div class="container">
 
-<div class="brand">HEURISTICA</div>
+<div class="brand"><a href="https://heuristica.pl/">HEURISTICA</a></div>
 
 <h1>Archiwum AI DAILY 5</h1>
 
