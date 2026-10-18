@@ -1,42 +1,42 @@
 [
   {
-    "title": "Modele OpenAI przeprowadziły skuteczne cyberataki",
-    "summary": "Modele OpenAI włamały się do portfela kryptowalutowego i serwisów internetowych. Pokazuje to ich rosnące możliwości ofensywne w cyberprzestrzeni.",
-    "so_what": "Zdolność modeli do realnych włamań zwiększa presję na skuteczniejsze zabezpieczenia i kontrolę dostępu.",
-    "category": "Safety",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
-  },
-  {
-    "title": "Agenci AI dla autonomicznych laboratoriów",
-    "summary": "Google Research przedstawia podstawy osadzania agentów AI w biologicznej rzeczywistości. Rozwiązania mają wspierać budowę autonomicznych laboratoriów eksperymentalnych.",
-    "so_what": "Połączenie agentów AI z laboratoriami może przyspieszyć prowadzenie i analizowanie eksperymentów biologicznych.",
-    "category": "Research",
-    "source": "Google Research",
-    "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/"
-  },
-  {
-    "title": "Meta może trenować AI na newsach za darmo",
-    "summary": "Nowe warunki Meta mogą pozwolić firmie bezpłatnie trenować AI na treściach serwisów informacyjnych. Stawką są zasady licencjonowania materiałów wydawców.",
-    "so_what": "Wydawcy mogą zostać zmuszeni do zaostrzenia warunków dostępu do swoich treści lub dochodzenia opłat.",
-    "category": "Business",
+    "title": "Serwisy blokują dostęp agentom AI",
+    "summary": "Coraz więcej witryn zamyka się na agentów AI. Ogranicza to ich możliwość samodzielnego korzystania z treści i usług internetowych.",
+    "so_what": "Rozwój użytecznych agentów będzie zależał nie tylko od modeli, lecz także od zgody właścicieli stron na automatyczny dostęp.",
+    "category": "Agents",
     "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
   },
   {
-    "title": "2,8 biliona tokenów dla języków Indii",
-    "summary": "Hugging Face opisuje skalowanie pretreningu dla języków Indii do 2,8 biliona tokenów. Projekt obejmuje otwarty proces generowania danych.",
-    "so_what": "Otwarty zasób tej skali może przyspieszyć rozwój modeli obsługujących słabiej reprezentowane języki.",
-    "category": "Models",
-    "source": "Hugging Face",
-    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+    "title": "AI nadal nie radzi sobie ze złożonością genomu",
+    "summary": "Obecne systemy AI nie są jeszcze gotowe do analizy najbardziej złożonych zależności w genomach. Biologia pozostaje trudniejszym polem niż zadania o bardziej regularnej strukturze danych.",
+    "so_what": "Medyczne zastosowania AI wymagają dalszych badań i nie powinny być oceniane wyłącznie na podstawie postępów modeli ogólnego przeznaczenia.",
+    "category": "Research",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/"
   },
   {
-    "title": "RTX Spark przyspiesza lokalne AI",
-    "summary": "Testy notebooka Nvidia RTX Spark wskazują na dużą moc do lokalnych obciążeń AI. Wysoka wydajność wiąże się jednak z wysoką ceną.",
-    "so_what": "Wydajny sprzęt lokalny może ograniczyć zależność firm od chmury, ale pozostanie dostępny głównie dla zamożniejszych użytkowników.",
-    "category": "Infrastructure",
-    "source": "The Register",
-    "url": "https://www.theregister.com/personal-tech/2026/10/16/benchmarked-nvidias-rtx-spark-notebook-delivers-serious-local-ai-compute-at-a-price/5303621"
+    "title": "OpenAI ujawnia cztery kolejne incydenty",
+    "summary": "OpenAI poinformowało o czterech kolejnych przypadkach niepożądanego wykorzystania swoich systemów. Ujawnienie pokazuje, że monitorowanie nadużyć pozostaje stałym wyzwaniem.",
+    "so_what": "Dostawcy modeli będą musieli rozwijać wykrywanie zagrożeń równie szybko jak możliwości swoich systemów.",
+    "category": "Safety",
+    "source": "Hacker News",
+    "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/"
+  },
+  {
+    "title": "Meta usuwa kontrowersyjny zapis o danych",
+    "summary": "Meta usunęła sformułowanie budzące obawy o pozyskiwanie treści ze stron i trenowanie AI. Zmiana nastąpiła po pytaniach o zakres praw, które firma przyznawała sobie wobec cudzych danych.",
+    "so_what": "Firmy rozwijające AI muszą precyzyjniej określać zasady używania treści, aby ograniczyć ryzyko prawne i utratę zaufania.",
+    "category": "Regulation",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+  },
+  {
+    "title": "Anthropic ma mniej juniorów i więcej spotkań",
+    "summary": "Anthropic twierdzi, że struktura jego zatrudnienia stała się mniej juniorska. Pracownicy spędzają też więcej czasu na spotkaniach.",
+    "so_what": "Przykład Anthropic sugeruje, że rozwój AI może zmieniać strukturę zespołów, ale nie usuwa kosztów koordynacji pracy.",
+    "category": "Business",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
   }
 ]
