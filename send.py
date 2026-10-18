@@ -165,7 +165,7 @@ def build_html(news, today_display, archive_url, unsubscribe):
         Odpowiedz na tę wiadomość, jeśli chcesz coś napisać.<br>
         <a href="{unsubscribe}" style="color:{MUTED};">Wypisz się</a> ·
         <a href="{SITE_URL}/archive/index.html" style="color:{MUTED};">Archiwum</a><br>
-        HEURISTICA - STANISZEWSKI MAREK, ul. Bukowińska 26C m. 11, 02-703 Warszawa
+        HEURISTICA
     </td></tr>
     </table>
 
