@@ -22,6 +22,10 @@ API = "https://api.brevo.com/v3"
 
 LIST_ID = 6
 
+# Szablon "zapis potwierdzony", który Brevo wysyła po kliknięciu
+# linku z maila double opt-in.
+WELCOME_TEMPLATE_ID = 1
+
 SENDER = {"name": "AI DAILY", "email": "newsletter@news.heuristica.pl"}
 REPLY_TO = "staniszewski@heuristica.pl"
 
@@ -97,7 +101,7 @@ MUTED = "#5f5a55"
 BORDER = "#e4ddd3"
 
 
-def build_html(news, today_display, archive_url, unsubscribe):
+def build_html(news, today_display, archive_url, unsubscribe, intro=""):
     cards = ""
 
     for i, item in enumerate(news, start=1):
@@ -132,6 +136,14 @@ def build_html(news, today_display, archive_url, unsubscribe):
         </td></tr>
         """
 
+    # Mail powitalny nie ma linku wypisu - Brevo podstawia go
+    # tylko w kampaniach. Zamiast linku idzie informacja, gdzie go szukać.
+    unsubscribe_line = (
+        f'<a href="{unsubscribe}" style="color:{MUTED};">Wypisz się</a> ·'
+        if unsubscribe
+        else "Link do wypisania znajdziesz w stopce każdego newslettera ·"
+    )
+
     return f"""<!DOCTYPE html>
 <html lang="pl">
 <head>
@@ -157,13 +169,15 @@ def build_html(news, today_display, archive_url, unsubscribe):
         </div>
     </td></tr>
 
+    {intro}
+
     {cards}
 
     <tr><td style="border-top:1px solid {BORDER}; padding:22px 0 26px 0; font-size:12px; line-height:1.6; color:{MUTED};">
         Dostajesz ten mail, bo zapisałeś(-aś) się na AI DAILY 5 na
         <a href="{SITE_URL}" style="color:{MUTED};">daily.heuristica.pl</a>.
         Odpowiedz na tę wiadomość, jeśli chcesz coś napisać.<br>
-        <a href="{unsubscribe}" style="color:{MUTED};">Wypisz się</a> ·
+        {unsubscribe_line}
         <a href="{SITE_URL}/archive/index.html" style="color:{MUTED};">Archiwum</a><br>
         HEURISTICA
     </td></tr>
@@ -213,6 +227,34 @@ if test_to:
     })
     print(f"Wysłano mail testowy na {test_to}.")
     sys.exit(0)
+
+# =========================================================
+# MAIL POWITALNY Z DZISIEJSZYM WYDANIEM
+#
+# Brevo wysyła szablon WELCOME_TEMPLATE_ID każdemu, kto kliknie
+# link potwierdzający zapis. Nadpisujemy go co rano, więc nowy
+# czytelnik od razu dostaje aktualne wydanie, a nie czeka do jutra.
+# Robimy to przed kampanią i niezależnie od tego, czy lista
+# jest pusta - pierwszy subskrybent też ma dostać wydanie.
+# =========================================================
+
+welcome_intro = f"""
+    <tr><td style="padding:0 0 24px 0;">
+        <p style="margin:0; padding:14px 16px; font-size:15px; line-height:1.6; color:{TEXT}; background:#f8f1e8;">
+            Zapis potwierdzony - dzięki! Poniżej dzisiejsze wydanie, a od jutra
+            AI DAILY 5 będzie przychodzić codziennie rano.
+        </p>
+    </td></tr>
+"""
+
+brevo("PUT", f"/smtp/templates/{WELCOME_TEMPLATE_ID}", {
+    "subject": f"Witaj w AI DAILY 5 · wydanie {now.strftime('%d.%m')}",
+    "sender": SENDER,
+    "replyTo": REPLY_TO,
+    "htmlContent": build_html(news, today_display, archive_url, None, welcome_intro),
+})
+
+print("Mail powitalny zaktualizowany o dzisiejsze wydanie.")
 
 if os.path.exists(LAST_SENT_FILE):
     with open(LAST_SENT_FILE, "r", encoding="utf-8") as f:
