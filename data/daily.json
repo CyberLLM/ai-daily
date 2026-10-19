@@ -1,42 +1,42 @@
 [
   {
-    "title": "Serwisy blokują dostęp agentom AI",
-    "summary": "Coraz więcej witryn zamyka się na agentów AI. Ogranicza to ich możliwość samodzielnego korzystania z treści i usług internetowych.",
-    "so_what": "Rozwój użytecznych agentów będzie zależał nie tylko od modeli, lecz także od zgody właścicieli stron na automatyczny dostęp.",
+    "title": "Agenty AI łączą ukryte rozumowanie z tekstowym działaniem",
+    "summary": "Hybrydowe agenty rozumują w przestrzeni ukrytej, a działania wykonują poprzez tekst. Podejście rozdziela wewnętrzny proces myślenia od komunikacji z otoczeniem.",
+    "so_what": "To nowy kierunek projektowania agentów, który może rozszerzyć ich możliwości bez uzależniania całego rozumowania od tekstu.",
     "category": "Agents",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
-  },
-  {
-    "title": "AI nadal nie radzi sobie ze złożonością genomu",
-    "summary": "Obecne systemy AI nie są jeszcze gotowe do analizy najbardziej złożonych zależności w genomach. Biologia pozostaje trudniejszym polem niż zadania o bardziej regularnej strukturze danych.",
-    "so_what": "Medyczne zastosowania AI wymagają dalszych badań i nie powinny być oceniane wyłącznie na podstawie postępów modeli ogólnego przeznaczenia.",
-    "category": "Research",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/"
-  },
-  {
-    "title": "OpenAI ujawnia cztery kolejne incydenty",
-    "summary": "OpenAI poinformowało o czterech kolejnych przypadkach niepożądanego wykorzystania swoich systemów. Ujawnienie pokazuje, że monitorowanie nadużyć pozostaje stałym wyzwaniem.",
-    "so_what": "Dostawcy modeli będą musieli rozwijać wykrywanie zagrożeń równie szybko jak możliwości swoich systemów.",
-    "category": "Safety",
     "source": "Hacker News",
-    "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/"
+    "url": "https://arxiv.org/abs/2610.18861"
   },
   {
-    "title": "Meta usuwa kontrowersyjny zapis o danych",
-    "summary": "Meta usunęła sformułowanie budzące obawy o pozyskiwanie treści ze stron i trenowanie AI. Zmiana nastąpiła po pytaniach o zakres praw, które firma przyznawała sobie wobec cudzych danych.",
-    "so_what": "Firmy rozwijające AI muszą precyzyjniej określać zasady używania treści, aby ograniczyć ryzyko prawne i utratę zaufania.",
-    "category": "Regulation",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
-  },
-  {
-    "title": "Anthropic ma mniej juniorów i więcej spotkań",
-    "summary": "Anthropic twierdzi, że struktura jego zatrudnienia stała się mniej juniorska. Pracownicy spędzają też więcej czasu na spotkaniach.",
-    "so_what": "Przykład Anthropic sugeruje, że rozwój AI może zmieniać strukturę zespołów, ale nie usuwa kosztów koordynacji pracy.",
+    "title": "Disney zatrudni większość zespołu Character.AI",
+    "summary": "Disney porozumiał się w sprawie zatrudnienia większości pracowników Character.AI. Umowa daje koncernowi dostęp do zespołu doświadczonego w tworzeniu konwersacyjnej AI.",
+    "so_what": "Transakcja pokazuje, że walka o specjalistów AI obejmuje już również największe firmy rozrywkowe.",
     "category": "Business",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
+    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+  },
+  {
+    "title": "Anthropic otwiera się na zewnętrzny nadzór",
+    "summary": "Anthropic zapewni zewnętrznemu organowi nadzoru nad AI dostęp zbliżony do pracowniczego. Ma to umożliwić ocenę firmy od środka.",
+    "so_what": "Tak szeroki dostęp może ustanowić nowy standard niezależnej kontroli laboratoriów rozwijających zaawansowaną AI.",
+    "category": "Safety",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
+  },
+  {
+    "title": "AI zyskuje wyraźniejszy obraz świata materiałów",
+    "summary": "Badacze MIT przedstawili sposób na zapewnienie AI dokładniejszego obrazu materiałów. Praca łączy rozwój sztucznej inteligencji z badaniami materiałowymi.",
+    "so_what": "Lepsze reprezentowanie materiałów przez AI może usprawnić ich analizę i projektowanie.",
+    "category": "Research",
+    "source": "MIT News",
+    "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018"
+  },
+  {
+    "title": "Meta zmienia zasady dotyczące pobierania treści prasowych",
+    "summary": "Meta usunęła zapis, który mógł pozwalać jej na pobieranie treści z serwisów informacyjnych. Zmiana dotyczy relacji firmy z wydawcami internetowymi.",
+    "so_what": "To sygnał, że firmy technologiczne zaostrzają zasady pozyskiwania treści w obliczu sporów o dane dla AI.",
+    "category": "Regulation",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
   }
 ]

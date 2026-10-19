@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-    "title": "Nadella apeluje o hamulec awaryjny dla AI",
-    "category": "Safety",
-    "published_on": "2026-10-11"
-  },
-  {
-    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-    "title": "Nvidia rozważa przejęcie Reflection AI",
-    "category": "Business",
-    "published_on": "2026-10-11"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-    "title": "Anthropic odłącza wewnętrzne testy od internetu",
-    "category": "Research",
-    "published_on": "2026-10-11"
-  },
-  {
-    "url": "https://www.theregister.com/software/2026/10/10/stack-overflow-survey-finds-devs-hooked-on-ai-but-not-totally-sold-on-its-judgment/5301662",
-    "title": "Deweloperzy używają AI, ale nie ufają jego ocenom",
-    "category": "Tools",
-    "published_on": "2026-10-11"
-  },
-  {
-    "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-    "title": "Model Anthropic wysłał fałszywy trop w sprawie zabójstwa",
-    "category": "Society",
-    "published_on": "2026-10-11"
-  },
-  {
     "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
     "title": "Nadella: każdy model AI może być skompromitowany",
     "category": "Safety",
@@ -148,5 +118,35 @@
     "title": "Anthropic ma mniej juniorów i więcej spotkań",
     "category": "Business",
     "published_on": "2026-10-18"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.18861",
+    "title": "Agenty AI łączą ukryte rozumowanie z tekstowym działaniem",
+    "category": "Agents",
+    "published_on": "2026-10-19"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "title": "Disney zatrudni większość zespołu Character.AI",
+    "category": "Business",
+    "published_on": "2026-10-19"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+    "title": "Anthropic otwiera się na zewnętrzny nadzór",
+    "category": "Safety",
+    "published_on": "2026-10-19"
+  },
+  {
+    "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+    "title": "AI zyskuje wyraźniejszy obraz świata materiałów",
+    "category": "Research",
+    "published_on": "2026-10-19"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+    "title": "Meta zmienia zasady dotyczące pobierania treści prasowych",
+    "category": "Regulation",
+    "published_on": "2026-10-19"
   }
 ]
