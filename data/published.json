@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-    "title": "Nadella: każdy model AI może być skompromitowany",
-    "category": "Safety",
-    "published_on": "2026-10-12"
-  },
-  {
-    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-    "title": "Agenci AI dekompilują grę po 500 mld tokenów",
-    "category": "Agents",
-    "published_on": "2026-10-12"
-  },
-  {
-    "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
-    "title": "AI coraz skuteczniej uderza w cyberprzestępców",
-    "category": "Safety",
-    "published_on": "2026-10-12"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-    "title": "Jawność może pomóc branży centrów danych",
-    "category": "Infrastructure",
-    "published_on": "2026-10-12"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-    "title": "Dolina Krzemowa dostosowuje się do próby zmiany nazwy AI",
-    "category": "Society",
-    "published_on": "2026-10-12"
-  },
-  {
     "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
     "title": "Meta prezentuje swój pierwszy model klasy frontier",
     "category": "Models",
@@ -148,5 +118,35 @@
     "title": "Meta zmienia zasady dotyczące pobierania treści prasowych",
     "category": "Regulation",
     "published_on": "2026-10-19"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+    "title": "Dług CoreWeave staje się ryzykiem dla branży AI",
+    "category": "Business",
+    "published_on": "2026-10-20"
+  },
+  {
+    "url": "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927",
+    "title": "AI zmienia wyścig między atakującymi a obrońcami",
+    "category": "Safety",
+    "published_on": "2026-10-20"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+    "title": "Internet dla agentów AI może zaszkodzić ludziom",
+    "category": "Agents",
+    "published_on": "2026-10-20"
+  },
+  {
+    "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+    "title": "Symetria może poprawić prenatalną diagnostykę AI",
+    "category": "Research",
+    "published_on": "2026-10-20"
+  },
+  {
+    "url": "https://www.theregister.com/on-prem/2026/10/19/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up/5303824",
+    "title": "Microsoft porzuca brytyjski superkomputer AI",
+    "category": "Infrastructure",
+    "published_on": "2026-10-20"
   }
 ]

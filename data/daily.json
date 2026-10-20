@@ -1,42 +1,42 @@
 [
   {
-    "title": "Agenty AI łączą ukryte rozumowanie z tekstowym działaniem",
-    "summary": "Hybrydowe agenty rozumują w przestrzeni ukrytej, a działania wykonują poprzez tekst. Podejście rozdziela wewnętrzny proces myślenia od komunikacji z otoczeniem.",
-    "so_what": "To nowy kierunek projektowania agentów, który może rozszerzyć ich możliwości bez uzależniania całego rozumowania od tekstu.",
-    "category": "Agents",
-    "source": "Hacker News",
-    "url": "https://arxiv.org/abs/2610.18861"
-  },
-  {
-    "title": "Disney zatrudni większość zespołu Character.AI",
-    "summary": "Disney porozumiał się w sprawie zatrudnienia większości pracowników Character.AI. Umowa daje koncernowi dostęp do zespołu doświadczonego w tworzeniu konwersacyjnej AI.",
-    "so_what": "Transakcja pokazuje, że walka o specjalistów AI obejmuje już również największe firmy rozrywkowe.",
+    "title": "Dług CoreWeave staje się ryzykiem dla branży AI",
+    "summary": "Zadłużenie CoreWeave przestaje być wyłącznie problemem jednej firmy. Może ono wpływać na cały sektor AI powiązany z dostawcą infrastruktury.",
+    "so_what": "Firmy i inwestorzy muszą uważniej oceniać ryzyko finansowe dostawców mocy obliczeniowej.",
     "category": "Business",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai"
   },
   {
-    "title": "Anthropic otwiera się na zewnętrzny nadzór",
-    "summary": "Anthropic zapewni zewnętrznemu organowi nadzoru nad AI dostęp zbliżony do pracowniczego. Ma to umożliwić ocenę firmy od środka.",
-    "so_what": "Tak szeroki dostęp może ustanowić nowy standard niezależnej kontroli laboratoriów rozwijających zaawansowaną AI.",
+    "title": "AI zmienia wyścig między atakującymi a obrońcami",
+    "summary": "Atakujący wykorzystują AI, co utrudnia skuteczne zabezpieczanie systemów. Nawet proces wdrażania poprawek bezpieczeństwa wymaga dodatkowej ochrony.",
+    "so_what": "Organizacje muszą dostosować zarządzanie podatnościami do szybszych ataków wspomaganych przez AI.",
     "category": "Safety",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
+    "source": "The Register",
+    "url": "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927"
   },
   {
-    "title": "AI zyskuje wyraźniejszy obraz świata materiałów",
-    "summary": "Badacze MIT przedstawili sposób na zapewnienie AI dokładniejszego obrazu materiałów. Praca łączy rozwój sztucznej inteligencji z badaniami materiałowymi.",
-    "so_what": "Lepsze reprezentowanie materiałów przez AI może usprawnić ich analizę i projektowanie.",
+    "title": "Internet dla agentów AI może zaszkodzić ludziom",
+    "summary": "Dostosowywanie internetu do potrzeb agentów AI może pogorszyć jego działanie dla pozostałych użytkowników. Ułatwienia dla automatów nie zawsze są zgodne z interesem ludzi.",
+    "so_what": "Standardy projektowane dla agentów powinny uwzględniać skutki dla dostępności i użyteczności sieci dla człowieka.",
+    "category": "Agents",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"
+  },
+  {
+    "title": "Symetria może poprawić prenatalną diagnostykę AI",
+    "summary": "Uczenie systemów AI o symetrii może zwiększyć wiarygodność diagnostyki prenatalnej. To przykład wykorzystania wiedzy o strukturze danych do ulepszania modeli medycznych.",
+    "so_what": "Wbudowanie odpowiednich zasad dziedzinowych w modele może zwiększać ich wartość w zastosowaniach klinicznych.",
     "category": "Research",
     "source": "MIT News",
-    "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018"
+    "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019"
   },
   {
-    "title": "Meta zmienia zasady dotyczące pobierania treści prasowych",
-    "summary": "Meta usunęła zapis, który mógł pozwalać jej na pobieranie treści z serwisów informacyjnych. Zmiana dotyczy relacji firmy z wydawcami internetowymi.",
-    "so_what": "To sygnał, że firmy technologiczne zaostrzają zasady pozyskiwania treści w obliczu sporów o dane dla AI.",
-    "category": "Regulation",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
+    "title": "Microsoft porzuca brytyjski superkomputer AI",
+    "summary": "Microsoft rezygnuje z projektu superkomputera AI w Wielkiej Brytanii. Powodem są ograniczenia sieci energetycznej, która nie nadąża za potrzebami infrastruktury.",
+    "so_what": "Dostęp do energii staje się równie istotnym ograniczeniem rozwoju AI jak dostęp do układów obliczeniowych.",
+    "category": "Infrastructure",
+    "source": "The Register",
+    "url": "https://www.theregister.com/on-prem/2026/10/19/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up/5303824"
   }
 ]

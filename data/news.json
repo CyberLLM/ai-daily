@@ -1,130 +1,186 @@
 [
   {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+    "date": "2026-10-20T01:27:03+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "My obituary for programming",
+    "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+    "date": "2026-10-19T23:58:25+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+    "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+    "date": "2026-10-19T23:39:38+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+    "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+    "date": "2026-10-19T22:49:27+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "The fossil fuel comeback is here",
+    "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+    "date": "2026-10-19T21:48:01+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+    "date": "2026-10-19T21:28:20+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+    "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+    "date": "2026-10-19T20:21:53+00:00"
+  },
+  {
+    "source": "AI Snake Oil",
+    "kind": "analysis",
+    "org": "AI Snake Oil",
+    "title": "New paper: Emerging trends in AI agent evaluation",
+    "url": "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+    "date": "2026-10-19T20:11:55+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+    "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+    "date": "2026-10-19T19:49:17+00:00"
+  },
+  {
+    "source": "NVIDIA",
+    "kind": "vendor",
+    "org": "NVIDIA",
+    "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+    "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+    "date": "2026-10-19T19:27:08+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "Security patches need patches now that attackers have AI",
+    "url": "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927",
+    "date": "2026-10-19T18:23:40+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "Making the internet better for AI agents might make it worse for everyone else",
+    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+    "date": "2026-10-19T18:22:47+00:00"
+  },
+  {
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
+    "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+    "date": "2026-10-19T18:20:00+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+    "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+    "date": "2026-10-19T17:45:55+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "AI game clones are making indie developers afraid to show their work",
+    "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+    "date": "2026-10-19T16:59:22+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
+    "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+    "date": "2026-10-19T16:00:00+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+    "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+    "date": "2026-10-19T14:45:43+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+    "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+    "date": "2026-10-19T14:30:00+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "Microsoft abandons UK AI supercomputer as grid struggles to keep up",
+    "url": "https://www.theregister.com/on-prem/2026/10/19/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up/5303824",
+    "date": "2026-10-19T12:15:48+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Advancing coding in low‑resource programming languages",
+    "url": "https://openai.com/index/low-resource-programming-languages",
+    "date": "2026-10-19T12:00:00+00:00"
+  },
+  {
+    "source": "Rest of World",
+    "kind": "press",
+    "org": "Rest of World",
+    "title": "Will developing nations be able to handle millions of AI agents?",
+    "url": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "date": "2026-10-19T10:00:00+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "kind": "vendor",
+    "org": "Hugging Face",
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "url": "https://huggingface.co/blog/hf-torchneuron",
+    "date": "2026-10-19T00:00:00+00:00"
+  },
+  {
     "source": "Simon Willison",
     "kind": "analysis",
     "org": "Simon Willison",
     "title": "llm-tools-datasette 0.1.1",
     "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
     "date": "2026-10-18T23:43:09+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "llm-echo 0.5",
-    "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
-    "date": "2026-10-18T23:16:16+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-    "url": "https://arxiv.org/abs/2610.18861",
-    "date": "2026-10-18T20:48:14+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-    "date": "2026-10-18T20:37:40+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "A woman was arrested in Philly for blocking a delivery robot",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-    "date": "2026-10-18T18:28:10+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-    "date": "2026-10-18T16:30:00+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Anthropic gives outside AI watchdog “employee-like” access",
-    "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-    "date": "2026-10-18T16:25:19+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-    "date": "2026-10-18T14:30:27+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "How employment is changing at Anthropic",
-    "url": "https://www.anthropic.com/research/employment-at-anthropic",
-    "date": "2026-10-18T10:49:26+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
-    "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
-    "date": "2026-10-18T10:30:00+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
-    "url": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
-    "date": "2026-10-18T10:30:00+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-    "url": "https://sphinx-six-theta.vercel.app/",
-    "date": "2026-10-18T04:33:49+00:00"
-  },
-  {
-    "source": "MIT News",
-    "kind": "research",
-    "org": "MIT News",
-    "title": "Giving AI a “crystal clear” view of the materials world",
-    "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
-    "date": "2026-10-18T04:00:00+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "date": "2026-10-17T18:48:08+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Meta removes language that may have allowed it to scrape news sites",
-    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-    "date": "2026-10-17T15:04:36+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "Amazon wants you to Bee-lieve wearable AI can recall it all for you",
-    "url": "https://www.theregister.com/personal-tech/2026/10/17/amazon-wants-you-to-bee-lieve-wearable-ai-can-recall-it-all-for-you/5303569",
-    "date": "2026-10-17T09:00:00+00:00"
   }
 ]
