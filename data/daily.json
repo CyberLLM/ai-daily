@@ -1,42 +1,42 @@
 [
   {
-    "title": "Dług CoreWeave staje się ryzykiem dla branży AI",
-    "summary": "Zadłużenie CoreWeave przestaje być wyłącznie problemem jednej firmy. Może ono wpływać na cały sektor AI powiązany z dostawcą infrastruktury.",
-    "so_what": "Firmy i inwestorzy muszą uważniej oceniać ryzyko finansowe dostawców mocy obliczeniowej.",
-    "category": "Business",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai"
+    "title": "Anthropic proponuje próg ryzyka dla modeli AI",
+    "summary": "Anthropic popiera ustawę o bezpieczeństwie AI, która mogłaby zablokować model stwarzający ryzyko śmierci co najmniej 50 osób. Propozycja przekłada potencjalne szkody na konkretny próg regulacyjny.",
+    "so_what": "Takie przepisy mogłyby uzależnić możliwość wdrożenia zaawansowanego modelu od ilościowej oceny jego ryzyka.",
+    "category": "Regulation",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
   },
   {
-    "title": "AI zmienia wyścig między atakującymi a obrońcami",
-    "summary": "Atakujący wykorzystują AI, co utrudnia skuteczne zabezpieczanie systemów. Nawet proces wdrażania poprawek bezpieczeństwa wymaga dodatkowej ochrony.",
-    "so_what": "Organizacje muszą dostosować zarządzanie podatnościami do szybszych ataków wspomaganych przez AI.",
-    "category": "Safety",
-    "source": "The Register",
-    "url": "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927"
-  },
-  {
-    "title": "Internet dla agentów AI może zaszkodzić ludziom",
-    "summary": "Dostosowywanie internetu do potrzeb agentów AI może pogorszyć jego działanie dla pozostałych użytkowników. Ułatwienia dla automatów nie zawsze są zgodne z interesem ludzi.",
-    "so_what": "Standardy projektowane dla agentów powinny uwzględniać skutki dla dostępności i użyteczności sieci dla człowieka.",
-    "category": "Agents",
-    "source": "MIT Technology Review",
-    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"
-  },
-  {
-    "title": "Symetria może poprawić prenatalną diagnostykę AI",
-    "summary": "Uczenie systemów AI o symetrii może zwiększyć wiarygodność diagnostyki prenatalnej. To przykład wykorzystania wiedzy o strukturze danych do ulepszania modeli medycznych.",
-    "so_what": "Wbudowanie odpowiednich zasad dziedzinowych w modele może zwiększać ich wartość w zastosowaniach klinicznych.",
-    "category": "Research",
-    "source": "MIT News",
-    "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019"
-  },
-  {
-    "title": "Microsoft porzuca brytyjski superkomputer AI",
-    "summary": "Microsoft rezygnuje z projektu superkomputera AI w Wielkiej Brytanii. Powodem są ograniczenia sieci energetycznej, która nie nadąża za potrzebami infrastruktury.",
-    "so_what": "Dostęp do energii staje się równie istotnym ograniczeniem rozwoju AI jak dostęp do układów obliczeniowych.",
+    "title": "Tysiące GPU bezczynne w superklastrze Meta",
+    "summary": "Dziesiątki tysięcy procesorów graficznych Nvidia pozostają bezczynne w superklastrze Prometheus firmy Meta. Sprzęt ma czekać na awarie wymagające zastąpienia części zasobów.",
+    "so_what": "Budowa niezawodnej infrastruktury AI może wymagać utrzymywania ogromnej i kosztownej rezerwy mocy obliczeniowej.",
     "category": "Infrastructure",
     "source": "The Register",
-    "url": "https://www.theregister.com/on-prem/2026/10/19/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up/5303824"
+    "url": "https://www.theregister.com/systems/2026/10/20/tens-of-thousands-of-nvidia-gpus-sit-idle-in-metas-prometheus-supercluster-just-waiting-for-a-failure/5304269"
+  },
+  {
+    "title": "Meta zmienia regulamin po sprzeciwie wobec AI",
+    "summary": "Meta usunęła słowo „train” ze swojego komercyjnego regulaminu po krytyce związanej z AI. Zmiana dotyczy sposobu opisywania zasad korzystania z danych.",
+    "so_what": "Presja klientów może wymuszać na dostawcach AI zmianę języka umów dotyczącego wykorzystywania danych.",
+    "category": "Business",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/"
+  },
+  {
+    "title": "Dron wykorzystany do ratowania rannego żołnierza",
+    "summary": "W Ukrainie przeprowadzono akcję ratunkową rannego żołnierza z użyciem drona. Rozwiązanie wcześniej przedstawiane jako koncepcja zostało zastosowane w praktyce.",
+    "so_what": "Roboty mobilne zaczynają wykonywać realne zadania ratunkowe w warunkach zbyt niebezpiecznych dla ludzi.",
+    "category": "Robotics",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/"
+  },
+  {
+    "title": "Meta wstrzymuje udostępnianie Muse",
+    "summary": "Meta wstrzymała funkcję udostępniania Muse po odkryciu przez badaczy rozmów z AI w otwartym internecie. Incydent ujawnił ryzyko niezamierzonej publikacji treści użytkowników.",
+    "so_what": "Funkcje udostępniania rozmów z AI wymagają zabezpieczeń, które jednoznacznie informują użytkownika o publicznym charakterze publikacji.",
+    "category": "Safety",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"
   }
 ]
