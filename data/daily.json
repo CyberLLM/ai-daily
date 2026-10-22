@@ -1,42 +1,42 @@
 [
   {
-    "title": "Anthropic proponuje próg ryzyka dla modeli AI",
-    "summary": "Anthropic popiera ustawę o bezpieczeństwie AI, która mogłaby zablokować model stwarzający ryzyko śmierci co najmniej 50 osób. Propozycja przekłada potencjalne szkody na konkretny próg regulacyjny.",
-    "so_what": "Takie przepisy mogłyby uzależnić możliwość wdrożenia zaawansowanego modelu od ilościowej oceny jego ryzyka.",
-    "category": "Regulation",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
-  },
-  {
-    "title": "Tysiące GPU bezczynne w superklastrze Meta",
-    "summary": "Dziesiątki tysięcy procesorów graficznych Nvidia pozostają bezczynne w superklastrze Prometheus firmy Meta. Sprzęt ma czekać na awarie wymagające zastąpienia części zasobów.",
-    "so_what": "Budowa niezawodnej infrastruktury AI może wymagać utrzymywania ogromnej i kosztownej rezerwy mocy obliczeniowej.",
+    "title": "Nvidia wesprze finansowo łańcuch dostaw GPU",
+    "summary": "Nvidia zamierza wykorzystać własny kapitał, aby zwiększyć moce produkcyjne w łańcuchu dostaw. Celem jest zaspokojenie globalnego popytu na procesory graficzne.",
+    "so_what": "Bezpośrednie finansowanie dostawców może pomóc Nvidii szybciej usuwać wąskie gardła ograniczające rozwój infrastruktury AI.",
     "category": "Infrastructure",
     "source": "The Register",
-    "url": "https://www.theregister.com/systems/2026/10/20/tens-of-thousands-of-nvidia-gpus-sit-idle-in-metas-prometheus-supercluster-just-waiting-for-a-failure/5304269"
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/22/to-help-world-gorge-on-gpus-nvidia-brings-cash-bucket-to-fatten-wafer-thin-supply-chain/5304623"
   },
   {
-    "title": "Meta zmienia regulamin po sprzeciwie wobec AI",
-    "summary": "Meta usunęła słowo „train” ze swojego komercyjnego regulaminu po krytyce związanej z AI. Zmiana dotyczy sposobu opisywania zasad korzystania z danych.",
-    "so_what": "Presja klientów może wymuszać na dostawcach AI zmianę języka umów dotyczącego wykorzystywania danych.",
+    "title": "Meta chce finansować AI nową klasą akcji",
+    "summary": "Meta planuje utworzenie nowej klasy akcji, aby pozyskać środki na rozwój AI. To sygnał, że firma szuka dodatkowego sposobu finansowania kosztownej ekspansji.",
+    "so_what": "Nowa struktura kapitałowa może zwiększyć możliwości inwestycyjne Meta, ale zmieni też układ interesów jej akcjonariuszy.",
     "category": "Business",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/"
-  },
-  {
-    "title": "Dron wykorzystany do ratowania rannego żołnierza",
-    "summary": "W Ukrainie przeprowadzono akcję ratunkową rannego żołnierza z użyciem drona. Rozwiązanie wcześniej przedstawiane jako koncepcja zostało zastosowane w praktyce.",
-    "so_what": "Roboty mobilne zaczynają wykonywać realne zadania ratunkowe w warunkach zbyt niebezpiecznych dla ludzi.",
-    "category": "Robotics",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/"
-  },
-  {
-    "title": "Meta wstrzymuje udostępnianie Muse",
-    "summary": "Meta wstrzymała funkcję udostępniania Muse po odkryciu przez badaczy rozmów z AI w otwartym internecie. Incydent ujawnił ryzyko niezamierzonej publikacji treści użytkowników.",
-    "so_what": "Funkcje udostępniania rozmów z AI wymagają zabezpieczeń, które jednoznacznie informują użytkownika o publicznym charakterze publikacji.",
-    "category": "Safety",
     "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"
+    "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings"
+  },
+  {
+    "title": "Anthropic wprowadza agenta Claude Duet",
+    "summary": "Anthropic zaprezentował Claude Duet, nowego agenta AI. Produkt ma konkurować z Muse.",
+    "so_what": "Premiera zaostrza rywalizację o rynek agentów wykonujących zadania w imieniu użytkownika.",
+    "category": "Agents",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
+  },
+  {
+    "title": "Modele OpenAI trafią do Google Cloud",
+    "summary": "Najnowsze modele OpenAI mają być dostępne w Google Cloud oraz Antigravity. Poszerzy to liczbę środowisk, w których będzie można je wdrażać.",
+    "so_what": "Udostępnienie modeli w ekosystemie Google może przyspieszyć ich wykorzystanie przez firmy i zwiększyć konkurencję między platformami chmurowymi.",
+    "category": "Models",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/"
+  },
+  {
+    "title": "AI wspiera USG w opiece nad matkami",
+    "summary": "Google Research opisuje wykorzystanie USG wspomaganego przez AI w podstawowej opiece nad kobietami w ciąży. Rozwiązanie ma wspierać personel pracujący bezpośrednio z pacjentkami.",
+    "so_what": "AI może rozszerzyć dostęp do użytecznej diagnostyki prenatalnej tam, gdzie brakuje wyspecjalizowanych ekspertów.",
+    "category": "Research",
+    "source": "Google Research",
+    "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/"
   }
 ]

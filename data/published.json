@@ -148,5 +148,35 @@
     "title": "Meta wstrzymuje udostępnianie Muse",
     "category": "Safety",
     "published_on": "2026-10-21"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/22/to-help-world-gorge-on-gpus-nvidia-brings-cash-bucket-to-fatten-wafer-thin-supply-chain/5304623",
+    "title": "Nvidia wesprze finansowo łańcuch dostaw GPU",
+    "category": "Infrastructure",
+    "published_on": "2026-10-22"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+    "title": "Meta chce finansować AI nową klasą akcji",
+    "category": "Business",
+    "published_on": "2026-10-22"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+    "title": "Anthropic wprowadza agenta Claude Duet",
+    "category": "Agents",
+    "published_on": "2026-10-22"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+    "title": "Modele OpenAI trafią do Google Cloud",
+    "category": "Models",
+    "published_on": "2026-10-22"
+  },
+  {
+    "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
+    "title": "AI wspiera USG w opiece nad matkami",
+    "category": "Research",
+    "published_on": "2026-10-22"
   }
 ]
