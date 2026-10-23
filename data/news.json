@@ -1,91 +1,219 @@
 [
   {
-    "source": "Wired",
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "Q&A: How AI came to model the “messy” human mind",
+    "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+    "date": "2026-10-23T04:00:00+00:00"
+  },
+  {
+    "source": "NVIDIA",
+    "kind": "vendor",
+    "org": "NVIDIA",
+    "title": "Kazakhstan Expands Compute for Its AI Future",
+    "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+    "date": "2026-10-23T02:00:13+00:00"
+  },
+  {
+    "source": "TechCrunch",
     "kind": "press",
-    "org": "Wired",
-    "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
-    "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
-    "date": "2026-10-22T02:24:17+00:00"
+    "org": "TechCrunch",
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "date": "2026-10-23T00:45:37+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "kind": "vendor",
+    "org": "Hugging Face",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "date": "2026-10-22T22:24:34+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "date": "2026-10-22T22:08:24+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "Designing an AI serving harness built to last",
+    "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "date": "2026-10-22T21:17:29+00:00"
+  },
+  {
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "This design software reimagines everyday objects as self-aware devices",
+    "url": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
+    "date": "2026-10-22T20:45:00+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Meta’s AI could still scrape news sites, legal experts say",
+    "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+    "date": "2026-10-22T20:32:05+00:00"
   },
   {
     "source": "The Register",
     "kind": "press",
     "org": "The Register",
-    "title": "To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/22/to-help-world-gorge-on-gpus-nvidia-brings-cash-bucket-to-fatten-wafer-thin-supply-chain/5304623",
-    "date": "2026-10-22T00:54:33+00:00"
+    "title": "Human receives AI-designed virus for the first time",
+    "url": "https://www.theregister.com/science/2026/10/22/human-receives-ai-designed-virus-for-the-first-time/5304874",
+    "date": "2026-10-22T20:31:39+00:00"
   },
   {
-    "source": "TechCrunch",
+    "source": "The Verge",
     "kind": "press",
-    "org": "TechCrunch",
-    "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-    "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-    "date": "2026-10-21T22:51:22+00:00"
+    "org": "The Verge",
+    "title": "Meta turns Muse sharing back on",
+    "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+    "date": "2026-10-22T20:24:04+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "Backdoored robot tries its hand at finger chopping and cat cooking",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/22/backdoored-robot-tries-its-hand-at-finger-chopping-and-cat-cooking/5304870",
+    "date": "2026-10-22T19:57:59+00:00"
   },
   {
     "source": "Wired",
     "kind": "press",
     "org": "Wired",
-    "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
-    "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
-    "date": "2026-10-21T22:39:50+00:00"
+    "title": "The Social Society Helping Women Join the AI Boom",
+    "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
+    "date": "2026-10-22T19:56:32+00:00"
   },
   {
     "source": "The Verge",
     "kind": "press",
     "org": "The Verge",
-    "title": "Data centers could erase decades of air quality gains",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-    "date": "2026-10-21T22:33:44+00:00"
+    "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+    "date": "2026-10-22T19:45:00+00:00"
   },
   {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Meta to create a new class of shares to fund AI push",
-    "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-    "date": "2026-10-21T21:30:02+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-    "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-    "date": "2026-10-21T21:16:20+00:00"
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "DE STAAT - FREEDOM (Official Music Video)",
+    "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+    "date": "2026-10-22T19:42:26+00:00"
   },
   {
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "Meta says Muse has over 10M users, with shopping a top activity",
-    "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-    "date": "2026-10-21T21:14:19+00:00"
+    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "date": "2026-10-22T19:07:09+00:00"
   },
   {
     "source": "OpenAI",
     "kind": "vendor",
     "org": "OpenAI",
-    "title": "Broad access through consistent standards",
-    "url": "https://openai.com/index/broad-access-through-consistent-standards",
-    "date": "2026-10-21T21:00:00+00:00"
+    "title": "Build more responsive apps with the Decisions API",
+    "url": "https://openai.com/index/decisions-api",
+    "date": "2026-10-22T19:00:00+00:00"
   },
   {
-    "source": "The Register",
+    "source": "MIT Technology Review",
     "kind": "press",
-    "org": "The Register",
-    "title": "Reach new heights of laziness by burning tokens to let an AI tap your smartphone screen for you",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/21/reach-new-heights-of-laziness-by-burning-tokens-to-let-an-ai-tap-your-smartphone-screen-for-you/5304567",
-    "date": "2026-10-21T20:13:33+00:00"
+    "org": "MIT Technology Review",
+    "title": "The Foundations of Scalable AI",
+    "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+    "date": "2026-10-22T18:48:04+00:00"
   },
   {
-    "source": "The Verge",
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "AI and the Enclosure of the Scientific Commons",
+    "url": "https://arxiv.org/abs/2610.27251",
+    "date": "2026-10-22T18:28:16+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "Donating Agent Skills to the Agentic AI Foundation",
+    "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+    "date": "2026-10-22T18:09:56+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "date": "2026-10-22T17:44:06+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "kind": "vendor",
+    "org": "Hugging Face",
+    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+    "date": "2026-10-22T16:11:31+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "Every AI model has the same \"controversial\" take on humans",
+    "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+    "date": "2026-10-22T16:08:00+00:00"
+  },
+  {
+    "source": "Ars Technica",
     "kind": "press",
-    "org": "The Verge",
-    "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-    "date": "2026-10-21T19:53:20+00:00"
+    "org": "Ars Technica",
+    "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+    "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+    "date": "2026-10-22T15:25:02+00:00"
+  },
+  {
+    "source": "Google DeepMind",
+    "kind": "vendor",
+    "org": "Google",
+    "title": "Beyond tree cover: mapping the world’s forest types",
+    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "date": "2026-10-22T14:30:24+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+    "url": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+    "date": "2026-10-22T13:00:00+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "What FDE means at OpenAI",
+    "url": "https://openai.com/index/forward-deployed-engineering-means",
+    "date": "2026-10-22T06:00:00+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "OpenAI CLI",
+    "url": "https://github.com/openai/openai-cli",
+    "date": "2026-10-22T05:23:11+00:00"
   },
   {
     "source": "Ars Technica",
@@ -96,131 +224,11 @@
     "date": "2026-10-21T19:44:40+00:00"
   },
   {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Google staff resign in backlash over its AI contracts with military",
-    "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
-    "date": "2026-10-21T19:14:21+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-    "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-    "date": "2026-10-21T18:51:42+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-    "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
-    "date": "2026-10-21T18:41:53+00:00"
-  },
-  {
-    "source": "Hugging Face",
-    "kind": "vendor",
-    "org": "Hugging Face",
-    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-    "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-    "date": "2026-10-21T18:26:30+00:00"
-  },
-  {
     "source": "Ars Technica",
     "kind": "press",
     "org": "Ars Technica",
     "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
     "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
     "date": "2026-10-21T18:20:40+00:00"
-  },
-  {
-    "source": "Hugging Face",
-    "kind": "vendor",
-    "org": "Hugging Face",
-    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-    "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-    "date": "2026-10-21T17:35:36+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "How AT&T is rethinking in-house legal work with OpenAI",
-    "url": "https://openai.com/index/att-legal",
-    "date": "2026-10-21T17:00:00+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "Panache — RTS Belle Époque pour mobile",
-    "url": "https://simonwillison.net/2026/Oct/21/panache/",
-    "date": "2026-10-21T16:25:16+00:00"
-  },
-  {
-    "source": "Google Research",
-    "kind": "research",
-    "org": "Google",
-    "title": "Empowering frontline maternal care with AI-assisted ultrasound",
-    "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
-    "date": "2026-10-21T16:23:53+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-    "url": "https://www.wiz.io/blog/php2shell-php-rce",
-    "date": "2026-10-21T13:43:19+00:00"
-  },
-  {
-    "source": "NVIDIA",
-    "kind": "vendor",
-    "org": "NVIDIA",
-    "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
-    "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
-    "date": "2026-10-21T10:45:17+00:00"
-  },
-  {
-    "source": "Google AI",
-    "kind": "vendor",
-    "org": "Google",
-    "title": "Southeast Asia’s digital economy to hit $368 billion",
-    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-    "date": "2026-10-21T04:00:00+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Anthropic logged net loss of over $80B in first half of 2026",
-    "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
-    "date": "2026-10-20T20:09:46+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-    "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-    "date": "2026-10-20T15:48:26+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "kind": "press",
-    "org": "MIT Technology Review",
-    "title": "The new economics of enterprise AI",
-    "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-    "date": "2026-10-20T15:20:25+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "kind": "press",
-    "org": "MIT Technology Review",
-    "title": "AI adoption by industry shows what other sectors can learn",
-    "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-    "date": "2026-10-20T12:00:00+00:00"
   }
 ]

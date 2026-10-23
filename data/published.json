@@ -178,5 +178,35 @@
     "title": "AI wspiera USG w opiece nad matkami",
     "category": "Research",
     "published_on": "2026-10-22"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "title": "OpenAI szykuje rundę finansowania za 30 mld dolarów",
+    "category": "Business",
+    "published_on": "2026-10-23"
+  },
+  {
+    "url": "https://www.theregister.com/science/2026/10/22/human-receives-ai-designed-virus-for-the-first-time/5304874",
+    "title": "Człowiek po raz pierwszy otrzymał wirusa zaprojektowanego przez AI",
+    "category": "Safety",
+    "published_on": "2026-10-23"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "title": "1Password umożliwia agentom bezpieczne logowanie",
+    "category": "Agents",
+    "published_on": "2026-10-23"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+    "title": "AI Meta może nadal pobierać treści serwisów informacyjnych",
+    "category": "Regulation",
+    "published_on": "2026-10-23"
+  },
+  {
+    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "title": "DeepMind mapuje typy lasów na świecie",
+    "category": "Research",
+    "published_on": "2026-10-23"
   }
 ]
