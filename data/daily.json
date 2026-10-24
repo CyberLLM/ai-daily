@@ -1,42 +1,42 @@
 [
   {
-    "title": "OpenAI szykuje rundę finansowania za 30 mld dolarów",
-    "summary": "OpenAI pracuje nad pozyskaniem 30 mld dolarów przy wycenie 1,25 bln dolarów. Runda miałaby poprzedzić planowane wejście firmy na giełdę.",
-    "so_what": "Tak duże finansowanie może jeszcze bardziej zwiększyć skalę inwestycji OpenAI w modele i infrastrukturę.",
-    "category": "Business",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
-  },
-  {
-    "title": "Człowiek po raz pierwszy otrzymał wirusa zaprojektowanego przez AI",
-    "summary": "Po raz pierwszy człowiek otrzymał wirusa zaprojektowanego z wykorzystaniem AI. To ważny krok w przenoszeniu projektów generowanych przez modele do zastosowań biologicznych.",
-    "so_what": "Rozwój ten zwiększa potrzebę rygorystycznej oceny bezpieczeństwa biologicznych projektów tworzonych przez AI.",
+    "title": "Trening modeli bez dostępu do żywego internetu",
+    "summary": "Modele nie będą już miały dostępu do żywego internetu podczas treningu. Powodem mają być znaczące ryzyka związane z takim połączeniem.",
+    "so_what": "Odizolowanie środowiska treningowego może ograniczyć ryzyko ataków i niekontrolowanych działań modeli.",
     "category": "Safety",
-    "source": "The Register",
-    "url": "https://www.theregister.com/science/2026/10/22/human-receives-ai-designed-virus-for-the-first-time/5304874"
-  },
-  {
-    "title": "1Password umożliwia agentom bezpieczne logowanie",
-    "summary": "1Password uruchomił mechanizm pozwalający agentom AI logować się w imieniu użytkownika. Agent nie musi przy tym poznawać jego hasła.",
-    "so_what": "Bezpieczna obsługa poświadczeń usuwa jedną z głównych barier we wdrażaniu agentów wykonujących realne zadania.",
-    "category": "Agents",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
   },
   {
-    "title": "AI Meta może nadal pobierać treści serwisów informacyjnych",
-    "summary": "Eksperci prawni oceniają, że systemy Meta mogą nadal pobierać dane z witryn informacyjnych. Sprawa podkreśla niejasności dotyczące dostępu modeli AI do treści wydawców.",
-    "so_what": "Wydawcy nadal muszą liczyć się z ograniczoną kontrolą nad wykorzystywaniem ich treści przez firmy AI.",
-    "category": "Regulation",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"
+    "title": "Agenci AI bez skutecznego nadzoru podczas ataku",
+    "summary": "Raport red-team wykazał, że OpenAI nie zdołało monitorować swoich agentów podczas ataku dotyczącego Hugging Face. Test ujawnił poważną słabość mechanizmów nadzoru.",
+    "so_what": "Firmy wdrażające agentów potrzebują skuteczniejszych narzędzi do obserwowania ich działań w sytuacjach kryzysowych.",
+    "category": "Agents",
+    "source": "The Register",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200"
   },
   {
-    "title": "DeepMind mapuje typy lasów na świecie",
-    "summary": "Google DeepMind przedstawił projekt mapowania światowych lasów według ich typów, a nie tylko powierzchni zadrzewienia. Ma to zapewnić bardziej szczegółowy obraz ekosystemów leśnych.",
-    "so_what": "Dokładniejsze rozpoznawanie typów lasów może zwiększyć użyteczność AI w monitorowaniu środowiska.",
+    "title": "Modele bazowe wspierają badania przesiewowe gruźlicy",
+    "summary": "Modele bazowe mają wspierać badania przesiewowe w kierunku gruźlicy. Rozwiązanie jest kierowane do miejsc prowadzących bezpośrednią diagnostykę pacjentów.",
+    "so_what": "AI może zwiększyć dostępność wczesnego wykrywania gruźlicy tam, gdzie brakuje specjalistów.",
     "category": "Research",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
+    "source": "Google Research",
+    "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/"
+  },
+  {
+    "title": "Intel z wyjątkiem od amerykańskiego zakazu dotyczącego robotów",
+    "summary": "Intel otrzymał odstępstwo od nieprecyzyjnego amerykańskiego zakazu dotyczącego robotów produkowanych za granicą. Obawiano się, że regulacja może uderzyć w fabryki półprzewodników.",
+    "so_what": "Wyjątek zmniejsza ryzyko, że przepisy zakłócą automatyzację i produkcję chipów potrzebnych branży AI.",
+    "category": "Regulation",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/"
+  },
+  {
+    "title": "Magazyn danych dla ponad miliarda użytkowników ChatGPT",
+    "summary": "Opisano szybkie skalowanie warstwy pamięci masowej online obsługującej ponad miliard użytkowników ChatGPT. Materiał pokazuje infrastrukturę potrzebną do działania usługi w takiej skali.",
+    "so_what": "Obsługa masowych usług AI wymaga dziś innowacji nie tylko w modelach, lecz także w systemach przechowywania danych.",
+    "category": "Infrastructure",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
   }
 ]
