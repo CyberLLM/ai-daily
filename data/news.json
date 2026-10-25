@@ -1,27 +1,91 @@
 [
   {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+    "date": "2026-10-24T23:11:54+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Blue Planet III is keeping the rough edges in the age of AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+    "date": "2026-10-24T21:29:12+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "No signs of AI payoff outside the tech sector",
+    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+    "date": "2026-10-24T19:47:19+00:00"
+  },
+  {
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "date": "2026-10-23T23:05:49+00:00"
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "date": "2026-10-24T19:00:00+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Pennsylvania will require labels on AI-generated ads",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+    "date": "2026-10-24T18:32:21+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "Why is AI generated language so hard to understand?",
+    "url": "https://arxiv.org/abs/2610.29162",
+    "date": "2026-10-24T18:04:57+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Block’s new voice model sounds eerily human",
+    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "date": "2026-10-24T16:00:00+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "date": "2026-10-24T15:00:00+00:00"
   },
   {
     "source": "The Register",
     "kind": "press",
     "org": "The Register",
-    "title": "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238",
-    "date": "2026-10-23T22:36:11+00:00"
+    "title": "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds",
+    "url": "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215",
+    "date": "2026-10-24T13:02:00+00:00"
   },
   {
-    "source": "TechCrunch",
+    "source": "Wired",
     "kind": "press",
-    "org": "TechCrunch",
-    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-    "date": "2026-10-23T21:59:19+00:00"
+    "org": "Wired",
+    "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+    "date": "2026-10-24T12:00:00+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "battledrones v14: Compass Rose, a four player map",
+    "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+    "date": "2026-10-24T03:59:57+00:00"
   },
   {
     "source": "Simon Willison",
@@ -30,6 +94,14 @@
     "title": "Quick Study",
     "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
     "date": "2026-10-23T21:35:13+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "OpenAI now trains its frontier AI models with no internet access",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "date": "2026-10-23T21:11:07+00:00"
   },
   {
     "source": "MIT News",
@@ -48,14 +120,6 @@
     "date": "2026-10-23T20:19:55+00:00"
   },
   {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "Introducing Kimi K3.1 Pro",
-    "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
-    "date": "2026-10-23T19:40:54+00:00"
-  },
-  {
     "source": "MIT News",
     "kind": "research",
     "org": "MIT News",
@@ -64,68 +128,12 @@
     "date": "2026-10-23T19:35:00+00:00"
   },
   {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-    "date": "2026-10-23T19:32:39+00:00"
-  },
-  {
     "source": "The Register",
     "kind": "press",
     "org": "The Register",
-    "title": "Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200",
-    "date": "2026-10-23T19:14:57+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-    "date": "2026-10-23T19:06:23+00:00"
-  },
-  {
-    "source": "Google Research",
-    "kind": "research",
-    "org": "Google",
-    "title": "Bringing foundational models to the front lines of TB screening",
-    "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
-    "date": "2026-10-23T18:51:33+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-    "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-    "date": "2026-10-23T17:18:31+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "The iPhone Duo should have been an iPad",
-    "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-    "date": "2026-10-23T17:00:18+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-    "date": "2026-10-23T17:00:00+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-    "date": "2026-10-23T16:52:55+00:00"
+    "title": "AI models describe humans as a bunch of amoral sheep",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-describe-humans-as-a-bunch-of-amoral-sheep/5305123",
+    "date": "2026-10-23T16:26:13+00:00"
   },
   {
     "source": "Hugging Face",
@@ -150,85 +158,5 @@
     "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
     "url": "https://berget.ai/en/blog/per-request-co2-press-release",
     "date": "2026-10-23T06:41:11+00:00"
-  },
-  {
-    "source": "NVIDIA",
-    "kind": "vendor",
-    "org": "NVIDIA",
-    "title": "Kazakhstan Expands Compute for Its AI Future",
-    "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
-    "date": "2026-10-23T02:00:13+00:00"
-  },
-  {
-    "source": "Hugging Face",
-    "kind": "vendor",
-    "org": "Hugging Face",
-    "title": "Does Your Model Run on AWS Trainium? Look It Up",
-    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-    "date": "2026-10-23T00:00:00+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "kind": "press",
-    "org": "MIT Technology Review",
-    "title": "Designing an AI serving harness built to last",
-    "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-    "date": "2026-10-22T21:17:29+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-    "url": "https://news.ycombinator.com/item?id=50200997",
-    "date": "2026-10-22T21:03:55+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "The Social Society Helping Women Join the AI Boom",
-    "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
-    "date": "2026-10-22T19:56:32+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "kind": "press",
-    "org": "MIT Technology Review",
-    "title": "The Foundations of Scalable AI",
-    "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-    "date": "2026-10-22T18:48:04+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "AI and the Enclosure of the Scientific Commons",
-    "url": "https://arxiv.org/abs/2610.27251",
-    "date": "2026-10-22T18:28:16+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-    "url": "https://github.com/NVIDIA/OpenShell",
-    "date": "2026-10-22T17:44:06+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
-    "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
-    "date": "2026-10-22T15:25:02+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
-    "url": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
-    "date": "2026-10-22T13:00:00+00:00"
   }
 ]

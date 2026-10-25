@@ -1,42 +1,42 @@
 [
   {
-    "title": "Trening modeli bez dostępu do żywego internetu",
-    "summary": "Modele nie będą już miały dostępu do żywego internetu podczas treningu. Powodem mają być znaczące ryzyka związane z takim połączeniem.",
-    "so_what": "Odizolowanie środowiska treningowego może ograniczyć ryzyko ataków i niekontrolowanych działań modeli.",
-    "category": "Safety",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
-  },
-  {
-    "title": "Agenci AI bez skutecznego nadzoru podczas ataku",
-    "summary": "Raport red-team wykazał, że OpenAI nie zdołało monitorować swoich agentów podczas ataku dotyczącego Hugging Face. Test ujawnił poważną słabość mechanizmów nadzoru.",
-    "so_what": "Firmy wdrażające agentów potrzebują skuteczniejszych narzędzi do obserwowania ich działań w sytuacjach kryzysowych.",
-    "category": "Agents",
-    "source": "The Register",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200"
-  },
-  {
-    "title": "Modele bazowe wspierają badania przesiewowe gruźlicy",
-    "summary": "Modele bazowe mają wspierać badania przesiewowe w kierunku gruźlicy. Rozwiązanie jest kierowane do miejsc prowadzących bezpośrednią diagnostykę pacjentów.",
-    "so_what": "AI może zwiększyć dostępność wczesnego wykrywania gruźlicy tam, gdzie brakuje specjalistów.",
-    "category": "Research",
-    "source": "Google Research",
-    "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/"
-  },
-  {
-    "title": "Intel z wyjątkiem od amerykańskiego zakazu dotyczącego robotów",
-    "summary": "Intel otrzymał odstępstwo od nieprecyzyjnego amerykańskiego zakazu dotyczącego robotów produkowanych za granicą. Obawiano się, że regulacja może uderzyć w fabryki półprzewodników.",
-    "so_what": "Wyjątek zmniejsza ryzyko, że przepisy zakłócą automatyzację i produkcję chipów potrzebnych branży AI.",
+    "title": "Pensylwania wprowadzi oznaczenia reklam generowanych przez AI",
+    "summary": "Pensylwania będzie wymagać oznaczania reklam wygenerowanych przez sztuczną inteligencję. Odbiorcy mają dzięki temu wiedzieć, że treść powstała z użyciem AI.",
+    "so_what": "Firmy reklamowe będą musiały uwzględnić obowiązek ujawniania użycia AI w swoich kampaniach.",
     "category": "Regulation",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/"
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
   },
   {
-    "title": "Magazyn danych dla ponad miliarda użytkowników ChatGPT",
-    "summary": "Opisano szybkie skalowanie warstwy pamięci masowej online obsługującej ponad miliard użytkowników ChatGPT. Materiał pokazuje infrastrukturę potrzebną do działania usługi w takiej skali.",
-    "so_what": "Obsługa masowych usług AI wymaga dziś innowacji nie tylko w modelach, lecz także w systemach przechowywania danych.",
+    "title": "Block stworzył wyjątkowo realistyczny model głosowy",
+    "summary": "Nowy model głosowy firmy Block brzmi bardzo podobnie do człowieka. Pokazuje to rosnący realizm technologii syntezy mowy.",
+    "so_what": "Realistyczniejsze głosy AI poszerzają zastosowania biznesowe, ale zwiększają też ryzyko podszywania się pod ludzi.",
+    "category": "Models",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+  },
+  {
+    "title": "AI ułatwia wykorzystywanie błędów w oprogramowaniu",
+    "summary": "Przypadek określany jako PHP Meltdown pokazuje, że AI może zwiększać podatność błędów na wykorzystanie. Istniejące luki stają się przez to groźniejsze.",
+    "so_what": "Zespoły bezpieczeństwa muszą szybciej usuwać błędy, ponieważ AI może obniżać próg ich skutecznego wykorzystania.",
+    "category": "Safety",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/"
+  },
+  {
+    "title": "OpenAI trenuje modele bez dostępu do internetu",
+    "summary": "OpenAI trenuje teraz swoje najbardziej zaawansowane modele bez dostępu do internetu. Środowisko treningowe zostało tym samym odizolowane od publicznej sieci.",
+    "so_what": "Izolacja infrastruktury treningowej może ograniczyć ryzyko zewnętrznych ataków i wycieku kluczowych zasobów.",
     "category": "Infrastructure",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+  },
+  {
+    "title": "Emisje zapytań do AI mocno zależą od lokalizacji",
+    "summary": "To samo zapytanie do AI emituje w Teksasie 8,5 razy więcej CO2 niż w Szwecji. Ślad węglowy AI zależy więc w dużym stopniu od miejsca wykonywania obliczeń.",
+    "so_what": "Lokalizacja infrastruktury może być równie ważna dla emisji AI jak wydajność używanego modelu.",
+    "category": "Society",
+    "source": "Hacker News",
+    "url": "https://berget.ai/en/blog/per-request-co2-press-release"
   }
 ]

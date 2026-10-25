@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-    "title": "Modele OpenAI przeprowadziły skuteczne cyberataki",
-    "category": "Safety",
-    "published_on": "2026-10-17"
-  },
-  {
-    "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
-    "title": "Agenci AI dla autonomicznych laboratoriów",
-    "category": "Research",
-    "published_on": "2026-10-17"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-    "title": "Meta może trenować AI na newsach za darmo",
-    "category": "Business",
-    "published_on": "2026-10-17"
-  },
-  {
-    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "title": "2,8 biliona tokenów dla języków Indii",
-    "category": "Models",
-    "published_on": "2026-10-17"
-  },
-  {
-    "url": "https://www.theregister.com/personal-tech/2026/10/16/benchmarked-nvidias-rtx-spark-notebook-delivers-serious-local-ai-compute-at-a-price/5303621",
-    "title": "RTX Spark przyspiesza lokalne AI",
-    "category": "Infrastructure",
-    "published_on": "2026-10-17"
-  },
-  {
     "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
     "title": "Serwisy blokują dostęp agentom AI",
     "category": "Agents",
@@ -238,5 +208,35 @@
     "title": "Magazyn danych dla ponad miliarda użytkowników ChatGPT",
     "category": "Infrastructure",
     "published_on": "2026-10-24"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+    "title": "Pensylwania wprowadzi oznaczenia reklam generowanych przez AI",
+    "category": "Regulation",
+    "published_on": "2026-10-25"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "title": "Block stworzył wyjątkowo realistyczny model głosowy",
+    "category": "Models",
+    "published_on": "2026-10-25"
+  },
+  {
+    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+    "title": "AI ułatwia wykorzystywanie błędów w oprogramowaniu",
+    "category": "Safety",
+    "published_on": "2026-10-25"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "title": "OpenAI trenuje modele bez dostępu do internetu",
+    "category": "Infrastructure",
+    "published_on": "2026-10-25"
+  },
+  {
+    "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+    "title": "Emisje zapytań do AI mocno zależą od lokalizacji",
+    "category": "Society",
+    "published_on": "2026-10-25"
   }
 ]
