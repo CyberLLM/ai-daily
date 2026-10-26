@@ -1,42 +1,42 @@
 [
   {
-    "title": "Pensylwania wprowadzi oznaczenia reklam generowanych przez AI",
-    "summary": "Pensylwania będzie wymagać oznaczania reklam wygenerowanych przez sztuczną inteligencję. Odbiorcy mają dzięki temu wiedzieć, że treść powstała z użyciem AI.",
-    "so_what": "Firmy reklamowe będą musiały uwzględnić obowiązek ujawniania użycia AI w swoich kampaniach.",
+    "title": "Chiny pozwalają DeepSeek kontynuować sprzedaż",
+    "summary": "Chiny pozwoliły DeepSeek nadal sprzedawać po wcześniejszych groźbach zakazów eksportowych dotyczących AI. Sprawa pokazuje niepewność regulacyjną wokół chińskich firm AI.",
+    "so_what": "DeepSeek zachowuje możliwość sprzedaży, ale decyzje władz pozostają istotnym ryzykiem dla jego biznesu.",
     "category": "Regulation",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+    "source": "The Register",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267"
   },
   {
-    "title": "Block stworzył wyjątkowo realistyczny model głosowy",
-    "summary": "Nowy model głosowy firmy Block brzmi bardzo podobnie do człowieka. Pokazuje to rosnący realizm technologii syntezy mowy.",
-    "so_what": "Realistyczniejsze głosy AI poszerzają zastosowania biznesowe, ale zwiększają też ryzyko podszywania się pod ludzi.",
-    "category": "Models",
+    "title": "Ekonomista Apollo: AI nie daje firmom zwrotu",
+    "summary": "Według ekonomisty Apollo większość firm nie osiąga finansowych korzyści z AI. Ocena podważa oczekiwania, że sama adopcja technologii szybko poprawi wyniki przedsiębiorstw.",
+    "so_what": "Firmy będą musiały wykazać mierzalny zwrot z inwestycji w AI, zamiast uzasadniać wydatki samą presją technologiczną.",
+    "category": "Business",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
   },
   {
-    "title": "AI ułatwia wykorzystywanie błędów w oprogramowaniu",
-    "summary": "Przypadek określany jako PHP Meltdown pokazuje, że AI może zwiększać podatność błędów na wykorzystanie. Istniejące luki stają się przez to groźniejsze.",
-    "so_what": "Zespoły bezpieczeństwa muszą szybciej usuwać błędy, ponieważ AI może obniżać próg ich skutecznego wykorzystania.",
-    "category": "Safety",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/"
-  },
-  {
-    "title": "OpenAI trenuje modele bez dostępu do internetu",
-    "summary": "OpenAI trenuje teraz swoje najbardziej zaawansowane modele bez dostępu do internetu. Środowisko treningowe zostało tym samym odizolowane od publicznej sieci.",
-    "so_what": "Izolacja infrastruktury treningowej może ograniczyć ryzyko zewnętrznych ataków i wycieku kluczowych zasobów.",
-    "category": "Infrastructure",
+    "title": "Wyszukiwarka AI Google wstrząsnęła rynkiem wydawców",
+    "summary": "Zmiany AI w wyszukiwarce Google zachwiały internetowym rynkiem wydawniczym. Wpływ generatywnego wyszukiwania wykracza już poza sam produkt Google.",
+    "so_what": "Wydawcy muszą dostosować modele biznesowe do wyszukiwania, które coraz częściej samo generuje odpowiedzi.",
+    "category": "Business",
     "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+    "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
   },
   {
-    "title": "Emisje zapytań do AI mocno zależą od lokalizacji",
-    "summary": "To samo zapytanie do AI emituje w Teksasie 8,5 razy więcej CO2 niż w Szwecji. Ślad węglowy AI zależy więc w dużym stopniu od miejsca wykonywania obliczeń.",
-    "so_what": "Lokalizacja infrastruktury może być równie ważna dla emisji AI jak wydajność używanego modelu.",
+    "title": "Brytyjska biurokracja hamuje budowę centrów danych",
+    "summary": "Inwestorzy chcący budować centra danych w Wielkiej Brytanii trafiają na administracyjne przekierowania w Whitehall. Procedury państwowe mogą opóźniać rozwój infrastruktury.",
+    "so_what": "Bez sprawniejszych decyzji administracyjnych Wielka Brytania może mieć trudności z szybkim zwiększaniem zaplecza obliczeniowego dla AI.",
+    "category": "Infrastructure",
+    "source": "The Register",
+    "url": "https://www.theregister.com/public-sector/2026/10/25/want-to-build-a-uk-datacenter-please-hold-while-whitehall-transfers-you/5304956"
+  },
+  {
+    "title": "r/opensource wprowadza zakazy dotyczące AI i języka",
+    "summary": "Społeczność r/opensource zakazała AI oraz udziału osób nieposługujących się angielskim. Decyzja wywołuje pytania o granice moderacji w społecznościach technologicznych.",
+    "so_what": "Reakcja na AI może prowadzić do szerokich i wykluczających reguł moderacji.",
     "category": "Society",
-    "source": "Hacker News",
-    "url": "https://berget.ai/en/blog/per-request-co2-press-release"
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
   }
 ]

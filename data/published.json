@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-    "title": "Serwisy blokują dostęp agentom AI",
-    "category": "Agents",
-    "published_on": "2026-10-18"
-  },
-  {
-    "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
-    "title": "AI nadal nie radzi sobie ze złożonością genomu",
-    "category": "Research",
-    "published_on": "2026-10-18"
-  },
-  {
-    "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
-    "title": "OpenAI ujawnia cztery kolejne incydenty",
-    "category": "Safety",
-    "published_on": "2026-10-18"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-    "title": "Meta usuwa kontrowersyjny zapis o danych",
-    "category": "Regulation",
-    "published_on": "2026-10-18"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-    "title": "Anthropic ma mniej juniorów i więcej spotkań",
-    "category": "Business",
-    "published_on": "2026-10-18"
-  },
-  {
     "url": "https://arxiv.org/abs/2610.18861",
     "title": "Agenty AI łączą ukryte rozumowanie z tekstowym działaniem",
     "category": "Agents",
@@ -238,5 +208,35 @@
     "title": "Emisje zapytań do AI mocno zależą od lokalizacji",
     "category": "Society",
     "published_on": "2026-10-25"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267",
+    "title": "Chiny pozwalają DeepSeek kontynuować sprzedaż",
+    "category": "Regulation",
+    "published_on": "2026-10-26"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "title": "Ekonomista Apollo: AI nie daje firmom zwrotu",
+    "category": "Business",
+    "published_on": "2026-10-26"
+  },
+  {
+    "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+    "title": "Wyszukiwarka AI Google wstrząsnęła rynkiem wydawców",
+    "category": "Business",
+    "published_on": "2026-10-26"
+  },
+  {
+    "url": "https://www.theregister.com/public-sector/2026/10/25/want-to-build-a-uk-datacenter-please-hold-while-whitehall-transfers-you/5304956",
+    "title": "Brytyjska biurokracja hamuje budowę centrów danych",
+    "category": "Infrastructure",
+    "published_on": "2026-10-26"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+    "title": "r/opensource wprowadza zakazy dotyczące AI i języka",
+    "category": "Society",
+    "published_on": "2026-10-26"
   }
 ]
