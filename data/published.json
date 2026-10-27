@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2610.18861",
-    "title": "Agenty AI łączą ukryte rozumowanie z tekstowym działaniem",
-    "category": "Agents",
-    "published_on": "2026-10-19"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-    "title": "Disney zatrudni większość zespołu Character.AI",
-    "category": "Business",
-    "published_on": "2026-10-19"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-    "title": "Anthropic otwiera się na zewnętrzny nadzór",
-    "category": "Safety",
-    "published_on": "2026-10-19"
-  },
-  {
-    "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
-    "title": "AI zyskuje wyraźniejszy obraz świata materiałów",
-    "category": "Research",
-    "published_on": "2026-10-19"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-    "title": "Meta zmienia zasady dotyczące pobierania treści prasowych",
-    "category": "Regulation",
-    "published_on": "2026-10-19"
-  },
-  {
     "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
     "title": "Dług CoreWeave staje się ryzykiem dla branży AI",
     "category": "Business",
@@ -238,5 +208,35 @@
     "title": "r/opensource wprowadza zakazy dotyczące AI i języka",
     "category": "Society",
     "published_on": "2026-10-26"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574",
+    "title": "OpenAI wprowadza tańszy model GPT-6.1 Terra",
+    "category": "Models",
+    "published_on": "2026-10-27"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "title": "Anthropic ujawnia strategię utrzymania klientów",
+    "category": "Business",
+    "published_on": "2026-10-27"
+  },
+  {
+    "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "title": "AI jest droższa poza językiem angielskim",
+    "category": "Society",
+    "published_on": "2026-10-27"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+    "title": "Pracownicy protestują przeciw zakupowi robotów przez ICE",
+    "category": "Robotics",
+    "published_on": "2026-10-27"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+    "title": "Codzienne szkody AI giną w cieniu katastrof",
+    "category": "Safety",
+    "published_on": "2026-10-27"
   }
 ]

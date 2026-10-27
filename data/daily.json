@@ -1,42 +1,42 @@
 [
   {
-    "title": "Chiny pozwalają DeepSeek kontynuować sprzedaż",
-    "summary": "Chiny pozwoliły DeepSeek nadal sprzedawać po wcześniejszych groźbach zakazów eksportowych dotyczących AI. Sprawa pokazuje niepewność regulacyjną wokół chińskich firm AI.",
-    "so_what": "DeepSeek zachowuje możliwość sprzedaży, ale decyzje władz pozostają istotnym ryzykiem dla jego biznesu.",
-    "category": "Regulation",
+    "title": "OpenAI wprowadza tańszy model GPT-6.1 Terra",
+    "summary": "OpenAI udostępnia GPT-6.1 Terra jako model ze średniego segmentu. Jego wyróżnikiem ma być niższa cena.",
+    "so_what": "Tańszy model może zwiększyć dostępność zaawansowanej AI i zaostrzyć konkurencję cenową na rynku.",
+    "category": "Models",
     "source": "The Register",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267"
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574"
   },
   {
-    "title": "Ekonomista Apollo: AI nie daje firmom zwrotu",
-    "summary": "Według ekonomisty Apollo większość firm nie osiąga finansowych korzyści z AI. Ocena podważa oczekiwania, że sama adopcja technologii szybko poprawi wyniki przedsiębiorstw.",
-    "so_what": "Firmy będą musiały wykazać mierzalny zwrot z inwestycji w AI, zamiast uzasadniać wydatki samą presją technologiczną.",
+    "title": "Anthropic ujawnia strategię utrzymania klientów",
+    "summary": "Dokumenty związane z wejściem Anthropic na giełdę pokazują strategię firmy wobec klientów korporacyjnych. Kluczowym celem jest ich długoterminowe związanie z usługami spółki.",
+    "so_what": "Ujawniona strategia wskazuje, że trwałość przychodów od firm będzie kluczowa dla giełdowej wyceny Anthropic.",
     "category": "Business",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
   },
   {
-    "title": "Wyszukiwarka AI Google wstrząsnęła rynkiem wydawców",
-    "summary": "Zmiany AI w wyszukiwarce Google zachwiały internetowym rynkiem wydawniczym. Wpływ generatywnego wyszukiwania wykracza już poza sam produkt Google.",
-    "so_what": "Wydawcy muszą dostosować modele biznesowe do wyszukiwania, które coraz częściej samo generuje odpowiedzi.",
-    "category": "Business",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
-  },
-  {
-    "title": "Brytyjska biurokracja hamuje budowę centrów danych",
-    "summary": "Inwestorzy chcący budować centra danych w Wielkiej Brytanii trafiają na administracyjne przekierowania w Whitehall. Procedury państwowe mogą opóźniać rozwój infrastruktury.",
-    "so_what": "Bez sprawniejszych decyzji administracyjnych Wielka Brytania może mieć trudności z szybkim zwiększaniem zaplecza obliczeniowego dla AI.",
-    "category": "Infrastructure",
-    "source": "The Register",
-    "url": "https://www.theregister.com/public-sector/2026/10/25/want-to-build-a-uk-datacenter-please-hold-while-whitehall-transfers-you/5304956"
-  },
-  {
-    "title": "r/opensource wprowadza zakazy dotyczące AI i języka",
-    "summary": "Społeczność r/opensource zakazała AI oraz udziału osób nieposługujących się angielskim. Decyzja wywołuje pytania o granice moderacji w społecznościach technologicznych.",
-    "so_what": "Reakcja na AI może prowadzić do szerokich i wykluczających reguł moderacji.",
+    "title": "AI jest droższa poza językiem angielskim",
+    "summary": "Korzystanie z modeli AI w językach innych niż angielski może kosztować więcej. Oznacza to nierówny ekonomicznie dostęp do tych samych technologii.",
+    "so_what": "Wyższe koszty mogą spowolnić wdrażanie AI na rynkach nieanglojęzycznych i pogłębić globalne nierówności cyfrowe.",
     "category": "Society",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
+    "source": "Rest of World",
+    "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+  },
+  {
+    "title": "Pracownicy protestują przeciw zakupowi robotów przez ICE",
+    "summary": "Plan ICE dotyczący zakupu robotycznych psów wywołał protest setek pracowników Boston Dynamics. Sprzeciw dotyczy wykorzystania robotów przez amerykańską służbę imigracyjną.",
+    "so_what": "Spór pokazuje, że producenci robotów muszą liczyć się z oporem pracowników wobec zastosowań policyjnych i migracyjnych.",
+    "category": "Robotics",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/"
+  },
+  {
+    "title": "Codzienne szkody AI giną w cieniu katastrof",
+    "summary": "Debata o bezpieczeństwie AI koncentruje się głównie na scenariuszach katastroficznych. W efekcie mniej uwagi poświęca się szkodom, które występują już dziś.",
+    "so_what": "Polityka bezpieczeństwa AI powinna obejmować nie tylko ryzyka egzystencjalne, ale także bieżące i mierzalne skutki społeczne.",
+    "category": "Safety",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
   }
 ]
