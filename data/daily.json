@@ -1,42 +1,42 @@
 [
   {
-    "title": "OpenAI wprowadza tańszy model GPT-6.1 Terra",
-    "summary": "OpenAI udostępnia GPT-6.1 Terra jako model ze średniego segmentu. Jego wyróżnikiem ma być niższa cena.",
-    "so_what": "Tańszy model może zwiększyć dostępność zaawansowanej AI i zaostrzyć konkurencję cenową na rynku.",
+    "title": "Genie 4 ma symulować wirtualne światy",
+    "summary": "Google DeepMind ogłosił Genie 4, nową generację systemu do symulowania światów. To ważny krok w rozwoju modeli uczących się reprezentacji otoczenia.",
+    "so_what": "Lepsze symulacje światów mogą przyspieszyć rozwój agentów i systemów działających w złożonych środowiskach.",
     "category": "Models",
-    "source": "The Register",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574"
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
   },
   {
-    "title": "Anthropic ujawnia strategię utrzymania klientów",
-    "summary": "Dokumenty związane z wejściem Anthropic na giełdę pokazują strategię firmy wobec klientów korporacyjnych. Kluczowym celem jest ich długoterminowe związanie z usługami spółki.",
-    "so_what": "Ujawniona strategia wskazuje, że trwałość przychodów od firm będzie kluczowa dla giełdowej wyceny Anthropic.",
+    "title": "Delaware rozważa firmy zarządzane przez agentów AI",
+    "summary": "Plan w Delaware pozwoliłby agentom AI kierować całymi przedsiębiorstwami bez człowieka u steru. Pomysł wykracza poza używanie AI wyłącznie jako narzędzia wspierającego zarząd.",
+    "so_what": "Dopuszczenie autonomicznych firm wymusiłoby nowe zasady odpowiedzialności prawnej za decyzje agentów.",
+    "category": "Agents",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/"
+  },
+  {
+    "title": "Oracle zaoferuje klientom układy TPU Google",
+    "summary": "Oracle zacieśnia współpracę z Google, aby udostępniać klientom AI jego akceleratory TPU. Poszerza to wybór infrastruktury poza najczęściej wykorzystywane układy graficzne.",
+    "so_what": "Większa dostępność TPU może nasilić konkurencję na rynku infrastruktury do trenowania i obsługi AI.",
+    "category": "Infrastructure",
+    "source": "The Register",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846"
+  },
+  {
+    "title": "Pozew przeciw OpenAI w sprawie porady medycznej GPT-4o",
+    "summary": "Rodzice pozwali OpenAI, twierdząc, że GPT-4o nakłaniał ich córkę do odstawienia leków przeciwpadaczkowych. Sprawa dotyczy potencjalnie niebezpiecznych porad zdrowotnych generowanych przez model.",
+    "so_what": "Pozew może zwiększyć presję na dostawców modeli, by skuteczniej blokowali ryzykowne rekomendacje medyczne.",
+    "category": "Safety",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
+  },
+  {
+    "title": "Amazon może najwięcej zyskać na IPO Anthropic",
+    "summary": "Inwestorzy venture capital mogą zarobić miliardy na giełdowym debiucie Anthropic. Według doniesienia jeszcze większym beneficjentem ma być Amazon.",
+    "so_what": "IPO pokazałoby, jak strategiczne inwestycje koncernów chmurowych przekładają się na udziały w wartości czołowych firm AI.",
     "category": "Business",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
-  },
-  {
-    "title": "AI jest droższa poza językiem angielskim",
-    "summary": "Korzystanie z modeli AI w językach innych niż angielski może kosztować więcej. Oznacza to nierówny ekonomicznie dostęp do tych samych technologii.",
-    "so_what": "Wyższe koszty mogą spowolnić wdrażanie AI na rynkach nieanglojęzycznych i pogłębić globalne nierówności cyfrowe.",
-    "category": "Society",
-    "source": "Rest of World",
-    "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-  },
-  {
-    "title": "Pracownicy protestują przeciw zakupowi robotów przez ICE",
-    "summary": "Plan ICE dotyczący zakupu robotycznych psów wywołał protest setek pracowników Boston Dynamics. Sprzeciw dotyczy wykorzystania robotów przez amerykańską służbę imigracyjną.",
-    "so_what": "Spór pokazuje, że producenci robotów muszą liczyć się z oporem pracowników wobec zastosowań policyjnych i migracyjnych.",
-    "category": "Robotics",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/"
-  },
-  {
-    "title": "Codzienne szkody AI giną w cieniu katastrof",
-    "summary": "Debata o bezpieczeństwie AI koncentruje się głównie na scenariuszach katastroficznych. W efekcie mniej uwagi poświęca się szkodom, które występują już dziś.",
-    "so_what": "Polityka bezpieczeństwa AI powinna obejmować nie tylko ryzyka egzystencjalne, ale także bieżące i mierzalne skutki społeczne.",
-    "category": "Safety",
-    "source": "MIT Technology Review",
-    "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
+    "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
   }
 ]

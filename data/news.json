@@ -1,19 +1,195 @@
 [
   {
-    "source": "TechCrunch",
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "Making machines that can listen",
+    "url": "https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028",
+    "date": "2026-10-28T04:00:00+00:00"
+  },
+  {
+    "source": "The Register",
     "kind": "press",
-    "org": "TechCrunch",
-    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-    "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-    "date": "2026-10-27T02:00:00+00:00"
+    "org": "The Register",
+    "title": "AI slows growth for Infosys and keeps it afloat at the same time",
+    "url": "https://www.theregister.com/channel/2026/10/28/ai-slows-growth-for-infosys-and-keeps-it-afloat-at-the-same-time/5305879",
+    "date": "2026-10-28T02:18:02+00:00"
   },
   {
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-    "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-    "date": "2026-10-27T01:12:21+00:00"
+    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+    "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "date": "2026-10-28T01:15:28+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "date": "2026-10-27T23:34:27+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "The data center boom has an upside: innovation for the US grid",
+    "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "date": "2026-10-27T22:55:41+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+    "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+    "date": "2026-10-27T21:50:04+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+    "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+    "date": "2026-10-27T21:31:14+00:00"
+  },
+  {
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "Learner collaborates with MIT peers to develop book of AI insights",
+    "url": "https://news.mit.edu/2026/learner-prabha-jha-collaborates-with-mit-peers-to-develop-book-of-ai-insights-1027",
+    "date": "2026-10-27T20:55:00+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+    "date": "2026-10-27T20:48:58+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "Big Red gets cozy with Google to offer TPUs to AI customers",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846",
+    "date": "2026-10-27T20:20:27+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
+    "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+    "date": "2026-10-27T19:39:04+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "Game Boy Color on My Conference Badge",
+    "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+    "date": "2026-10-27T19:34:18+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+    "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+    "date": "2026-10-27T18:49:08+00:00"
+  },
+  {
+    "source": "Google Research",
+    "kind": "research",
+    "org": "Google",
+    "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+    "date": "2026-10-27T17:35:00+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "VisionQuest is what happens when AI really goes rogue",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+    "date": "2026-10-27T17:30:00+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "kind": "vendor",
+    "org": "Hugging Face",
+    "title": "Build specialized multimodal models with LFM3",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "date": "2026-10-27T17:16:52+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+    "date": "2026-10-27T16:51:22+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "kind": "vendor",
+    "org": "Hugging Face",
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "url": "https://huggingface.co/blog/allenai/novelty-bench",
+    "date": "2026-10-27T16:12:42+00:00"
+  },
+  {
+    "source": "Google DeepMind",
+    "kind": "vendor",
+    "org": "Google",
+    "title": "Genie 4: A new generation of world simulation",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "date": "2026-10-27T16:01:38+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+    "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+    "date": "2026-10-27T15:10:26+00:00"
+  },
+  {
+    "source": "NVIDIA",
+    "kind": "vendor",
+    "org": "NVIDIA",
+    "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+    "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+    "date": "2026-10-27T15:00:20+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "url": "https://openai.com/index/retell-ai",
+    "date": "2026-10-27T15:00:00+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+    "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+    "date": "2026-10-27T11:19:18+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "date": "2026-10-27T07:00:00+00:00"
   },
   {
     "source": "Simon Willison",
@@ -24,155 +200,11 @@
     "date": "2026-10-26T23:53:07+00:00"
   },
   {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "Humanity can't afford not to spend $800B on AI, Anthropic insists",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/26/humanity-cant-afford-not-to-spend-800b-on-ai-anthropic-insists/5305580",
-    "date": "2026-10-26T23:39:49+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-    "date": "2026-10-26T23:34:58+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574",
-    "date": "2026-10-26T23:08:59+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-    "url": "https://openai.com/index/greptile-code-review-codex-astra",
-    "date": "2026-10-26T22:00:00+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Anthropic is burning gas to feed the AI boom",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-    "date": "2026-10-26T21:45:31+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-    "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
-    "date": "2026-10-26T21:27:15+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-    "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
-    "date": "2026-10-26T20:04:16+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "Quoting Jason Koebler",
-    "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
-    "date": "2026-10-26T19:00:25+00:00"
-  },
-  {
-    "source": "MIT News",
-    "kind": "research",
-    "org": "MIT News",
-    "title": "At New York Climate Week 2026, MIT connects with a global network",
-    "url": "https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026",
-    "date": "2026-10-26T19:00:00+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-    "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-    "date": "2026-10-26T18:50:41+00:00"
-  },
-  {
     "source": "MIT Technology Review",
     "kind": "press",
     "org": "MIT Technology Review",
     "title": "Will the real Anthropic please stand up",
     "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
     "date": "2026-10-26T17:45:43+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "The RealReal won’t let AI agents hog designer clothing",
-    "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-    "date": "2026-10-26T17:30:55+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
-    "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
-    "date": "2026-10-26T17:26:36+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-    "date": "2026-10-26T16:49:42+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
-    "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
-    "date": "2026-10-26T16:01:55+00:00"
-  },
-  {
-    "source": "Google AI",
-    "kind": "vendor",
-    "org": "Google",
-    "title": "Our newest AI Quest: Mapping the human brain",
-    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-    "date": "2026-10-26T16:00:00+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "Working with academic communities to build scientific understanding",
-    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-    "date": "2026-10-26T14:30:00+00:00"
-  },
-  {
-    "source": "Rest of World",
-    "kind": "press",
-    "org": "Rest of World",
-    "title": "AI models cost more when you don’t use English",
-    "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-    "date": "2026-10-26T10:00:22+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "kind": "press",
-    "org": "MIT Technology Review",
-    "title": "The focus on AI safety disasters ignores everyday harms",
-    "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-    "date": "2026-10-26T09:01:00+00:00"
   }
 ]

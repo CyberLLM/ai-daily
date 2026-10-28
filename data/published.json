@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-    "title": "Dług CoreWeave staje się ryzykiem dla branży AI",
-    "category": "Business",
-    "published_on": "2026-10-20"
-  },
-  {
-    "url": "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927",
-    "title": "AI zmienia wyścig między atakującymi a obrońcami",
-    "category": "Safety",
-    "published_on": "2026-10-20"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-    "title": "Internet dla agentów AI może zaszkodzić ludziom",
-    "category": "Agents",
-    "published_on": "2026-10-20"
-  },
-  {
-    "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
-    "title": "Symetria może poprawić prenatalną diagnostykę AI",
-    "category": "Research",
-    "published_on": "2026-10-20"
-  },
-  {
-    "url": "https://www.theregister.com/on-prem/2026/10/19/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up/5303824",
-    "title": "Microsoft porzuca brytyjski superkomputer AI",
-    "category": "Infrastructure",
-    "published_on": "2026-10-20"
-  },
-  {
     "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
     "title": "Anthropic proponuje próg ryzyka dla modeli AI",
     "category": "Regulation",
@@ -238,5 +208,35 @@
     "title": "Codzienne szkody AI giną w cieniu katastrof",
     "category": "Safety",
     "published_on": "2026-10-27"
+  },
+  {
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "title": "Genie 4 ma symulować wirtualne światy",
+    "category": "Models",
+    "published_on": "2026-10-28"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+    "title": "Delaware rozważa firmy zarządzane przez agentów AI",
+    "category": "Agents",
+    "published_on": "2026-10-28"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846",
+    "title": "Oracle zaoferuje klientom układy TPU Google",
+    "category": "Infrastructure",
+    "published_on": "2026-10-28"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "title": "Pozew przeciw OpenAI w sprawie porady medycznej GPT-4o",
+    "category": "Safety",
+    "published_on": "2026-10-28"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "title": "Amazon może najwięcej zyskać na IPO Anthropic",
+    "category": "Business",
+    "published_on": "2026-10-28"
   }
 ]
