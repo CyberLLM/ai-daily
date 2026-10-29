@@ -1,0 +1,550 @@
+
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QDHLBXLXT4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-QDHLBXLXT4');
+</script>
+<title>AI DAILY 5 · Heuristica</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+
+<style>
+
+:root {
+    --bg-primary: #0f1419;
+    --bg-secondary: #1a1f2e;
+    --text-primary: #e8e6e1;
+    --text-muted: #a09a94;
+    --border-color: #2d3d4a;
+    --accent-gold: #d4a574;
+    --accent-green: #2d5a4e;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif;
+    line-height: 1.65;
+}
+
+.container {
+    max-width: 900px;
+    margin: 36px auto;
+    padding: 48px 52px;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+}
+
+.brand {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    letter-spacing: 2px;
+    color: var(--accent-gold);
+    margin-bottom: 8px;
+}
+
+.brand a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.brand a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.4em;
+    margin: 0 0 8px 0;
+    letter-spacing: -0.3px;
+}
+
+.subtitle {
+    font-size: 1.08em;
+    color: var(--text-muted);
+    margin: 0 0 8px 0;
+}
+
+.date {
+    color: var(--text-muted);
+    font-size: 0.92em;
+    margin-bottom: 44px;
+}
+
+article {
+    border-top: 1px solid var(--border-color);
+    padding: 34px 0 38px 0;
+}
+
+.meta {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.number {
+    font-family: 'Poppins', sans-serif;
+    color: var(--accent-gold);
+    font-size: 0.82em;
+    letter-spacing: 1.5px;
+}
+
+.category {
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.68em;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    border: 1px solid var(--border-color);
+    border-radius: 999px;
+    padding: 3px 10px;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.42em;
+    line-height: 1.35;
+    margin: 10px 0 14px 0;
+}
+
+article p {
+    color: var(--text-muted);
+    margin: 0 0 18px 0;
+}
+
+.so-what {
+    margin: 20px 0;
+    padding: 16px 18px;
+    border-left: 3px solid var(--accent-gold);
+    background: rgba(212, 165, 116, 0.08);
+}
+
+.so-what strong {
+    display: block;
+    color: var(--accent-gold);
+    margin-bottom: 6px;
+    font-size: 0.85em;
+    letter-spacing: 0.5px;
+}
+
+.source {
+    color: var(--accent-gold);
+    text-decoration: none;
+    font-size: 0.92em;
+}
+
+.source:hover {
+    text-decoration: underline;
+}
+
+.newsletter {
+    border-top: 1px solid var(--border-color);
+    padding: 34px 0 38px 0;
+}
+
+.nl-label {
+    font-family: 'Poppins', sans-serif;
+    color: var(--accent-gold);
+    font-size: 0.82em;
+    letter-spacing: 1.5px;
+}
+
+.newsletter > div > p {
+    color: var(--text-muted);
+    margin: 0 0 20px 0;
+}
+
+.nl-row {
+    display: flex;
+    gap: 10px;
+}
+
+.nl-row input {
+    flex: 1;
+    min-width: 0;
+    padding: 12px 14px;
+    font-size: 1em;
+    color: var(--text-primary);
+    background: var(--bg-primary);
+    border: 1px solid var(--border-color);
+    border-radius: 3px;
+}
+
+.nl-row input:focus {
+    outline: none;
+    border-color: var(--accent-gold);
+}
+
+.nl-row button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 12px 22px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.95em;
+    color: var(--bg-primary);
+    background: var(--accent-gold);
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.nl-row button:hover {
+    filter: brightness(1.08);
+}
+
+.progress-indicator__icon {
+    width: 16px;
+    height: 16px;
+    fill: currentColor;
+    animation: nl-spin 1s linear infinite;
+}
+
+.sib-hide-loader-icon {
+    display: none;
+}
+
+@keyframes nl-spin {
+    to { transform: rotate(360deg); }
+}
+
+.nl-consent {
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+    margin-top: 16px;
+    font-size: 0.9em;
+    color: var(--text-muted);
+    cursor: pointer;
+}
+
+.nl-consent input {
+    margin-top: 4px;
+    accent-color: var(--accent-gold);
+}
+
+.entry__error {
+    display: block;
+    color: #e8a0a0;
+    font-size: 0.85em;
+}
+
+.entry__error:empty {
+    display: none;
+}
+
+.entry__error:not(:empty) {
+    margin-top: 6px;
+}
+
+.nl-rodo {
+    margin: 16px 0 0 0;
+    font-size: 0.75em;
+    line-height: 1.55;
+    color: var(--text-muted);
+    opacity: 0.8;
+}
+
+.nl-rodo a {
+    color: var(--text-muted);
+}
+
+.input--hidden {
+    display: none;
+}
+
+.nl-message {
+    display: none;
+    margin-bottom: 16px;
+    padding: 14px 16px;
+    border-radius: 3px;
+    font-size: 0.95em;
+}
+
+/* Tę klasę dokleja main.js Brevo po wysłaniu formularza. */
+.sib-form-message-panel--active {
+    display: block;
+}
+
+.nl-success {
+    color: #bfe6d3;
+    background: var(--accent-green);
+}
+
+.nl-error {
+    color: #f2c9c9;
+    background: #5a2d2d;
+}
+
+footer {
+    border-top: 1px solid var(--border-color);
+    margin-top: 10px;
+    padding-top: 28px;
+    color: var(--text-muted);
+    font-size: 0.85em;
+}
+
+@media (max-width: 750px) {
+
+    .container {
+        margin: 0;
+        padding: 32px 22px;
+        border-left: none;
+        border-right: none;
+    }
+
+    h1 {
+        font-size: 2em;
+    }
+
+    h2 {
+        font-size: 1.25em;
+    }
+
+    .nl-row {
+        flex-direction: column;
+    }
+
+    .nl-row button {
+        justify-content: center;
+    }
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<header>
+    <div class="brand"><a href="https://heuristica.pl/">HEURISTICA</a></div>
+    <h1>AI DAILY 5</h1>
+    <p class="subtitle">5 rzeczy, które warto dziś wiedzieć o AI.</p>
+    <div class="date">29.10.2026</div>
+</header>
+
+
+    <article>
+        <div class="meta">
+            <span class="number">01</span>
+            <span class="category">Models</span>
+        </div>
+
+        <h2>Google prezentuje Gemini 4 Carbon</h2>
+
+        <p>Google uruchomił nowy model Gemini 4 Carbon. Firma deklaruje znaczący skok jego możliwości w cyberbezpieczeństwie.</p>
+
+        <div class="so-what">
+            <strong>SO WHAT?</strong>
+            <div>Zaawansowane zadania z cyberbezpieczeństwa stają się ważnym polem rywalizacji między twórcami modeli.</div>
+        </div>
+
+        <a class="source" href="https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier" target="_blank">
+            The Verge →
+        </a>
+    </article>
+    
+    <article>
+        <div class="meta">
+            <span class="number">02</span>
+            <span class="category">Business</span>
+        </div>
+
+        <h2>Google rozszerza reklamy w wyszukiwarce AI</h2>
+
+        <p>Google rozszerza globalnie reklamy w wynikach generowanych przez AI. Dzieje się to w czasie spowolnienia wzrostu podstawowego biznesu reklamowego firmy.</p>
+
+        <div class="so-what">
+            <strong>SO WHAT?</strong>
+            <div>Google przyspiesza monetyzację wyszukiwania opartego na AI, aby chronić swoje główne źródło przychodów.</div>
+        </div>
+
+        <a class="source" href="https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/" target="_blank">
+            TechCrunch →
+        </a>
+    </article>
+    
+    <article>
+        <div class="meta">
+            <span class="number">03</span>
+            <span class="category">Agents</span>
+        </div>
+
+        <h2>Agenci AI sprawdzeni na zadaniach podatkowych</h2>
+
+        <p>Projekt Dayjob: Tax ocenia agentów AI na 50 profesjonalnych zadaniach podatkowych. Test koncentruje się na praktycznej pracy specjalistycznej.</p>
+
+        <div class="so-what">
+            <strong>SO WHAT?</strong>
+            <div>Takie testy mogą pokazać, czy agenci są już gotowi do wykonywania złożonych zadań w branżach regulowanych.</div>
+        </div>
+
+        <a class="source" href="https://surgehq.ai/blog/dayjob-tax" target="_blank">
+            Hacker News →
+        </a>
+    </article>
+    
+    <article>
+        <div class="meta">
+            <span class="number">04</span>
+            <span class="category">Research</span>
+        </div>
+
+        <h2>Nowa metoda utrwalania wiedzy przez LLM-y</h2>
+
+        <p>Badacze Google przedstawili framework „sleep” dla dużych modeli językowych. Ma on pomagać modelom zachowywać wiedzę podczas ciągłego uczenia.</p>
+
+        <div class="so-what">
+            <strong>SO WHAT?</strong>
+            <div>Lepsze utrzymywanie wiedzy może ograniczyć problemy pojawiające się przy regularnym aktualizowaniu modeli.</div>
+        </div>
+
+        <a class="source" href="https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/" target="_blank">
+            Google Research →
+        </a>
+    </article>
+    
+    <article>
+        <div class="meta">
+            <span class="number">05</span>
+            <span class="category">Safety</span>
+        </div>
+
+        <h2>Anthropic ujawnia skrajne ryzyka AI</h2>
+
+        <p>W materiałach związanych z IPO Anthropic ostrzega, że jego AI mogłaby szantażować ludzi. Firma wymienia też ryzyko uzyskania świadomości i zagrożenia dla ludzkości.</p>
+
+        <div class="so-what">
+            <strong>SO WHAT?</strong>
+            <div>Ryzyka bezpieczeństwa AI stają się formalnym czynnikiem, który muszą uwzględniać inwestorzy.</div>
+        </div>
+
+        <a class="source" href="https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/" target="_blank">
+            Ars Technica →
+        </a>
+    </article>
+    
+
+
+<section class="newsletter sib-form">
+<div id="sib-form-container" class="sib-form-container">
+
+    <div class="nl-label">NEWSLETTER</div>
+    <h2>Dostawaj AI DAILY 5 mailem</h2>
+    <p>Pięć najważniejszych informacji o AI, codziennie rano w Twojej skrzynce.</p>
+
+    <div id="error-message" class="sib-form-message-panel nl-message nl-error">
+        <span class="sib-form-message-panel__inner-text">
+            Nie udało się zapisać. Spróbuj ponownie za chwilę.
+        </span>
+    </div>
+
+    <div id="success-message" class="sib-form-message-panel nl-message nl-success">
+        <span class="sib-form-message-panel__inner-text">
+            Prawie gotowe! Sprawdź skrzynkę i kliknij link potwierdzający,
+            żeby zacząć otrzymywać AI DAILY 5. Jeśli maila nie ma, zajrzyj do spamu.
+        </span>
+    </div>
+
+    <div id="sib-container">
+    <form id="sib-form" method="POST" action="https://c3f47f46.sibforms.com/serve/MUIFAP0qRWgzhw01YnMUz4NqppLUAwey6vUceILLloxAR_DyLLzvVLmHX4XKvSR906ulJuwFHr100SREECszCZybEgvFoGN0tcZi6cutWB2dxHDSQbUKgSpFn210OtuQgbnMKGNKx79Uhmy5epsJLOEzX1Ht3KeHIpDYKOJvNPt4UQ7aOgDHWbjwi4mxXaylku799J8Yldx-TsS9eg==" data-type="subscription">
+
+        <div class="sib-input sib-form-block">
+            <div class="form__entry entry_block">
+                <div class="nl-row">
+                    <input class="input" type="email" id="EMAIL" name="EMAIL"
+                        autocomplete="email" value="" placeholder="Twój adres e-mail"
+                        aria-label="Twój adres e-mail" data-required="true" required>
+
+                    <button class="sib-form-block__button sib-form-block__button-with-loader"
+                        form="sib-form" type="submit">
+                        <svg class="icon clickable__icon progress-indicator__icon sib-hide-loader-icon" viewBox="0 0 512 512">
+                            <path d="M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z"/>
+                        </svg>
+                        Zapisz się
+                    </button>
+                </div>
+                <label class="entry__error entry__error--primary"></label>
+            </div>
+        </div>
+
+        <div class="sib-optin sib-form-block" data-required="true">
+            <div class="form__entry entry_mcq">
+                <label class="nl-consent">
+                    <input type="checkbox" value="1" id="OPT_IN" name="OPT_IN" required>
+                    <span>Zgadzam się na otrzymywanie newslettera AI DAILY 5 na podany adres e-mail.
+                    Wypiszesz się w każdej chwili linkiem w stopce maila.</span>
+                </label>
+                <label class="entry__error entry__error--primary"></label>
+            </div>
+        </div>
+
+        <p class="nl-rodo">
+            Administratorem danych jest HEURISTICA - STANISZEWSKI MAREK, ul. Bukowińska 26C m. 11,
+            02-703 Warszawa. Adres e-mail przetwarzam wyłącznie w celu wysyłki newslettera, na podstawie
+            Twojej zgody (art. 6 ust. 1 lit. a RODO), do czasu jej wycofania. Wysyłkę obsługuje
+            Sendinblue SAS (Brevo), Francja, która może też wykorzystywać część danych do ochrony
+            platformy przed nadużyciami
+            (<a href="https://www.brevo.com/en/legal/privacypolicy/" target="_blank" rel="nofollow noopener">polityka prywatności Brevo</a>).
+            Przysługuje Ci prawo dostępu do danych, ich sprostowania i usunięcia oraz skargi
+            do Prezesa UODO. Kontakt: staniszewski@heuristica.pl
+        </p>
+
+        <input type="text" name="email_address_check" value="" class="input--hidden" tabindex="-1" autocomplete="off">
+        <input type="hidden" name="locale" value="en">
+    </form>
+    </div>
+
+</div>
+</section>
+
+<script>
+  window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
+  window.LOCALE = 'en';
+  window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "Nieprawidłowe dane. Sprawdź adres e-mail i spróbuj ponownie.";
+  window.REQUIRED_ERROR_MESSAGE = "To pole jest wymagane.";
+  window.GENERIC_INVALID_MESSAGE = "Nieprawidłowe dane. Sprawdź adres e-mail i spróbuj ponownie.";
+  window.INVALID_NUMBER = "Nieprawidłowe dane. Sprawdź adres e-mail i spróbuj ponownie.";
+  window.INVALID_DATE = "Please enter a valid date";
+  window.REQUIRED_MULTISELECT_MESSAGE = 'Please select at least 1 option';
+  window.translation = {
+    common: {
+      selectedList: '{quantity} list selected',
+      selectedLists: '{quantity} lists selected',
+      selectedOption: '{quantity} selected',
+      selectedOptions: '{quantity} selected',
+    }
+  };
+  var AUTOHIDE = Boolean(1);
+</script>
+<script defer src="https://sibforms.com/forms/end-form/build/main.js"></script>
+
+
+<footer>
+    AI DAILY 5 · Heuristica ·
+    <a href="/archive/index.html">Archiwum</a>
+</footer>
+
+</div>
+
+</body>
+</html>
