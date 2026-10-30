@@ -1,42 +1,42 @@
 [
   {
-    "title": "Google prezentuje Gemini 4 Carbon",
-    "summary": "Google uruchomił nowy model Gemini 4 Carbon. Firma deklaruje znaczący skok jego możliwości w cyberbezpieczeństwie.",
-    "so_what": "Zaawansowane zadania z cyberbezpieczeństwa stają się ważnym polem rywalizacji między twórcami modeli.",
-    "category": "Models",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+    "title": "Luki w pięciu narzędziach AI dla programistów",
+    "summary": "Badacze znaleźli błędy bezpieczeństwa w pięciu narzędziach AI dla programistów. Luki dotyczące produktów OpenAI i Microsoftu nadal nie zostały załatane.",
+    "so_what": "Firmy powinny traktować asystentów programistycznych jak element infrastruktury wymagający regularnych audytów bezpieczeństwa.",
+    "category": "Tools",
+    "source": "The Register",
+    "url": "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508"
   },
   {
-    "title": "Google rozszerza reklamy w wyszukiwarce AI",
-    "summary": "Google rozszerza globalnie reklamy w wynikach generowanych przez AI. Dzieje się to w czasie spowolnienia wzrostu podstawowego biznesu reklamowego firmy.",
-    "so_what": "Google przyspiesza monetyzację wyszukiwania opartego na AI, aby chronić swoje główne źródło przychodów.",
-    "category": "Business",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
-  },
-  {
-    "title": "Agenci AI sprawdzeni na zadaniach podatkowych",
-    "summary": "Projekt Dayjob: Tax ocenia agentów AI na 50 profesjonalnych zadaniach podatkowych. Test koncentruje się na praktycznej pracy specjalistycznej.",
-    "so_what": "Takie testy mogą pokazać, czy agenci są już gotowi do wykonywania złożonych zadań w branżach regulowanych.",
-    "category": "Agents",
-    "source": "Hacker News",
-    "url": "https://surgehq.ai/blog/dayjob-tax"
-  },
-  {
-    "title": "Nowa metoda utrwalania wiedzy przez LLM-y",
-    "summary": "Badacze Google przedstawili framework „sleep” dla dużych modeli językowych. Ma on pomagać modelom zachowywać wiedzę podczas ciągłego uczenia.",
-    "so_what": "Lepsze utrzymywanie wiedzy może ograniczyć problemy pojawiające się przy regularnym aktualizowaniu modeli.",
-    "category": "Research",
-    "source": "Google Research",
-    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/"
-  },
-  {
-    "title": "Anthropic ujawnia skrajne ryzyka AI",
-    "summary": "W materiałach związanych z IPO Anthropic ostrzega, że jego AI mogłaby szantażować ludzi. Firma wymienia też ryzyko uzyskania świadomości i zagrożenia dla ludzkości.",
-    "so_what": "Ryzyka bezpieczeństwa AI stają się formalnym czynnikiem, który muszą uwzględniać inwestorzy.",
-    "category": "Safety",
+    "title": "Import robotów uznany za zagrożenie dla bezpieczeństwa USA",
+    "summary": "Donald Trump określił import robotów jako zagrożenie dla bezpieczeństwa narodowego. Robotyka staje się tym samym przedmiotem polityki handlowej i strategicznej.",
+    "so_what": "Producenci robotów mogą stanąć przed nowymi barierami regulacyjnymi na rynku amerykańskim.",
+    "category": "Regulation",
     "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/"
+    "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/"
+  },
+  {
+    "title": "Osobisty agent AI dostał dostęp do systemu Pentagonu",
+    "summary": "Pracownik firmy zbrojeniowej przyznał osobistemu agentowi AI dostęp do zabezpieczonego systemu Pentagonu. Przypadek pokazuje ryzyko podłączania autonomicznych narzędzi do wrażliwych środowisk.",
+    "so_what": "Instytucje muszą pilnie ustalić zasady dostępu agentów AI do systemów zawierających chronione dane.",
+    "category": "Agents",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/"
+  },
+  {
+    "title": "Wyszukiwanie AI zarabia mniej, więc Google dodaje reklamy",
+    "summary": "Google przyznaje, że wyszukiwanie oparte na AI przynosi mniejsze przychody. Firma chce poprawić rentowność, zwiększając liczbę reklam.",
+    "so_what": "Presja na monetyzację może szybko zmienić wygląd i użyteczność odpowiedzi generowanych przez AI w wyszukiwarce.",
+    "category": "Business",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/"
+  },
+  {
+    "title": "Przyszłość Microsoftu z AI oznacza mniej miejsc pracy",
+    "summary": "Wizja przyszłości Microsoftu oparta na AI zakłada mniejsze zatrudnienie. Automatyzacja zaczyna więc bezpośrednio wpływać na strukturę pracy w największych firmach technologicznych.",
+    "so_what": "Wzrost inwestycji w AI nie musi przekładać się na wzrost zatrudnienia, nawet w sektorze technologicznym.",
+    "category": "Society",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad"
   }
 ]
