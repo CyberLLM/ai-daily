@@ -1,42 +1,42 @@
 [
   {
-    "title": "Luki w pięciu narzędziach AI dla programistów",
-    "summary": "Badacze znaleźli błędy bezpieczeństwa w pięciu narzędziach AI dla programistów. Luki dotyczące produktów OpenAI i Microsoftu nadal nie zostały załatane.",
-    "so_what": "Firmy powinny traktować asystentów programistycznych jak element infrastruktury wymagający regularnych audytów bezpieczeństwa.",
-    "category": "Tools",
-    "source": "The Register",
-    "url": "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508"
+    "title": "Nvidia może wesprzeć centrum danych Nscale",
+    "summary": "Nvidia rozważa rolę poręczyciela projektu centrum danych AI Nscale w Wirginii Zachodniej. Oznaczałoby to finansowe zaangażowanie producenta chipów w rozwój infrastruktury.",
+    "so_what": "Nvidia może przyspieszać budowę centrów AI nie tylko sprzętem, lecz także wsparciem ich finansowania.",
+    "category": "Infrastructure",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
   },
   {
-    "title": "Import robotów uznany za zagrożenie dla bezpieczeństwa USA",
-    "summary": "Donald Trump określił import robotów jako zagrożenie dla bezpieczeństwa narodowego. Robotyka staje się tym samym przedmiotem polityki handlowej i strategicznej.",
-    "so_what": "Producenci robotów mogą stanąć przed nowymi barierami regulacyjnymi na rynku amerykańskim.",
-    "category": "Regulation",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/"
+    "title": "Apple Intelligence trafi do Chin",
+    "summary": "Apple Intelligence ma zadebiutować w Chinach wraz z iOS 27.3. Funkcje AI Apple dotrą tym samym do jednego z największych rynków smartfonów.",
+    "so_what": "Wejście do Chin może istotnie zwiększyć skalę wykorzystania Apple Intelligence.",
+    "category": "Business",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
   },
   {
-    "title": "Osobisty agent AI dostał dostęp do systemu Pentagonu",
-    "summary": "Pracownik firmy zbrojeniowej przyznał osobistemu agentowi AI dostęp do zabezpieczonego systemu Pentagonu. Przypadek pokazuje ryzyko podłączania autonomicznych narzędzi do wrażliwych środowisk.",
-    "so_what": "Instytucje muszą pilnie ustalić zasady dostępu agentów AI do systemów zawierających chronione dane.",
+    "title": "Agent Claude znalazł się w Pentagonie",
+    "summary": "Agent Claude używany przez kontraktora trafił do Pentagonu. To kolejny przykład wchodzenia agentów AI do środowisk związanych z obronnością USA.",
+    "so_what": "Instytucje publiczne potrzebują jasnych zasad kontroli agentów dostarczanych przez zewnętrznych wykonawców.",
     "category": "Agents",
     "source": "Wired",
-    "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/"
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/"
   },
   {
-    "title": "Wyszukiwanie AI zarabia mniej, więc Google dodaje reklamy",
-    "summary": "Google przyznaje, że wyszukiwanie oparte na AI przynosi mniejsze przychody. Firma chce poprawić rentowność, zwiększając liczbę reklam.",
-    "so_what": "Presja na monetyzację może szybko zmienić wygląd i użyteczność odpowiedzi generowanych przez AI w wyszukiwarce.",
-    "category": "Business",
+    "title": "Backdoor w rozszerzeniu Anthropic",
+    "summary": "Rozszerzenie Anthropic do VS Code w Cursorze miało backdoor przez niemal 12 godzin. Incydent dotyczył narzędzia używanego w pracy programistycznej.",
+    "so_what": "Narzędzia do kodowania z AI stają się istotnym celem ataków na łańcuch dostaw oprogramowania.",
+    "category": "Safety",
     "source": "Ars Technica",
-    "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/"
+    "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
   },
   {
-    "title": "Przyszłość Microsoftu z AI oznacza mniej miejsc pracy",
-    "summary": "Wizja przyszłości Microsoftu oparta na AI zakłada mniejsze zatrudnienie. Automatyzacja zaczyna więc bezpośrednio wpływać na strukturę pracy w największych firmach technologicznych.",
-    "so_what": "Wzrost inwestycji w AI nie musi przekładać się na wzrost zatrudnienia, nawet w sektorze technologicznym.",
-    "category": "Society",
+    "title": "Firmy AI popierają nowy sprzeciw wobec scrapingu",
+    "summary": "Największe firmy AI wspierają nowy sposób zgłaszania rezygnacji ze scrapingu. Ma on ułatwić właścicielom stron wyrażanie preferencji dotyczących pobierania treści.",
+    "so_what": "Powszechne przyjęcie takiego mechanizmu może zmienić zasady pozyskiwania danych do trenowania AI.",
+    "category": "Regulation",
     "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad"
+    "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
   }
 ]

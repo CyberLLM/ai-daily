@@ -3,25 +3,185 @@
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-    "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-    "date": "2026-10-30T01:20:48+00:00"
+    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "date": "2026-10-31T01:20:05+00:00"
   },
   {
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-    "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-    "date": "2026-10-29T23:42:22+00:00"
+    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+    "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+    "date": "2026-10-30T22:56:13+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+    "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+    "date": "2026-10-30T22:32:53+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "dbreunig/nesformer",
+    "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
+    "date": "2026-10-30T21:59:22+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+    "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+    "date": "2026-10-30T21:54:34+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+    "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+    "date": "2026-10-30T21:41:54+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+    "date": "2026-10-30T21:19:26+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+    "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+    "date": "2026-10-30T21:09:54+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+    "date": "2026-10-30T20:48:43+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+    "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+    "date": "2026-10-30T20:40:13+00:00"
   },
   {
     "source": "The Register",
     "kind": "press",
     "org": "The Register",
-    "title": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched",
-    "url": "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508",
-    "date": "2026-10-29T23:12:26+00:00"
+    "title": "Darkbloom, which allowed Mac users to rent out their GPUs for AI inference, warns of low payouts",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/30/darkbloom-which-allowed-mac-users-to-rent-out-their-gpus-for-ai-inference-warns-of-low-payouts/5306782",
+    "date": "2026-10-30T20:32:32+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "The biggest names in AI are backing a new way to opt out of scraping",
+    "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+    "date": "2026-10-30T20:26:10+00:00"
+  },
+  {
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
+    "url": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030",
+    "date": "2026-10-30T20:15:00+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see",
+    "url": "https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754",
+    "date": "2026-10-30T19:37:12+00:00"
+  },
+  {
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "Q&A: Hey AI, who should I vote for this year?",
+    "url": "https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030",
+    "date": "2026-10-30T19:00:00+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "kind": "vendor",
+    "org": "Hugging Face",
+    "title": "nemotron-halloween",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "date": "2026-10-30T17:57:24+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+    "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+    "date": "2026-10-30T17:27:25+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+    "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+    "date": "2026-10-30T17:24:45+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "US tech stocks see sharp falls over AI cost fears",
+    "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+    "date": "2026-10-30T16:13:02+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "AI isn't replacing SREs, it's deskilling them",
+    "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+    "date": "2026-10-30T15:52:18+00:00"
+  },
+  {
+    "source": "NVIDIA",
+    "kind": "vendor",
+    "org": "NVIDIA",
+    "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+    "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+    "date": "2026-10-30T15:00:10+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Making it easier for websites to express AI training preferences",
+    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "date": "2026-10-30T09:30:00+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Community safety report and new protections for teens",
+    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "date": "2026-10-30T09:00:00+00:00"
   },
   {
     "source": "Simon Willison",
@@ -32,132 +192,12 @@
     "date": "2026-10-29T22:48:29+00:00"
   },
   {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "We ran AI agent swarms in Minecraft and Mindustry",
-    "url": "https://labs.ycombinator.com/projects/games/index.html",
-    "date": "2026-10-29T21:40:28+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-    "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-    "date": "2026-10-29T20:08:31+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "Howler will have AI answer your questions, then burn the chat",
-    "url": "https://www.theregister.com/offbeat/2026/10/29/howler-will-have-ai-answer-your-questions-then-burn-the-chat/5306484",
-    "date": "2026-10-29T20:04:05+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Trump declares robot imports a national security threat",
-    "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
-    "date": "2026-10-29T19:07:53+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-    "date": "2026-10-29T18:45:31+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-    "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-    "date": "2026-10-29T18:39:43+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "Building a multiplayer game world with autonomous Fable-class models",
-    "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
-    "date": "2026-10-29T17:00:26+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "An updated Model Spec for more capable and beneficial AI",
-    "url": "https://openai.com/index/updated-model-spec",
-    "date": "2026-10-29T17:00:00+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Google admits AI search makes less money, but it's fixing that with more ads",
-    "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
-    "date": "2026-10-29T16:24:55+00:00"
-  },
-  {
-    "source": "NVIDIA",
-    "kind": "vendor",
-    "org": "NVIDIA",
-    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-    "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-    "date": "2026-10-29T16:00:35+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Microsoft’s AI future has fewer jobs",
-    "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-    "date": "2026-10-29T16:00:00+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Zombie stats: Where the numbers AI quotes come from",
-    "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-    "date": "2026-10-29T15:06:17+00:00"
-  },
-  {
     "source": "Wired",
     "kind": "press",
     "org": "Wired",
     "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
     "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
     "date": "2026-10-29T15:00:00+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "LLM Voice",
-    "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-    "date": "2026-10-29T14:57:55+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "The NYT Cooking app is testing AI recipe modifications",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-    "date": "2026-10-29T14:39:37+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-    "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
-    "date": "2026-10-29T14:29:06+00:00"
   },
   {
     "source": "Hugging Face",
@@ -182,45 +222,5 @@
     "title": "Why Africa needs its own AI off switch",
     "url": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
     "date": "2026-10-29T10:00:00+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "How we detect frontier model misalignment",
-    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-    "date": "2026-10-29T09:00:00+00:00"
-  },
-  {
-    "source": "Hugging Face",
-    "kind": "vendor",
-    "org": "Hugging Face",
-    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-    "url": "https://huggingface.co/blog/announcing-project-protostar",
-    "date": "2026-10-29T00:00:00+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "kind": "press",
-    "org": "MIT Technology Review",
-    "title": "Creating AI value with enterprise context",
-    "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-    "date": "2026-10-28T20:32:02+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-    "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-    "date": "2026-10-28T18:47:27+00:00"
-  },
-  {
-    "source": "MIT News",
-    "kind": "research",
-    "org": "MIT News",
-    "title": "3 Questions: Why infrastructure is entering a defining era",
-    "url": "https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028",
-    "date": "2026-10-28T16:00:00+00:00"
   }
 ]
