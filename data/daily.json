@@ -1,42 +1,42 @@
 [
   {
-    "title": "Nvidia może wesprzeć centrum danych Nscale",
-    "summary": "Nvidia rozważa rolę poręczyciela projektu centrum danych AI Nscale w Wirginii Zachodniej. Oznaczałoby to finansowe zaangażowanie producenta chipów w rozwój infrastruktury.",
-    "so_what": "Nvidia może przyspieszać budowę centrów AI nie tylko sprzętem, lecz także wsparciem ich finansowania.",
-    "category": "Infrastructure",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
-  },
-  {
-    "title": "Apple Intelligence trafi do Chin",
-    "summary": "Apple Intelligence ma zadebiutować w Chinach wraz z iOS 27.3. Funkcje AI Apple dotrą tym samym do jednego z największych rynków smartfonów.",
-    "so_what": "Wejście do Chin może istotnie zwiększyć skalę wykorzystania Apple Intelligence.",
-    "category": "Business",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
-  },
-  {
-    "title": "Agent Claude znalazł się w Pentagonie",
-    "summary": "Agent Claude używany przez kontraktora trafił do Pentagonu. To kolejny przykład wchodzenia agentów AI do środowisk związanych z obronnością USA.",
-    "so_what": "Instytucje publiczne potrzebują jasnych zasad kontroli agentów dostarczanych przez zewnętrznych wykonawców.",
-    "category": "Agents",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/"
-  },
-  {
-    "title": "Backdoor w rozszerzeniu Anthropic",
-    "summary": "Rozszerzenie Anthropic do VS Code w Cursorze miało backdoor przez niemal 12 godzin. Incydent dotyczył narzędzia używanego w pracy programistycznej.",
-    "so_what": "Narzędzia do kodowania z AI stają się istotnym celem ataków na łańcuch dostaw oprogramowania.",
+    "title": "Ujawniono sposób przejmowania kont ChatGPT",
+    "summary": "Opisano atak umożliwiający przejęcie kont ChatGPT. Wskazuje on na potencjalnie poważne zagrożenie dla danych i prywatności użytkowników.",
+    "so_what": "Dostawcy usług AI muszą traktować zabezpieczenia kont równie priorytetowo jak bezpieczeństwo samych modeli.",
     "category": "Safety",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
+    "source": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"
   },
   {
-    "title": "Firmy AI popierają nowy sprzeciw wobec scrapingu",
-    "summary": "Największe firmy AI wspierają nowy sposób zgłaszania rezygnacji ze scrapingu. Ma on ułatwić właścicielom stron wyrażanie preferencji dotyczących pobierania treści.",
-    "so_what": "Powszechne przyjęcie takiego mechanizmu może zmienić zasady pozyskiwania danych do trenowania AI.",
+    "title": "Pozew o zanieczyszczenia centrum danych xAI będzie kontynuowany",
+    "summary": "Sędzia pozwolił na dalsze rozpatrywanie pozwu NAACP dotyczącego zanieczyszczeń powodowanych przez centrum danych xAI. Decyzja nie przesądza jeszcze o wyniku sprawy.",
+    "so_what": "Koszty środowiskowe infrastruktury AI stają się realnym ryzykiem prawnym dla jej operatorów.",
     "category": "Regulation",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+  },
+  {
+    "title": "OpenAI zebrało mniej niż połowę z planowanych 30 mld dolarów",
+    "summary": "OpenAI pozyskało mniej niż połowę zakładanej kwoty 30 mld dolarów. To znacząca rozbieżność wobec celu finansowania firmy.",
+    "so_what": "Nawet liderzy AI mogą napotykać ograniczenia w pozyskiwaniu kapitału potrzebnego do dalszego skalowania.",
+    "category": "Business",
+    "source": "Hacker News",
+    "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5"
+  },
+  {
+    "title": "Satelitarny serwer AI Google przesłał pierwszą odpowiedź",
+    "summary": "Satelitarny serwer AI Google wysłał na Ziemię swoją pierwszą odpowiedź. To pierwszy praktyczny sygnał działania tej infrastruktury poza planetą.",
+    "so_what": "Przetwarzanie AI na orbicie może z czasem ograniczyć potrzebę przesyłania dużych ilości surowych danych na Ziemię.",
+    "category": "Infrastructure",
     "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+    "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
+  },
+  {
+    "title": "OpenAI ułatwia stronom określanie zasad trenowania AI",
+    "summary": "OpenAI wprowadza łatwiejszy sposób wyrażania preferencji dotyczących używania treści stron do trenowania AI. Rozwiązanie ma dać wydawcom bardziej czytelny mechanizm komunikowania swoich decyzji.",
+    "so_what": "Właściciele witryn mogą zyskać większą kontrolę nad tym, czy ich treści trafiają do zbiorów treningowych.",
+    "category": "Tools",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
   }
 ]
