@@ -1,19 +1,83 @@
 [
   {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "How We Took Over ChatGPT Accounts",
-    "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
-    "date": "2026-10-31T23:15:22+00:00"
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "India floats AI plan under which ‘The model travels to the data, rather than the data travelling to the model’",
+    "url": "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872",
+    "date": "2026-11-02T04:39:50+00:00"
   },
   {
     "source": "Simon Willison",
     "kind": "analysis",
     "org": "Simon Willison",
-    "title": "datasette-llm 0.1a9",
-    "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
-    "date": "2026-10-31T22:10:01+00:00"
+    "title": "If in doubt, delete the uv.lock file",
+    "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+    "date": "2026-11-01T23:24:22+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "Linus Torvalds says Linux kernel is out of ‘stabilization phase’ and using ‘much healthier model’ for AI contributions",
+    "url": "https://www.theregister.com/os-platforms/2026/11/01/linus-torvalds-says-linux-kernel-is-out-of-stabilization-phase-and-using-much-healthier-model-for-ai-contributions/5306852",
+    "date": "2026-11-01T23:11:41+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "date": "2026-11-01T21:55:23+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "date": "2026-11-01T20:57:58+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "It wasn't AI that flipped Proton's charge",
+    "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
+    "date": "2026-11-01T18:53:55+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "Quoting Kyle Kingsbury",
+    "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+    "date": "2026-11-01T16:49:04+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+    "date": "2026-11-01T13:47:24+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+    "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+    "date": "2026-11-01T10:30:00+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "The AI cost of JavaScript frameworks",
+    "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+    "date": "2026-11-01T06:06:19+00:00"
   },
   {
     "source": "TechCrunch",
@@ -24,36 +88,12 @@
     "date": "2026-10-31T21:41:00+00:00"
   },
   {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-    "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-    "date": "2026-10-31T21:36:07+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-    "date": "2026-10-31T21:17:03+00:00"
-  },
-  {
     "source": "Hacker News",
     "kind": "community",
     "org": "Hacker News",
     "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
     "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
     "date": "2026-10-31T21:07:58+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Anthropic blocks users for anything touching training larger models",
-    "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-    "date": "2026-10-31T19:39:19+00:00"
   },
   {
     "source": "The Verge",
@@ -64,139 +104,11 @@
     "date": "2026-10-31T16:05:00+00:00"
   },
   {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "Google's AI satellite sends a very expensive haiku to Earth",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
-    "date": "2026-10-31T15:36:14+00:00"
-  },
-  {
     "source": "Wired",
     "kind": "press",
     "org": "Wired",
     "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
     "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
     "date": "2026-10-31T12:00:00+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "Amazon sends chills through its workforce with mixed message memo about AI use",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804",
-    "date": "2026-10-31T11:00:00+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
-    "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
-    "date": "2026-10-31T10:30:00+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "OpenAI raises less than half of $30B target",
-    "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
-    "date": "2026-10-31T03:22:44+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-    "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-    "date": "2026-10-30T21:41:54+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-    "date": "2026-10-30T20:48:43+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
-    "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
-    "date": "2026-10-30T20:40:13+00:00"
-  },
-  {
-    "source": "MIT News",
-    "kind": "research",
-    "org": "MIT News",
-    "title": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
-    "url": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030",
-    "date": "2026-10-30T20:15:00+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Basically no one is using AI agents for their DoorDash orders",
-    "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-    "date": "2026-10-30T19:30:52+00:00"
-  },
-  {
-    "source": "MIT News",
-    "kind": "research",
-    "org": "MIT News",
-    "title": "Q&A: Hey AI, who should I vote for this year?",
-    "url": "https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030",
-    "date": "2026-10-30T19:00:00+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Google’s satellite AI server transmits its first response to Earth",
-    "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-    "date": "2026-10-30T18:21:38+00:00"
-  },
-  {
-    "source": "Hugging Face",
-    "kind": "vendor",
-    "org": "Hugging Face",
-    "title": "nemotron-halloween",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-    "date": "2026-10-30T17:57:24+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-    "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-    "date": "2026-10-30T17:27:25+00:00"
-  },
-  {
-    "source": "NVIDIA",
-    "kind": "vendor",
-    "org": "NVIDIA",
-    "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-    "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
-    "date": "2026-10-30T15:00:10+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "Making it easier for websites to express AI training preferences",
-    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-    "date": "2026-10-30T09:30:00+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "Community safety report and new protections for teens",
-    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-    "date": "2026-10-30T09:00:00+00:00"
   }
 ]
