@@ -1,42 +1,42 @@
 [
   {
-    "title": "Indie rozważają model AI, który trafia do danych",
-    "summary": "Indie proponują architekturę, w której model AI jest uruchamiany tam, gdzie znajdują się dane. Ograniczałoby to konieczność przesyłania danych do zewnętrznych systemów.",
-    "so_what": "Takie podejście może ułatwić korzystanie z AI na danych wrażliwych i podlegających lokalnym regulacjom.",
+    "title": "Toyota integruje pamięć modeli z układem SoC",
+    "summary": "Toyota zaprezentowała układ SoC przechowujący w zintegrowanej pamięci wagi modelu oraz system operacyjny. To przykład ścisłego łączenia sprzętu i oprogramowania na potrzeby AI.",
+    "so_what": "Taka integracja może przyspieszyć rozwój wydajnych systemów AI działających bezpośrednio w urządzeniach.",
     "category": "Infrastructure",
     "source": "The Register",
-    "url": "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872"
+    "url": "https://www.theregister.com/systems/2026/11/03/toyota-shows-off-soc-that-stores-model-weights-and-its-os-on-integrated-memory/5307117"
   },
   {
-    "title": "Linux zmienia podejście do wkładu tworzonego z AI",
-    "summary": "Linus Torvalds ocenił, że jądro Linux wyszło z fazy stabilizacji. Projekt ma też stosować zdrowszy model przyjmowania wkładu powstającego z użyciem AI.",
-    "so_what": "Zasady wypracowane przez Linux mogą wpłynąć na sposób oceny kodu wspieranego przez AI w innych projektach open source.",
-    "category": "Tools",
+    "title": "Koszty obliczeniowe Anthropic mogą przekroczyć bilion dolarów",
+    "summary": "Rachunek Anthropic za moc obliczeniową może przekroczyć 1 bln dolarów. Jednocześnie kwartalne przychody firmy zbliżają się do 17 mld dolarów.",
+    "so_what": "Skala tych kwot pokazuje, że konkurencja o czołowe modele AI staje się grą dostępną tylko dla firm z ogromnym kapitałem.",
+    "category": "Business",
     "source": "The Register",
-    "url": "https://www.theregister.com/os-platforms/2026/11/01/linus-torvalds-says-linux-kernel-is-out-of-stabilization-phase-and-using-much-healthier-model-for-ai-contributions/5306852"
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/02/anthropics-compute-tab-could-top-1t-as-q3-revenue-nears-17b/5307089"
   },
   {
-    "title": "Roje agentów AI ugrzęzły w biurokracji Minecrafta",
-    "summary": "Roje agentów AI próbujące zbudować cywilizację w Minecrafcie nie osiągnęły celu. Eksperyment pokazał problemy z koordynacją i nadmiarem wewnętrznych procedur.",
-    "so_what": "Większa liczba agentów nie gwarantuje lepszych wyników, jeśli system nie potrafi skutecznie dzielić zadań i podejmować decyzji.",
-    "category": "Agents",
-    "source": "Hacker News",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy"
+    "title": "OpenAI proponuje elektrownie dla centrów danych",
+    "summary": "OpenAI przedstawia elektrownie zasilające centra danych jako rozwiązanie korzystne także dla pobliskich obszarów. Propozycja odpowiada na rosnące znaczenie energii w rozbudowie infrastruktury AI.",
+    "so_what": "Dostęp do własnych źródeł energii może stać się jednym z głównych warunków dalszego skalowania AI.",
+    "category": "Infrastructure",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program"
   },
   {
-    "title": "Chatboty kierują turystów na niebezpieczne trasy",
-    "summary": "Wskazówki chatbotów prowadzą część turystów pieszych w niewłaściwe miejsca. Błędne rekomendacje w terenie mogą mieć niebezpieczne konsekwencje.",
-    "so_what": "Porady AI dotyczące bezpieczeństwa i nawigacji wymagają weryfikacji w wiarygodnych, aktualnych źródłach.",
-    "category": "Society",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/"
+    "title": "Chińskie AI jest dostosowywane do Zachodu",
+    "summary": "Startupy modyfikują chińskie rozwiązania AI z myślą o zachodnich odbiorcach. Oznacza to przenoszenie technologii między rynkami mimo różnic biznesowych i lokalnych wymagań.",
+    "so_what": "Zachodnie firmy mogą mierzyć się z szerszą konkurencją opartą na adaptowanych technologiach rozwijanych w Chinach.",
+    "category": "Models",
+    "source": "Rest of World",
+    "url": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
   },
   {
-    "title": "Nowy infostealer wykorzystuje AI do demaskowania ofiar",
-    "summary": "Nowe złośliwe oprogramowanie wykradające informacje używa AI do automatycznego identyfikowania i ujawniania danych ofiar. Łączy kradzież informacji z automatyzacją doxxingu.",
-    "so_what": "AI może zwiększyć skalę i szybkość spersonalizowanych ataków opartych na skradzionych danych.",
+    "title": "Aplikacje AI ukrywają funkcje do seksualnych deepfake’ów",
+    "summary": "Setki pozornie zwyczajnych aplikacji AI mają oferować ukryte funkcje do tworzenia krzywdzących deepfake’ów o charakterze seksualnym. Problem wskazuje na skalę nadużyć w łatwo dostępnych narzędziach.",
+    "so_what": "Sklepy z aplikacjami i regulatorzy będą musieli skuteczniej wykrywać funkcje AI projektowane do tworzenia materiałów bez zgody przedstawionych osób.",
     "category": "Safety",
     "source": "Wired",
-    "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/"
+    "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/"
   }
 ]

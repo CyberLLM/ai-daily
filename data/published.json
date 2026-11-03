@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267",
-    "title": "Chiny pozwalają DeepSeek kontynuować sprzedaż",
-    "category": "Regulation",
-    "published_on": "2026-10-26"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "title": "Ekonomista Apollo: AI nie daje firmom zwrotu",
-    "category": "Business",
-    "published_on": "2026-10-26"
-  },
-  {
-    "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-    "title": "Wyszukiwarka AI Google wstrząsnęła rynkiem wydawców",
-    "category": "Business",
-    "published_on": "2026-10-26"
-  },
-  {
-    "url": "https://www.theregister.com/public-sector/2026/10/25/want-to-build-a-uk-datacenter-please-hold-while-whitehall-transfers-you/5304956",
-    "title": "Brytyjska biurokracja hamuje budowę centrów danych",
-    "category": "Infrastructure",
-    "published_on": "2026-10-26"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-    "title": "r/opensource wprowadza zakazy dotyczące AI i języka",
-    "category": "Society",
-    "published_on": "2026-10-26"
-  },
-  {
     "url": "https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574",
     "title": "OpenAI wprowadza tańszy model GPT-6.1 Terra",
     "category": "Models",
@@ -238,5 +208,35 @@
     "title": "Nowy infostealer wykorzystuje AI do demaskowania ofiar",
     "category": "Safety",
     "published_on": "2026-11-02"
+  },
+  {
+    "url": "https://www.theregister.com/systems/2026/11/03/toyota-shows-off-soc-that-stores-model-weights-and-its-os-on-integrated-memory/5307117",
+    "title": "Toyota integruje pamięć modeli z układem SoC",
+    "category": "Infrastructure",
+    "published_on": "2026-11-03"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/02/anthropics-compute-tab-could-top-1t-as-q3-revenue-nears-17b/5307089",
+    "title": "Koszty obliczeniowe Anthropic mogą przekroczyć bilion dolarów",
+    "category": "Business",
+    "published_on": "2026-11-03"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+    "title": "OpenAI proponuje elektrownie dla centrów danych",
+    "category": "Infrastructure",
+    "published_on": "2026-11-03"
+  },
+  {
+    "url": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "title": "Chińskie AI jest dostosowywane do Zachodu",
+    "category": "Models",
+    "published_on": "2026-11-03"
+  },
+  {
+    "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+    "title": "Aplikacje AI ukrywają funkcje do seksualnych deepfake’ów",
+    "category": "Safety",
+    "published_on": "2026-11-03"
   }
 ]
