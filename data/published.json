@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574",
-    "title": "OpenAI wprowadza tańszy model GPT-6.1 Terra",
-    "category": "Models",
-    "published_on": "2026-10-27"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-    "title": "Anthropic ujawnia strategię utrzymania klientów",
-    "category": "Business",
-    "published_on": "2026-10-27"
-  },
-  {
-    "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-    "title": "AI jest droższa poza językiem angielskim",
-    "category": "Society",
-    "published_on": "2026-10-27"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-    "title": "Pracownicy protestują przeciw zakupowi robotów przez ICE",
-    "category": "Robotics",
-    "published_on": "2026-10-27"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-    "title": "Codzienne szkody AI giną w cieniu katastrof",
-    "category": "Safety",
-    "published_on": "2026-10-27"
-  },
-  {
     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
     "title": "Genie 4 ma symulować wirtualne światy",
     "category": "Models",
@@ -238,5 +208,35 @@
     "title": "Aplikacje AI ukrywają funkcje do seksualnych deepfake’ów",
     "category": "Safety",
     "published_on": "2026-11-03"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "title": "Anthropic chce potwierdzać tożsamość modeli AI",
+    "category": "Safety",
+    "published_on": "2026-11-04"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "title": "Centra danych sięgają po stare silniki odrzutowe",
+    "category": "Infrastructure",
+    "published_on": "2026-11-04"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+    "title": "Revolut obniżył koszty kodowania z AI dziesięciokrotnie",
+    "category": "Business",
+    "published_on": "2026-11-04"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "title": "Odwrócona teoria gier ma kontrolować agentów AI",
+    "category": "Agents",
+    "published_on": "2026-11-04"
+  },
+  {
+    "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+    "title": "Apple szykuje domowego robota za 1000 dolarów",
+    "category": "Robotics",
+    "published_on": "2026-11-04"
   }
 ]

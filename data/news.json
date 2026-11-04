@@ -1,75 +1,219 @@
 [
   {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "The biggest modding site in PC gaming is taking a stance on AI",
+    "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+    "date": "2026-11-04T00:42:10+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Please stop asking me when the AI bubble will pop",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+    "date": "2026-11-03T23:37:45+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Anthropic is working on a system to prove AI models’ identity",
+    "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "date": "2026-11-03T22:41:03+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Data centers are turning to old jet engines as the wait for power grows",
+    "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "date": "2026-11-03T22:19:53+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+    "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+    "date": "2026-11-03T21:43:08+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "url": "https://arxiv.org/abs/2605.29713",
+    "date": "2026-11-03T21:40:53+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+    "date": "2026-11-03T21:26:44+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Those Jeff Bezos hair transplant photos are very fake",
+    "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+    "date": "2026-11-03T21:01:07+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "Nvidia is happy to take your money whether you're using open or closed models, says Jensen Huang",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/03/nvidia-is-happy-to-take-your-money-whether-youre-using-open-or-closed-models-says-jensen-huang/5307368",
+    "date": "2026-11-03T21:00:32+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+    "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+    "date": "2026-11-03T20:39:55+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+    "date": "2026-11-03T20:07:29+00:00"
+  },
+  {
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "Building connections across the research infrastructure",
+    "url": "https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103",
+    "date": "2026-11-03T19:30:00+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "How I use AI (Oct 2026)",
+    "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+    "date": "2026-11-03T18:11:11+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Google will let schools skip AI tools, but they have to give up search, too",
+    "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+    "date": "2026-11-03T17:54:43+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+    "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+    "date": "2026-11-03T17:22:37+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "kind": "vendor",
+    "org": "Hugging Face",
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "url": "https://huggingface.co/blog/allenai/statebench",
+    "date": "2026-11-03T17:15:21+00:00"
+  },
+  {
+    "source": "Google DeepMind",
+    "kind": "vendor",
+    "org": "Google",
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "date": "2026-11-03T17:01:49+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "kind": "vendor",
+    "org": "Hugging Face",
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "date": "2026-11-03T16:35:36+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+    "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+    "date": "2026-11-03T16:29:48+00:00"
+  },
+  {
+    "source": "NVIDIA",
+    "kind": "vendor",
+    "org": "NVIDIA",
+    "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+    "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+    "date": "2026-11-03T16:00:45+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Here’s Why You Shouldn’t Use AI to Vote",
+    "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+    "date": "2026-11-03T14:45:08+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Accelerating engineering for the physical world",
+    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "date": "2026-11-03T12:00:00+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+    "date": "2026-11-03T11:00:00+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "How “reverse game theory” could keep AI agents in check",
+    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "date": "2026-11-03T10:43:41+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "url": "https://openai.com/index/cisco-cyber",
+    "date": "2026-11-03T08:00:00+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+    "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+    "date": "2026-11-03T05:32:25+00:00"
+  },
+  {
     "source": "MIT Technology Review",
     "kind": "press",
     "org": "MIT Technology Review",
     "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
     "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
     "date": "2026-11-03T04:18:47+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-    "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-    "date": "2026-11-03T03:30:00+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "Toyota shows off SoC that stores model weights and its OS on integrated memory",
-    "url": "https://www.theregister.com/systems/2026/11/03/toyota-shows-off-soc-that-stores-model-weights-and-its-os-on-integrated-memory/5307117",
-    "date": "2026-11-03T03:25:32+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-    "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-    "date": "2026-11-03T01:49:52+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-    "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-    "date": "2026-11-03T00:35:52+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "llm 0.37",
-    "url": "https://simonwillison.net/2026/Nov/2/llm/",
-    "date": "2026-11-02T23:49:30+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "Anthropic's compute tab could top $1T as Q3 revenue nears $17B",
-    "url": "https://www.theregister.com/ai-and-ml/2026/11/02/anthropics-compute-tab-could-top-1t-as-q3-revenue-nears-17b/5307089",
-    "date": "2026-11-02T23:25:00+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Anthropic's growth just flattened",
-    "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-    "date": "2026-11-02T22:33:20+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-    "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-    "date": "2026-11-02T22:30:47+00:00"
   },
   {
     "source": "MIT News",
@@ -80,123 +224,11 @@
     "date": "2026-11-02T19:55:00+00:00"
   },
   {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-    "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-    "date": "2026-11-02T19:27:37+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Anthropic clamps down on Claude’s AI video game clones",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-    "date": "2026-11-02T18:56:02+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Egoless Mathematics in the AI Era",
-    "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-    "date": "2026-11-02T18:54:44+00:00"
-  },
-  {
     "source": "Ars Technica",
     "kind": "press",
     "org": "Ars Technica",
     "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
     "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
     "date": "2026-11-02T18:32:21+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-    "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-    "date": "2026-11-02T18:05:31+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-    "date": "2026-11-02T18:01:30+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "Rewarding defenders with bigger bug bounties",
-    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-    "date": "2026-11-02T18:00:00+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-    "date": "2026-11-02T18:00:00+00:00"
-  },
-  {
-    "source": "Google AI",
-    "kind": "vendor",
-    "org": "Google",
-    "title": "The latest AI news we announced in October 2026",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-    "date": "2026-11-02T17:45:00+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "kind": "press",
-    "org": "MIT Technology Review",
-    "title": "Raising the quality of insights in agentic analytics",
-    "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-    "date": "2026-11-02T17:00:00+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "The U.S. Census Bureau and “Super Intelligence”",
-    "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
-    "date": "2026-11-02T13:31:26+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
-    "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
-    "date": "2026-11-02T12:00:00+00:00"
-  },
-  {
-    "source": "Rest of World",
-    "kind": "press",
-    "org": "Rest of World",
-    "title": "Startups recalibrate Chinese AI for the West",
-    "url": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-    "date": "2026-11-02T11:00:00+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-    "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-    "date": "2026-11-02T10:00:00+00:00"
-  },
-  {
-    "source": "MIT News",
-    "kind": "research",
-    "org": "MIT News",
-    "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery",
-    "url": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
-    "date": "2026-11-02T05:35:00+00:00"
   }
 ]
