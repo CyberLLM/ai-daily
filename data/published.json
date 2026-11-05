@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-    "title": "Genie 4 ma symulować wirtualne światy",
-    "category": "Models",
-    "published_on": "2026-10-28"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-    "title": "Delaware rozważa firmy zarządzane przez agentów AI",
-    "category": "Agents",
-    "published_on": "2026-10-28"
-  },
-  {
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846",
-    "title": "Oracle zaoferuje klientom układy TPU Google",
-    "category": "Infrastructure",
-    "published_on": "2026-10-28"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-    "title": "Pozew przeciw OpenAI w sprawie porady medycznej GPT-4o",
-    "category": "Safety",
-    "published_on": "2026-10-28"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-    "title": "Amazon może najwięcej zyskać na IPO Anthropic",
-    "category": "Business",
-    "published_on": "2026-10-28"
-  },
-  {
     "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
     "title": "Google prezentuje Gemini 4 Carbon",
     "category": "Models",
@@ -238,5 +208,35 @@
     "title": "Apple szykuje domowego robota za 1000 dolarów",
     "category": "Robotics",
     "published_on": "2026-11-04"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "title": "Apple ma ograniczać budżety na wewnętrzne AI",
+    "category": "Business",
+    "published_on": "2026-11-05"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+    "title": "Komitety AI wydały miliony na wybory do Kongresu",
+    "category": "Regulation",
+    "published_on": "2026-11-05"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+    "title": "Qualcomm mocno stawia na centra danych",
+    "category": "Infrastructure",
+    "published_on": "2026-11-05"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+    "title": "Szkoły mogą zrezygnować z AI Google, ale stracą też wyszukiwarkę",
+    "category": "Society",
+    "published_on": "2026-11-05"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/statebench",
+    "title": "StateBench testuje pamięć modeli w długich dokumentach",
+    "category": "Research",
+    "published_on": "2026-11-05"
   }
 ]
