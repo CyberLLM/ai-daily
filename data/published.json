@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-    "title": "Google prezentuje Gemini 4 Carbon",
-    "category": "Models",
-    "published_on": "2026-10-29"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-    "title": "Google rozszerza reklamy w wyszukiwarce AI",
-    "category": "Business",
-    "published_on": "2026-10-29"
-  },
-  {
-    "url": "https://surgehq.ai/blog/dayjob-tax",
-    "title": "Agenci AI sprawdzeni na zadaniach podatkowych",
-    "category": "Agents",
-    "published_on": "2026-10-29"
-  },
-  {
-    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-    "title": "Nowa metoda utrwalania wiedzy przez LLM-y",
-    "category": "Research",
-    "published_on": "2026-10-29"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
-    "title": "Anthropic ujawnia skrajne ryzyka AI",
-    "category": "Safety",
-    "published_on": "2026-10-29"
-  },
-  {
     "url": "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508",
     "title": "Luki w pięciu narzędziach AI dla programistów",
     "category": "Tools",
@@ -238,5 +208,35 @@
     "title": "StateBench testuje pamięć modeli w długich dokumentach",
     "category": "Research",
     "published_on": "2026-11-05"
+  },
+  {
+    "url": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
+    "title": "OpenAI wypuszcza GPT-6 Cyber",
+    "category": "Safety",
+    "published_on": "2026-11-06"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+    "title": "OpenAI ogranicza NDA przy projektach centrów danych",
+    "category": "Infrastructure",
+    "published_on": "2026-11-06"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+    "title": "NVIDIA prezentuje otwarte modele Cosmos 3",
+    "category": "Models",
+    "published_on": "2026-11-06"
+  },
+  {
+    "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+    "title": "Reklamy w chatbotach stają się rzeczywistością",
+    "category": "Business",
+    "published_on": "2026-11-06"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+    "title": "Debiut Agility Robotics testuje rynek humanoidów",
+    "category": "Robotics",
+    "published_on": "2026-11-06"
   }
 ]

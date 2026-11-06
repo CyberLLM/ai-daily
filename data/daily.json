@@ -1,42 +1,42 @@
 [
   {
-    "title": "Apple ma ograniczać budżety na wewnętrzne AI",
-    "summary": "Apple podobno zmniejsza budżety przeznaczone na wewnętrzne wykorzystanie AI. To sygnał większej kontroli kosztów tych narzędzi.",
-    "so_what": "Nawet największe firmy technologiczne zaczynają uważniej oceniać opłacalność wdrożeń AI.",
-    "category": "Business",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+    "title": "OpenAI wypuszcza GPT-6 Cyber",
+    "summary": "OpenAI udostępniło model GPT-6 Cyber. Firma zapewnia, że system będzie działać w ramach określonych „zasad zaangażowania”.",
+    "so_what": "Specjalistyczny model cybernetyczny może zwiększyć możliwości obronne, ale równocześnie podnosi stawkę w zakresie kontroli jego użycia.",
+    "category": "Safety",
+    "source": "The Register",
+    "url": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855"
   },
   {
-    "title": "Komitety AI wydały miliony na wybory do Kongresu",
-    "summary": "Komitety polityczne związane z AI przeznaczyły miliony na próbę wpłynięcia na skład Kongresu. TechCrunch analizuje rezultaty tych wydatków po wyborach śródokresowych.",
-    "so_what": "Polityka dotycząca AI staje się obszarem zorganizowanej i kosztownej walki o wpływy.",
-    "category": "Regulation",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
-  },
-  {
-    "title": "Qualcomm mocno stawia na centra danych",
-    "summary": "Qualcomm zwiększa zaangażowanie w rynek centrów danych. Firma szuka nowych źródeł wzrostu w obliczu spadającej sprzedaży smartfonów.",
-    "so_what": "Rosnący popyt na infrastrukturę obliczeniową skłania producentów układów do zmiany strategii biznesowych.",
+    "title": "OpenAI ogranicza NDA przy projektach centrów danych",
+    "summary": "OpenAI wycofuje się z części umów o poufności dotyczących projektów centrów danych. To zmiana w podejściu firmy do inwestycji infrastrukturalnych.",
+    "so_what": "Mniejsza poufność może ułatwić publiczną kontrolę kosztów i lokalnego wpływu infrastruktury potrzebnej do rozwoju AI.",
     "category": "Infrastructure",
     "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
   },
   {
-    "title": "Szkoły mogą zrezygnować z AI Google, ale stracą też wyszukiwarkę",
-    "summary": "Google pozwoli szkołom wyłączyć narzędzia AI. Warunkiem ma być jednak rezygnacja również z wyszukiwarki firmy.",
-    "so_what": "Powiązanie AI z podstawową usługą wyszukiwania ogranicza szkołom możliwość niezależnego wyboru technologii.",
-    "category": "Society",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
-  },
-  {
-    "title": "StateBench testuje pamięć modeli w długich dokumentach",
-    "summary": "StateBench sprawdza, czy modele językowe potrafią śledzić zmiany stanu w długich dokumentach. Test skupia się na zachowaniu aktualnego i spójnego obrazu informacji.",
-    "so_what": "Benchmark może ujawnić, czy modele nadają się do zadań wymagających niezawodnego utrzymywania długiego kontekstu.",
-    "category": "Research",
+    "title": "NVIDIA prezentuje otwarte modele Cosmos 3",
+    "summary": "NVIDIA udostępniła nowe otwarte modele Cosmos 3. Są przeznaczone do interaktywnej symulacji świata.",
+    "so_what": "Otwarte modele symulacyjne mogą przyspieszyć tworzenie i testowanie systemów działających w środowiskach fizycznych.",
+    "category": "Models",
     "source": "Hugging Face",
-    "url": "https://huggingface.co/blog/allenai/statebench"
+    "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
+  },
+  {
+    "title": "Reklamy w chatbotach stają się rzeczywistością",
+    "summary": "Reklamy zaczynają pojawiać się w chatbotach. Pierwsze wdrożenia pokazują, które podejścia działają, a które się nie sprawdzają.",
+    "so_what": "Monetyzacja przez reklamy może zmienić zarówno modele biznesowe usług AI, jak i sposób formułowania odpowiedzi przez chatboty.",
+    "category": "Business",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/"
+  },
+  {
+    "title": "Debiut Agility Robotics testuje rynek humanoidów",
+    "summary": "Agility Robotics debiutuje na giełdzie Nasdaq. Wydarzenie zwiększa zainteresowanie kondycją rynku robotów humanoidalnych.",
+    "so_what": "Wycena spółki przez inwestorów będzie ważnym testem komercyjnej wiarygodności sektora humanoidów.",
+    "category": "Robotics",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/"
   }
 ]
