@@ -1,42 +1,42 @@
 [
   {
-    "title": "OpenAI wypuszcza GPT-6 Cyber",
-    "summary": "OpenAI udostępniło model GPT-6 Cyber. Firma zapewnia, że system będzie działać w ramach określonych „zasad zaangażowania”.",
-    "so_what": "Specjalistyczny model cybernetyczny może zwiększyć możliwości obronne, ale równocześnie podnosi stawkę w zakresie kontroli jego użycia.",
-    "category": "Safety",
-    "source": "The Register",
-    "url": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855"
-  },
-  {
-    "title": "OpenAI ogranicza NDA przy projektach centrów danych",
-    "summary": "OpenAI wycofuje się z części umów o poufności dotyczących projektów centrów danych. To zmiana w podejściu firmy do inwestycji infrastrukturalnych.",
-    "so_what": "Mniejsza poufność może ułatwić publiczną kontrolę kosztów i lokalnego wpływu infrastruktury potrzebnej do rozwoju AI.",
-    "category": "Infrastructure",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
-  },
-  {
-    "title": "NVIDIA prezentuje otwarte modele Cosmos 3",
-    "summary": "NVIDIA udostępniła nowe otwarte modele Cosmos 3. Są przeznaczone do interaktywnej symulacji świata.",
-    "so_what": "Otwarte modele symulacyjne mogą przyspieszyć tworzenie i testowanie systemów działających w środowiskach fizycznych.",
-    "category": "Models",
-    "source": "Hugging Face",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
-  },
-  {
-    "title": "Reklamy w chatbotach stają się rzeczywistością",
-    "summary": "Reklamy zaczynają pojawiać się w chatbotach. Pierwsze wdrożenia pokazują, które podejścia działają, a które się nie sprawdzają.",
-    "so_what": "Monetyzacja przez reklamy może zmienić zarówno modele biznesowe usług AI, jak i sposób formułowania odpowiedzi przez chatboty.",
+    "title": "OpenAI pozyskuje kolejne 11 mld dolarów",
+    "summary": "Według doniesień OpenAI zebrało dodatkowe 11 mld dolarów. Wycena firmy sięgnęła 1,25 bln dolarów.",
+    "so_what": "Nowy kapitał zwiększa możliwości inwestowania w modele i infrastrukturę, jednocześnie podnosząc presję na przyszłe przychody.",
     "category": "Business",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/"
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
   },
   {
-    "title": "Debiut Agility Robotics testuje rynek humanoidów",
-    "summary": "Agility Robotics debiutuje na giełdzie Nasdaq. Wydarzenie zwiększa zainteresowanie kondycją rynku robotów humanoidalnych.",
-    "so_what": "Wycena spółki przez inwestorów będzie ważnym testem komercyjnej wiarygodności sektora humanoidów.",
+    "title": "Wielka Brytania chce kontrolować autonomicznych agentów",
+    "summary": "Brytyjscy ministrowie zabiegają o uprawnienia do badania przypadków uruchamiania agentów AI bez odpowiedniego nadzoru. To reakcja na rosnącą autonomię takich systemów.",
+    "so_what": "Twórcy agentów mogą zostać objęci nowymi obowiązkami dotyczącymi nadzoru i wyjaśniania incydentów.",
+    "category": "Regulation",
+    "source": "The Register",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889"
+  },
+  {
+    "title": "Darmowe chińskie modele AI coraz lepsze w hakowaniu",
+    "summary": "Bezpłatne chińskie modele AI osiągają niepokojąco wysokie zdolności hakerskie. Ich dostępność może obniżać barierę wejścia dla cyberataków.",
+    "so_what": "Firmy muszą przygotować zabezpieczenia na szybsze i szerzej dostępne automatyzowanie ataków.",
+    "category": "Safety",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/"
+  },
+  {
+    "title": "Agenci AI sprawdzani w pracy laboratoryjnej",
+    "summary": "OpenAI mierzy, jak agenci AI radzą sobie z codziennymi zadaniami w laboratoriach mokrych. Badanie koncentruje się na praktycznej pracy naukowej.",
+    "so_what": "Takie testy mogą pokazać, czy agenci są gotowi wspierać eksperymenty poza środowiskiem czysto cyfrowym.",
+    "category": "Research",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
+  },
+  {
+    "title": "Humanoidalny robot sprząta mieszkanie",
+    "summary": "Reporter obserwował humanoidalnego robota wykonującego prace porządkowe w mieszkaniu. Demonstracja dotyczyła zastosowania robota w codziennym otoczeniu.",
+    "so_what": "Humanoidy są coraz wyraźniej testowane w zadaniach domowych, a nie tylko w fabrykach i laboratoriach.",
     "category": "Robotics",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/"
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
   }
 ]
