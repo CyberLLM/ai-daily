@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-    "title": "Nvidia może wesprzeć centrum danych Nscale",
-    "category": "Infrastructure",
-    "published_on": "2026-10-31"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-    "title": "Apple Intelligence trafi do Chin",
-    "category": "Business",
-    "published_on": "2026-10-31"
-  },
-  {
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
-    "title": "Agent Claude znalazł się w Pentagonie",
-    "category": "Agents",
-    "published_on": "2026-10-31"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-    "title": "Backdoor w rozszerzeniu Anthropic",
-    "category": "Safety",
-    "published_on": "2026-10-31"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-    "title": "Firmy AI popierają nowy sprzeciw wobec scrapingu",
-    "category": "Regulation",
-    "published_on": "2026-10-31"
-  },
-  {
     "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
     "title": "Ujawniono sposób przejmowania kont ChatGPT",
     "category": "Safety",
@@ -238,5 +208,35 @@
     "title": "Humanoidalny robot sprząta mieszkanie",
     "category": "Robotics",
     "published_on": "2026-11-07"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+    "title": "Luka w kontroli sprzedaży chipów Nvidii do Chin",
+    "category": "Regulation",
+    "published_on": "2026-11-08"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "title": "Google przejmuje projekt centrum danych w Wyoming",
+    "category": "Infrastructure",
+    "published_on": "2026-11-08"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+    "title": "Firmy AI chcą kupować pliki i e-maile użytkowników",
+    "category": "Society",
+    "published_on": "2026-11-08"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/toyblocks",
+    "title": "ToyBlocks ma ułatwić ocenę uczenia robotów",
+    "category": "Robotics",
+    "published_on": "2026-11-08"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059",
+    "title": "Bank Anglii studzi oczekiwania wobec produktywności AI",
+    "category": "Business",
+    "published_on": "2026-11-08"
   }
 ]

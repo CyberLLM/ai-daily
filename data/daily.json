@@ -1,42 +1,42 @@
 [
   {
-    "title": "OpenAI pozyskuje kolejne 11 mld dolarów",
-    "summary": "Według doniesień OpenAI zebrało dodatkowe 11 mld dolarów. Wycena firmy sięgnęła 1,25 bln dolarów.",
-    "so_what": "Nowy kapitał zwiększa możliwości inwestowania w modele i infrastrukturę, jednocześnie podnosząc presję na przyszłe przychody.",
-    "category": "Business",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
-  },
-  {
-    "title": "Wielka Brytania chce kontrolować autonomicznych agentów",
-    "summary": "Brytyjscy ministrowie zabiegają o uprawnienia do badania przypadków uruchamiania agentów AI bez odpowiedniego nadzoru. To reakcja na rosnącą autonomię takich systemów.",
-    "so_what": "Twórcy agentów mogą zostać objęci nowymi obowiązkami dotyczącymi nadzoru i wyjaśniania incydentów.",
+    "title": "Luka w kontroli sprzedaży chipów Nvidii do Chin",
+    "summary": "USA zezwoliły na sprzedaż chipów Nvidii firmie z pustym biurem w Chinach. Przypadek podważa skuteczność kontroli eksportu zaawansowanych układów.",
+    "so_what": "Nieszczelne procedury mogą ułatwiać obchodzenie ograniczeń dotyczących infrastruktury AI.",
     "category": "Regulation",
-    "source": "The Register",
-    "url": "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889"
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
   },
   {
-    "title": "Darmowe chińskie modele AI coraz lepsze w hakowaniu",
-    "summary": "Bezpłatne chińskie modele AI osiągają niepokojąco wysokie zdolności hakerskie. Ich dostępność może obniżać barierę wejścia dla cyberataków.",
-    "so_what": "Firmy muszą przygotować zabezpieczenia na szybsze i szerzej dostępne automatyzowanie ataków.",
-    "category": "Safety",
+    "title": "Google przejmuje projekt centrum danych w Wyoming",
+    "summary": "Crusoe sprzedało Google’owi borykający się z problemami projekt centrum danych w Wyoming. Transakcja przekazuje przedsięwzięcie infrastrukturalne bezpośrednio technologicznemu gigantowi.",
+    "so_what": "Przejęcie pokazuje postępującą konsolidację infrastruktury obliczeniowej wokół największych firm technologicznych.",
+    "category": "Infrastructure",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+  },
+  {
+    "title": "Firmy AI chcą kupować pliki i e-maile użytkowników",
+    "summary": "Firmy AI zabiegają o możliwość kupowania służbowych plików i wiadomości e-mail. Takie zasoby mogą stać się kolejnym cennym źródłem danych.",
+    "so_what": "Organizacje będą musiały dokładniej określić, kto może sprzedawać ich dane i do jakich zastosowań.",
+    "category": "Society",
     "source": "Wired",
-    "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/"
+    "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/"
   },
   {
-    "title": "Agenci AI sprawdzani w pracy laboratoryjnej",
-    "summary": "OpenAI mierzy, jak agenci AI radzą sobie z codziennymi zadaniami w laboratoriach mokrych. Badanie koncentruje się na praktycznej pracy naukowej.",
-    "so_what": "Takie testy mogą pokazać, czy agenci są gotowi wspierać eksperymenty poza środowiskiem czysto cyfrowym.",
-    "category": "Research",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
-  },
-  {
-    "title": "Humanoidalny robot sprząta mieszkanie",
-    "summary": "Reporter obserwował humanoidalnego robota wykonującego prace porządkowe w mieszkaniu. Demonstracja dotyczyła zastosowania robota w codziennym otoczeniu.",
-    "so_what": "Humanoidy są coraz wyraźniej testowane w zadaniach domowych, a nie tylko w fabrykach i laboratoriach.",
+    "title": "ToyBlocks ma ułatwić ocenę uczenia robotów",
+    "summary": "Hugging Face przedstawiło ToyBlocks, kontrolowane środowisko do uczenia i oceny robotów. Narzędzie ma umożliwiać testowanie metod w ujednoliconych warunkach.",
+    "so_what": "Wspólne środowisko testowe może ułatwić porównywanie systemów uczenia robotów.",
     "category": "Robotics",
-    "source": "MIT Technology Review",
-    "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
+    "source": "Hugging Face",
+    "url": "https://huggingface.co/blog/allenai/toyblocks"
+  },
+  {
+    "title": "Bank Anglii studzi oczekiwania wobec produktywności AI",
+    "summary": "Bank Anglii podważa optymistyczne prognozy dotyczące wzrostu produktywności dzięki AI. To ostrożny sygnał ze strony jednej z najważniejszych instytucji finansowych.",
+    "so_what": "Firmy i inwestorzy nie powinni zakładać, że wydatki na AI szybko przełożą się na wzrost produktywności.",
+    "category": "Business",
+    "source": "The Register",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059"
   }
 ]
