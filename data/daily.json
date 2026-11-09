@@ -1,42 +1,42 @@
 [
   {
-    "title": "Luka w kontroli sprzedaży chipów Nvidii do Chin",
-    "summary": "USA zezwoliły na sprzedaż chipów Nvidii firmie z pustym biurem w Chinach. Przypadek podważa skuteczność kontroli eksportu zaawansowanych układów.",
-    "so_what": "Nieszczelne procedury mogą ułatwiać obchodzenie ograniczeń dotyczących infrastruktury AI.",
+    "title": "Jeden model AI symuluje wiele rodzajów materii",
+    "summary": "Model potrafi symulować zachowanie wielu substancji. Obejmuje zjawiska od przesuwania się piasku po fałdowanie białek.",
+    "so_what": "Uniwersalne modele symulacyjne mogą ograniczyć potrzebę tworzenia osobnych narzędzi dla różnych dziedzin nauki.",
+    "category": "Research",
+    "source": "MIT News",
+    "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109"
+  },
+  {
+    "title": "Fala poprawek kodu tworzonych z AI może słabnąć",
+    "summary": "Linus Torvalds dostrzega oznaki, że napływ poprawek przygotowywanych za pomocą AI osiągnął szczyt. To ważny sygnał dla społeczności rozwijających otwarte oprogramowanie.",
+    "so_what": "Presja generowana przez masowo zgłaszany kod AI może przestać rosnąć, ułatwiając opiekunom projektów kontrolę jakości.",
+    "category": "Tools",
+    "source": "The Register",
+    "url": "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345"
+  },
+  {
+    "title": "Apple chce zmienić Siri w agenta AI",
+    "summary": "Apple przyspiesza prace nad bardziej agentową wersją Siri. Asystent ma wyjść poza obecny model prostego odpowiadania na polecenia.",
+    "so_what": "Powodzenie tych prac może zdecydować, czy Apple nadrobi dystans do konkurentów rozwijających agentów AI.",
+    "category": "Agents",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+  },
+  {
+    "title": "Właściciele praw do Elvisa i Eminema pozywają Suno",
+    "summary": "Podmioty reprezentujące prawa do Elvisa Presleya i Eminema wytoczyły proces firmie Suno. Spór dotyczy jednego z czołowych narzędzi do generowania muzyki przez AI.",
+    "so_what": "Wynik sprawy może wpłynąć na zasady wykorzystywania dorobku znanych artystów przez generatory muzyki.",
     "category": "Regulation",
     "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
   },
   {
-    "title": "Google przejmuje projekt centrum danych w Wyoming",
-    "summary": "Crusoe sprzedało Google’owi borykający się z problemami projekt centrum danych w Wyoming. Transakcja przekazuje przedsięwzięcie infrastrukturalne bezpośrednio technologicznemu gigantowi.",
-    "so_what": "Przejęcie pokazuje postępującą konsolidację infrastruktury obliczeniowej wokół największych firm technologicznych.",
-    "category": "Infrastructure",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
-  },
-  {
-    "title": "Firmy AI chcą kupować pliki i e-maile użytkowników",
-    "summary": "Firmy AI zabiegają o możliwość kupowania służbowych plików i wiadomości e-mail. Takie zasoby mogą stać się kolejnym cennym źródłem danych.",
-    "so_what": "Organizacje będą musiały dokładniej określić, kto może sprzedawać ich dane i do jakich zastosowań.",
-    "category": "Society",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/"
-  },
-  {
-    "title": "ToyBlocks ma ułatwić ocenę uczenia robotów",
-    "summary": "Hugging Face przedstawiło ToyBlocks, kontrolowane środowisko do uczenia i oceny robotów. Narzędzie ma umożliwiać testowanie metod w ujednoliconych warunkach.",
-    "so_what": "Wspólne środowisko testowe może ułatwić porównywanie systemów uczenia robotów.",
-    "category": "Robotics",
-    "source": "Hugging Face",
-    "url": "https://huggingface.co/blog/allenai/toyblocks"
-  },
-  {
-    "title": "Bank Anglii studzi oczekiwania wobec produktywności AI",
-    "summary": "Bank Anglii podważa optymistyczne prognozy dotyczące wzrostu produktywności dzięki AI. To ostrożny sygnał ze strony jednej z najważniejszych instytucji finansowych.",
-    "so_what": "Firmy i inwestorzy nie powinni zakładać, że wydatki na AI szybko przełożą się na wzrost produktywności.",
+    "title": "OpenAI pozyskuje 11 mld dolarów",
+    "summary": "OpenAI zebrało 11 mld dolarów nowego finansowania. Wycena spółki osiągnęła 1,25 bln dolarów.",
+    "so_what": "Tak duży kapitał wzmacnia możliwości OpenAI w kosztownym wyścigu o modele, infrastrukturę i użytkowników.",
     "category": "Business",
-    "source": "The Register",
-    "url": "https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059"
+    "source": "Hacker News",
+    "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/"
   }
 ]
