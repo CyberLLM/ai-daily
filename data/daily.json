@@ -1,42 +1,42 @@
 [
   {
-    "title": "Jeden model AI symuluje wiele rodzajów materii",
-    "summary": "Model potrafi symulować zachowanie wielu substancji. Obejmuje zjawiska od przesuwania się piasku po fałdowanie białek.",
-    "so_what": "Uniwersalne modele symulacyjne mogą ograniczyć potrzebę tworzenia osobnych narzędzi dla różnych dziedzin nauki.",
+    "title": "Narzędzie DeepMind potwierdziło bezpieczeństwo protokołu Signal",
+    "summary": "Nowe narzędzie AI od Google DeepMind przeanalizowało protokół Signal. Wyniki potwierdziły jego bezpieczeństwo.",
+    "so_what": "AI może przyspieszyć weryfikowanie zabezpieczeń stosowanych w krytycznych systemach komunikacji.",
     "category": "Research",
-    "source": "MIT News",
-    "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109"
+    "source": "Wired",
+    "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/"
   },
   {
-    "title": "Fala poprawek kodu tworzonych z AI może słabnąć",
-    "summary": "Linus Torvalds dostrzega oznaki, że napływ poprawek przygotowywanych za pomocą AI osiągnął szczyt. To ważny sygnał dla społeczności rozwijających otwarte oprogramowanie.",
-    "so_what": "Presja generowana przez masowo zgłaszany kod AI może przestać rosnąć, ułatwiając opiekunom projektów kontrolę jakości.",
-    "category": "Tools",
-    "source": "The Register",
-    "url": "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345"
-  },
-  {
-    "title": "Apple chce zmienić Siri w agenta AI",
-    "summary": "Apple przyspiesza prace nad bardziej agentową wersją Siri. Asystent ma wyjść poza obecny model prostego odpowiadania na polecenia.",
-    "so_what": "Powodzenie tych prac może zdecydować, czy Apple nadrobi dystans do konkurentów rozwijających agentów AI.",
-    "category": "Agents",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
-  },
-  {
-    "title": "Właściciele praw do Elvisa i Eminema pozywają Suno",
-    "summary": "Podmioty reprezentujące prawa do Elvisa Presleya i Eminema wytoczyły proces firmie Suno. Spór dotyczy jednego z czołowych narzędzi do generowania muzyki przez AI.",
-    "so_what": "Wynik sprawy może wpłynąć na zasady wykorzystywania dorobku znanych artystów przez generatory muzyki.",
-    "category": "Regulation",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
-  },
-  {
-    "title": "OpenAI pozyskuje 11 mld dolarów",
-    "summary": "OpenAI zebrało 11 mld dolarów nowego finansowania. Wycena spółki osiągnęła 1,25 bln dolarów.",
-    "so_what": "Tak duży kapitał wzmacnia możliwości OpenAI w kosztownym wyścigu o modele, infrastrukturę i użytkowników.",
+    "title": "Anthropic ma kontynuować przygotowania do giełdowego debiutu",
+    "summary": "Anthropic podobno zamierza realizować plany wejścia na giełdę. Byłby to ważny krok w komercyjnym rozwoju firmy.",
+    "so_what": "Ewentualny debiut Anthropic da inwestorom nowy sposób na bezpośrednie uczestnictwo w rynku czołowych modeli AI.",
     "category": "Business",
-    "source": "Hacker News",
-    "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/"
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+  },
+  {
+    "title": "Sprzeciw wobec centrów danych skupia się na energii",
+    "summary": "Protesty przeciw centrom danych mogą w istocie wynikać głównie z ich zapotrzebowania na prąd. Rozwój infrastruktury AI coraz mocniej łączy się więc z dostępnością energii.",
+    "so_what": "Możliwości energetyczne i reakcje lokalnych społeczności mogą ograniczać tempo rozbudowy infrastruktury AI.",
+    "category": "Infrastructure",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
+  },
+  {
+    "title": "Claude Code ujawnia sekrety na GitHubie",
+    "summary": "Claude Code przypadkowo doprowadza do publikowania poufnych danych w repozytoriach GitHuba. Problem pokazuje ryzyko związane z używaniem agentów AI podczas programowania.",
+    "so_what": "Firmy wdrażające asystentów programistycznych muszą zabezpieczyć procesy przed automatycznym ujawnianiem kluczy i innych sekretów.",
+    "category": "Safety",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/"
+  },
+  {
+    "title": "Roboty uczą się rozumieć polecenia niedosłownie",
+    "summary": "Platforma edukacyjna wspomagana przez AI pomaga robotom wykraczać poza literalne znaczenie instrukcji. Ma to poprawić ich zdolność rozumowania podczas wykonywania zadań.",
+    "so_what": "Lepsze rozumienie intencji może uczynić roboty bardziej użytecznymi w zmiennych, rzeczywistych warunkach.",
+    "category": "Robotics",
+    "source": "MIT News",
+    "url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109"
   }
 ]

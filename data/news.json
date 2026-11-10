@@ -1,27 +1,211 @@
 [
   {
-    "source": "TechCrunch",
+    "source": "Wired",
     "kind": "press",
-    "org": "TechCrunch",
-    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-    "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-    "date": "2026-11-09T05:26:29+00:00"
-  },
-  {
-    "source": "NVIDIA",
-    "kind": "vendor",
-    "org": "NVIDIA",
-    "title": "Korea Advances Physical AI Across Industries With NVIDIA",
-    "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
-    "date": "2026-11-09T05:00:40+00:00"
+    "org": "Wired",
+    "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+    "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+    "date": "2026-11-10T05:01:00+00:00"
   },
   {
     "source": "MIT News",
     "kind": "research",
     "org": "MIT News",
-    "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
-    "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
-    "date": "2026-11-09T05:00:00+00:00"
+    "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
+    "url": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
+    "date": "2026-11-10T05:00:00+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Anthropic reportedly plans to move forward with IPO plans",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "date": "2026-11-10T01:27:12+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+    "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+    "date": "2026-11-10T00:28:49+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+    "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+    "date": "2026-11-10T00:18:19+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "Anthropic's super bug-finding Mythos model is going into Cisco and IBM products",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/10/anthropics-super-bug-finding-mythos-model-is-going-into-cisco-and-ibm-products/5308616",
+    "date": "2026-11-10T00:00:20+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "llm-anthropic 0.31",
+    "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+    "date": "2026-11-09T23:58:46+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "Locating the source of a mysterious beep with Claude",
+    "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+    "date": "2026-11-09T23:57:21+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "What could China get from Jensen Huang?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+    "date": "2026-11-09T23:51:58+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Here’s what Trump said he knew about Jensen Huang",
+    "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+    "date": "2026-11-09T23:47:46+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+    "date": "2026-11-09T23:28:37+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+    "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+    "date": "2026-11-09T22:46:09+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "A year after the 100% AI mandate nobody understands our code",
+    "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+    "date": "2026-11-09T22:19:12+00:00"
+  },
+  {
+    "source": "Google Research",
+    "kind": "research",
+    "org": "Google",
+    "title": "Exploring the world's languages with Language Explorer",
+    "url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+    "date": "2026-11-09T20:29:39+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "The backlash about data centers might really just be about electricity",
+    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "date": "2026-11-09T19:35:33+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "date": "2026-11-09T19:00:00+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Claude Code is accidentally exposing secrets all over GitHub",
+    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+    "date": "2026-11-09T17:24:26+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+    "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+    "date": "2026-11-09T17:05:43+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "Insight about how 'nature makes no leaps' promises better robot predictions",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/09/insight-about-how-nature-makes-no-leaps-promises-better-robot-predictions/5308301",
+    "date": "2026-11-09T17:00:00+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Nvidia CEO's affair becomes a national security problem",
+    "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+    "date": "2026-11-09T15:23:20+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "kind": "vendor",
+    "org": "Hugging Face",
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "date": "2026-11-09T15:05:57+00:00"
+  },
+  {
+    "source": "NVIDIA",
+    "kind": "vendor",
+    "org": "NVIDIA",
+    "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+    "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+    "date": "2026-11-09T14:00:01+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "url": "https://openai.com/index/control-room",
+    "date": "2026-11-09T13:00:00+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "kind": "vendor",
+    "org": "Hugging Face",
+    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+    "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "date": "2026-11-09T12:34:29+00:00"
+  },
+  {
+    "source": "Rest of World",
+    "kind": "press",
+    "org": "Rest of World",
+    "title": "Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy",
+    "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "date": "2026-11-09T08:30:00+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "Apple capped engineers at a $200 daily AI budget",
+    "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
+    "date": "2026-11-09T05:30:11+00:00"
   },
   {
     "source": "MIT News",
@@ -32,30 +216,6 @@
     "date": "2026-11-09T05:00:00+00:00"
   },
   {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "Linus Torvalds sees signs AI-prompted patch flood has peaked",
-    "url": "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
-    "date": "2026-11-09T04:53:08+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "The Web Is More Than Enough, by Paul Ford",
-    "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
-    "date": "2026-11-09T04:32:33+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "Hide your slop PR descriptions behind <details><summary>",
-    "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
-    "date": "2026-11-09T04:25:05+00:00"
-  },
-  {
     "source": "Hacker News",
     "kind": "community",
     "org": "Hacker News",
@@ -64,91 +224,11 @@
     "date": "2026-11-08T23:44:36+00:00"
   },
   {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-    "date": "2026-11-08T22:54:50+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-    "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-    "date": "2026-11-08T21:00:11+00:00"
-  },
-  {
     "source": "Hacker News",
     "kind": "community",
     "org": "Hacker News",
-    "title": "How I Fight AI Brain Fry",
+    "title": "How I'm fighting the AI brain fry",
     "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
     "date": "2026-11-08T19:37:42+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Apple is racing to make Siri more agentic",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-    "date": "2026-11-08T19:18:19+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Elvis and Eminem rights holders are suing Suno",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-    "date": "2026-11-08T17:23:19+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "OpenAI raises $11B at a $1.25T valuation",
-    "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
-    "date": "2026-11-08T14:49:23+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
-    "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-    "date": "2026-11-08T12:00:00+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
-    "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-    "date": "2026-11-08T10:00:00+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-    "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-    "date": "2026-11-07T22:07:22+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "The end of Microsoft Research's AI Frontiers group",
-    "url": "https://hunch.net/?p=13764006",
-    "date": "2026-11-07T18:02:17+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "Fireworks says you’re wasting money on AI unless you’re using all the models",
-    "url": "https://www.theregister.com/ai-and-ml/2026/11/07/fireworks-says-youre-wasting-money-on-ai-unless-youre-using-all-the-models/5308277",
-    "date": "2026-11-07T15:00:00+00:00"
   }
 ]

@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872",
-    "title": "Indie rozważają model AI, który trafia do danych",
-    "category": "Infrastructure",
-    "published_on": "2026-11-02"
-  },
-  {
-    "url": "https://www.theregister.com/os-platforms/2026/11/01/linus-torvalds-says-linux-kernel-is-out-of-stabilization-phase-and-using-much-healthier-model-for-ai-contributions/5306852",
-    "title": "Linux zmienia podejście do wkładu tworzonego z AI",
-    "category": "Tools",
-    "published_on": "2026-11-02"
-  },
-  {
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-    "title": "Roje agentów AI ugrzęzły w biurokracji Minecrafta",
-    "category": "Agents",
-    "published_on": "2026-11-02"
-  },
-  {
-    "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
-    "title": "Chatboty kierują turystów na niebezpieczne trasy",
-    "category": "Society",
-    "published_on": "2026-11-02"
-  },
-  {
-    "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
-    "title": "Nowy infostealer wykorzystuje AI do demaskowania ofiar",
-    "category": "Safety",
-    "published_on": "2026-11-02"
-  },
-  {
     "url": "https://www.theregister.com/systems/2026/11/03/toyota-shows-off-soc-that-stores-model-weights-and-its-os-on-integrated-memory/5307117",
     "title": "Toyota integruje pamięć modeli z układem SoC",
     "category": "Infrastructure",
@@ -238,5 +208,35 @@
     "title": "OpenAI pozyskuje 11 mld dolarów",
     "category": "Business",
     "published_on": "2026-11-09"
+  },
+  {
+    "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+    "title": "Narzędzie DeepMind potwierdziło bezpieczeństwo protokołu Signal",
+    "category": "Research",
+    "published_on": "2026-11-10"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "title": "Anthropic ma kontynuować przygotowania do giełdowego debiutu",
+    "category": "Business",
+    "published_on": "2026-11-10"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "title": "Sprzeciw wobec centrów danych skupia się na energii",
+    "category": "Infrastructure",
+    "published_on": "2026-11-10"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+    "title": "Claude Code ujawnia sekrety na GitHubie",
+    "category": "Safety",
+    "published_on": "2026-11-10"
+  },
+  {
+    "url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+    "title": "Roboty uczą się rozumieć polecenia niedosłownie",
+    "category": "Robotics",
+    "published_on": "2026-11-10"
   }
 ]
