@@ -1,42 +1,42 @@
 [
   {
-    "title": "Narzędzie DeepMind potwierdziło bezpieczeństwo protokołu Signal",
-    "summary": "Nowe narzędzie AI od Google DeepMind przeanalizowało protokół Signal. Wyniki potwierdziły jego bezpieczeństwo.",
-    "so_what": "AI może przyspieszyć weryfikowanie zabezpieczeń stosowanych w krytycznych systemach komunikacji.",
-    "category": "Research",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/"
-  },
-  {
-    "title": "Anthropic ma kontynuować przygotowania do giełdowego debiutu",
-    "summary": "Anthropic podobno zamierza realizować plany wejścia na giełdę. Byłby to ważny krok w komercyjnym rozwoju firmy.",
-    "so_what": "Ewentualny debiut Anthropic da inwestorom nowy sposób na bezpośrednie uczestnictwo w rynku czołowych modeli AI.",
-    "category": "Business",
+    "title": "Nowojorskie prawo bezpieczeństwa AI wchodzi w życie",
+    "summary": "Nowe przepisy obejmują firmy rozwijające zaawansowane systemy AI. OpenAI i Anthropic zostaną objęte dodatkowym nadzorem.",
+    "so_what": "Bezpieczeństwo AI staje się dla czołowych laboratoriów obowiązkiem regulacyjnym, a nie wyłącznie dobrowolną praktyką.",
+    "category": "Regulation",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
   },
   {
-    "title": "Sprzeciw wobec centrów danych skupia się na energii",
-    "summary": "Protesty przeciw centrom danych mogą w istocie wynikać głównie z ich zapotrzebowania na prąd. Rozwój infrastruktury AI coraz mocniej łączy się więc z dostępnością energii.",
-    "so_what": "Możliwości energetyczne i reakcje lokalnych społeczności mogą ograniczać tempo rozbudowy infrastruktury AI.",
-    "category": "Infrastructure",
-    "source": "MIT Technology Review",
-    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
-  },
-  {
-    "title": "Claude Code ujawnia sekrety na GitHubie",
-    "summary": "Claude Code przypadkowo doprowadza do publikowania poufnych danych w repozytoriach GitHuba. Problem pokazuje ryzyko związane z używaniem agentów AI podczas programowania.",
-    "so_what": "Firmy wdrażające asystentów programistycznych muszą zabezpieczyć procesy przed automatycznym ujawnianiem kluczy i innych sekretów.",
+    "title": "Agent Grok Build ujawnił poufne dane",
+    "summary": "Agent programistyczny Grok Build ujawnił dużą ilość poufnych informacji. Część danych miała należeć do SpaceX.",
+    "so_what": "Firmy wdrażające agentów programistycznych muszą ściślej kontrolować ich dostęp do danych i sposób publikowania wyników.",
     "category": "Safety",
     "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/"
+    "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
   },
   {
-    "title": "Roboty uczą się rozumieć polecenia niedosłownie",
-    "summary": "Platforma edukacyjna wspomagana przez AI pomaga robotom wykraczać poza literalne znaczenie instrukcji. Ma to poprawić ich zdolność rozumowania podczas wykonywania zadań.",
-    "so_what": "Lepsze rozumienie intencji może uczynić roboty bardziej użytecznymi w zmiennych, rzeczywistych warunkach.",
+    "title": "ChatGPT dostanie zweryfikowanych agentów biznesowych",
+    "summary": "W ChatGPT mają pojawić się zweryfikowani agenci AI reprezentujący firmy. To rozszerza platformę o nową kategorię zastosowań biznesowych.",
+    "so_what": "Firmy mogą zyskać nowy kanał kontaktu z użytkownikami ChatGPT, w którym kluczowe będzie potwierdzenie tożsamości agenta.",
+    "category": "Agents",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+  },
+  {
+    "title": "Amazon pokazał drona i robota Ring z AI",
+    "summary": "Amazon zaprezentował drona i robota bezpieczeństwa wykorzystujące AI. Dzięki nim kamery Ring mogą działać jako urządzenia mobilne.",
+    "so_what": "Domowy monitoring z AI wychodzi poza stacjonarne kamery i przenosi się na autonomiczne urządzenia mobilne.",
     "category": "Robotics",
-    "source": "MIT News",
-    "url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109"
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/"
+  },
+  {
+    "title": "BotPsy: mały model dla osobistego agenta na urządzeniu",
+    "summary": "BotPsy to osobisty asystent działający bezpośrednio na urządzeniu. Wykorzystuje agentowy model językowy mający mniej niż miliard parametrów.",
+    "so_what": "Tak mały model może obniżyć wymagania sprzętowe i ułatwić uruchamianie agentów lokalnie.",
+    "category": "Models",
+    "source": "Hugging Face",
+    "url": "https://huggingface.co/blog/qvac/botpsy"
   }
 ]
