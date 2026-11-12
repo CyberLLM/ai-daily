@@ -1,42 +1,42 @@
 [
   {
-    "title": "Nowojorskie prawo bezpieczeństwa AI wchodzi w życie",
-    "summary": "Nowe przepisy obejmują firmy rozwijające zaawansowane systemy AI. OpenAI i Anthropic zostaną objęte dodatkowym nadzorem.",
-    "so_what": "Bezpieczeństwo AI staje się dla czołowych laboratoriów obowiązkiem regulacyjnym, a nie wyłącznie dobrowolną praktyką.",
-    "category": "Regulation",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
-  },
-  {
-    "title": "Agent Grok Build ujawnił poufne dane",
-    "summary": "Agent programistyczny Grok Build ujawnił dużą ilość poufnych informacji. Część danych miała należeć do SpaceX.",
-    "so_what": "Firmy wdrażające agentów programistycznych muszą ściślej kontrolować ich dostęp do danych i sposób publikowania wyników.",
-    "category": "Safety",
+    "title": "TSMC zainwestuje 1 mld dolarów w Anthropic i OpenAI",
+    "summary": "Tajwański producent chipów planuje inwestycję wartą 1 mld dolarów w dwie czołowe firmy AI. To zacieśnia relacje między dostawcą infrastruktury a twórcami modeli.",
+    "so_what": "TSMC wzmacnia swoją pozycję w łańcuchu wartości AI nie tylko jako producent chipów, lecz także jako inwestor.",
+    "category": "Business",
     "source": "Ars Technica",
-    "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
+    "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/"
   },
   {
-    "title": "ChatGPT dostanie zweryfikowanych agentów biznesowych",
-    "summary": "W ChatGPT mają pojawić się zweryfikowani agenci AI reprezentujący firmy. To rozszerza platformę o nową kategorię zastosowań biznesowych.",
-    "so_what": "Firmy mogą zyskać nowy kanał kontaktu z użytkownikami ChatGPT, w którym kluczowe będzie potwierdzenie tożsamości agenta.",
+    "title": "AlphaGenome 2 bada komórkowe źródła chorób",
+    "summary": "Google zaprezentował AlphaGenome 2, system skupiony na komórkowych mechanizmach chorób. Narzędzie ma pomóc dokładniej analizować ich biologiczne podłoże.",
+    "so_what": "AI może przyspieszyć odkrywanie mechanizmów chorób i wskazywanie nowych kierunków badań biomedycznych.",
+    "category": "Research",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
+  },
+  {
+    "title": "OpenAI tworzy wyłącznik awaryjny dla modeli badawczych",
+    "summary": "OpenAI zbudowało mechanizm pozwalający wyłączyć swoje modele badawcze. Rozwiązanie ma ograniczać ryzyko związane z eksperymentalnymi systemami.",
+    "so_what": "Kontrolowane wyłączanie modeli staje się istotnym elementem infrastruktury bezpieczeństwa AI.",
+    "category": "Safety",
+    "source": "The Register",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006"
+  },
+  {
+    "title": "United blokuje rezerwacje dokonywane przez agentów AI",
+    "summary": "United nie pozwoli agentom AI rezerwować lotów w imieniu klientów. Decyzja pokazuje opór części firm wobec automatyzacji transakcji.",
+    "so_what": "Agenci AI nie upowszechnią się w handlu bez zgody usługodawców i dostępu do ich systemów rezerwacyjnych.",
     "category": "Agents",
     "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
   },
   {
-    "title": "Amazon pokazał drona i robota Ring z AI",
-    "summary": "Amazon zaprezentował drona i robota bezpieczeństwa wykorzystujące AI. Dzięki nim kamery Ring mogą działać jako urządzenia mobilne.",
-    "so_what": "Domowy monitoring z AI wychodzi poza stacjonarne kamery i przenosi się na autonomiczne urządzenia mobilne.",
-    "category": "Robotics",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/"
-  },
-  {
-    "title": "BotPsy: mały model dla osobistego agenta na urządzeniu",
-    "summary": "BotPsy to osobisty asystent działający bezpośrednio na urządzeniu. Wykorzystuje agentowy model językowy mający mniej niż miliard parametrów.",
-    "so_what": "Tak mały model może obniżyć wymagania sprzętowe i ułatwić uruchamianie agentów lokalnie.",
-    "category": "Models",
-    "source": "Hugging Face",
-    "url": "https://huggingface.co/blog/qvac/botpsy"
+    "title": "Google przyspiesza AI, usuwając Pythona z wykonania",
+    "summary": "Google poprawia wydajność obciążeń AI przez wyeliminowanie Pythona z części procesu wykonawczego. Podejście zachowuje rolę popularnego języka, ograniczając jego narzut.",
+    "so_what": "Usuwanie wąskich gardeł warstwy programistycznej może obniżyć koszty i zwiększyć szybkość systemów AI.",
+    "category": "Infrastructure",
+    "source": "The Register",
+    "url": "https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995"
   }
 ]

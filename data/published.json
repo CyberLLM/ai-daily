@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-    "title": "Anthropic chce potwierdzać tożsamość modeli AI",
-    "category": "Safety",
-    "published_on": "2026-11-04"
-  },
-  {
-    "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-    "title": "Centra danych sięgają po stare silniki odrzutowe",
-    "category": "Infrastructure",
-    "published_on": "2026-11-04"
-  },
-  {
-    "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
-    "title": "Revolut obniżył koszty kodowania z AI dziesięciokrotnie",
-    "category": "Business",
-    "published_on": "2026-11-04"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-    "title": "Odwrócona teoria gier ma kontrolować agentów AI",
-    "category": "Agents",
-    "published_on": "2026-11-04"
-  },
-  {
-    "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-    "title": "Apple szykuje domowego robota za 1000 dolarów",
-    "category": "Robotics",
-    "published_on": "2026-11-04"
-  },
-  {
     "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
     "title": "Apple ma ograniczać budżety na wewnętrzne AI",
     "category": "Business",
@@ -238,5 +208,35 @@
     "title": "BotPsy: mały model dla osobistego agenta na urządzeniu",
     "category": "Models",
     "published_on": "2026-11-11"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+    "title": "TSMC zainwestuje 1 mld dolarów w Anthropic i OpenAI",
+    "category": "Business",
+    "published_on": "2026-11-12"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+    "title": "AlphaGenome 2 bada komórkowe źródła chorób",
+    "category": "Research",
+    "published_on": "2026-11-12"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006",
+    "title": "OpenAI tworzy wyłącznik awaryjny dla modeli badawczych",
+    "category": "Safety",
+    "published_on": "2026-11-12"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+    "title": "United blokuje rezerwacje dokonywane przez agentów AI",
+    "category": "Agents",
+    "published_on": "2026-11-12"
+  },
+  {
+    "url": "https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995",
+    "title": "Google przyspiesza AI, usuwając Pythona z wykonania",
+    "category": "Infrastructure",
+    "published_on": "2026-11-12"
   }
 ]
