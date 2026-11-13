@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-    "title": "Apple ma ograniczać budżety na wewnętrzne AI",
-    "category": "Business",
-    "published_on": "2026-11-05"
-  },
-  {
-    "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-    "title": "Komitety AI wydały miliony na wybory do Kongresu",
-    "category": "Regulation",
-    "published_on": "2026-11-05"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-    "title": "Qualcomm mocno stawia na centra danych",
-    "category": "Infrastructure",
-    "published_on": "2026-11-05"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-    "title": "Szkoły mogą zrezygnować z AI Google, ale stracą też wyszukiwarkę",
-    "category": "Society",
-    "published_on": "2026-11-05"
-  },
-  {
-    "url": "https://huggingface.co/blog/allenai/statebench",
-    "title": "StateBench testuje pamięć modeli w długich dokumentach",
-    "category": "Research",
-    "published_on": "2026-11-05"
-  },
-  {
     "url": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
     "title": "OpenAI wypuszcza GPT-6 Cyber",
     "category": "Safety",
@@ -238,5 +208,35 @@
     "title": "Google przyspiesza AI, usuwając Pythona z wykonania",
     "category": "Infrastructure",
     "published_on": "2026-11-12"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+    "title": "Google wdraża model Gemini 4 Hydrogen",
+    "category": "Models",
+    "published_on": "2026-11-13"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "title": "Nvidia może śledzić chipy w walce z przemytem",
+    "category": "Regulation",
+    "published_on": "2026-11-13"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+    "title": "FAA rozszerza wykorzystanie AI w zarządzaniu ruchem",
+    "category": "Infrastructure",
+    "published_on": "2026-11-13"
+  },
+  {
+    "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+    "title": "Copilot AI pomaga projektować lepsze konstrukcje",
+    "category": "Research",
+    "published_on": "2026-11-13"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+    "title": "Agenci AI nie odkryli nieznanego stanowiska Majów",
+    "category": "Society",
+    "published_on": "2026-11-13"
   }
 ]

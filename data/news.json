@@ -3,49 +3,193 @@
     "source": "MIT News",
     "kind": "research",
     "org": "MIT News",
-    "title": "New research could lead to faster, trustworthy AI models for climate prediction",
-    "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
-    "date": "2026-11-12T05:00:00+00:00"
+    "title": "New AI “copilot” helps engineers design better structures",
+    "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+    "date": "2026-11-13T05:00:00+00:00"
+  },
+  {
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "Helping robots fit into the human workplace",
+    "url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
+    "date": "2026-11-13T05:00:00+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "llm-gemini 0.37",
+    "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+    "date": "2026-11-12T22:55:19+00:00"
   },
   {
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-    "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-    "date": "2026-11-12T03:13:10+00:00"
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+    "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "date": "2026-11-12T22:42:51+00:00"
   },
   {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "Gilbert + Tobin rethinks the business of law with AI",
-    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-    "date": "2026-11-12T00:00:00+00:00"
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Silicon Valley Is Still Defending Jensen Huang",
+    "url": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
+    "date": "2026-11-12T22:29:43+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+    "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+    "date": "2026-11-12T22:28:47+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Muse can now place calls to US businesses — if you pay",
+    "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "date": "2026-11-12T22:22:28+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+    "date": "2026-11-12T22:14:41+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Google’s new Gemini model is better at understanding complicated questions",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+    "date": "2026-11-12T21:55:32+00:00"
   },
   {
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
     "title": "The unfolding Jensen Huang scandal: a timeline",
-    "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "date": "2026-11-11T23:50:00+00:00"
+    "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "date": "2026-11-12T21:35:00+00:00"
   },
   {
-    "source": "TechCrunch",
+    "source": "The Register",
     "kind": "press",
-    "org": "TechCrunch",
-    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-    "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-    "date": "2026-11-11T23:28:45+00:00"
+    "org": "The Register",
+    "title": "A third of US AI chatters are hot at bots, hurling insults at LLMs",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/12/a-third-of-us-ai-chatters-are-hot-at-bots-hurling-insults-at-llms/5309506",
+    "date": "2026-11-12T21:33:58+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "OpenAI launches security products, tells orgs they’re doomed if they don’t use them",
+    "url": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
+    "date": "2026-11-12T20:48:45+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "date": "2026-11-12T20:16:24+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "url": "https://openai.com/business/customer-stories/amplitude",
+    "date": "2026-11-12T20:00:00+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+    "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+    "date": "2026-11-12T19:59:59+00:00"
   },
   {
     "source": "The Verge",
     "kind": "press",
     "org": "The Verge",
-    "title": "United won’t let your AI agent book your flight",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-    "date": "2026-11-11T21:54:21+00:00"
+    "title": "No, AI agents did not discover a previously unknown Maya site",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+    "date": "2026-11-12T19:42:40+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+    "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+    "date": "2026-11-12T19:23:03+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "kind": "vendor",
+    "org": "Hugging Face",
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "date": "2026-11-12T19:07:35+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Oh, Palantir is ‘progressive’ now, is it?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+    "date": "2026-11-12T18:06:54+00:00"
+  },
+  {
+    "source": "Google DeepMind",
+    "kind": "vendor",
+    "org": "Google",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "date": "2026-11-12T18:00:50+00:00"
+  },
+  {
+    "source": "Google AI",
+    "kind": "vendor",
+    "org": "Google",
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+    "date": "2026-11-12T18:00:00+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "url": "https://openai.com/business/customer-stories/gondola",
+    "date": "2026-11-12T12:00:00+00:00"
+  },
+  {
+    "source": "Rest of World",
+    "kind": "press",
+    "org": "Rest of World",
+    "title": "The promise and peril of AI in government",
+    "url": "https://restofworld.org/2026/ai-government-ethics-bias-risk/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "date": "2026-11-12T11:00:00+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "kind": "vendor",
+    "org": "Hugging Face",
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "url": "https://huggingface.co/blog/3d-lora-finetuning",
+    "date": "2026-11-12T00:00:00+00:00"
   },
   {
     "source": "Simon Willison",
@@ -56,171 +200,11 @@
     "date": "2026-11-11T21:18:30+00:00"
   },
   {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
-    "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
-    "date": "2026-11-11T19:55:54+00:00"
-  },
-  {
     "source": "Google Research",
     "kind": "research",
     "org": "Google",
     "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
     "url": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
     "date": "2026-11-11T19:54:00+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Retirement Savings Are Fueling the AI Bubble",
-    "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
-    "date": "2026-11-11T19:06:43+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "Browse tools.simonwillison.net by tag",
-    "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
-    "date": "2026-11-11T18:42:50+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-    "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
-    "date": "2026-11-11T18:16:40+00:00"
-  },
-  {
-    "source": "Google AI",
-    "kind": "vendor",
-    "org": "Google",
-    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-    "date": "2026-11-11T18:00:00+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-    "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
-    "date": "2026-11-11T17:37:32+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "A Startup Wants to Fight AI Bioweapons With AI",
-    "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
-    "date": "2026-11-11T17:00:00+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "AI, activity, and outcomes in software engineering",
-    "url": "https://cabird.com/talks/shipping-faster/",
-    "date": "2026-11-11T16:33:28+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-    "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-    "date": "2026-11-11T16:00:00+00:00"
-  },
-  {
-    "source": "Google AI",
-    "kind": "vendor",
-    "org": "Google",
-    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-    "date": "2026-11-11T16:00:00+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-    "date": "2026-11-11T15:00:00+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Google DeepMind just mathematically verified key parts of Signal",
-    "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
-    "date": "2026-11-11T14:08:57+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "My AI agents found an unmapped Maya site?",
-    "url": "https://pietromiotti.com/latest/maya-site",
-    "date": "2026-11-11T12:05:22+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "Google gooses Python AI performance by... removing Python",
-    "url": "https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995",
-    "date": "2026-11-11T11:30:00+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "ChatGPT Plus for veterans and servicemembers",
-    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-    "date": "2026-11-11T08:00:00+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "OpenAI builds a kill switch for its research models",
-    "url": "https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006",
-    "date": "2026-11-11T05:20:56+00:00"
-  },
-  {
-    "source": "NVIDIA",
-    "kind": "vendor",
-    "org": "NVIDIA",
-    "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
-    "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
-    "date": "2026-11-11T03:00:20+00:00"
-  },
-  {
-    "source": "Hugging Face",
-    "kind": "vendor",
-    "org": "Hugging Face",
-    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-    "url": "https://huggingface.co/blog/token-pooling",
-    "date": "2026-11-11T00:00:00+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Tracking Anthropic-discovered vulnerabilities",
-    "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-    "date": "2026-11-10T22:17:56+00:00"
-  },
-  {
-    "source": "AI Snake Oil",
-    "kind": "analysis",
-    "org": "AI Snake Oil",
-    "title": "The missing quadrant in responses to AI",
-    "url": "https://www.normaltech.ai/p/the-missing-quadrant-in-responses",
-    "date": "2026-11-10T18:37:42+00:00"
   }
 ]
