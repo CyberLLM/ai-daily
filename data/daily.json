@@ -1,42 +1,42 @@
 [
   {
-    "title": "Google wdraża model Gemini 4 Hydrogen",
-    "summary": "Google rozpoczął wdrażanie modelu Gemini 4 Hydrogen. Nowy model zastępuje Gemini 3.8 Flash.",
-    "so_what": "Zmiana podstawowego modelu może wpłynąć na jakość i wydajność usług AI Google.",
-    "category": "Models",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/"
-  },
-  {
-    "title": "Nvidia może śledzić chipy w walce z przemytem",
-    "summary": "Według doniesienia Nvidia prywatnie potwierdziła możliwość śledzenia swoich chipów. Branża publicznie podawała wcześniej wykonalność takiego rozwiązania w wątpliwość.",
-    "so_what": "Techniczne śledzenie układów może stać się istotnym narzędziem egzekwowania ograniczeń eksportowych.",
-    "category": "Regulation",
-    "source": "MIT Technology Review",
-    "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
-  },
-  {
-    "title": "FAA rozszerza wykorzystanie AI w zarządzaniu ruchem",
-    "summary": "FAA rozszerza system doradczy oparty na AI na całą przestrzeń powietrzną USA. Ma on pomagać w zarządzaniu przeciążeniami ruchu lotniczego.",
-    "so_what": "AI zaczyna wspierać operacje jednej z najważniejszych części amerykańskiej infrastruktury transportowej.",
+    "title": "FAA rozszerza wsparcie AI na całe amerykańskie niebo",
+    "summary": "FAA rozszerza wykorzystanie rekomendacji AI na całą przestrzeń powietrzną USA. Technologia ma wspierać zarządzanie przeciążeniami w ruchu lotniczym.",
+    "so_what": "AI wchodzi do krytycznej infrastruktury transportowej na skalę ogólnokrajową.",
     "category": "Infrastructure",
     "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+    "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
   },
   {
-    "title": "Copilot AI pomaga projektować lepsze konstrukcje",
-    "summary": "Nowy copilot AI wspiera inżynierów w projektowaniu konstrukcji. Narzędzie ma pomagać im tworzyć lepsze rozwiązania projektowe.",
-    "so_what": "Specjalistyczne copiloty mogą rozszerzyć zastosowanie generatywnej AI na odpowiedzialne zadania inżynieryjne.",
-    "category": "Research",
-    "source": "MIT News",
-    "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113"
+    "title": "Chińskie laboratoria mają trenować modele na układach Blackwell",
+    "summary": "Były inżynier OpenAI twierdzi, że chińskie laboratoria korzystają z układów Nvidia Blackwell mimo ograniczeń eksportowych. Doniesienie wskazuje na możliwe obchodzenie amerykańskich restrykcji.",
+    "so_what": "Skuteczność kontroli eksportu zaawansowanych układów AI staje pod coraz większym znakiem zapytania.",
+    "category": "Regulation",
+    "source": "The Register",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891"
   },
   {
-    "title": "Agenci AI nie odkryli nieznanego stanowiska Majów",
-    "summary": "Doniesienie podważa tezę, że agenci AI odkryli wcześniej nieznane stanowisko Majów. Przypadek pokazuje, jak łatwo wyolbrzymić możliwości autonomicznych systemów.",
-    "so_what": "Twierdzenia o przełomowych odkryciach dokonanych przez AI wymagają niezależnej weryfikacji.",
-    "category": "Society",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
+    "title": "LangChain wyceniony na 3 miliardy dolarów",
+    "summary": "Startup rozwijający technologie dla agentów AI osiągnął wycenę 3 miliardów dolarów. To kolejny sygnał dużego zainteresowania kapitału warstwą narzędzi agentowych.",
+    "so_what": "Inwestorzy zakładają, że infrastruktura do budowania agentów stanie się istotnym segmentem rynku AI.",
+    "category": "Business",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+  },
+  {
+    "title": "OpenAI przedstawia ChatGPT Wallet",
+    "summary": "OpenAI ogłosiło produkt nazwany ChatGPT Wallet. Firma rozszerza w ten sposób markę ChatGPT na obszar cyfrowego portfela.",
+    "so_what": "OpenAI sygnalizuje wejście ChatGPT w obszar transakcji i usług finansowych.",
+    "category": "Tools",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet"
+  },
+  {
+    "title": "Google prezentuje Gemini 4 Hydrogen",
+    "summary": "Google DeepMind ogłosiło Gemini 4 Hydrogen. To nowa pozycja w rodzinie systemów Gemini.",
+    "so_what": "Ogłoszenie podtrzymuje szybkie tempo rozwoju modeli Gemini i konkurencji między czołowymi laboratoriami AI.",
+    "category": "Models",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
   }
 ]
