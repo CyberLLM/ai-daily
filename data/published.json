@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-    "title": "OpenAI pozyskuje kolejne 11 mld dolarów",
-    "category": "Business",
-    "published_on": "2026-11-07"
-  },
-  {
-    "url": "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889",
-    "title": "Wielka Brytania chce kontrolować autonomicznych agentów",
-    "category": "Regulation",
-    "published_on": "2026-11-07"
-  },
-  {
-    "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-    "title": "Darmowe chińskie modele AI coraz lepsze w hakowaniu",
-    "category": "Safety",
-    "published_on": "2026-11-07"
-  },
-  {
-    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-    "title": "Agenci AI sprawdzani w pracy laboratoryjnej",
-    "category": "Research",
-    "published_on": "2026-11-07"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-    "title": "Humanoidalny robot sprząta mieszkanie",
-    "category": "Robotics",
-    "published_on": "2026-11-07"
-  },
-  {
     "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
     "title": "Luka w kontroli sprzedaży chipów Nvidii do Chin",
     "category": "Regulation",
@@ -238,5 +208,35 @@
     "title": "Google prezentuje Gemini 4 Hydrogen",
     "category": "Models",
     "published_on": "2026-11-14"
+  },
+  {
+    "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+    "title": "AI napędza nową falę ransomware",
+    "category": "Safety",
+    "published_on": "2026-11-15"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+    "title": "Amazon chce indeksować globalne dane zakupowe",
+    "category": "Business",
+    "published_on": "2026-11-15"
+  },
+  {
+    "url": "https://www.theregister.com/offbeat/2026/11/13/meatbags-suck-at-spotting-lying-llms-so-let-ai-narc-on-itself/5309876",
+    "title": "AI ma skuteczniej wykrywać kłamstwa modeli",
+    "category": "Research",
+    "published_on": "2026-11-15"
+  },
+  {
+    "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+    "title": "OpenAI rozwiązuje zespół robotyki",
+    "category": "Robotics",
+    "published_on": "2026-11-15"
+  },
+  {
+    "url": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "title": "Odejście Jensena Huanga uderza w chiński łańcuch dostaw AI",
+    "category": "Infrastructure",
+    "published_on": "2026-11-15"
   }
 ]
