@@ -3,184 +3,104 @@
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "Where was Nvidia’s security team?",
-    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-    "date": "2026-11-15T00:08:07+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "datasette-llm 0.1a11",
-    "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
-    "date": "2026-11-14T23:59:28+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-    "date": "2026-11-14T21:41:22+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "date": "2026-11-14T17:30:00+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "datasette-vega 0.7",
-    "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
-    "date": "2026-11-14T17:09:09+00:00"
+    "title": "Apple launches new app to study how people use AI for health",
+    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "date": "2026-11-16T01:30:00+00:00"
   },
   {
     "source": "The Verge",
     "kind": "press",
     "org": "The Verge",
-    "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-    "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-    "date": "2026-11-14T15:00:00+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "Beware the New AI-Fueled Ransomware Boom",
-    "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
-    "date": "2026-11-14T13:00:00+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-    "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-    "date": "2026-11-14T12:00:00+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
-    "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
-    "date": "2026-11-14T11:00:00+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-    "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-    "date": "2026-11-14T02:52:59+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Amazon has a plan to index the world’s online shopping data",
-    "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-    "date": "2026-11-13T23:49:11+00:00"
-  },
-  {
-    "source": "Google Research",
-    "kind": "research",
-    "org": "Google",
-    "title": "Advancing science & engineering with Antigravity’s /teamwork",
-    "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-    "date": "2026-11-13T20:47:18+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "Meatbags suck at spotting lying LLMs, so let AI narc on itself",
-    "url": "https://www.theregister.com/offbeat/2026/11/13/meatbags-suck-at-spotting-lying-llms-so-let-ai-narc-on-itself/5309876",
-    "date": "2026-11-13T20:27:31+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "No AI Slop: A Manifesto",
-    "url": "https://www.slopmanifesto.com/",
-    "date": "2026-11-13T19:51:56+00:00"
-  },
-  {
-    "source": "Hugging Face",
-    "kind": "vendor",
-    "org": "Hugging Face",
-    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-    "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-    "date": "2026-11-13T18:00:39+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "OpenAI disbands its robotics team as its general models start running robots",
-    "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
-    "date": "2026-11-13T17:55:23+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-    "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-    "date": "2026-11-13T17:30:10+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-    "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-    "date": "2026-11-13T17:25:45+00:00"
-  },
-  {
-    "source": "Hugging Face",
-    "kind": "vendor",
-    "org": "Hugging Face",
-    "title": "XYBench: Helping with the problem behind the question",
-    "url": "https://huggingface.co/blog/allenai/xybench",
-    "date": "2026-11-13T17:02:35+00:00"
-  },
-  {
-    "source": "Rest of World",
-    "kind": "press",
-    "org": "Rest of World",
-    "title": "How Jensen Huang’s exit from Nvidia impacts China’s AI supply chain",
-    "url": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-    "date": "2026-11-13T16:24:10+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "Most affairs don't matter except to the people involved. Ex-Nvidia CEO Jensen's blunder will rock the world",
-    "url": "https://www.theregister.com/columnists/2026/11/13/most-affairs-dont-matter-except-to-the-people-involved-ex-nvidia-ceo-jensens-blunder-will-rock-the-world/5309649",
-    "date": "2026-11-13T14:45:00+00:00"
+    "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+    "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+    "date": "2026-11-16T01:26:56+00:00"
   },
   {
     "source": "NVIDIA",
     "kind": "vendor",
     "org": "NVIDIA",
-    "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
-    "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
-    "date": "2026-11-13T13:00:42+00:00"
+    "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+    "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+    "date": "2026-11-16T00:00:28+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "datasette-maplibre 0.1a0",
+    "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+    "date": "2026-11-15T23:58:36+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "date": "2026-11-15T23:30:00+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "datasette 1.0a43",
+    "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+    "date": "2026-11-15T23:20:27+00:00"
   },
   {
     "source": "OpenAI",
     "kind": "vendor",
     "org": "OpenAI",
-    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-    "url": "https://openai.com/business/customer-stories/shield",
-    "date": "2026-11-13T08:00:00+00:00"
+    "title": "A step toward defining the Standard Model on a lattice",
+    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "date": "2026-11-15T22:00:01+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Our new blog for science",
+    "url": "https://openai.com/index/our-new-blog-for-science",
+    "date": "2026-11-15T22:00:00+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+    "date": "2026-11-15T21:56:35+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+    "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+    "date": "2026-11-15T20:43:49+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+    "date": "2026-11-15T19:15:43+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "AI DJs Completely Kill My Groove",
+    "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+    "date": "2026-11-15T12:00:00+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+    "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+    "date": "2026-11-15T11:00:00+00:00"
   }
 ]

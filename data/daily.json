@@ -1,42 +1,42 @@
 [
   {
-    "title": "AI napędza nową falę ransomware",
-    "summary": "Narzędzia AI ułatwiają rozwój ataków ransomware. Nowa fala cyberprzestępczości może zwiększyć skalę i tempo zagrożeń.",
-    "so_what": "Firmy muszą dostosować zabezpieczenia do szybszych i bardziej zautomatyzowanych ataków.",
-    "category": "Safety",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/"
-  },
-  {
-    "title": "Amazon chce indeksować globalne dane zakupowe",
-    "summary": "Amazon planuje stworzyć indeks danych o zakupach internetowych z całego świata. Projekt może znacząco rozszerzyć jego wiedzę o produktach i handlu online.",
-    "so_what": "Kontrola nad takim zbiorem danych może wzmocnić pozycję Amazona w wyszukiwaniu produktów i usługach opartych na AI.",
-    "category": "Business",
+    "title": "Kongres chce zaostrzyć eksport chipów AI",
+    "summary": "Kongres dąży do zaostrzenia zasad eksportu układów AI. Impulsem jest skandal szpiegowski związany z Nvidią.",
+    "so_what": "Nowe ograniczenia mogą wpłynąć na globalną dostępność akceleratorów AI i sprzedaż ich producentów.",
+    "category": "Regulation",
     "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
   },
   {
-    "title": "AI ma skuteczniej wykrywać kłamstwa modeli",
-    "summary": "Ludzie słabo rozpoznają, kiedy modele językowe mijają się z prawdą. Rozwiązaniem może być wykorzystanie AI do kontrolowania odpowiedzi innych modeli.",
-    "so_what": "Automatyczna weryfikacja modeli może stać się ważną warstwą bezpieczeństwa tam, gdzie człowiek nie potrafi wiarygodnie ocenić odpowiedzi.",
-    "category": "Research",
-    "source": "The Register",
-    "url": "https://www.theregister.com/offbeat/2026/11/13/meatbags-suck-at-spotting-lying-llms-so-let-ai-narc-on-itself/5309876"
-  },
-  {
-    "title": "OpenAI rozwiązuje zespół robotyki",
-    "summary": "OpenAI rozwiązuje wyspecjalizowany zespół robotyki. Powodem ma być rosnąca zdolność ogólnych modeli firmy do sterowania robotami.",
-    "so_what": "Rozwój robotyki może przesuwać się od osobnych systemów ku uniwersalnym modelom AI.",
-    "category": "Robotics",
-    "source": "Hacker News",
-    "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
-  },
-  {
-    "title": "Odejście Jensena Huanga uderza w chiński łańcuch dostaw AI",
-    "summary": "Odejście Jensena Huanga z Nvidii ma konsekwencje dla chińskiego łańcucha dostaw AI. Zmiana na szczycie kluczowego producenta układów wpływa więc także na rynek poza USA.",
-    "so_what": "Niepewność wokół kierownictwa Nvidii może zmienić dostęp Chin do infrastruktury potrzebnej do rozwoju AI.",
+    "title": "Bharat Semi pozyskuje 24 mln dolarów",
+    "summary": "Indyjski startup półprzewodnikowy zebrał 24 mln dolarów w rundzie seed. Firma celuje w światowy rynek sensorów AI.",
+    "so_what": "Finansowanie może wzmocnić pozycję Indii w rozwijającym się łańcuchu dostaw sprzętu AI.",
     "category": "Infrastructure",
-    "source": "Rest of World",
-    "url": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+  },
+  {
+    "title": "Apple zbada wykorzystanie AI w zdrowiu",
+    "summary": "Apple uruchomiło aplikację do badania zastosowań AI w obszarze zdrowia. Projekt ma analizować, jak ludzie korzystają z takich narzędzi.",
+    "so_what": "Wyniki mogą pomóc w projektowaniu skuteczniejszych i lepiej dopasowanych narzędzi zdrowotnych opartych na AI.",
+    "category": "Society",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+  },
+  {
+    "title": "Krok ku modelowi standardowemu na sieci",
+    "summary": "Ogłoszono postęp w definiowaniu modelu standardowego na sieci. To rezultat z obszaru obliczeniowych badań nad fizyką fundamentalną.",
+    "so_what": "Praca pokazuje rosnące zainteresowanie laboratoriów AI rozwiązywaniem złożonych problemów naukowych.",
+    "category": "Research",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/step-toward-defining-the-standard-model"
+  },
+  {
+    "title": "AI zamienia przedmioty w wirtualne zwierzęta",
+    "summary": "Nowy gadżet w stylu Tamagotchi wykorzystuje AI do ożywiania codziennych przedmiotów. Przedstawia je jako wymagające opieki wirtualne stworzenia.",
+    "so_what": "To przykład przenoszenia generatywnej AI z ekranów do interaktywnych doświadczeń związanych z fizycznym otoczeniem.",
+    "category": "Tools",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/"
   }
 ]
