@@ -1,27 +1,195 @@
 [
   {
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "Q&A: Why building math muscles remains important in the AI era",
+    "url": "https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117",
+    "date": "2026-11-17T05:00:00+00:00"
+  },
+  {
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "Learning the language of machine learning",
+    "url": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
+    "date": "2026-11-17T05:00:00+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "llm 0.37.3",
+    "url": "https://simonwillison.net/2026/Nov/16/llm/",
+    "date": "2026-11-16T23:57:26+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "California sues OpenAI for misleading public about AI safety",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/16/california-sues-openai-for-misleading-public-about-ai-safety/5310297",
+    "date": "2026-11-16T23:43:17+00:00"
+  },
+  {
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "Apple launches new app to study how people use AI for health",
-    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-    "date": "2026-11-16T01:30:00+00:00"
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "date": "2026-11-16T23:32:32+00:00"
   },
   {
     "source": "The Verge",
     "kind": "press",
     "org": "The Verge",
-    "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-    "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-    "date": "2026-11-16T01:26:56+00:00"
+    "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+    "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+    "date": "2026-11-16T23:17:34+00:00"
   },
   {
     "source": "NVIDIA",
     "kind": "vendor",
     "org": "NVIDIA",
-    "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
-    "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
-    "date": "2026-11-16T00:00:28+00:00"
+    "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+    "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+    "date": "2026-11-16T23:00:05+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+    "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+    "date": "2026-11-16T22:58:27+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+    "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+    "date": "2026-11-16T22:03:02+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+    "date": "2026-11-16T20:41:28+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+    "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+    "date": "2026-11-16T20:29:37+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "date": "2026-11-16T20:07:13+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "Attackers are using AI agents to automate cybercrime at 'industrial scale,' FBI and AWS warn",
+    "url": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223",
+    "date": "2026-11-16T19:52:00+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "US moves to cut China’s remote access to AI chips",
+    "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+    "date": "2026-11-16T19:10:09+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "The open-source movement wants Jensen Huang back",
+    "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "date": "2026-11-16T18:38:47+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Broadening access to AI for scientists",
+    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "date": "2026-11-16T17:00:00+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "url": "https://openai.com/index/strengthening-online-child-safety",
+    "date": "2026-11-16T17:00:00+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Jensen Huang Is Gone. Now What?",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+    "date": "2026-11-16T16:12:51+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "Building trustworthy AI by fencing it in, not predicting it",
+    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+    "date": "2026-11-16T16:04:28+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+    "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+    "date": "2026-11-16T14:06:16+00:00"
+  },
+  {
+    "source": "Google AI",
+    "kind": "vendor",
+    "org": "Google",
+    "title": "New Ask Maps features to help with holiday travel and prep",
+    "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+    "date": "2026-11-16T14:00:00+00:00"
+  },
+  {
+    "source": "Rest of World",
+    "kind": "press",
+    "org": "Rest of World",
+    "title": "The small African lab sounding the alarm on AI bioweapons",
+    "url": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "date": "2026-11-16T11:00:23+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+    "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+    "date": "2026-11-16T11:00:00+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "kind": "vendor",
+    "org": "Hugging Face",
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "url": "https://huggingface.co/blog/openrouter",
+    "date": "2026-11-16T00:00:00+00:00"
   },
   {
     "source": "Simon Willison",
@@ -32,75 +200,11 @@
     "date": "2026-11-15T23:58:36+00:00"
   },
   {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-    "date": "2026-11-15T23:30:00+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "datasette 1.0a43",
-    "url": "https://simonwillison.net/2026/Nov/15/datasette/",
-    "date": "2026-11-15T23:20:27+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "A step toward defining the Standard Model on a lattice",
-    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-    "date": "2026-11-15T22:00:01+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "Our new blog for science",
-    "url": "https://openai.com/index/our-new-blog-for-science",
-    "date": "2026-11-15T22:00:00+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-    "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-    "date": "2026-11-15T21:56:35+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-    "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-    "date": "2026-11-15T20:43:49+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-    "date": "2026-11-15T19:15:43+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "AI DJs Completely Kill My Groove",
-    "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
-    "date": "2026-11-15T12:00:00+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
-    "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-    "date": "2026-11-15T11:00:00+00:00"
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "All AI-generated code should be Open Source",
+    "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "date": "2026-11-15T14:46:58+00:00"
   }
 ]

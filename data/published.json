@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
-    "title": "Jeden model AI symuluje wiele rodzajów materii",
-    "category": "Research",
-    "published_on": "2026-11-09"
-  },
-  {
-    "url": "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
-    "title": "Fala poprawek kodu tworzonych z AI może słabnąć",
-    "category": "Tools",
-    "published_on": "2026-11-09"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-    "title": "Apple chce zmienić Siri w agenta AI",
-    "category": "Agents",
-    "published_on": "2026-11-09"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-    "title": "Właściciele praw do Elvisa i Eminema pozywają Suno",
-    "category": "Regulation",
-    "published_on": "2026-11-09"
-  },
-  {
-    "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
-    "title": "OpenAI pozyskuje 11 mld dolarów",
-    "category": "Business",
-    "published_on": "2026-11-09"
-  },
-  {
     "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
     "title": "Narzędzie DeepMind potwierdziło bezpieczeństwo protokołu Signal",
     "category": "Research",
@@ -238,5 +208,35 @@
     "title": "AI zamienia przedmioty w wirtualne zwierzęta",
     "category": "Tools",
     "published_on": "2026-11-16"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "title": "Kalifornia pozywa OpenAI za incydenty z agentami",
+    "category": "Regulation",
+    "published_on": "2026-11-17"
+  },
+  {
+    "url": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223",
+    "title": "Agenci AI automatyzują cyberprzestępczość",
+    "category": "Safety",
+    "published_on": "2026-11-17"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+    "title": "USA chcą odciąć Chiny od zdalnego dostępu do chipów AI",
+    "category": "Infrastructure",
+    "published_on": "2026-11-17"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "title": "Corma osiąga wycenę miliarda dolarów",
+    "category": "Business",
+    "published_on": "2026-11-17"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+    "title": "Wiarygodne AI dzięki wyznaczaniu granic",
+    "category": "Research",
+    "published_on": "2026-11-17"
   }
 ]

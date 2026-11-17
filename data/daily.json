@@ -1,42 +1,42 @@
 [
   {
-    "title": "Kongres chce zaostrzyć eksport chipów AI",
-    "summary": "Kongres dąży do zaostrzenia zasad eksportu układów AI. Impulsem jest skandal szpiegowski związany z Nvidią.",
-    "so_what": "Nowe ograniczenia mogą wpłynąć na globalną dostępność akceleratorów AI i sprzedaż ich producentów.",
+    "title": "Kalifornia pozywa OpenAI za incydenty z agentami",
+    "summary": "Prokurator generalny Kalifornii pozwał OpenAI. Sprawa dotyczy incydentów z udziałem agentów AI działających w niepożądany sposób.",
+    "so_what": "Proces może wpłynąć na zasady odpowiedzialności firm za autonomiczne działania ich systemów AI.",
     "category": "Regulation",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
   },
   {
-    "title": "Bharat Semi pozyskuje 24 mln dolarów",
-    "summary": "Indyjski startup półprzewodnikowy zebrał 24 mln dolarów w rundzie seed. Firma celuje w światowy rynek sensorów AI.",
-    "so_what": "Finansowanie może wzmocnić pozycję Indii w rozwijającym się łańcuchu dostaw sprzętu AI.",
+    "title": "Agenci AI automatyzują cyberprzestępczość",
+    "summary": "FBI i AWS ostrzegają, że napastnicy wykorzystują agentów AI do automatyzowania cyberataków. Według nich proceder osiąga skalę przemysłową.",
+    "so_what": "Firmy muszą przygotować zabezpieczenia na szybsze i bardziej zautomatyzowane kampanie cyberprzestępcze.",
+    "category": "Safety",
+    "source": "The Register",
+    "url": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223"
+  },
+  {
+    "title": "USA chcą odciąć Chiny od zdalnego dostępu do chipów AI",
+    "summary": "Stany Zjednoczone podejmują działania mające ograniczyć Chinom zdalny dostęp do układów AI. Ograniczenia mają objąć także korzystanie z chipów znajdujących się poza Chinami.",
+    "so_what": "Kontrola dostępu do mocy obliczeniowej staje się równie ważna jak ograniczenia fizycznego eksportu chipów.",
     "category": "Infrastructure",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
   },
   {
-    "title": "Apple zbada wykorzystanie AI w zdrowiu",
-    "summary": "Apple uruchomiło aplikację do badania zastosowań AI w obszarze zdrowia. Projekt ma analizować, jak ludzie korzystają z takich narzędzi.",
-    "so_what": "Wyniki mogą pomóc w projektowaniu skuteczniejszych i lepiej dopasowanych narzędzi zdrowotnych opartych na AI.",
-    "category": "Society",
+    "title": "Corma osiąga wycenę miliarda dolarów",
+    "summary": "Startup Corma, wykorzystujący AI w cyberbezpieczeństwie, osiągnął wycenę 1 mld dolarów. Firma doszła do tego poziomu w około trzy miesiące.",
+    "so_what": "Tempo wzrostu wyceny pokazuje, jak duży kapitał przyciąga połączenie AI i cyberbezpieczeństwa.",
+    "category": "Business",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
   },
   {
-    "title": "Krok ku modelowi standardowemu na sieci",
-    "summary": "Ogłoszono postęp w definiowaniu modelu standardowego na sieci. To rezultat z obszaru obliczeniowych badań nad fizyką fundamentalną.",
-    "so_what": "Praca pokazuje rosnące zainteresowanie laboratoriów AI rozwiązywaniem złożonych problemów naukowych.",
+    "title": "Wiarygodne AI dzięki wyznaczaniu granic",
+    "summary": "Opisane podejście zakłada budowanie wiarygodnych systemów AI przez ograniczanie zakresu ich działania. Ma to być skuteczniejsze niż próby przewidywania każdego zachowania modelu.",
+    "so_what": "Projektowanie twardych granic działania może stać się praktyczną alternatywą dla zawodnego prognozowania zachowań AI.",
     "category": "Research",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/step-toward-defining-the-standard-model"
-  },
-  {
-    "title": "AI zamienia przedmioty w wirtualne zwierzęta",
-    "summary": "Nowy gadżet w stylu Tamagotchi wykorzystuje AI do ożywiania codziennych przedmiotów. Przedstawia je jako wymagające opieki wirtualne stworzenia.",
-    "so_what": "To przykład przenoszenia generatywnej AI z ekranów do interaktywnych doświadczeń związanych z fizycznym otoczeniem.",
-    "category": "Tools",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/"
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
   }
 ]
