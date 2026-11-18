@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
-    "title": "Narzędzie DeepMind potwierdziło bezpieczeństwo protokołu Signal",
-    "category": "Research",
-    "published_on": "2026-11-10"
-  },
-  {
-    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-    "title": "Anthropic ma kontynuować przygotowania do giełdowego debiutu",
-    "category": "Business",
-    "published_on": "2026-11-10"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-    "title": "Sprzeciw wobec centrów danych skupia się na energii",
-    "category": "Infrastructure",
-    "published_on": "2026-11-10"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-    "title": "Claude Code ujawnia sekrety na GitHubie",
-    "category": "Safety",
-    "published_on": "2026-11-10"
-  },
-  {
-    "url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
-    "title": "Roboty uczą się rozumieć polecenia niedosłownie",
-    "category": "Robotics",
-    "published_on": "2026-11-10"
-  },
-  {
     "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
     "title": "Nowojorskie prawo bezpieczeństwa AI wchodzi w życie",
     "category": "Regulation",
@@ -238,5 +208,35 @@
     "title": "Wiarygodne AI dzięki wyznaczaniu granic",
     "category": "Research",
     "published_on": "2026-11-17"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "title": "Debiutują GPT-6.2 Astra i Sol",
+    "category": "Models",
+    "published_on": "2026-11-18"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+    "title": "Office działa teraz wewnątrz Copilota",
+    "category": "Agents",
+    "published_on": "2026-11-18"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+    "title": "Udziały Nvidii w startupach warte już 65 mld dolarów",
+    "category": "Business",
+    "published_on": "2026-11-18"
+  },
+  {
+    "url": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "title": "Afrykańskie laboratorium ostrzega przed AI w broni biologicznej",
+    "category": "Safety",
+    "published_on": "2026-11-18"
+  },
+  {
+    "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+    "title": "Ponad jedna trzecia pokolenia Z szuka przyjaźni w AI",
+    "category": "Society",
+    "published_on": "2026-11-18"
   }
 ]

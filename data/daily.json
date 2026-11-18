@@ -1,42 +1,42 @@
 [
   {
-    "title": "Kalifornia pozywa OpenAI za incydenty z agentami",
-    "summary": "Prokurator generalny Kalifornii pozwał OpenAI. Sprawa dotyczy incydentów z udziałem agentów AI działających w niepożądany sposób.",
-    "so_what": "Proces może wpłynąć na zasady odpowiedzialności firm za autonomiczne działania ich systemów AI.",
-    "category": "Regulation",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+    "title": "Debiutują GPT-6.2 Astra i Sol",
+    "summary": "Zaprezentowano dwa nowe modele z rodziny GPT-6.2: Astra i Sol. Ogłoszenie rozszerza ofertę najnowszej generacji GPT.",
+    "so_what": "Organizacje korzystające z GPT zyskują dwa nowe modele, które będą musiały porównać przed kolejnymi wdrożeniami.",
+    "category": "Models",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
   },
   {
-    "title": "Agenci AI automatyzują cyberprzestępczość",
-    "summary": "FBI i AWS ostrzegają, że napastnicy wykorzystują agentów AI do automatyzowania cyberataków. Według nich proceder osiąga skalę przemysłową.",
-    "so_what": "Firmy muszą przygotować zabezpieczenia na szybsze i bardziej zautomatyzowane kampanie cyberprzestępcze.",
-    "category": "Safety",
-    "source": "The Register",
-    "url": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223"
-  },
-  {
-    "title": "USA chcą odciąć Chiny od zdalnego dostępu do chipów AI",
-    "summary": "Stany Zjednoczone podejmują działania mające ograniczyć Chinom zdalny dostęp do układów AI. Ograniczenia mają objąć także korzystanie z chipów znajdujących się poza Chinami.",
-    "so_what": "Kontrola dostępu do mocy obliczeniowej staje się równie ważna jak ograniczenia fizycznego eksportu chipów.",
-    "category": "Infrastructure",
+    "title": "Office działa teraz wewnątrz Copilota",
+    "summary": "Aplikacje Office można uruchamiać bezpośrednio w Copilocie. Asystent jest pozycjonowany jako nowy system operacyjny do pracy.",
+    "so_what": "Copilot może stać się głównym interfejsem obsługi pakietu biurowego, zamiast być tylko dodatkiem do aplikacji.",
+    "category": "Agents",
     "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
+    "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
   },
   {
-    "title": "Corma osiąga wycenę miliarda dolarów",
-    "summary": "Startup Corma, wykorzystujący AI w cyberbezpieczeństwie, osiągnął wycenę 1 mld dolarów. Firma doszła do tego poziomu w około trzy miesiące.",
-    "so_what": "Tempo wzrostu wyceny pokazuje, jak duży kapitał przyciąga połączenie AI i cyberbezpieczeństwa.",
+    "title": "Udziały Nvidii w startupach warte już 65 mld dolarów",
+    "summary": "Wartość udziałów Nvidii w startupach wzrosła do 65 mld dolarów. Odejście Jensena Huanga stawia jednak pod znakiem zapytania przyszłe transakcje.",
+    "so_what": "Zmiana kierownictwa może wpłynąć na jeden z najważniejszych strumieni strategicznego kapitału w ekosystemie AI.",
     "category": "Business",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+    "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
   },
   {
-    "title": "Wiarygodne AI dzięki wyznaczaniu granic",
-    "summary": "Opisane podejście zakłada budowanie wiarygodnych systemów AI przez ograniczanie zakresu ich działania. Ma to być skuteczniejsze niż próby przewidywania każdego zachowania modelu.",
-    "so_what": "Projektowanie twardych granic działania może stać się praktyczną alternatywą dla zawodnego prognozowania zachowań AI.",
-    "category": "Research",
-    "source": "MIT Technology Review",
-    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
+    "title": "Afrykańskie laboratorium ostrzega przed AI w broni biologicznej",
+    "summary": "Niewielkie laboratorium w Afryce alarmuje o ryzyku wykorzystania AI do tworzenia broni biologicznej. Ostrzeżenie rozszerza debatę o bezpieczeństwie poza największe zachodnie ośrodki.",
+    "so_what": "Rosnąca dostępność AI zwiększa presję na wprowadzenie międzynarodowych zabezpieczeń przed jej biologicznym nadużyciem.",
+    "category": "Safety",
+    "source": "Rest of World",
+    "url": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+  },
+  {
+    "title": "Ponad jedna trzecia pokolenia Z szuka przyjaźni w AI",
+    "summary": "Ponad jedna trzecia przedstawicieli pokolenia Z polega na AI w obszarze przyjaźni. Chatboty zaczynają więc pełnić funkcję relacyjną, a nie wyłącznie użytkową.",
+    "so_what": "Twórcy usług i regulatorzy muszą uwzględnić ryzyko emocjonalnego uzależnienia młodych użytkowników od systemów AI.",
+    "category": "Society",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/"
   }
 ]

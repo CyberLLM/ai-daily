@@ -1,115 +1,211 @@
 [
   {
-    "source": "MIT News",
-    "kind": "research",
-    "org": "MIT News",
-    "title": "Q&A: Why building math muscles remains important in the AI era",
-    "url": "https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117",
-    "date": "2026-11-17T05:00:00+00:00"
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+    "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+    "date": "2026-11-18T05:01:00+00:00"
   },
   {
     "source": "MIT News",
     "kind": "research",
     "org": "MIT News",
-    "title": "Learning the language of machine learning",
-    "url": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
-    "date": "2026-11-17T05:00:00+00:00"
+    "title": "Helping AI text detectors keep up with changing conditions",
+    "url": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
+    "date": "2026-11-18T05:00:00+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+    "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+    "date": "2026-11-18T01:44:21+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+    "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+    "date": "2026-11-18T00:27:29+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "url": "https://revscope.co/blog/search-seo-geo-2026/",
+    "date": "2026-11-18T00:17:58+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Nvidia promises that revenue will keep soaring — for now",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+    "date": "2026-11-18T00:16:50+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Satya Nadella says he’s AGI-pilled now",
+    "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+    "date": "2026-11-17T23:41:18+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+    "date": "2026-11-17T23:37:48+00:00"
   },
   {
     "source": "Simon Willison",
     "kind": "analysis",
     "org": "Simon Willison",
-    "title": "llm 0.37.3",
-    "url": "https://simonwillison.net/2026/Nov/16/llm/",
-    "date": "2026-11-16T23:57:26+00:00"
+    "title": "External sandboxes for coding agents",
+    "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+    "date": "2026-11-17T22:52:29+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+    "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
+    "date": "2026-11-17T22:19:19+00:00"
   },
   {
     "source": "The Register",
     "kind": "press",
     "org": "The Register",
-    "title": "California sues OpenAI for misleading public about AI safety",
-    "url": "https://www.theregister.com/ai-and-ml/2026/11/16/california-sues-openai-for-misleading-public-about-ai-safety/5310297",
-    "date": "2026-11-16T23:43:17+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-    "date": "2026-11-16T23:32:32+00:00"
+    "title": "Satya sorry for SaaS-y SNAFU - look over there, more AI!",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/17/satya-sorry-for-saas-y-snafu-look-over-there-more-ai/5310594",
+    "date": "2026-11-17T21:44:58+00:00"
   },
   {
     "source": "The Verge",
     "kind": "press",
     "org": "The Verge",
-    "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-    "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-    "date": "2026-11-16T23:17:34+00:00"
+    "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+    "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+    "date": "2026-11-17T21:40:59+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+    "date": "2026-11-17T21:16:12+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "Jensen Huang thrilled to be spending time with family, but will retake leadership burden if Nvidia asks",
+    "url": "https://www.theregister.com/systems/2026/11/17/jensen-huang-thrilled-to-be-spending-time-with-family-but-will-retake-leadership-burden-if-nvidia-asks/5310585",
+    "date": "2026-11-17T21:15:42+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+    "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+    "date": "2026-11-17T21:00:55+00:00"
+  },
+  {
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "Putting a spotlight on AI, society, and humanity",
+    "url": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
+    "date": "2026-11-17T20:40:00+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+    "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+    "date": "2026-11-17T20:32:55+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "Not Everything Needs an LLM",
+    "url": "https://newsletter.posthog.com/p/decision-models",
+    "date": "2026-11-17T18:16:18+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "date": "2026-11-17T17:45:00+00:00"
+  },
+  {
+    "source": "Google AI",
+    "kind": "vendor",
+    "org": "Google",
+    "title": "Put Gemini to work for you",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "date": "2026-11-17T17:00:00+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Google makes it easier to use Gemini without training AI on your data",
+    "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+    "date": "2026-11-17T16:50:10+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+    "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+    "date": "2026-11-17T16:48:33+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "Research Reports",
+    "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+    "date": "2026-11-17T14:39:46+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+    "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+    "date": "2026-11-17T14:19:59+00:00"
   },
   {
     "source": "NVIDIA",
     "kind": "vendor",
     "org": "NVIDIA",
-    "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
-    "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
-    "date": "2026-11-16T23:00:05+00:00"
+    "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+    "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+    "date": "2026-11-17T14:00:10+00:00"
   },
   {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-    "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
-    "date": "2026-11-16T22:58:27+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-    "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-    "date": "2026-11-16T22:03:02+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-    "date": "2026-11-16T20:41:28+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-    "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
-    "date": "2026-11-16T20:29:37+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "California state AG sues OpenAI over rogue agent incidents",
-    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-    "date": "2026-11-16T20:07:13+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "Attackers are using AI agents to automate cybercrime at 'industrial scale,' FBI and AWS warn",
-    "url": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223",
-    "date": "2026-11-16T19:52:00+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "US moves to cut China’s remote access to AI chips",
-    "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-    "date": "2026-11-16T19:10:09+00:00"
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Introducing ChatGPT for Sales",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "date": "2026-11-17T08:00:00+00:00"
   },
   {
     "source": "MIT Technology Review",
@@ -118,46 +214,6 @@
     "title": "The open-source movement wants Jensen Huang back",
     "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
     "date": "2026-11-16T18:38:47+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "Broadening access to AI for scientists",
-    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-    "date": "2026-11-16T17:00:00+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-    "url": "https://openai.com/index/strengthening-online-child-safety",
-    "date": "2026-11-16T17:00:00+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "Jensen Huang Is Gone. Now What?",
-    "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
-    "date": "2026-11-16T16:12:51+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "kind": "press",
-    "org": "MIT Technology Review",
-    "title": "Building trustworthy AI by fencing it in, not predicting it",
-    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-    "date": "2026-11-16T16:04:28+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-    "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
-    "date": "2026-11-16T14:06:16+00:00"
   },
   {
     "source": "Google AI",
@@ -174,37 +230,5 @@
     "title": "The small African lab sounding the alarm on AI bioweapons",
     "url": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
     "date": "2026-11-16T11:00:23+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-    "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-    "date": "2026-11-16T11:00:00+00:00"
-  },
-  {
-    "source": "Hugging Face",
-    "kind": "vendor",
-    "org": "Hugging Face",
-    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-    "url": "https://huggingface.co/blog/openrouter",
-    "date": "2026-11-16T00:00:00+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "datasette-maplibre 0.1a0",
-    "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
-    "date": "2026-11-15T23:58:36+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "All AI-generated code should be Open Source",
-    "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-    "date": "2026-11-15T14:46:58+00:00"
   }
 ]
