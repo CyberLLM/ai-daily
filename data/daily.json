@@ -1,42 +1,42 @@
 [
   {
-    "title": "Debiutują GPT-6.2 Astra i Sol",
-    "summary": "Zaprezentowano dwa nowe modele z rodziny GPT-6.2: Astra i Sol. Ogłoszenie rozszerza ofertę najnowszej generacji GPT.",
-    "so_what": "Organizacje korzystające z GPT zyskują dwa nowe modele, które będą musiały porównać przed kolejnymi wdrożeniami.",
-    "category": "Models",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
-  },
-  {
-    "title": "Office działa teraz wewnątrz Copilota",
-    "summary": "Aplikacje Office można uruchamiać bezpośrednio w Copilocie. Asystent jest pozycjonowany jako nowy system operacyjny do pracy.",
-    "so_what": "Copilot może stać się głównym interfejsem obsługi pakietu biurowego, zamiast być tylko dodatkiem do aplikacji.",
-    "category": "Agents",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
-  },
-  {
-    "title": "Udziały Nvidii w startupach warte już 65 mld dolarów",
-    "summary": "Wartość udziałów Nvidii w startupach wzrosła do 65 mld dolarów. Odejście Jensena Huanga stawia jednak pod znakiem zapytania przyszłe transakcje.",
-    "so_what": "Zmiana kierownictwa może wpłynąć na jeden z najważniejszych strumieni strategicznego kapitału w ekosystemie AI.",
+    "title": "Anthropic wycenia swoją ofertę publiczną",
+    "summary": "Anthropic ustalił cenę swojej pierwszej oferty publicznej. To ważny etap wejścia jednej z czołowych firm AI na giełdę.",
+    "so_what": "Debiut Anthropic może stać się istotnym testem zainteresowania inwestorów spółkami rozwijającymi modele AI.",
     "category": "Business",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
   },
   {
-    "title": "Afrykańskie laboratorium ostrzega przed AI w broni biologicznej",
-    "summary": "Niewielkie laboratorium w Afryce alarmuje o ryzyku wykorzystania AI do tworzenia broni biologicznej. Ostrzeżenie rozszerza debatę o bezpieczeństwie poza największe zachodnie ośrodki.",
-    "so_what": "Rosnąca dostępność AI zwiększa presję na wprowadzenie międzynarodowych zabezpieczeń przed jej biologicznym nadużyciem.",
+    "title": "AI wykryła krytyczne błędy w technologii używanej przez 225 mln stron",
+    "summary": "AI znalazła kolejne krytyczne luki w szeroko stosowanej technologii internetowej. Korzysta z niej około 225 mln witryn.",
+    "so_what": "Automatyczne wykrywanie podatności może przyspieszyć audyty bezpieczeństwa, ale także zwiększa presję na szybkie wdrażanie poprawek.",
     "category": "Safety",
-    "source": "Rest of World",
-    "url": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+    "source": "The Register",
+    "url": "https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887"
   },
   {
-    "title": "Ponad jedna trzecia pokolenia Z szuka przyjaźni w AI",
-    "summary": "Ponad jedna trzecia przedstawicieli pokolenia Z polega na AI w obszarze przyjaźni. Chatboty zaczynają więc pełnić funkcję relacyjną, a nie wyłącznie użytkową.",
-    "so_what": "Twórcy usług i regulatorzy muszą uwzględnić ryzyko emocjonalnego uzależnienia młodych użytkowników od systemów AI.",
+    "title": "Ultralekki robot lata z własnymi sensorami i komputerami",
+    "summary": "Powstał lekki robot latający, który sam przenosi sensory i komputery. Ogranicza to jego zależność od zewnętrznej infrastruktury obliczeniowej.",
+    "so_what": "Autonomiczne przetwarzanie na pokładzie może poszerzyć zastosowania małych robotów w miejscach niedostępnych lub pozbawionych łączności.",
+    "category": "Robotics",
+    "source": "MIT News",
+    "url": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118"
+  },
+  {
+    "title": "Agenci AI zadawali lepsze pytania niż audytorzy KPMG",
+    "summary": "W próbie audytowej agenci AI zadawali lepsze pytania niż księgowi KPMG. Wynik dotyczy konkretnego testu, a nie całej pracy audytorów.",
+    "so_what": "Agenci AI mogą przejmować część zadań wymagających aktywnego zbierania informacji, a nie tylko analizy gotowych dokumentów.",
+    "category": "Agents",
+    "source": "Hacker News",
+    "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
+  },
+  {
+    "title": "Największe okręgi szkolne rozważają rezygnację z Google Search",
+    "summary": "Największe okręgi szkolne w USA analizują odejście od wyszukiwarki Google. Taka decyzja zmieniłaby sposób, w jaki uczniowie docierają do informacji.",
+    "so_what": "Szkoły mogą stać się ważnym polem rywalizacji między tradycyjnymi wyszukiwarkami a nowymi narzędziami dostępu do wiedzy.",
     "category": "Society",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/"
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google"
   }
 ]
