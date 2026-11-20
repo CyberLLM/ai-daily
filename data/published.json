@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
-    "title": "TSMC zainwestuje 1 mld dolarów w Anthropic i OpenAI",
-    "category": "Business",
-    "published_on": "2026-11-12"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-    "title": "AlphaGenome 2 bada komórkowe źródła chorób",
-    "category": "Research",
-    "published_on": "2026-11-12"
-  },
-  {
-    "url": "https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006",
-    "title": "OpenAI tworzy wyłącznik awaryjny dla modeli badawczych",
-    "category": "Safety",
-    "published_on": "2026-11-12"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-    "title": "United blokuje rezerwacje dokonywane przez agentów AI",
-    "category": "Agents",
-    "published_on": "2026-11-12"
-  },
-  {
-    "url": "https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995",
-    "title": "Google przyspiesza AI, usuwając Pythona z wykonania",
-    "category": "Infrastructure",
-    "published_on": "2026-11-12"
-  },
-  {
     "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
     "title": "Google wdraża model Gemini 4 Hydrogen",
     "category": "Models",
@@ -238,5 +208,35 @@
     "title": "Największe okręgi szkolne rozważają rezygnację z Google Search",
     "category": "Society",
     "published_on": "2026-11-19"
+  },
+  {
+    "url": "https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200",
+    "title": "USA pozwoliły sprzedawać chipy Nvidii i AMD firmom powiązanym z chińskim wojskiem",
+    "category": "Regulation",
+    "published_on": "2026-11-20"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+    "title": "Założyciele Anthropic sprzedali akcje za prawie 2 mld dolarów",
+    "category": "Business",
+    "published_on": "2026-11-20"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+    "title": "Gemini API zyskuje wyszukiwanie odpowiednich narzędzi",
+    "category": "Agents",
+    "published_on": "2026-11-20"
+  },
+  {
+    "url": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
+    "title": "Centra danych pogarszają jakość powietrza także na dużych odległościach",
+    "category": "Infrastructure",
+    "published_on": "2026-11-20"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+    "title": "Fałszywy alarm AI z torbą chipsów zakończył się pozwem",
+    "category": "Safety",
+    "published_on": "2026-11-20"
   }
 ]

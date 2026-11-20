@@ -1,42 +1,42 @@
 [
   {
-    "title": "Anthropic wycenia swoją ofertę publiczną",
-    "summary": "Anthropic ustalił cenę swojej pierwszej oferty publicznej. To ważny etap wejścia jednej z czołowych firm AI na giełdę.",
-    "so_what": "Debiut Anthropic może stać się istotnym testem zainteresowania inwestorów spółkami rozwijającymi modele AI.",
-    "category": "Business",
-    "source": "Hacker News",
-    "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
-  },
-  {
-    "title": "AI wykryła krytyczne błędy w technologii używanej przez 225 mln stron",
-    "summary": "AI znalazła kolejne krytyczne luki w szeroko stosowanej technologii internetowej. Korzysta z niej około 225 mln witryn.",
-    "so_what": "Automatyczne wykrywanie podatności może przyspieszyć audyty bezpieczeństwa, ale także zwiększa presję na szybkie wdrażanie poprawek.",
-    "category": "Safety",
+    "title": "USA pozwoliły sprzedawać chipy Nvidii i AMD firmom powiązanym z chińskim wojskiem",
+    "summary": "Amerykańskie władze dopuściły sprzedaż dużej liczby układów Nvidii i AMD chińskim firmom powiązanym z wojskiem. Sprawa dotyczy kontroli eksportu technologii o strategicznym znaczeniu.",
+    "so_what": "Decyzja pokazuje luki w ograniczeniach eksportowych, które mają utrudniać Chinom dostęp do zaawansowanej infrastruktury AI.",
+    "category": "Regulation",
     "source": "The Register",
-    "url": "https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887"
+    "url": "https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200"
   },
   {
-    "title": "Ultralekki robot lata z własnymi sensorami i komputerami",
-    "summary": "Powstał lekki robot latający, który sam przenosi sensory i komputery. Ogranicza to jego zależność od zewnętrznej infrastruktury obliczeniowej.",
-    "so_what": "Autonomiczne przetwarzanie na pokładzie może poszerzyć zastosowania małych robotów w miejscach niedostępnych lub pozbawionych łączności.",
-    "category": "Robotics",
-    "source": "MIT News",
-    "url": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118"
+    "title": "Założyciele Anthropic sprzedali akcje za prawie 2 mld dolarów",
+    "summary": "Siedmioro założycieli Anthropic spieniężyło udziały warte łącznie niemal 2 mld dolarów. Doszło do tego podczas rekordowego debiutu giełdowego firmy.",
+    "so_what": "Debiut Anthropic potwierdza, że czołowe firmy AI osiągają skalę wycen i płynności zarezerwowaną dla największych spółek technologicznych.",
+    "category": "Business",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
   },
   {
-    "title": "Agenci AI zadawali lepsze pytania niż audytorzy KPMG",
-    "summary": "W próbie audytowej agenci AI zadawali lepsze pytania niż księgowi KPMG. Wynik dotyczy konkretnego testu, a nie całej pracy audytorów.",
-    "so_what": "Agenci AI mogą przejmować część zadań wymagających aktywnego zbierania informacji, a nie tylko analizy gotowych dokumentów.",
+    "title": "Gemini API zyskuje wyszukiwanie odpowiednich narzędzi",
+    "summary": "Google wprowadził funkcję Tool Retrieval w Gemini API. Ma ona pomagać systemom AI dobierać narzędzia potrzebne do wykonania zadania.",
+    "so_what": "Dobieranie narzędzi na żądanie może ułatwić budowę agentów korzystających z dużej liczby funkcji i integracji.",
     "category": "Agents",
-    "source": "Hacker News",
-    "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
+    "source": "Google AI",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
   },
   {
-    "title": "Największe okręgi szkolne rozważają rezygnację z Google Search",
-    "summary": "Największe okręgi szkolne w USA analizują odejście od wyszukiwarki Google. Taka decyzja zmieniłaby sposób, w jaki uczniowie docierają do informacji.",
-    "so_what": "Szkoły mogą stać się ważnym polem rywalizacji między tradycyjnymi wyszukiwarkami a nowymi narzędziami dostępu do wiedzy.",
-    "category": "Society",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google"
+    "title": "Centra danych pogarszają jakość powietrza także na dużych odległościach",
+    "summary": "Badanie wskazuje, że szkody dla jakości powietrza powodowane przez centra danych sięgają daleko poza ich bezpośrednie otoczenie. Rozwój infrastruktury cyfrowej ma więc konsekwencje środowiskowe w innych regionach.",
+    "so_what": "Koszty środowiskowe infrastruktury AI mogą wpłynąć na lokalizację centrów danych i warunki wydawania zezwoleń.",
+    "category": "Infrastructure",
+    "source": "MIT News",
+    "url": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119"
+  },
+  {
+    "title": "Fałszywy alarm AI z torbą chipsów zakończył się pozwem",
+    "summary": "System wykrywania broni uznał torbę Doritos za potencjalne zagrożenie. Poszkodowani nastolatkowie pozwali szkołę i policję po traumatycznej interwencji.",
+    "so_what": "Sprawa pokazuje, że błędy systemów bezpieczeństwa opartych na AI mogą prowadzić do realnych szkód i odpowiedzialności prawnej.",
+    "category": "Safety",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/"
   }
 ]
