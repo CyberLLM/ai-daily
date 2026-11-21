@@ -1,42 +1,42 @@
 [
   {
-    "title": "USA pozwoliły sprzedawać chipy Nvidii i AMD firmom powiązanym z chińskim wojskiem",
-    "summary": "Amerykańskie władze dopuściły sprzedaż dużej liczby układów Nvidii i AMD chińskim firmom powiązanym z wojskiem. Sprawa dotyczy kontroli eksportu technologii o strategicznym znaczeniu.",
-    "so_what": "Decyzja pokazuje luki w ograniczeniach eksportowych, które mają utrudniać Chinom dostęp do zaawansowanej infrastruktury AI.",
-    "category": "Regulation",
-    "source": "The Register",
-    "url": "https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200"
-  },
-  {
-    "title": "Założyciele Anthropic sprzedali akcje za prawie 2 mld dolarów",
-    "summary": "Siedmioro założycieli Anthropic spieniężyło udziały warte łącznie niemal 2 mld dolarów. Doszło do tego podczas rekordowego debiutu giełdowego firmy.",
-    "so_what": "Debiut Anthropic potwierdza, że czołowe firmy AI osiągają skalę wycen i płynności zarezerwowaną dla największych spółek technologicznych.",
-    "category": "Business",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
-  },
-  {
-    "title": "Gemini API zyskuje wyszukiwanie odpowiednich narzędzi",
-    "summary": "Google wprowadził funkcję Tool Retrieval w Gemini API. Ma ona pomagać systemom AI dobierać narzędzia potrzebne do wykonania zadania.",
-    "so_what": "Dobieranie narzędzi na żądanie może ułatwić budowę agentów korzystających z dużej liczby funkcji i integracji.",
-    "category": "Agents",
-    "source": "Google AI",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
-  },
-  {
-    "title": "Centra danych pogarszają jakość powietrza także na dużych odległościach",
-    "summary": "Badanie wskazuje, że szkody dla jakości powietrza powodowane przez centra danych sięgają daleko poza ich bezpośrednie otoczenie. Rozwój infrastruktury cyfrowej ma więc konsekwencje środowiskowe w innych regionach.",
-    "so_what": "Koszty środowiskowe infrastruktury AI mogą wpłynąć na lokalizację centrów danych i warunki wydawania zezwoleń.",
+    "title": "Meta weryfikuje cel klimatyczny przez emisje AI",
+    "summary": "Meta ponownie rozważa swój cel neutralności emisyjnej na 2030 rok. Powodem są rekordowe emisje związane z centrami danych AI.",
+    "so_what": "Rosnące potrzeby obliczeniowe AI mogą zmusić firmy technologiczne do rewizji zobowiązań klimatycznych.",
     "category": "Infrastructure",
-    "source": "MIT News",
-    "url": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119"
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
   },
   {
-    "title": "Fałszywy alarm AI z torbą chipsów zakończył się pozwem",
-    "summary": "System wykrywania broni uznał torbę Doritos za potencjalne zagrożenie. Poszkodowani nastolatkowie pozwali szkołę i policję po traumatycznej interwencji.",
-    "so_what": "Sprawa pokazuje, że błędy systemów bezpieczeństwa opartych na AI mogą prowadzić do realnych szkód i odpowiedzialności prawnej.",
+    "title": "Eksperyment ujawnił problem prywatności w łańcuchu AI",
+    "summary": "Badacz umieścił dwa miliony znaczników kontrolnych w łańcuchu dostaw AI. Eksperyment ujawnił poważne zagrożenie dla prywatności.",
+    "so_what": "Firmy korzystające z zewnętrznych modeli i danych muszą dokładniej kontrolować cały łańcuch dostaw AI.",
     "category": "Safety",
     "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/"
+    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+  },
+  {
+    "title": "Fizycznie spójne modele układów chaotycznych",
+    "summary": "Nowe podejście umożliwia tworzenie fizycznie spójnych modeli AI dla układów chaotycznych. Ma ono pomóc zachować zgodność modelowania z prawami fizyki.",
+    "so_what": "Metoda może zwiększyć użyteczność AI w symulacjach złożonych zjawisk fizycznych.",
+    "category": "Research",
+    "source": "MIT News",
+    "url": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120"
+  },
+  {
+    "title": "Trump grozi podatkiem za centra danych poza USA",
+    "summary": "Donald Trump zagroził wysokim podatkiem za przenoszenie centrów danych AI poza Stany Zjednoczone. Zapowiedź dotyczy infrastruktury kluczowej dla rozwoju modeli.",
+    "so_what": "Ryzyko podatkowe może wpłynąć na globalne decyzje inwestycyjne operatorów infrastruktury AI.",
+    "category": "Regulation",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+  },
+  {
+    "title": "AI zmienia etaty w nisko płatne zlecenia",
+    "summary": "AI nie zawsze bezpośrednio zastępuje pracowników. Może zamiast tego przekształcać ich obowiązki w gorzej płatną pracę zleceniową.",
+    "so_what": "Wpływ AI na rynek pracy może polegać bardziej na pogorszeniu warunków zatrudnienia niż na samym znikaniu stanowisk.",
+    "category": "Society",
+    "source": "Rest of World",
+    "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
   }
 ]

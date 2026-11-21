@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-    "title": "Google wdraża model Gemini 4 Hydrogen",
-    "category": "Models",
-    "published_on": "2026-11-13"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-    "title": "Nvidia może śledzić chipy w walce z przemytem",
-    "category": "Regulation",
-    "published_on": "2026-11-13"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-    "title": "FAA rozszerza wykorzystanie AI w zarządzaniu ruchem",
-    "category": "Infrastructure",
-    "published_on": "2026-11-13"
-  },
-  {
-    "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
-    "title": "Copilot AI pomaga projektować lepsze konstrukcje",
-    "category": "Research",
-    "published_on": "2026-11-13"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-    "title": "Agenci AI nie odkryli nieznanego stanowiska Majów",
-    "category": "Society",
-    "published_on": "2026-11-13"
-  },
-  {
     "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
     "title": "FAA rozszerza wsparcie AI na całe amerykańskie niebo",
     "category": "Infrastructure",
@@ -238,5 +208,35 @@
     "title": "Fałszywy alarm AI z torbą chipsów zakończył się pozwem",
     "category": "Safety",
     "published_on": "2026-11-20"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+    "title": "Meta weryfikuje cel klimatyczny przez emisje AI",
+    "category": "Infrastructure",
+    "published_on": "2026-11-21"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "title": "Eksperyment ujawnił problem prywatności w łańcuchu AI",
+    "category": "Safety",
+    "published_on": "2026-11-21"
+  },
+  {
+    "url": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
+    "title": "Fizycznie spójne modele układów chaotycznych",
+    "category": "Research",
+    "published_on": "2026-11-21"
+  },
+  {
+    "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+    "title": "Trump grozi podatkiem za centra danych poza USA",
+    "category": "Regulation",
+    "published_on": "2026-11-21"
+  },
+  {
+    "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "title": "AI zmienia etaty w nisko płatne zlecenia",
+    "category": "Society",
+    "published_on": "2026-11-21"
   }
 ]
