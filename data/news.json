@@ -1,5 +1,85 @@
 [
   {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "Muru",
+    "url": "https://simonwillison.net/2026/Nov/21/muru/",
+    "date": "2026-11-21T23:56:28+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "date": "2026-11-21T21:37:10+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "A tale of two Nvidias",
+    "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+    "date": "2026-11-21T21:07:42+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "The UN fails to agree on rules regulating ‘killer robots’",
+    "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+    "date": "2026-11-21T20:03:37+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "date": "2026-11-21T17:00:00+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Can Anthropic afford to put safety first?",
+    "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+    "date": "2026-11-21T15:00:00+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+    "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+    "date": "2026-11-21T14:00:00+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "The Outages Are Just Getting Started",
+    "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+    "date": "2026-11-21T13:00:00+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "ChatGPT shrunk down to run on a Super Nintendo",
+    "url": "https://www.theregister.com/offbeat/2026/11/21/chatgpt-shrunk-down-to-run-on-a-super-nintendo/5311418",
+    "date": "2026-11-21T11:46:00+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "ClawDOS – An AI coding agent for DOS",
+    "url": "http://ricapar.net/ClawDOS/",
+    "date": "2026-11-21T05:38:01+00:00"
+  },
+  {
     "source": "Google Research",
     "kind": "research",
     "org": "Google",
@@ -24,28 +104,12 @@
     "date": "2026-11-20T21:58:29+00:00"
   },
   {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-    "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-    "date": "2026-11-20T21:47:10+00:00"
-  },
-  {
     "source": "MIT News",
     "kind": "research",
     "org": "MIT News",
     "title": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models",
     "url": "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120",
     "date": "2026-11-20T21:00:00+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-    "date": "2026-11-20T20:59:08+00:00"
   },
   {
     "source": "The Register",
@@ -56,60 +120,12 @@
     "date": "2026-11-20T20:42:04+00:00"
   },
   {
-    "source": "MIT News",
-    "kind": "research",
-    "org": "MIT News",
-    "title": "New approach enables physically consistent AI models of chaotic systems",
-    "url": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
-    "date": "2026-11-20T20:00:00+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-    "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-    "date": "2026-11-20T19:53:41+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
-    "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
-    "date": "2026-11-20T19:52:21+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-    "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-    "date": "2026-11-20T19:32:08+00:00"
-  },
-  {
     "source": "Simon Willison",
     "kind": "analysis",
     "org": "Simon Willison",
     "title": "Quoting Ravi Vakil",
     "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
     "date": "2026-11-20T19:21:49+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-    "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-    "date": "2026-11-20T18:50:19+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "Nvidia’s journey to forge the one CPU SKU to rule them all",
-    "url": "https://www.theregister.com/systems/2026/11/20/nvidias-journey-to-forge-the-one-cpu-sku-to-rule-them-all/5311438",
-    "date": "2026-11-20T18:45:50+00:00"
   },
   {
     "source": "MIT Technology Review",
@@ -120,14 +136,6 @@
     "date": "2026-11-20T18:15:15+00:00"
   },
   {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Chips can survive the space environment — can their financing?",
-    "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-    "date": "2026-11-20T17:40:01+00:00"
-  },
-  {
     "source": "Hacker News",
     "kind": "community",
     "org": "Hacker News",
@@ -136,28 +144,20 @@
     "date": "2026-11-20T16:59:27+00:00"
   },
   {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-    "date": "2026-11-20T16:34:13+00:00"
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "AI is giving everyone the same advice",
+    "url": "https://a90.com/experiments/same-advice/",
+    "date": "2026-11-20T16:58:05+00:00"
   },
   {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "Quoting Levent Alpöge",
-    "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
-    "date": "2026-11-20T16:30:48+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "The week everything fell apart",
-    "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
-    "date": "2026-11-20T14:06:59+00:00"
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "Following the “mathocalypse,” mathematicians consider the future",
+    "url": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120",
+    "date": "2026-11-20T15:20:00+00:00"
   },
   {
     "source": "Hacker News",
@@ -168,75 +168,11 @@
     "date": "2026-11-20T13:29:59+00:00"
   },
   {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-    "url": "https://architectlabs.com/blog/frostbite",
-    "date": "2026-11-20T10:01:41+00:00"
-  },
-  {
     "source": "OpenAI",
     "kind": "vendor",
     "org": "OpenAI",
     "title": "Combatting adversarial distillation",
     "url": "https://openai.com/index/combatting-adversarial-distillation",
     "date": "2026-11-20T10:00:00+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-    "url": "https://signal.org/blog/protecting-your-privacy/",
-    "date": "2026-11-20T09:42:16+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-    "url": "https://openai.com/business/customer-stories/hebbia",
-    "date": "2026-11-20T00:00:00+00:00"
-  },
-  {
-    "source": "Hugging Face",
-    "kind": "vendor",
-    "org": "Hugging Face",
-    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-    "url": "https://huggingface.co/blog/inkling2mini",
-    "date": "2026-11-20T00:00:00+00:00"
-  },
-  {
-    "source": "Hugging Face",
-    "kind": "vendor",
-    "org": "Hugging Face",
-    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
-    "date": "2026-11-20T00:00:00+00:00"
-  },
-  {
-    "source": "NVIDIA",
-    "kind": "vendor",
-    "org": "NVIDIA",
-    "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
-    "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
-    "date": "2026-11-19T20:00:15+00:00"
-  },
-  {
-    "source": "Google AI",
-    "kind": "vendor",
-    "org": "Google",
-    "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-    "date": "2026-11-19T17:00:00+00:00"
-  },
-  {
-    "source": "Rest of World",
-    "kind": "press",
-    "org": "Rest of World",
-    "title": "AI isn’t replacing your job. It’s turning it into low-paid gig work",
-    "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-    "date": "2026-11-19T11:00:00+00:00"
   }
 ]

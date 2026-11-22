@@ -1,42 +1,42 @@
 [
   {
-    "title": "Meta weryfikuje cel klimatyczny przez emisje AI",
-    "summary": "Meta ponownie rozważa swój cel neutralności emisyjnej na 2030 rok. Powodem są rekordowe emisje związane z centrami danych AI.",
-    "so_what": "Rosnące potrzeby obliczeniowe AI mogą zmusić firmy technologiczne do rewizji zobowiązań klimatycznych.",
-    "category": "Infrastructure",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+    "title": "Signal ogranicza zrzuty ekranu z powodu nadzoru AI",
+    "summary": "Signal ogranicza wykonywanie zrzutów ekranu w aplikacji mobilnej. Firma przedstawia tę zmianę jako odpowiedź na zagrożenie związane z nadzorem wykorzystującym AI.",
+    "so_what": "Rosnące możliwości systemów AI wymuszają wprowadzanie nowych zabezpieczeń prywatności w komunikatorach.",
+    "category": "Society",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
   },
   {
-    "title": "Eksperyment ujawnił problem prywatności w łańcuchu AI",
-    "summary": "Badacz umieścił dwa miliony znaczników kontrolnych w łańcuchu dostaw AI. Eksperyment ujawnił poważne zagrożenie dla prywatności.",
-    "so_what": "Firmy korzystające z zewnętrznych modeli i danych muszą dokładniej kontrolować cały łańcuch dostaw AI.",
-    "category": "Safety",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
-  },
-  {
-    "title": "Fizycznie spójne modele układów chaotycznych",
-    "summary": "Nowe podejście umożliwia tworzenie fizycznie spójnych modeli AI dla układów chaotycznych. Ma ono pomóc zachować zgodność modelowania z prawami fizyki.",
-    "so_what": "Metoda może zwiększyć użyteczność AI w symulacjach złożonych zjawisk fizycznych.",
-    "category": "Research",
-    "source": "MIT News",
-    "url": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120"
-  },
-  {
-    "title": "Trump grozi podatkiem za centra danych poza USA",
-    "summary": "Donald Trump zagroził wysokim podatkiem za przenoszenie centrów danych AI poza Stany Zjednoczone. Zapowiedź dotyczy infrastruktury kluczowej dla rozwoju modeli.",
-    "so_what": "Ryzyko podatkowe może wpłynąć na globalne decyzje inwestycyjne operatorów infrastruktury AI.",
+    "title": "ONZ bez porozumienia w sprawie autonomicznej broni",
+    "summary": "Państwa ONZ nie uzgodniły zasad regulujących tak zwane zabójcze roboty. Brak porozumienia pozostawia rozwój autonomicznych systemów bojowych bez wspólnych reguł.",
+    "so_what": "Technologia autonomicznej broni rozwija się szybciej niż międzynarodowe mechanizmy jej kontroli.",
     "category": "Regulation",
     "source": "The Verge",
-    "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+    "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
   },
   {
-    "title": "AI zmienia etaty w nisko płatne zlecenia",
-    "summary": "AI nie zawsze bezpośrednio zastępuje pracowników. Może zamiast tego przekształcać ich obowiązki w gorzej płatną pracę zleceniową.",
-    "so_what": "Wpływ AI na rynek pracy może polegać bardziej na pogorszeniu warunków zatrudnienia niż na samym znikaniu stanowisk.",
-    "category": "Society",
-    "source": "Rest of World",
-    "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+    "title": "Gemini wykorzystuje Duplex do dzwonienia do firm",
+    "summary": "Google rozwinęło technologię Duplex, aby mogła dzwonić do firm w imieniu użytkownika Gemini. Asystent zyskuje w ten sposób możliwość wykonywania działań poza interfejsem czatu.",
+    "so_what": "Agenci AI coraz wyraźniej przechodzą od udzielania odpowiedzi do samodzielnego realizowania zadań w świecie rzeczywistym.",
+    "category": "Agents",
+    "source": "Google Research",
+    "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/"
+  },
+  {
+    "title": "Google przebudowuje wyszukiwarkę wokół AI",
+    "summary": "Google wdraża nową stronę główną wyszukiwarki z historią rozmów AI. Z interfejsu znika tradycyjny przycisk wyszukiwania.",
+    "so_what": "Zmiana pokazuje, że konwersacyjne AI może stać się podstawowym sposobem korzystania z najważniejszego produktu Google.",
+    "category": "Tools",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+  },
+  {
+    "title": "OpenAI walczy z wrogą destylacją modeli",
+    "summary": "OpenAI opisuje działania przeciwko adversarial distillation, czyli wrogiej destylacji modeli. Ogłoszenie wskazuje na rosnące znaczenie ochrony możliwości modeli przed kopiowaniem.",
+    "so_what": "Ochrona modeli i ich przewag technologicznych staje się istotnym obszarem bezpieczeństwa oraz konkurencji w branży AI.",
+    "category": "Safety",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/combatting-adversarial-distillation"
   }
 ]
