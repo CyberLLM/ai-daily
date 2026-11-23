@@ -1,42 +1,42 @@
 [
   {
-    "title": "Signal ogranicza zrzuty ekranu z powodu nadzoru AI",
-    "summary": "Signal ogranicza wykonywanie zrzutów ekranu w aplikacji mobilnej. Firma przedstawia tę zmianę jako odpowiedź na zagrożenie związane z nadzorem wykorzystującym AI.",
-    "so_what": "Rosnące możliwości systemów AI wymuszają wprowadzanie nowych zabezpieczeń prywatności w komunikatorach.",
-    "category": "Society",
+    "title": "AI przyspiesza projektowanie układów analogowych",
+    "summary": "Technika opracowana przez MIT wykorzystuje AI do projektowania układów analogowych. Ma skrócić ten proces i obniżyć jego koszty.",
+    "so_what": "AI może zautomatyzować kosztowny etap projektowania półprzewodników, który dotąd wymagał dużego nakładu pracy ekspertów.",
+    "category": "Research",
+    "source": "MIT News",
+    "url": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123"
+  },
+  {
+    "title": "Wielcy inwestorzy postawili na Anthropic przed IPO",
+    "summary": "Notable Capital, GIC i Baillie Gifford dokonały dużych inwestycji w Anthropic przed jego ofertą publiczną. Pokazuje to skalę zainteresowania kapitału jednym z głównych konkurentów OpenAI.",
+    "so_what": "Anthropic zyskuje finansowe zaplecze mogące wzmocnić jego pozycję przed potencjalnym wejściem na giełdę.",
+    "category": "Business",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+    "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
   },
   {
-    "title": "ONZ bez porozumienia w sprawie autonomicznej broni",
-    "summary": "Państwa ONZ nie uzgodniły zasad regulujących tak zwane zabójcze roboty. Brak porozumienia pozostawia rozwój autonomicznych systemów bojowych bez wspólnych reguł.",
-    "so_what": "Technologia autonomicznej broni rozwija się szybciej niż międzynarodowe mechanizmy jej kontroli.",
-    "category": "Regulation",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
-  },
-  {
-    "title": "Gemini wykorzystuje Duplex do dzwonienia do firm",
-    "summary": "Google rozwinęło technologię Duplex, aby mogła dzwonić do firm w imieniu użytkownika Gemini. Asystent zyskuje w ten sposób możliwość wykonywania działań poza interfejsem czatu.",
-    "so_what": "Agenci AI coraz wyraźniej przechodzą od udzielania odpowiedzi do samodzielnego realizowania zadań w świecie rzeczywistym.",
-    "category": "Agents",
-    "source": "Google Research",
-    "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/"
-  },
-  {
-    "title": "Google przebudowuje wyszukiwarkę wokół AI",
-    "summary": "Google wdraża nową stronę główną wyszukiwarki z historią rozmów AI. Z interfejsu znika tradycyjny przycisk wyszukiwania.",
-    "so_what": "Zmiana pokazuje, że konwersacyjne AI może stać się podstawowym sposobem korzystania z najważniejszego produktu Google.",
-    "category": "Tools",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
-  },
-  {
-    "title": "OpenAI walczy z wrogą destylacją modeli",
-    "summary": "OpenAI opisuje działania przeciwko adversarial distillation, czyli wrogiej destylacji modeli. Ogłoszenie wskazuje na rosnące znaczenie ochrony możliwości modeli przed kopiowaniem.",
-    "so_what": "Ochrona modeli i ich przewag technologicznych staje się istotnym obszarem bezpieczeństwa oraz konkurencji w branży AI.",
+    "title": "GPT-5.1 tanio omija Wielki Firewall",
+    "summary": "Tokeny GPT-5.1 o wartości jednego dolara wystarczyły do znalezienia nowych sposobów obchodzenia chińskiego Wielkiego Firewalla. Eksperyment pokazuje, jak niski może być koszt automatycznego wyszukiwania takich metod.",
+    "so_what": "Zaawansowane modele mogą znacząco obniżyć koszt omijania zabezpieczeń i wymusić szybsze dostosowywanie systemów kontroli sieci.",
     "category": "Safety",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/combatting-adversarial-distillation"
+    "source": "The Register",
+    "url": "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532"
+  },
+  {
+    "title": "Centra danych wywołują sprzeciw wobec Big Tech",
+    "summary": "Centra danych znalazły się w centrum narastającego sprzeciwu wobec największych firm technologicznych. Infrastruktura potrzebna do rozwoju AI staje się istotnym źródłem napięć wokół branży.",
+    "so_what": "Rozbudowa mocy obliczeniowej będzie zależeć nie tylko od kapitału i technologii, lecz także od akceptacji społecznej.",
+    "category": "Infrastructure",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+  },
+  {
+    "title": "Banki tracą cierpliwość do agentów AI",
+    "summary": "Banki coraz krytyczniej podchodzą do agentów AI używanych przez klientów. Autonomiczne narzędzia zaczynają zderzać się z zasadami działania i zabezpieczeniami instytucji finansowych.",
+    "so_what": "Agenci AI będą potrzebować uzgodnionych mechanizmów autoryzacji, zanim banki dopuszczą ich do szerszego wykonywania operacji.",
+    "category": "Agents",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"
   }
 ]

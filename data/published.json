@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
-    "title": "AI napędza nową falę ransomware",
-    "category": "Safety",
-    "published_on": "2026-11-15"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-    "title": "Amazon chce indeksować globalne dane zakupowe",
-    "category": "Business",
-    "published_on": "2026-11-15"
-  },
-  {
-    "url": "https://www.theregister.com/offbeat/2026/11/13/meatbags-suck-at-spotting-lying-llms-so-let-ai-narc-on-itself/5309876",
-    "title": "AI ma skuteczniej wykrywać kłamstwa modeli",
-    "category": "Research",
-    "published_on": "2026-11-15"
-  },
-  {
-    "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
-    "title": "OpenAI rozwiązuje zespół robotyki",
-    "category": "Robotics",
-    "published_on": "2026-11-15"
-  },
-  {
-    "url": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-    "title": "Odejście Jensena Huanga uderza w chiński łańcuch dostaw AI",
-    "category": "Infrastructure",
-    "published_on": "2026-11-15"
-  },
-  {
     "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
     "title": "Kongres chce zaostrzyć eksport chipów AI",
     "category": "Regulation",
@@ -238,5 +208,35 @@
     "title": "OpenAI walczy z wrogą destylacją modeli",
     "category": "Safety",
     "published_on": "2026-11-22"
+  },
+  {
+    "url": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
+    "title": "AI przyspiesza projektowanie układów analogowych",
+    "category": "Research",
+    "published_on": "2026-11-23"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+    "title": "Wielcy inwestorzy postawili na Anthropic przed IPO",
+    "category": "Business",
+    "published_on": "2026-11-23"
+  },
+  {
+    "url": "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532",
+    "title": "GPT-5.1 tanio omija Wielki Firewall",
+    "category": "Safety",
+    "published_on": "2026-11-23"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+    "title": "Centra danych wywołują sprzeciw wobec Big Tech",
+    "category": "Infrastructure",
+    "published_on": "2026-11-23"
+  },
+  {
+    "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+    "title": "Banki tracą cierpliwość do agentów AI",
+    "category": "Agents",
+    "published_on": "2026-11-23"
   }
 ]
