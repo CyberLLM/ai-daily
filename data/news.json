@@ -1,43 +1,203 @@
 [
   {
-    "source": "MIT News",
-    "kind": "research",
-    "org": "MIT News",
-    "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
-    "url": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
-    "date": "2026-11-23T05:00:00+00:00"
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "datasette-charts 0.2a0",
+    "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+    "date": "2026-11-24T04:24:29+00:00"
   },
   {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-    "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-    "date": "2026-11-23T01:25:53+00:00"
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "datasette-agent 0.7a1",
+    "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+    "date": "2026-11-24T03:45:57+00:00"
   },
   {
     "source": "The Register",
     "kind": "press",
     "org": "The Register",
-    "title": "$1 of GPT-5.1 tokens finds new ways around China’s Great Firewall",
-    "url": "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532",
-    "date": "2026-11-23T00:23:31+00:00"
+    "title": "Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse",
+    "url": "https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795",
+    "date": "2026-11-24T01:46:56+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "Anthropic says Claude solved an age-old math problem, but the written proof is 250,000 pages of slop",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/24/anthropic-says-claude-solved-an-age-old-math-problem-but-the-written-proof-is-250000-pages-of-slop/5311775",
+    "date": "2026-11-24T00:18:17+00:00"
   },
   {
     "source": "The Verge",
     "kind": "press",
     "org": "The Verge",
-    "title": "We haven’t seen the last of the major tech outages",
-    "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
-    "date": "2026-11-22T22:48:02+00:00"
+    "title": "Trump engineered a risky comeback for Jensen Huang",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+    "date": "2026-11-23T22:25:12+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Welcome to elite impunity, Jensen Huang",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+    "date": "2026-11-23T22:09:26+00:00"
   },
   {
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-    "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-    "date": "2026-11-22T21:14:07+00:00"
+    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "date": "2026-11-23T22:05:50+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+    "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+    "date": "2026-11-23T22:02:05+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+    "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+    "date": "2026-11-23T21:47:41+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+    "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+    "date": "2026-11-23T21:30:44+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "url": "https://openai.com/index/introducing-shirudo",
+    "date": "2026-11-23T21:20:00+00:00"
+  },
+  {
+    "source": "MIT News",
+    "kind": "research",
+    "org": "MIT News",
+    "title": "Many languages, one common neural code",
+    "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
+    "date": "2026-11-23T21:15:00+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "AI data centers throw another wrench into chaotic UN climate talks",
+    "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+    "date": "2026-11-23T21:09:37+00:00"
+  },
+  {
+    "source": "AI Snake Oil",
+    "kind": "analysis",
+    "org": "AI Snake Oil",
+    "title": "Management consulting is not a thin wrapper on intelligence",
+    "url": "https://www.normaltech.ai/p/management-consulting-is-not-a-thin",
+    "date": "2026-11-23T20:12:32+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+    "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+    "date": "2026-11-23T17:36:08+00:00"
+  },
+  {
+    "source": "Google Research",
+    "kind": "research",
+    "org": "Google",
+    "title": "Supercharging transformer residual connections",
+    "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+    "date": "2026-11-23T17:21:12+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "kind": "vendor",
+    "org": "Hugging Face",
+    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "url": "https://huggingface.co/blog/allenai/robotrack",
+    "date": "2026-11-23T17:20:37+00:00"
+  },
+  {
+    "source": "NVIDIA",
+    "kind": "vendor",
+    "org": "NVIDIA",
+    "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+    "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+    "date": "2026-11-23T17:00:08+00:00"
+  },
+  {
+    "source": "Google AI",
+    "kind": "vendor",
+    "org": "Google",
+    "title": "A more tailored Google Search that’s uniquely yours",
+    "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+    "date": "2026-11-23T17:00:00+00:00"
+  },
+  {
+    "source": "Google DeepMind",
+    "kind": "vendor",
+    "org": "Google",
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "date": "2026-11-23T16:59:40+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+    "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+    "date": "2026-11-23T15:46:18+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+    "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+    "date": "2026-11-23T13:11:00+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+    "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+    "date": "2026-11-23T12:00:00+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
+    "url": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
+    "date": "2026-11-23T12:00:00+00:00"
+  },
+  {
+    "source": "OpenAI",
+    "kind": "vendor",
+    "org": "OpenAI",
+    "title": "Connected intelligence for in-house legal",
+    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "date": "2026-11-23T08:00:00+00:00"
   },
   {
     "source": "Hacker News",
@@ -48,44 +208,12 @@
     "date": "2026-11-22T21:01:16+00:00"
   },
   {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "Select Styling Specimens",
-    "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
-    "date": "2026-11-22T19:45:06+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Why data centers are at the center of the Big Tech backlash",
-    "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-    "date": "2026-11-22T18:08:43+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-    "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-    "date": "2026-11-22T17:25:20+00:00"
-  },
-  {
     "source": "Hacker News",
     "kind": "community",
     "org": "Hacker News",
     "title": "Show HN: I built a game where you are an LLM's subagent",
     "url": "https://github.com/gulivan/worker755",
     "date": "2026-11-22T13:56:58+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "The vibe-coding revolution is coming to all the gadgets",
-    "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
-    "date": "2026-11-22T13:00:00+00:00"
   },
   {
     "source": "Hacker News",
@@ -96,51 +224,11 @@
     "date": "2026-11-22T12:19:46+00:00"
   },
   {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "Banks Have Had It Up to Here With Your AI Agent",
-    "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-    "date": "2026-11-22T11:00:00+00:00"
-  },
-  {
     "source": "Hacker News",
     "kind": "community",
     "org": "Hacker News",
     "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
     "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
     "date": "2026-11-22T08:57:34+00:00"
-  },
-  {
-    "source": "OpenAI",
-    "kind": "vendor",
-    "org": "OpenAI",
-    "title": "Perplexity and Intelligence",
-    "url": "https://openai.com/index/perplexity-and-intelligence",
-    "date": "2026-11-22T00:00:00+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "Muru",
-    "url": "https://simonwillison.net/2026/Nov/21/muru/",
-    "date": "2026-11-21T23:56:28+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "The Outages Are Just Getting Started",
-    "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
-    "date": "2026-11-21T13:00:00+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "ChatGPT shrunk down to run on a Super Nintendo",
-    "url": "https://www.theregister.com/offbeat/2026/11/21/chatgpt-shrunk-down-to-run-on-a-super-nintendo/5311418",
-    "date": "2026-11-21T11:46:00+00:00"
   }
 ]

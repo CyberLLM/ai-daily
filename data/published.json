@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-    "title": "Kongres chce zaostrzyć eksport chipów AI",
-    "category": "Regulation",
-    "published_on": "2026-11-16"
-  },
-  {
-    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-    "title": "Bharat Semi pozyskuje 24 mln dolarów",
-    "category": "Infrastructure",
-    "published_on": "2026-11-16"
-  },
-  {
-    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-    "title": "Apple zbada wykorzystanie AI w zdrowiu",
-    "category": "Society",
-    "published_on": "2026-11-16"
-  },
-  {
-    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-    "title": "Krok ku modelowi standardowemu na sieci",
-    "category": "Research",
-    "published_on": "2026-11-16"
-  },
-  {
-    "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-    "title": "AI zamienia przedmioty w wirtualne zwierzęta",
-    "category": "Tools",
-    "published_on": "2026-11-16"
-  },
-  {
     "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
     "title": "Kalifornia pozywa OpenAI za incydenty z agentami",
     "category": "Regulation",
@@ -238,5 +208,35 @@
     "title": "Banki tracą cierpliwość do agentów AI",
     "category": "Agents",
     "published_on": "2026-11-23"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "title": "Anthropic uruchamia Claude Ship",
+    "category": "Agents",
+    "published_on": "2026-11-24"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+    "title": "Stany pozywają SpaceX w sprawie Groka",
+    "category": "Regulation",
+    "published_on": "2026-11-24"
+  },
+  {
+    "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "title": "Agenci AI szukają szybszych algorytmów kwantowych",
+    "category": "Research",
+    "published_on": "2026-11-24"
+  },
+  {
+    "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+    "title": "Centra danych AI komplikują rozmowy klimatyczne",
+    "category": "Society",
+    "published_on": "2026-11-24"
+  },
+  {
+    "url": "https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795",
+    "title": "Cisco i OpenAI proponują eBPF do automatyzacji łatek",
+    "category": "Infrastructure",
+    "published_on": "2026-11-24"
   }
 ]

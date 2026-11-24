@@ -1,42 +1,42 @@
 [
   {
-    "title": "AI przyspiesza projektowanie układów analogowych",
-    "summary": "Technika opracowana przez MIT wykorzystuje AI do projektowania układów analogowych. Ma skrócić ten proces i obniżyć jego koszty.",
-    "so_what": "AI może zautomatyzować kosztowny etap projektowania półprzewodników, który dotąd wymagał dużego nakładu pracy ekspertów.",
-    "category": "Research",
-    "source": "MIT News",
-    "url": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123"
-  },
-  {
-    "title": "Wielcy inwestorzy postawili na Anthropic przed IPO",
-    "summary": "Notable Capital, GIC i Baillie Gifford dokonały dużych inwestycji w Anthropic przed jego ofertą publiczną. Pokazuje to skalę zainteresowania kapitału jednym z głównych konkurentów OpenAI.",
-    "so_what": "Anthropic zyskuje finansowe zaplecze mogące wzmocnić jego pozycję przed potencjalnym wejściem na giełdę.",
-    "category": "Business",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
-  },
-  {
-    "title": "GPT-5.1 tanio omija Wielki Firewall",
-    "summary": "Tokeny GPT-5.1 o wartości jednego dolara wystarczyły do znalezienia nowych sposobów obchodzenia chińskiego Wielkiego Firewalla. Eksperyment pokazuje, jak niski może być koszt automatycznego wyszukiwania takich metod.",
-    "so_what": "Zaawansowane modele mogą znacząco obniżyć koszt omijania zabezpieczeń i wymusić szybsze dostosowywanie systemów kontroli sieci.",
-    "category": "Safety",
-    "source": "The Register",
-    "url": "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532"
-  },
-  {
-    "title": "Centra danych wywołują sprzeciw wobec Big Tech",
-    "summary": "Centra danych znalazły się w centrum narastającego sprzeciwu wobec największych firm technologicznych. Infrastruktura potrzebna do rozwoju AI staje się istotnym źródłem napięć wokół branży.",
-    "so_what": "Rozbudowa mocy obliczeniowej będzie zależeć nie tylko od kapitału i technologii, lecz także od akceptacji społecznej.",
-    "category": "Infrastructure",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
-  },
-  {
-    "title": "Banki tracą cierpliwość do agentów AI",
-    "summary": "Banki coraz krytyczniej podchodzą do agentów AI używanych przez klientów. Autonomiczne narzędzia zaczynają zderzać się z zasadami działania i zabezpieczeniami instytucji finansowych.",
-    "so_what": "Agenci AI będą potrzebować uzgodnionych mechanizmów autoryzacji, zanim banki dopuszczą ich do szerszego wykonywania operacji.",
+    "title": "Anthropic uruchamia Claude Ship",
+    "summary": "Claude Ship pozwala agentom AI przeglądać i poprawiać zmiany w kodzie. Agenci mogą także zatwierdzać te zmiany.",
+    "so_what": "Automatyzacja obejmuje już nie tylko pisanie kodu, lecz także kolejne etapy procesu jego weryfikacji.",
     "category": "Agents",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+  },
+  {
+    "title": "Stany pozywają SpaceX w sprawie Groka",
+    "summary": "Pozew ma powstrzymać Groka przed generowaniem seksualnych obrazów dzieci i pornografii odwetowej. Sprawa kieruje uwagę na odpowiedzialność operatorów modeli generatywnych.",
+    "so_what": "Presja prawna może zmusić dostawców AI do wprowadzenia skuteczniejszych zabezpieczeń przed generowaniem nielegalnych treści.",
+    "category": "Regulation",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/"
+  },
+  {
+    "title": "Agenci AI szukają szybszych algorytmów kwantowych",
+    "summary": "Google DeepMind wykorzystuje agentów i formalną weryfikację do poszukiwania szybszych algorytmów kwantowych. Podejście łączy automatyczne odkrywanie rozwiązań z matematycznym sprawdzaniem ich poprawności.",
+    "so_what": "Połączenie agentów z formalną weryfikacją może zwiększyć wiarygodność wyników generowanych przez AI w badaniach naukowych.",
+    "category": "Research",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+  },
+  {
+    "title": "Centra danych AI komplikują rozmowy klimatyczne",
+    "summary": "Rosnące potrzeby centrów danych AI stały się kolejnym problemem podczas chaotycznych rozmów klimatycznych ONZ. Rozwój infrastruktury AI coraz mocniej zderza się z celami środowiskowymi.",
+    "so_what": "Koszty energetyczne AI mogą przełożyć się na ostrzejsze wymagania wobec operatorów centrów danych.",
+    "category": "Society",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit"
+  },
+  {
+    "title": "Cisco i OpenAI proponują eBPF do automatyzacji łatek",
+    "summary": "Cisco i OpenAI wskazują wtyczki jądra oparte na eBPF jako sposób na opanowanie narastającej liczby poprawek. Propozycja dotyczy usprawnienia zarządzania łatkami na poziomie systemowym.",
+    "so_what": "Jeśli podejście się sprawdzi, AI może przyspieszyć wdrażanie poprawek bez głębokich zmian w systemach operacyjnych.",
+    "category": "Infrastructure",
+    "source": "The Register",
+    "url": "https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795"
   }
 ]
