@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-    "title": "Kalifornia pozywa OpenAI za incydenty z agentami",
-    "category": "Regulation",
-    "published_on": "2026-11-17"
-  },
-  {
-    "url": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223",
-    "title": "Agenci AI automatyzują cyberprzestępczość",
-    "category": "Safety",
-    "published_on": "2026-11-17"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-    "title": "USA chcą odciąć Chiny od zdalnego dostępu do chipów AI",
-    "category": "Infrastructure",
-    "published_on": "2026-11-17"
-  },
-  {
-    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-    "title": "Corma osiąga wycenę miliarda dolarów",
-    "category": "Business",
-    "published_on": "2026-11-17"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-    "title": "Wiarygodne AI dzięki wyznaczaniu granic",
-    "category": "Research",
-    "published_on": "2026-11-17"
-  },
-  {
     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
     "title": "Debiutują GPT-6.2 Astra i Sol",
     "category": "Models",
@@ -238,5 +208,35 @@
     "title": "Cisco i OpenAI proponują eBPF do automatyzacji łatek",
     "category": "Infrastructure",
     "published_on": "2026-11-24"
+  },
+  {
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "title": "GPT-6 wykazuje zdolność projektowania białek",
+    "category": "Models",
+    "published_on": "2026-11-25"
+  },
+  {
+    "url": "https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922",
+    "title": "Agent AI znalazł klucz dostępowy w sześć minut",
+    "category": "Safety",
+    "published_on": "2026-11-25"
+  },
+  {
+    "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+    "title": "Nowe podejście do połączeń rezydualnych transformerów",
+    "category": "Research",
+    "published_on": "2026-11-25"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+    "title": "Polityczna presja za powrotem Jensena Huanga",
+    "category": "Business",
+    "published_on": "2026-11-25"
+  },
+  {
+    "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+    "title": "Tidal zakaże muzyki generowanej przez AI",
+    "category": "Society",
+    "published_on": "2026-11-25"
   }
 ]

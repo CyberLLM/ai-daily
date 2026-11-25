@@ -1,42 +1,42 @@
 [
   {
-    "title": "Anthropic uruchamia Claude Ship",
-    "summary": "Claude Ship pozwala agentom AI przeglądać i poprawiać zmiany w kodzie. Agenci mogą także zatwierdzać te zmiany.",
-    "so_what": "Automatyzacja obejmuje już nie tylko pisanie kodu, lecz także kolejne etapy procesu jego weryfikacji.",
-    "category": "Agents",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+    "title": "GPT-6 wykazuje zdolność projektowania białek",
+    "summary": "Modele GPT-6 wykazały wbudowane zdolności do projektowania białek. To rozszerza potencjalne zastosowania modeli językowych na biotechnologię.",
+    "so_what": "Projektowanie białek staje się nowym polem konkurencji między twórcami zaawansowanych modeli AI.",
+    "category": "Models",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
   },
   {
-    "title": "Stany pozywają SpaceX w sprawie Groka",
-    "summary": "Pozew ma powstrzymać Groka przed generowaniem seksualnych obrazów dzieci i pornografii odwetowej. Sprawa kieruje uwagę na odpowiedzialność operatorów modeli generatywnych.",
-    "so_what": "Presja prawna może zmusić dostawców AI do wprowadzenia skuteczniejszych zabezpieczeń przed generowaniem nielegalnych treści.",
-    "category": "Regulation",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/"
+    "title": "Agent AI znalazł klucz dostępowy w sześć minut",
+    "summary": "Agent programistyczny, przeglądarka i narzędzie dla komputerów Mac odnalazły klucz dostępowy firmy finansowej w mniej niż sześć minut. Przypadek pokazuje szybkość, z jaką agenty mogą wykrywać wrażliwe dane.",
+    "so_what": "Firmy wdrażające agentów AI muszą zaostrzyć kontrolę uprawnień i ochronę danych uwierzytelniających.",
+    "category": "Safety",
+    "source": "The Register",
+    "url": "https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922"
   },
   {
-    "title": "Agenci AI szukają szybszych algorytmów kwantowych",
-    "summary": "Google DeepMind wykorzystuje agentów i formalną weryfikację do poszukiwania szybszych algorytmów kwantowych. Podejście łączy automatyczne odkrywanie rozwiązań z matematycznym sprawdzaniem ich poprawności.",
-    "so_what": "Połączenie agentów z formalną weryfikacją może zwiększyć wiarygodność wyników generowanych przez AI w badaniach naukowych.",
+    "title": "Nowe podejście do połączeń rezydualnych transformerów",
+    "summary": "Badacze przedstawili sposób na wzmocnienie połączeń rezydualnych w transformerach. Praca dotyczy podstawowego elementu architektury współczesnych modeli AI.",
+    "so_what": "Ulepszenie połączeń rezydualnych może wpłynąć na konstrukcję kolejnych generacji modeli.",
     "category": "Research",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+    "source": "Google Research",
+    "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
   },
   {
-    "title": "Centra danych AI komplikują rozmowy klimatyczne",
-    "summary": "Rosnące potrzeby centrów danych AI stały się kolejnym problemem podczas chaotycznych rozmów klimatycznych ONZ. Rozwój infrastruktury AI coraz mocniej zderza się z celami środowiskowymi.",
-    "so_what": "Koszty energetyczne AI mogą przełożyć się na ostrzejsze wymagania wobec operatorów centrów danych.",
+    "title": "Polityczna presja za powrotem Jensena Huanga",
+    "summary": "Według doniesienia Donald Trump i przedstawiciele Doliny Krzemowej naciskali na Nvidię, by przywróciła Jensena Huanga. Jego powrót stał się sprawą wykraczającą poza zwykłą sukcesję korporacyjną.",
+    "so_what": "Przywództwo w kluczowej firmie infrastruktury AI ma dziś znaczenie polityczne i strategiczne.",
+    "category": "Business",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/"
+  },
+  {
+    "title": "Tidal zakaże muzyki generowanej przez AI",
+    "summary": "Tidal zacznie w przyszłym miesiącu usuwać lub blokować muzykę wygenerowaną przez AI. Platforma zajmuje jednoznaczne stanowisko w sporze o syntetyczne treści muzyczne.",
+    "so_what": "Serwisy streamingowe zaczynają samodzielnie wyznaczać granice wykorzystania generatywnej AI w kulturze.",
     "category": "Society",
     "source": "The Verge",
-    "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit"
-  },
-  {
-    "title": "Cisco i OpenAI proponują eBPF do automatyzacji łatek",
-    "summary": "Cisco i OpenAI wskazują wtyczki jądra oparte na eBPF jako sposób na opanowanie narastającej liczby poprawek. Propozycja dotyczy usprawnienia zarządzania łatkami na poziomie systemowym.",
-    "so_what": "Jeśli podejście się sprawdzi, AI może przyspieszyć wdrażanie poprawek bez głębokich zmian w systemach operacyjnych.",
-    "category": "Infrastructure",
-    "source": "The Register",
-    "url": "https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795"
+    "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
   }
 ]
