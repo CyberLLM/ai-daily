@@ -1,42 +1,42 @@
 [
   {
-    "title": "GPT-6 wykazuje zdolność projektowania białek",
-    "summary": "Modele GPT-6 wykazały wbudowane zdolności do projektowania białek. To rozszerza potencjalne zastosowania modeli językowych na biotechnologię.",
-    "so_what": "Projektowanie białek staje się nowym polem konkurencji między twórcami zaawansowanych modeli AI.",
-    "category": "Models",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+    "title": "Nvidii grozi obniżenie ratingu kredytowego",
+    "summary": "S&P rozważa obniżenie ratingu kredytowego Nvidii. Powodem są obawy o ład korporacyjny i nadmierną zależność firmy od jednej kluczowej osoby.",
+    "so_what": "Ewentualna obniżka ratingu mogłaby zwiększyć koszt finansowania Nvidii i osłabić zaufanie inwestorów.",
+    "category": "Business",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
   },
   {
-    "title": "Agent AI znalazł klucz dostępowy w sześć minut",
-    "summary": "Agent programistyczny, przeglądarka i narzędzie dla komputerów Mac odnalazły klucz dostępowy firmy finansowej w mniej niż sześć minut. Przypadek pokazuje szybkość, z jaką agenty mogą wykrywać wrażliwe dane.",
-    "so_what": "Firmy wdrażające agentów AI muszą zaostrzyć kontrolę uprawnień i ochronę danych uwierzytelniających.",
-    "category": "Safety",
-    "source": "The Register",
-    "url": "https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922"
+    "title": "FCC zatwierdza kosmiczne centra danych SpaceX",
+    "summary": "FCC zatwierdziła plan umieszczenia w przestrzeni kosmicznej satelitów pełniących funkcję centrów danych. Zgoda obejmuje nawet milion takich jednostek.",
+    "so_what": "Infrastruktura obliczeniowa może rozszerzyć się na orbitę w skali wymagającej nowych rozwiązań technicznych i nadzorczych.",
+    "category": "Infrastructure",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
   },
   {
-    "title": "Nowe podejście do połączeń rezydualnych transformerów",
-    "summary": "Badacze przedstawili sposób na wzmocnienie połączeń rezydualnych w transformerach. Praca dotyczy podstawowego elementu architektury współczesnych modeli AI.",
-    "so_what": "Ulepszenie połączeń rezydualnych może wpłynąć na konstrukcję kolejnych generacji modeli.",
+    "title": "Weryfikowalne rozumowanie społeczne dla LLM",
+    "summary": "Badacze przedstawili podejście do weryfikowalnego rozumowania społecznego w asystentach LLM. Ma ono umożliwiać sprawdzanie rozumowania modeli w sytuacjach społecznych.",
+    "so_what": "Weryfikowalność może ułatwić ocenę wiarygodności asystentów AI w zadaniach wymagających rozumienia ludzi i relacji.",
     "category": "Research",
     "source": "Google Research",
-    "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
+    "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/"
   },
   {
-    "title": "Polityczna presja za powrotem Jensena Huanga",
-    "summary": "Według doniesienia Donald Trump i przedstawiciele Doliny Krzemowej naciskali na Nvidię, by przywróciła Jensena Huanga. Jego powrót stał się sprawą wykraczającą poza zwykłą sukcesję korporacyjną.",
-    "so_what": "Przywództwo w kluczowej firmie infrastruktury AI ma dziś znaczenie polityczne i strategiczne.",
-    "category": "Business",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/"
-  },
-  {
-    "title": "Tidal zakaże muzyki generowanej przez AI",
-    "summary": "Tidal zacznie w przyszłym miesiącu usuwać lub blokować muzykę wygenerowaną przez AI. Platforma zajmuje jednoznaczne stanowisko w sporze o syntetyczne treści muzyczne.",
-    "so_what": "Serwisy streamingowe zaczynają samodzielnie wyznaczać granice wykorzystania generatywnej AI w kulturze.",
+    "title": "Aplikacje AI zmieniają intymność młodych Afrykanów",
+    "summary": "Zagraniczne aplikacje romantyczne oparte na AI przekształcają podejście młodych ludzi w Afryce do intymności. Wirtualne relacje stają się nowym czynnikiem kształtującym ich doświadczenia.",
+    "so_what": "Rozwój takich aplikacji zwiększa potrzebę uwzględniania lokalnych norm kulturowych i bezpieczeństwa młodych użytkowników.",
     "category": "Society",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
+    "source": "Rest of World",
+    "url": "https://restofworld.org/2026/ai-companion-apps-africa-character-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+  },
+  {
+    "title": "AI obciąża system dostępu do dokumentów publicznych",
+    "summary": "AI wywiera rosnącą presję na amerykańskie systemy udostępniania dokumentów publicznych. Obciążenie dotyczy mechanizmów zapewniających obywatelom dostęp do informacji.",
+    "so_what": "Instytucje publiczne będą musiały dostosować procedury i zasoby, aby AI nie ograniczyła sprawnego dostępu do dokumentów.",
+    "category": "Regulation",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
   }
 ]

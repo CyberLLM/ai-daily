@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-    "title": "Debiutują GPT-6.2 Astra i Sol",
-    "category": "Models",
-    "published_on": "2026-11-18"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-    "title": "Office działa teraz wewnątrz Copilota",
-    "category": "Agents",
-    "published_on": "2026-11-18"
-  },
-  {
-    "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-    "title": "Udziały Nvidii w startupach warte już 65 mld dolarów",
-    "category": "Business",
-    "published_on": "2026-11-18"
-  },
-  {
-    "url": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-    "title": "Afrykańskie laboratorium ostrzega przed AI w broni biologicznej",
-    "category": "Safety",
-    "published_on": "2026-11-18"
-  },
-  {
-    "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
-    "title": "Ponad jedna trzecia pokolenia Z szuka przyjaźni w AI",
-    "category": "Society",
-    "published_on": "2026-11-18"
-  },
-  {
     "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
     "title": "Anthropic wycenia swoją ofertę publiczną",
     "category": "Business",
@@ -238,5 +208,35 @@
     "title": "Tidal zakaże muzyki generowanej przez AI",
     "category": "Society",
     "published_on": "2026-11-25"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "title": "Nvidii grozi obniżenie ratingu kredytowego",
+    "category": "Business",
+    "published_on": "2026-11-26"
+  },
+  {
+    "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+    "title": "FCC zatwierdza kosmiczne centra danych SpaceX",
+    "category": "Infrastructure",
+    "published_on": "2026-11-26"
+  },
+  {
+    "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+    "title": "Weryfikowalne rozumowanie społeczne dla LLM",
+    "category": "Research",
+    "published_on": "2026-11-26"
+  },
+  {
+    "url": "https://restofworld.org/2026/ai-companion-apps-africa-character-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "title": "Aplikacje AI zmieniają intymność młodych Afrykanów",
+    "category": "Society",
+    "published_on": "2026-11-26"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+    "title": "AI obciąża system dostępu do dokumentów publicznych",
+    "category": "Regulation",
+    "published_on": "2026-11-26"
   }
 ]

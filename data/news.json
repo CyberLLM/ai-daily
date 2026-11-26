@@ -1,11 +1,171 @@
 [
   {
+    "source": "Hugging Face",
+    "kind": "vendor",
+    "org": "Hugging Face",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "date": "2026-11-26T05:05:36+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "Quoting Scott Aaronson",
+    "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+    "date": "2026-11-25T23:26:32+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "The sky was once full of stars, kids; then the FCC let Elon Musk launch a million datacenter satellites",
+    "url": "https://www.theregister.com/off-prem/2026/11/25/the-sky-was-once-full-of-stars-kids-then-the-fcc-let-elon-musk-launch-a-million-datacenter-satellites/5312268",
+    "date": "2026-11-25T22:54:07+00:00"
+  },
+  {
     "source": "TechCrunch",
     "kind": "press",
     "org": "TechCrunch",
-    "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-    "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-    "date": "2026-11-25T00:12:02+00:00"
+    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "date": "2026-11-25T22:44:32+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+    "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+    "date": "2026-11-25T21:51:26+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "Much shorter version of GRH Lean verification from Anthropic",
+    "url": "https://github.com/lsernau/grh-lean",
+    "date": "2026-11-25T21:48:10+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "date": "2026-11-25T20:03:27+00:00"
+  },
+  {
+    "source": "TechCrunch",
+    "kind": "press",
+    "org": "TechCrunch",
+    "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+    "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+    "date": "2026-11-25T19:54:57+00:00"
+  },
+  {
+    "source": "Hugging Face",
+    "kind": "vendor",
+    "org": "Hugging Face",
+    "title": "Where scientists draw the line on AI agents",
+    "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "date": "2026-11-25T18:52:55+00:00"
+  },
+  {
+    "source": "Simon Willison",
+    "kind": "analysis",
+    "org": "Simon Willison",
+    "title": "datasette-charts 0.3a0",
+    "url": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+    "date": "2026-11-25T18:16:50+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+    "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+    "date": "2026-11-25T17:44:51+00:00"
+  },
+  {
+    "source": "Google Research",
+    "kind": "research",
+    "org": "Google",
+    "title": "Verifiable Social Reasoning for LLM Assistants",
+    "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+    "date": "2026-11-25T17:10:27+00:00"
+  },
+  {
+    "source": "The Register",
+    "kind": "press",
+    "org": "The Register",
+    "title": "HP sees premium-priced AI PCs as its meal ticket in a shrinking market",
+    "url": "https://www.theregister.com/personal-tech/2026/11/25/hp-sees-premium-priced-ai-pcs-as-its-meal-ticket-in-a-shrinking-market/5312174",
+    "date": "2026-11-25T17:00:00+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+    "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+    "date": "2026-11-25T16:47:14+00:00"
+  },
+  {
+    "source": "The Verge",
+    "kind": "press",
+    "org": "The Verge",
+    "title": "Nothing offers a full look at its AI earbuds and charging case",
+    "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+    "date": "2026-11-25T16:00:59+00:00"
+  },
+  {
+    "source": "Ars Technica",
+    "kind": "press",
+    "org": "Ars Technica",
+    "title": "AI may soon change what it means to be a theoretical physicist",
+    "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+    "date": "2026-11-25T12:00:28+00:00"
+  },
+  {
+    "source": "Wired",
+    "kind": "press",
+    "org": "Wired",
+    "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+    "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+    "date": "2026-11-25T11:30:00+00:00"
+  },
+  {
+    "source": "Rest of World",
+    "kind": "press",
+    "org": "Rest of World",
+    "title": "How foreign AI romance apps are reshaping youth intimacy in Africa",
+    "url": "https://restofworld.org/2026/ai-companion-apps-africa-character-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "date": "2026-11-25T11:00:00+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "kind": "press",
+    "org": "MIT Technology Review",
+    "title": "AI is straining America’s open records systems",
+    "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+    "date": "2026-11-25T10:00:00+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+    "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+    "date": "2026-11-25T03:47:42+00:00"
+  },
+  {
+    "source": "Hacker News",
+    "kind": "community",
+    "org": "Hacker News",
+    "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+    "url": "https://www.proofatlas.ai/open-problems/",
+    "date": "2026-11-25T03:01:36+00:00"
   },
   {
     "source": "Wired",
@@ -16,52 +176,12 @@
     "date": "2026-11-24T23:39:04+00:00"
   },
   {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "Three LLM inflection points in twelve months",
-    "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
-    "date": "2026-11-24T23:02:07+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-    "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-    "date": "2026-11-24T22:27:52+00:00"
-  },
-  {
-    "source": "TechCrunch",
-    "kind": "press",
-    "org": "TechCrunch",
-    "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-    "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-    "date": "2026-11-24T21:48:27+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "AI godfather Yann LeCun torches Anthropic CEO over AI gatekeeping",
-    "url": "https://www.theregister.com/ai-and-ml/2026/11/24/ai-godfather-yann-lecun-torches-anthropic-ceo-over-ai-gatekeeping/5311986",
-    "date": "2026-11-24T20:57:08+00:00"
-  },
-  {
     "source": "Ars Technica",
     "kind": "press",
     "org": "Ars Technica",
     "title": "What's going on with the Riemann hypothesis?",
     "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
     "date": "2026-11-24T20:34:53+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-    "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-    "date": "2026-11-24T20:02:03+00:00"
   },
   {
     "source": "MIT News",
@@ -72,76 +192,12 @@
     "date": "2026-11-24T19:30:00+00:00"
   },
   {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-    "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
-    "date": "2026-11-24T18:47:57+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "David Fincher is being dragged for suspected use of AI in his latest film",
-    "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
-    "date": "2026-11-24T18:15:00+00:00"
-  },
-  {
-    "source": "Wired",
-    "kind": "press",
-    "org": "Wired",
-    "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
-    "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
-    "date": "2026-11-24T17:44:53+00:00"
-  },
-  {
-    "source": "The Verge",
-    "kind": "press",
-    "org": "The Verge",
-    "title": "Tidal will start banning AI-generated music next month",
-    "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-    "date": "2026-11-24T17:17:09+00:00"
-  },
-  {
     "source": "Hacker News",
     "kind": "community",
     "org": "Hacker News",
     "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
     "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
     "date": "2026-11-24T17:10:45+00:00"
-  },
-  {
-    "source": "The Register",
-    "kind": "press",
-    "org": "The Register",
-    "title": "An AI coding agent, a browser, and a Mac tool found a financial firm's access key in under 6 minutes",
-    "url": "https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922",
-    "date": "2026-11-24T17:00:00+00:00"
-  },
-  {
-    "source": "Simon Willison",
-    "kind": "analysis",
-    "org": "Simon Willison",
-    "title": "GPT 6.2 Astra Solves a Historical Mystery",
-    "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
-    "date": "2026-11-24T16:53:59+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-    "url": "https://news.ycombinator.com/item?id=50630809",
-    "date": "2026-11-24T16:45:44+00:00"
-  },
-  {
-    "source": "Hugging Face",
-    "kind": "vendor",
-    "org": "Hugging Face",
-    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-    "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-    "date": "2026-11-24T16:34:13+00:00"
   },
   {
     "source": "Google AI",
@@ -152,36 +208,12 @@
     "date": "2026-11-24T16:00:00+00:00"
   },
   {
-    "source": "MIT Technology Review",
-    "kind": "press",
-    "org": "MIT Technology Review",
-    "title": "Raising the stakes for enterprise networks with AI modernization",
-    "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-    "date": "2026-11-24T15:15:16+00:00"
-  },
-  {
-    "source": "Ars Technica",
-    "kind": "press",
-    "org": "Ars Technica",
-    "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
-    "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
-    "date": "2026-11-24T14:56:50+00:00"
-  },
-  {
-    "source": "OpenAI",
+    "source": "Google DeepMind",
     "kind": "vendor",
-    "org": "OpenAI",
-    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-    "date": "2026-11-24T13:00:00+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "LLM agents work for their parent companies, not for you",
-    "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-    "date": "2026-11-24T12:40:15+00:00"
+    "org": "Google",
+    "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+    "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+    "date": "2026-11-24T13:07:53+00:00"
   },
   {
     "source": "OpenAI",
@@ -190,61 +222,5 @@
     "title": "Searching for distant planets with Astra",
     "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
     "date": "2026-11-24T11:00:00+00:00"
-  },
-  {
-    "source": "Hacker News",
-    "kind": "community",
-    "org": "Hacker News",
-    "title": "Declare is a UI language for you and your AI",
-    "url": "https://davidtemkin.github.io/declarelang/",
-    "date": "2026-11-24T02:36:56+00:00"
-  },
-  {
-    "source": "MIT News",
-    "kind": "research",
-    "org": "MIT News",
-    "title": "Many languages, one common neural code",
-    "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
-    "date": "2026-11-23T21:15:00+00:00"
-  },
-  {
-    "source": "AI Snake Oil",
-    "kind": "analysis",
-    "org": "AI Snake Oil",
-    "title": "Management consulting is not a thin wrapper on intelligence",
-    "url": "https://www.normaltech.ai/p/management-consulting-is-not-a-thin",
-    "date": "2026-11-23T20:12:32+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "kind": "press",
-    "org": "MIT Technology Review",
-    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-    "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-    "date": "2026-11-23T17:36:08+00:00"
-  },
-  {
-    "source": "Google Research",
-    "kind": "research",
-    "org": "Google",
-    "title": "Supercharging transformer residual connections",
-    "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
-    "date": "2026-11-23T17:21:12+00:00"
-  },
-  {
-    "source": "Hugging Face",
-    "kind": "vendor",
-    "org": "Hugging Face",
-    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-    "url": "https://huggingface.co/blog/allenai/robotrack",
-    "date": "2026-11-23T17:20:37+00:00"
-  },
-  {
-    "source": "NVIDIA",
-    "kind": "vendor",
-    "org": "NVIDIA",
-    "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
-    "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
-    "date": "2026-11-23T17:00:08+00:00"
   }
 ]
