@@ -1,42 +1,42 @@
 [
   {
-    "title": "Nvidii grozi obniżenie ratingu kredytowego",
-    "summary": "S&P rozważa obniżenie ratingu kredytowego Nvidii. Powodem są obawy o ład korporacyjny i nadmierną zależność firmy od jednej kluczowej osoby.",
-    "so_what": "Ewentualna obniżka ratingu mogłaby zwiększyć koszt finansowania Nvidii i osłabić zaufanie inwestorów.",
-    "category": "Business",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
-  },
-  {
-    "title": "FCC zatwierdza kosmiczne centra danych SpaceX",
-    "summary": "FCC zatwierdziła plan umieszczenia w przestrzeni kosmicznej satelitów pełniących funkcję centrów danych. Zgoda obejmuje nawet milion takich jednostek.",
-    "so_what": "Infrastruktura obliczeniowa może rozszerzyć się na orbitę w skali wymagającej nowych rozwiązań technicznych i nadzorczych.",
+    "title": "Nvidia wstrzymuje dostawy układów do Azji Południowo-Wschodniej",
+    "summary": "Nvidia wstrzymała wysyłki układów do krajów Azji Południowo-Wschodniej. Decyzja może zakłócić dostęp do kluczowego sprzętu wykorzystywanego w AI.",
+    "so_what": "Ograniczenie dostaw może podnieść koszty infrastruktury AI i opóźnić regionalne inwestycje.",
     "category": "Infrastructure",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
   },
   {
-    "title": "Weryfikowalne rozumowanie społeczne dla LLM",
-    "summary": "Badacze przedstawili podejście do weryfikowalnego rozumowania społecznego w asystentach LLM. Ma ono umożliwiać sprawdzanie rozumowania modeli w sytuacjach społecznych.",
-    "so_what": "Weryfikowalność może ułatwić ocenę wiarygodności asystentów AI w zadaniach wymagających rozumienia ludzi i relacji.",
-    "category": "Research",
-    "source": "Google Research",
-    "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/"
+    "title": "Hakerzy używają narzędzia AI ARTEX do włamań",
+    "summary": "Według Microsoftu hakerzy z Chin i Korei Północnej wykorzystują ARTEX do atakowania systemów technologicznych na świecie. Narzędzie AI stało się elementem rzeczywistych operacji cybernetycznych.",
+    "so_what": "Firmy muszą przygotować zabezpieczenia na coraz szersze wykorzystanie AI przez grupy prowadzące cyberataki.",
+    "category": "Safety",
+    "source": "The Register",
+    "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433"
   },
   {
-    "title": "Aplikacje AI zmieniają intymność młodych Afrykanów",
-    "summary": "Zagraniczne aplikacje romantyczne oparte na AI przekształcają podejście młodych ludzi w Afryce do intymności. Wirtualne relacje stają się nowym czynnikiem kształtującym ich doświadczenia.",
-    "so_what": "Rozwój takich aplikacji zwiększa potrzebę uwzględniania lokalnych norm kulturowych i bezpieczeństwa młodych użytkowników.",
-    "category": "Society",
-    "source": "Rest of World",
-    "url": "https://restofworld.org/2026/ai-companion-apps-africa-character-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-  },
-  {
-    "title": "AI obciąża system dostępu do dokumentów publicznych",
-    "summary": "AI wywiera rosnącą presję na amerykańskie systemy udostępniania dokumentów publicznych. Obciążenie dotyczy mechanizmów zapewniających obywatelom dostęp do informacji.",
-    "so_what": "Instytucje publiczne będą musiały dostosować procedury i zasoby, aby AI nie ograniczyła sprawnego dostępu do dokumentów.",
+    "title": "Prokuratorzy chcą zablokować sprzedaż rozmów z Character.AI",
+    "summary": "Prokuratorzy generalni 42 amerykańskich stanów próbują powstrzymać Character.AI przed sprzedażą rozmów użytkowników. Sprawa dotyczy komercyjnego wykorzystania danych z interakcji z chatbotem.",
+    "so_what": "Dostawcy chatbotów mogą zostać zmuszeni do silniejszej ochrony rozmów użytkowników i ograniczenia ich monetyzacji.",
     "category": "Regulation",
-    "source": "MIT Technology Review",
-    "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+  },
+  {
+    "title": "Google kieruje agentów AI do własnych serwerów MCP",
+    "summary": "Google zamierza udostępniać agentom AI swoje usługi za pośrednictwem serwerów MCP. Serwer Gmaila nie pozwoli jednak agentom wysyłać wiadomości.",
+    "so_what": "Google wspiera MCP jako warstwę integracji agentów, ale zachowuje ostrożność przy operacjach niosących większe ryzyko.",
+    "category": "Agents",
+    "source": "Hacker News",
+    "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
+  },
+  {
+    "title": "Nemotron 3.5 Parse z otwartymi danymi i szybszym wnioskowaniem",
+    "summary": "Rozwinięcie Nemotron 3.5 Parse obejmuje otwarte dane, dostrajanie oraz szybsze wnioskowanie. Udostępnione rozwiązania mają ułatwiać dalsze ulepszanie i wdrażanie modelu.",
+    "so_what": "Otwarte dane i optymalizacje mogą obniżyć barierę tworzenia wyspecjalizowanych modeli opartych na Nemotronie.",
+    "category": "Models",
+    "source": "Hugging Face",
+    "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
   }
 ]

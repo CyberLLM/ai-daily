@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-    "title": "Anthropic wycenia swoją ofertę publiczną",
-    "category": "Business",
-    "published_on": "2026-11-19"
-  },
-  {
-    "url": "https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887",
-    "title": "AI wykryła krytyczne błędy w technologii używanej przez 225 mln stron",
-    "category": "Safety",
-    "published_on": "2026-11-19"
-  },
-  {
-    "url": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
-    "title": "Ultralekki robot lata z własnymi sensorami i komputerami",
-    "category": "Robotics",
-    "published_on": "2026-11-19"
-  },
-  {
-    "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-    "title": "Agenci AI zadawali lepsze pytania niż audytorzy KPMG",
-    "category": "Agents",
-    "published_on": "2026-11-19"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-    "title": "Największe okręgi szkolne rozważają rezygnację z Google Search",
-    "category": "Society",
-    "published_on": "2026-11-19"
-  },
-  {
     "url": "https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200",
     "title": "USA pozwoliły sprzedawać chipy Nvidii i AMD firmom powiązanym z chińskim wojskiem",
     "category": "Regulation",
@@ -238,5 +208,35 @@
     "title": "AI obciąża system dostępu do dokumentów publicznych",
     "category": "Regulation",
     "published_on": "2026-11-26"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "title": "Nvidia wstrzymuje dostawy układów do Azji Południowo-Wschodniej",
+    "category": "Infrastructure",
+    "published_on": "2026-11-27"
+  },
+  {
+    "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+    "title": "Hakerzy używają narzędzia AI ARTEX do włamań",
+    "category": "Safety",
+    "published_on": "2026-11-27"
+  },
+  {
+    "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+    "title": "Prokuratorzy chcą zablokować sprzedaż rozmów z Character.AI",
+    "category": "Regulation",
+    "published_on": "2026-11-27"
+  },
+  {
+    "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+    "title": "Google kieruje agentów AI do własnych serwerów MCP",
+    "category": "Agents",
+    "published_on": "2026-11-27"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "title": "Nemotron 3.5 Parse z otwartymi danymi i szybszym wnioskowaniem",
+    "category": "Models",
+    "published_on": "2026-11-27"
   }
 ]
