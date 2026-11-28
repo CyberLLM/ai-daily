@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200",
-    "title": "USA pozwoliły sprzedawać chipy Nvidii i AMD firmom powiązanym z chińskim wojskiem",
-    "category": "Regulation",
-    "published_on": "2026-11-20"
-  },
-  {
-    "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-    "title": "Założyciele Anthropic sprzedali akcje za prawie 2 mld dolarów",
-    "category": "Business",
-    "published_on": "2026-11-20"
-  },
-  {
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-    "title": "Gemini API zyskuje wyszukiwanie odpowiednich narzędzi",
-    "category": "Agents",
-    "published_on": "2026-11-20"
-  },
-  {
-    "url": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
-    "title": "Centra danych pogarszają jakość powietrza także na dużych odległościach",
-    "category": "Infrastructure",
-    "published_on": "2026-11-20"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-    "title": "Fałszywy alarm AI z torbą chipsów zakończył się pozwem",
-    "category": "Safety",
-    "published_on": "2026-11-20"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
     "title": "Meta weryfikuje cel klimatyczny przez emisje AI",
     "category": "Infrastructure",
@@ -238,5 +208,35 @@
     "title": "Nemotron 3.5 Parse z otwartymi danymi i szybszym wnioskowaniem",
     "category": "Models",
     "published_on": "2026-11-27"
+  },
+  {
+    "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+    "title": "Układ fotoniczny uruchamia modele AI",
+    "category": "Infrastructure",
+    "published_on": "2026-11-28"
+  },
+  {
+    "url": "https://www.theregister.com/off-prem/2026/11/27/uk-government-rejects-national-consultation-on-ai-datacenters/5312501",
+    "title": "Brytyjski rząd odrzuca konsultacje o centrach danych AI",
+    "category": "Regulation",
+    "published_on": "2026-11-28"
+  },
+  {
+    "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+    "title": "Meta nie udostępniła Muse brytyjskiemu nadzorcy",
+    "category": "Safety",
+    "published_on": "2026-11-28"
+  },
+  {
+    "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+    "title": "Eksmisja po błędnej poradzie asystenta AI",
+    "category": "Society",
+    "published_on": "2026-11-28"
+  },
+  {
+    "url": "https://huggingface.co/blog/video-trainium3",
+    "title": "LTX-2.5 generuje wideo na Trainium3",
+    "category": "Models",
+    "published_on": "2026-11-28"
   }
 ]

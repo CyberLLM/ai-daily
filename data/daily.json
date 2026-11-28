@@ -1,42 +1,42 @@
 [
   {
-    "title": "Nvidia wstrzymuje dostawy układów do Azji Południowo-Wschodniej",
-    "summary": "Nvidia wstrzymała wysyłki układów do krajów Azji Południowo-Wschodniej. Decyzja może zakłócić dostęp do kluczowego sprzętu wykorzystywanego w AI.",
-    "so_what": "Ograniczenie dostaw może podnieść koszty infrastruktury AI i opóźnić regionalne inwestycje.",
+    "title": "Układ fotoniczny uruchamia modele AI",
+    "summary": "Nowy typ układu wykorzystuje fale światła do obliczeń związanych z modelami AI. To alternatywa dla tradycyjnych procesorów elektronicznych.",
+    "so_what": "Jeśli technologia będzie skalowalna, może zmniejszyć koszty i zużycie energii przez infrastrukturę AI.",
     "category": "Infrastructure",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+    "source": "Wired",
+    "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/"
   },
   {
-    "title": "Hakerzy używają narzędzia AI ARTEX do włamań",
-    "summary": "Według Microsoftu hakerzy z Chin i Korei Północnej wykorzystują ARTEX do atakowania systemów technologicznych na świecie. Narzędzie AI stało się elementem rzeczywistych operacji cybernetycznych.",
-    "so_what": "Firmy muszą przygotować zabezpieczenia na coraz szersze wykorzystanie AI przez grupy prowadzące cyberataki.",
-    "category": "Safety",
-    "source": "The Register",
-    "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433"
-  },
-  {
-    "title": "Prokuratorzy chcą zablokować sprzedaż rozmów z Character.AI",
-    "summary": "Prokuratorzy generalni 42 amerykańskich stanów próbują powstrzymać Character.AI przed sprzedażą rozmów użytkowników. Sprawa dotyczy komercyjnego wykorzystania danych z interakcji z chatbotem.",
-    "so_what": "Dostawcy chatbotów mogą zostać zmuszeni do silniejszej ochrony rozmów użytkowników i ograniczenia ich monetyzacji.",
+    "title": "Brytyjski rząd odrzuca konsultacje o centrach danych AI",
+    "summary": "Rząd Wielkiej Brytanii odrzucił pomysł ogólnokrajowych konsultacji dotyczących centrów danych AI. Infrastruktura będzie więc rozwijana bez takiego procesu na poziomie krajowym.",
+    "so_what": "Decyzja ogranicza możliwość publicznej debaty nad lokalizacją i skutkami rozbudowy infrastruktury AI.",
     "category": "Regulation",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+    "source": "The Register",
+    "url": "https://www.theregister.com/off-prem/2026/11/27/uk-government-rejects-national-consultation-on-ai-datacenters/5312501"
   },
   {
-    "title": "Google kieruje agentów AI do własnych serwerów MCP",
-    "summary": "Google zamierza udostępniać agentom AI swoje usługi za pośrednictwem serwerów MCP. Serwer Gmaila nie pozwoli jednak agentom wysyłać wiadomości.",
-    "so_what": "Google wspiera MCP jako warstwę integracji agentów, ale zachowuje ostrożność przy operacjach niosących większe ryzyko.",
-    "category": "Agents",
+    "title": "Meta nie udostępniła Muse brytyjskiemu nadzorcy",
+    "summary": "Meta odmówiła przekazania Muse do testów. Poskarżył się na to brytyjski organ nadzoru finansowego.",
+    "so_what": "Spór pokazuje, że regulatorzy mogą nie mieć dostępu potrzebnego do niezależnej oceny systemów AI.",
+    "category": "Safety",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/"
+  },
+  {
+    "title": "Eksmisja po błędnej poradzie asystenta AI",
+    "summary": "Kobieta została eksmitowana po tym, jak asystent AI wynajmującego poinformował ją, że może opóźnić czynsz. Mimo tej informacji zwłoka zakończyła się eksmisją.",
+    "so_what": "Firmy potrzebują jasnych zasad odpowiedzialności za błędne informacje przekazywane klientom przez asystentów AI.",
+    "category": "Society",
     "source": "Hacker News",
-    "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
+    "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai"
   },
   {
-    "title": "Nemotron 3.5 Parse z otwartymi danymi i szybszym wnioskowaniem",
-    "summary": "Rozwinięcie Nemotron 3.5 Parse obejmuje otwarte dane, dostrajanie oraz szybsze wnioskowanie. Udostępnione rozwiązania mają ułatwiać dalsze ulepszanie i wdrażanie modelu.",
-    "so_what": "Otwarte dane i optymalizacje mogą obniżyć barierę tworzenia wyspecjalizowanych modeli opartych na Nemotronie.",
+    "title": "LTX-2.5 generuje wideo na Trainium3",
+    "summary": "Zaprezentowano generowanie wideo modelem LTX-2.5 na akceleratorach Trainium3. To demonstracja wymagającego obciążenia generatywnego na tej platformie sprzętowej.",
+    "so_what": "Trainium3 może stać się kolejną opcją infrastrukturalną dla firm rozwijających modele generujące wideo.",
     "category": "Models",
     "source": "Hugging Face",
-    "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
+    "url": "https://huggingface.co/blog/video-trainium3"
   }
 ]
